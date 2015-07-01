@@ -20,6 +20,9 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 [cmath](#cmath) •
 [csv](#csv)
 
+
+
+
 ## abbrev
 
 _Calculates a set of unique abbreviations for a given set of strings_
@@ -31,9 +34,13 @@ Abbrev.abbrev(['ruby'])
   #=>  {"ruby"=>"ruby", "rub"=>"ruby", "ru"=>"ruby", "r"=>"ruby"}
 ~~~
 
+Articles:
+
+- [Getting to Know the Ruby Standard Library Series – Abbrev](http://www.monkeyandcrow.com/blog/ruby_standard_library_abbrev) by Adam Sanderson; Dec 2010
+
 ## base64
 
-_Support for encoding and decoding binary data using a Base64 representation_
+_Support for encoding and decoding binary data using a Base64 representation in plain ASCII 7-bit text_
 
 - [base64.rb](https://github.com/ruby/ruby/blob/trunk/lib/base64.rb)
 
@@ -135,6 +142,285 @@ Articles:
 
 - [A Guide to the Ruby CSV Library, Part I](http://www.sitepoint.com/guide-ruby-csv-library-part/) by Darko Gjorgjievski; SitePoint; January 2014
 - [A Guide to the Ruby CSV Library, Part II](http://www.sitepoint.com/guide-ruby-csv-library-part-2/) by Darko Gjorgjievski; SitePoint; March 2014
+
+
+## DEBUGGER
+
+_Debugging functionality_
+
+## Delegator
+
+_Provides three abilities to delegate method calls to an object_
+
+## DRb
+
+_Distributed object system_
+
+## E2MM
+
+_Module for defining custom exceptions with specific messages_
+
+## english
+
+_Reference global variables with less cryptic names_
+
+## ERB
+
+_An easy to use but powerful templating system_
+
+## FileUtils
+
+_Several file utility methods for copying, moving, removing, etc_
+
+## Find
+
+_This module supports top-down traversal of a set of file paths_
+
+## Forwardable
+
+_Provides delegation of specified methods to a designated object_
+
+## GetoptLong
+
+_Parse command line options similar to the GNU C getopt\_long()_
+
+## GServer
+
+_HTTP server with logging, thread pooling and multi-server management_
+
+## IPAddr ##
+
+_Provides methods to manipulate IPv4 and IPv6 IP addresses_
+
+## IRB ##
+
+_Interactive Ruby command-line tool for REPL (Read Eval Print Loop)_
+
+## Logger
+
+_Provides a simple logging utility for outputing messages_
+
+## MakeMakefile
+
+_Module used to generate a Makefile for C extensions_
+
+## Matrix
+
+_Represents a mathematical matrix_
+
+## MiniTest
+
+_A test suite with TDD, BDD, mocking and benchmarking_
+
+## Monitor
+
+_Provides an object or module to use safely by more than one thread_
+
+## Mutex_m
+
+_Mixin to extend objects to be handled like a Mutex_
+
+## Net::FTP
+
+_Support for the File Transfer Protocol_
+
+## Net::HTTP
+
+_HTTP client api_
+
+## Net::IMAP
+
+_Client api for Internet Message Access Protocol_
+
+## Net::POP3
+
+_Client library for POP3_
+
+## Net::SMTP
+
+_Simple Mail Transfer Protocol client library_
+
+## Net::Telnet
+
+_Telnet client library_
+
+## Observable
+
+_Provides a mechanism for publich/subscribe pattern_
+
+## OpenURI
+
+_An easy-to-use wrapper for Net::HTTP, Net::HTTPS and Net::FTP_
+
+## Open3
+
+_Provides access to stdin, stdout and stderr when running other programs_
+
+## OptionParser
+
+_Ruby-oriented class for command-line option analysis_
+
+## OpenStruct
+
+_Class to build custom data structures, similar to a Hash_
+
+## PP
+
+_Provides a PrettyPrinter for objects_
+
+## PrettyPrinter
+
+_Implements a pretty printing algorithm for readable structure_
+
+## Prime
+
+_Prime numbers and factorization library_
+
+## profile.rb
+
+_Runs the Profiler_
+
+## Profiler
+
+_Provides a way to profile your pplication_
+
+## PStore
+
+_Implements a file based persistence mechanism based on a Hash_
+
+## Queue
+
+_Synchronized communication between threads, provided by thread.rb_
+
+## Racc
+
+_A LALR(1) parser generator_
+
+## Rake
+
+_Build program with capabilities similar to make_
+
+## RbConfig
+
+_Information of your configure and build of Ruby_
+
+## RDoc
+
+_Produces HTML and command-line documentation for Ruby_
+
+## resolv-replace.rb
+
+_Replace Socket DNS with Resolv_
+
+## Resolv
+
+_Thread-aware DNS resolver library_
+
+## REXML
+
+_An XML toolkit_
+
+## Rinda
+
+_The Linda distributed computing paradigm_
+
+## RSS
+
+_Family of libraries that support various formats of XML "feeds"_
+
+## Gem
+
+_Package management framework_
+
+## Scanf
+
+_A implementation of the C function scanf(3)_
+
+## SecureRandom
+
+_Interface for secure random number generator_
+
+## Set
+
+_Provides a class to deal with collections of unordered, unique values_
+
+## Shell
+
+_An idiomatic interface for common UNIX shell commands_
+
+## Shellwords
+
+_Manipulates strings with word parsing rules of UNIX Bourne shell_
+
+## Singleton
+
+_Implementation of the Singleton pattern_
+
+## Synchronizer
+
+_A module that provides a two-phase lock with a counter_
+
+## Tempfile
+
+_A utility class for managing temporary files_
+
+## Test::Unit
+
+_A compatibility layer for MiniTest_
+
+## Thread
+
+_Provides support classes for threaded programs_
+
+## ThreadsWait
+
+_Watches for termination of multiple threads_
+
+## Time
+
+_Extends the Time class with methods for parsing and conversion_
+
+## Timeout
+
+_Auto-terminate potentially long-running operations_
+
+## tmpdir.rb
+
+_Extends the Dir class to manage the OS temporary file path_
+
+## Tracer
+
+_Outputs a source level execution trace of a Ruby program_
+
+## TSort
+
+_Topological sorting using Tarjan’s algorithm_
+
+## un.rb
+
+_Utilities to replace common UNIX commands_
+
+## URI
+
+_Pproviding support for Uniform Resource Identifiers (URIs)_
+
+## WeakRef
+
+_Allows a referenced object to be garbage-collected_
+
+## WEBrick
+
+_An HTTP server toolkit_
+
+## XMLRPC
+
+_Remote Procedure Call over HTTP support_
+
+## YAML
+
+_Client library for the Psych YAML implementation_
+
+
 
 
 
