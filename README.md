@@ -19,7 +19,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 [cgi](#cgi) • 
 [cmath](#cmath) •
 [csv](#csv) •
-DEBUGGER](#) • 
+[DEBUGGER](#) • 
 [Delegator](#) • 
 [DRb](#) • 
 [E2MM](#) • 
@@ -92,7 +92,7 @@ Abbrev.abbrev(['ruby'])
 
 Articles:
 
-- [Getting to Know the Ruby Standard Library Series – Abbrev](http://www.monkeyandcrow.com/blog/ruby_standard_library_abbrev) by Adam Sanderson; Dec 2010
+- [Abbrev - Getting to Know the Ruby Standard Library Series](http://www.monkeyandcrow.com/blog/ruby_standard_library_abbrev) by Adam Sanderson; Dec 2010
 
 ## base64
 
