@@ -1,5 +1,5 @@
 
-# Standard Library (StdLib)
+# Standard Library (stdlib)
 
 A collection of awesome Ruby standard libraries and alternatives
 
@@ -100,7 +100,7 @@ end
 
 Alternatives:
 
-- [rack :octocat:](https://github.com/rack/rack), [:gem:](https://rubygems.org/gems/rack) - a modular Ruby webserver interface by Christian Neukirchen, Aaron Patterson et al
+- [rack :octocat:](https://github.com/rack/rack), [:gem:](https://rubygems.org/gems/rack) - a modular webserver interface by Christian Neukirchen, Aaron Patterson et al
 
 ## cmath
 
@@ -117,7 +117,7 @@ CMath.sin(1 + 1i)     #=> (1.2984575814159773+0.6349639147847361i)
 
 ## csv
 
-_Provides an interface to read and write Comma-Separated Values (CSV) files and data _
+_Provides an interface to read and write Comma-Separated Values (CSV) files and data_
 
 - [csv.rb](https://github.com/ruby/ruby/blob/trunk/lib/csv.rb)
 
