@@ -3,10 +3,22 @@
 
 A collection of awesome Ruby standard libraries and alternatives
 
+Note: :octocat: stands for the GitHub page and :gem: for the RubyGems page.
+
+---
+
+[ANNOUNCEMENT] Looking for awesome Ruby Gems? See the [Ruby Gems of the Week Series @ Planet Ruby](http://planetruby.github.io/gems).
+
+---
+
+Contributions welcome. Anything missing? Send in a pull request. Thanks.
+
 [abbrev](#abbrev) •
 [base64](#base64) •
 [benchmark](#benchmark) •
-[cgi](#cgi)
+[cgi](#cgi) • 
+[cmath](#cmath) •
+[csv](#csv)
 
 ## abbrev
 
@@ -39,7 +51,7 @@ _Provides methods to measure and report the time used to execute code_
 - [benchmark.rb](https://github.com/ruby/ruby/blob/trunk/lib/benchmark.rb)
 
 ~~~
-puts Benchmark.measure { "a"*1_000_000_000 }
+Benchmark.measure { "a"*1_000_000_000 }
   #=> 0.350000   0.400000   0.750000 (  0.835234)
 
 n = 5000000
@@ -88,5 +100,50 @@ end
 
 Alternatives:
 
-- [rack :octocat:(https://github.com/rack/rack), [:gem:](https://rubygems.org/gems/rack) - a modular Ruby webserver interface by Christian Neukirchen, Aaron Patterson et al
+- [rack :octocat:](https://github.com/rack/rack), [:gem:](https://rubygems.org/gems/rack) - a modular Ruby webserver interface by Christian Neukirchen, Aaron Patterson et al
 
+## cmath
+
+_Provides Trigonometric and Transcendental functions for complex numbers_
+
+- [cmath.rb](https://github.com/ruby/ruby/blob/trunk/lib/cmath.rb)
+ 
+~~~
+CMath.log(1 + 4i)     #=> (1.416606672028108+1.3258176636680326i)
+CMath.log(1 + 4i, 10) #=> (0.6152244606891369+0.5757952953408879i)
+CMath.sqrt(-1 + 0i)   #=> 0.0+1.0i
+CMath.sin(1 + 1i)     #=> (1.2984575814159773+0.6349639147847361i)
+~~~
+
+## csv
+
+_Provides an interface to read and write Comma-Separated Values (CSV) files and data _
+
+- [csv.rb](https://github.com/ruby/ruby/blob/trunk/lib/csv.rb)
+
+~~~
+CSV.read('customers.csv')
+#=> ["Dan", "34", "2548", "Lovin it!"]
+   ["Maria", "55", "5054", "Good, delicious food"]
+
+str = "Dan,34\nMaria,55"
+CSV.parse( str ) 
+#=> [["Dan", "34"], ["Maria", "55"]]
+~~~
+
+Articles:
+
+- [A Guide to the Ruby CSV Library, Part I](http://www.sitepoint.com/guide-ruby-csv-library-part/) by Darko Gjorgjievski; SitePoint; January 2014
+- [A Guide to the Ruby CSV Library, Part II](http://www.sitepoint.com/guide-ruby-csv-library-part-2/) by Darko Gjorgjievski; SitePoint; March 2014
+
+
+
+## Meta
+
+**License**
+
+The awesome list is dedicated to the public domain. Use it as you please with no restrictions whatsoever.
+
+**Questions? Comments?**
+
+Send them along to the ruby-talk mailing list. Thanks!
