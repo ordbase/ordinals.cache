@@ -18,8 +18,64 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 [benchmark](#benchmark) •
 [cgi](#cgi) • 
 [cmath](#cmath) •
-[csv](#csv)
-
+[csv](#csv) •
+DEBUGGER](#) • 
+[Delegator](#) • 
+[DRb](#) • 
+[E2MM](#) • 
+[English](#) • 
+[ERB](#) • 
+[FileUtils](#) • 
+[Find](#) • 
+[Forwardable](#) • 
+[GetoptLong](#) • 
+[GServer](#) • 
+[IPAddr](#) • 
+[IRB](#) • 
+[Logger](#) • 
+[MakeMakefile](#) • 
+[Matrix](#) • 
+[MiniTest](#) • 
+[Monitor](#) • 
+[Mutex_m](#) • 
+[Net::FTP](#) • 
+[Net::HTTP](#) • 
+[Net::IMAP](#) • 
+[Net::POP3](#) • 
+[Net::SMTP](#) • 
+[Net::Telnet](#) • 
+[Observable](#) • 
+[OpenURI](#) • 
+[Open3](#) • 
+[OptionParser](#) • 
+[OpenStruct](#) • 
+[PP](#) • 
+[PrettyPrinter](#) • 
+[Prime](#) • 
+[profile.rb](#) • 
+[Profiler](#) • 
+[PStore](#) • 
+[Queue](#) • 
+[Racc](#) • 
+[Rake](#) • 
+[rational.rb](#) • 
+[RbConfig](#) • 
+[RDoc](#) • 
+[resolv-replace.rb](#) • 
+[Resolv](#) • 
+[REXML](#) • 
+[Rinda](#) • 
+[RSS](#) • 
+[Gem](#) • 
+[Scanf](#) • 
+[SecureRandom](#) • 
+[Set](#) • 
+[Shell](#) • 
+[Shellwords](#) • 
+[Singleton](#) • 
+[Synchronizer](#) • 
+[Tempfile](#) • 
+[Test::Unit](#)
 
 
 
