@@ -4,7 +4,9 @@
 A collection of awesome Ruby standard libraries and alternatives
 
 [abbrev](#abbrev) •
-[base64](#base64)
+[base64](#base64) •
+[benchmark](#benchmark) •
+[cgi](#cgi)
 
 ## abbrev
 
@@ -54,5 +56,37 @@ upto:     1.030000   0.000000   1.030000 (  1.028098)
 
 Alternatives:
 
-- [benchmark-ips :octocat:](https://github.com/evanphx/benchmark-ips) - a iterations per second enhancement to benchmark by Evan Phoenix
+- [benchmark-ips :octocat:](https://github.com/evanphx/benchmark-ips), [:gem:](https://rubygems.org/gems/benchmark-ips) - a iterations per second enhancement to benchmark by Evan Phoenix
+
+## cgi
+
+_Support for the Common Gateway Interface (CGI) protocol for passing an HTTP request from a web server to a standalone program, and returning the output to the web browser_
+
+- [cgi.rb](https://github.com/ruby/ruby/blob/trunk/lib/cgi.rb)
+
+~~~
+params = CGI.parse("query_string")
+  #=> {"name1" => ["value1", "value2", ...],
+       "name2" => ["value1", "value2", ...], ... }
+
+CGI.escapeHTML('Usage: foo "bar" <baz>')
+  #=>
+
+cgi = CGI.new("html4")
+cgi.out do
+  cgi.html do
+    cgi.head do
+      cgi.title { "TITLE" }
+    end +
+    cgi.body do
+      cgi.p { "TEXT" }
+    end
+  end
+end 
+  #=>
+~~~
+
+Alternatives:
+
+- [rack :octocat:(https://github.com/rack/rack), [:gem:](https://rubygems.org/gems/rack) - a modular Ruby webserver interface by Christian Neukirchen, Aaron Patterson et al
 
