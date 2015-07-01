@@ -1,5 +1,5 @@
 
-# Standard Library (stdlib)
+# Standard Library (StdLib)
 
 A collection of awesome Ruby standard libraries and alternatives
 
