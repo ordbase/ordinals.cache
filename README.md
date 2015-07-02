@@ -278,6 +278,19 @@ _Provides a class to deal with collections of unordered, unique values_
 _Allows a referenced object to be garbage-collected_
 
 
+## Language › Algorithms
+
+### TSort
+
+_Topological sorting using Tarjan's algorithm_
+
+## Language › Date & Time
+
+### Time
+
+_Extends the Time class with methods for parsing and conversion_
+
+
 
 ## Command Line
 
@@ -298,30 +311,32 @@ _Ruby-oriented class for command-line option analysis_
 
 _Provides methods to manipulate IPv4 and IPv6 IP addresses_
 
-## Net::FTP
+### Net::FTP
 
 _Support for the File Transfer Protocol_
 
-## Net::HTTP
+### Net::HTTP
 
 _HTTP client api_
-
-## Net::IMAP
-
-_Client api for Internet Message Access Protocol_
-
-## Net::POP3
-
-_Client library for POP3_
-
-## Net::SMTP
-
-_Simple Mail Transfer Protocol client library_
 
 ## Net::Telnet
 
 _Telnet client library_
 
+
+## Networking › Email
+
+### Net::IMAP
+
+_Client api for Internet Message Access Protocol_
+
+### Net::POP3
+
+_Client library for POP3_
+
+### Net::SMTP
+
+_Simple Mail Transfer Protocol client library_
 
 
 ## Networking › Server 
@@ -330,7 +345,24 @@ _Telnet client library_
 
 _HTTP server with logging, thread pooling and multi-server management_
 
+### WEBrick
 
+_An HTTP server toolkit_
+
+
+## Networking › Distributed Systems
+
+### Rinda
+
+_The Linda distributed computing paradigm_
+
+### XMLRPC
+
+_Remote Procedure Call over HTTP support_
+
+
+
+## Interactive
 
 ### IRB
 
@@ -376,6 +408,12 @@ _Prime numbers and factorization library_
 ### MiniTest
 
 _A test suite with TDD, BDD, mocking and benchmarking_
+
+### Test::Unit
+
+_A compatibility layer for MiniTest_
+
+
 
 
 ## Concurrency / Multi-Threading
@@ -483,9 +521,6 @@ _Thread-aware DNS resolver library_
 
 _An XML toolkit_
 
-### Rinda
-
-_The Linda distributed computing paradigm_
 
 ### RSS
 
@@ -515,15 +550,7 @@ _Manipulates strings with word parsing rules of UNIX Bourne shell_
 
 _A utility class for managing temporary files_
 
-### Test::Unit
 
-_A compatibility layer for MiniTest_
-
-
-
-### Time
-
-_Extends the Time class with methods for parsing and conversion_
 
 ### Timeout
 
@@ -537,10 +564,6 @@ _Extends the Dir class to manage the OS temporary file path_
 
 _Outputs a source level execution trace of a Ruby program_
 
-### TSort
-
-_Topological sorting using Tarjan’s algorithm_
-
 ### un.rb
 
 _Utilities to replace common UNIX commands_
@@ -550,13 +573,6 @@ _Utilities to replace common UNIX commands_
 _Pproviding support for Uniform Resource Identifiers (URIs)_
 
 
-### WEBrick
-
-_An HTTP server toolkit_
-
-### XMLRPC
-
-_Remote Procedure Call over HTTP support_
 
 ### YAML
 
