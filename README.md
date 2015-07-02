@@ -95,6 +95,8 @@ Articles:
 
 - [Abbrev - Getting to Know the Ruby Standard Library Series](http://www.monkeyandcrow.com/blog/ruby_standard_library_abbrev) by Adam Sanderson; Dec 2010
 
+## Text › Encodings
+
 ### base64
 
 _Support for encoding and decoding binary data using a Base64 representation in plain ASCII 7-bit text_
@@ -108,6 +110,7 @@ plain = Base64.decode64(enc)
           #=> "Send reinforcements"
 ~~~
 
+## Text › Data Formats
 
 ### csv
 
@@ -129,6 +132,17 @@ Articles:
 
 - [A Guide to the Ruby CSV Library, Part I](http://www.sitepoint.com/guide-ruby-csv-library-part/) by Darko Gjorgjievski; SitePoint; January 2014
 - [A Guide to the Ruby CSV Library, Part II](http://www.sitepoint.com/guide-ruby-csv-library-part-2/) by Darko Gjorgjievski; SitePoint; March 2014
+
+
+### rss
+
+_Family of libraries that support various web feeds formats e.g. RSS (Really Simple Syndication), Atom, etc._
+
+
+### yaml
+
+_Client library for the YAML (YAML Ain't Markup Language) format_
+
 
 
 
@@ -211,6 +225,16 @@ CMath.log(1 + 4i, 10) #=> (0.6152244606891369+0.5757952953408879i)
 CMath.sqrt(-1 + 0i)   #=> 0.0+1.0i
 CMath.sin(1 + 1i)     #=> (1.2984575814159773+0.6349639147847361i)
 ~~~
+
+### Matrix
+
+_Represents a mathematical matrix_
+
+### Prime
+
+_Prime numbers and factorization library_
+
+
 
 
 
@@ -391,18 +415,6 @@ _Module used to generate a Makefile for C extensions_
 
 
 
-## Mathematics
-
-### Matrix
-
-_Represents a mathematical matrix_
-
-### Prime
-
-_Prime numbers and factorization library_
-
-
-
 ## Testing
 
 ### MiniTest
@@ -522,9 +534,6 @@ _Thread-aware DNS resolver library_
 _An XML toolkit_
 
 
-### RSS
-
-_Family of libraries that support various formats of XML "feeds"_
 
 
 ### Scanf
@@ -571,12 +580,6 @@ _Utilities to replace common UNIX commands_
 ### URI
 
 _Pproviding support for Uniform Resource Identifiers (URIs)_
-
-
-
-### YAML
-
-_Client library for the Psych YAML implementation_
 
 
 
