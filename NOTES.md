@@ -1,6 +1,10 @@
 # Notes
 
+add extensions too (mark with C for C-Code)
 
+drop deprecated libraries and extensions; list names here:
+
+- xxx -  and so on
 
 
 
@@ -15,6 +19,7 @@
 ## @ Ruby-Doc.org
 
 - [Ruby Standard Library](http://ruby-doc.org/stdlib)
+- [Ruby Standard Library Overview](http://ruby-doc.org/core-2.2.2/doc/standard_library_rdoc.html) - overview of (standard) libraries and extensions with a brief description
 
 
 ## More
