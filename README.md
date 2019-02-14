@@ -44,7 +44,6 @@ MUST ALWAYS get set (initialized) to ZERO (default) values.**
 
 What's zero?
 
-|----------------|----------------------------|
 | Type           | Value                      |
 |----------------|----------------------------|
 | Integer        | `0`      or `Integer.zero` |
@@ -55,7 +54,6 @@ What's zero?
 | Vote (Struct)  | `Vote.new( 0, false, 0, '0x0000')` or `Vote.zero`  |
 | Address        | `0x0000` or `Address.zero` or `Address(0)`         |
 | ...            |                                                    |
-|----------------|----------------------------------------------------|
 
 
 ### Safe Struct
