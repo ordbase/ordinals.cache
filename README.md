@@ -6,7 +6,6 @@ safestruct gem / library - safe data structures (array, hash, struct) - say good
 * bugs  :: [github.com/s6ruby/safestruct/issues](https://github.com/s6ruby/safestruct/issues)
 * gem   :: [rubygems.org/gems/safestruct](https://rubygems.org/gems/safestruct)
 * rdoc  :: [rubydoc.info/gems/safestruct](http://rubydoc.info/gems/safestruct)
-* forum :: [wwwmake](http://groups.google.com/group/wwwmake)
 
 
 ## Usage
