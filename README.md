@@ -50,7 +50,7 @@ What's zero?
 | Bool           | `false`  or `Bool.zero`    |
 | String         | `''` or `String.zero`      |
 | Array          | `[]` or `Array.zero`       |
-| Mapping (Hash) | `{}` or `Mapping.zero`     |
+| Hash           | `{}` or `Hash.zero`        |
 | Vote (Struct)  | `Vote.new( 0, false, 0, '0x0000')` or `Vote.zero`  |
 | Address        | `0x0000` or `Address.zero` or `Address(0)`         |
 | ...            |                                                    |
@@ -65,24 +65,24 @@ Example:
 Voter = SafeStruct.new( weight: 0, voted: false, vote: 0, delegate: '0x0000' )
 
 voter1 = Voter.new    # or Voter.new_zero
-pp voter1.weight      #=> 0
-pp voter1.voted?      #=> false
-pp voter1.vote        #=> 0
-pp voter1.delegate    #=> '0x0000'
-pp voter1.frozen?     #=> false
+voter1.weight      #=> 0
+voter1.voted?      #=> false
+voter1.vote        #=> 0
+voter1.delegate    #=> '0x0000'
+voter1.frozen?     #=> false
 
-pp voter1 == Voter.zero    #=> true
+voter1 == Voter.zero    #=> true
 
-pp voter1.delegate = '0x1111'
-pp voter1 == Voter.zero    #=> false
+voter1.delegate = '0x1111'
+voter1 == Voter.zero    #=> false
  
 voter2 = Voter.new( 0, false, 0, '0x0000')  
 
-pp voter2.voted    = true
-pp voter2.delegate = '0x2222'
-pp voter2 == Voter.zero    #=> false
+voter2.voted    = true
+voter2.delegate = '0x2222'
+voter2 == Voter.zero    #=> false
 
-pp Voter.zero.frozen?      #=> true
+Voter.zero.frozen?      #=> true
 ```
 
 Note: You can use `Struct` as an alias for `SafeStruct`.
@@ -97,7 +97,7 @@ Example:
 ArrayInteger = SafeArray.build_class( Integer )
 ary = ArrayInteger.new
 
-pp ary[0] #=> 0
+ary[0] #=> 0
 ```
 
 or use the `Array.of` convenience shortcut:
@@ -105,13 +105,13 @@ or use the `Array.of` convenience shortcut:
 ``` ruby
 ary = Array.of( Integer )
 
-pp ary[0]  #=> 0
+ary[0]  #=> 0
 
 ## or
 
 another_ary = Array.of( Bool )
 
-pp another_ary[0]  #=> false
+another_ary[0]  #=> false
 ```
 
 Note: Safe Array works with structs (or nested arrays or mappings) too. Example:
@@ -119,8 +119,8 @@ Note: Safe Array works with structs (or nested arrays or mappings) too. Example:
 ``` ruby
 ary = Array.of( Vote )
 
-pp ary[0]         #=> #<Vote @weight=0, @voted=false, @vote=0, @delegate='0x0000'> 
-pp ary[0].voted?  #=> false
+ary[0]         #=> #<Vote @weight=0, @voted=false, @vote=0, @delegate='0x0000'> 
+ary[0].voted?  #=> false
 ```
 
 
@@ -133,7 +133,7 @@ Example:
 Hash_X_Integer = SafeHash.build_class( String, Integer )
 hash = Hash_X_Integer.new
 
-pp hash['0x0000']  #=> 0
+hash['0x0000']  #=> 0
 ```
 
 or use the `Mapping.of` convenience shortcut:
@@ -141,7 +141,7 @@ or use the `Mapping.of` convenience shortcut:
 ``` ruby
 hash = Mapping.of( String => Integer )
 
-pp hash['0x0000']  #=> 0
+hash['0x0000']  #=> 0
 ```
 
 
@@ -150,8 +150,8 @@ Note: Safe Hash works with structs (or arrays or nested mappings) too. Example:
 ``` ruby
 hash = Mapping.of( String => Vote )
 
-pp hash['0x0000']          #=> #<Vote @weight=0, @voted=false, @vote=0, @delegate='0x0000'> 
-pp hash['0x0000'].voted?   #=> false
+hash['0x0000']          #=> #<Vote @weight=0, @voted=false, @vote=0, @delegate='0x0000'> 
+hash['0x0000'].voted?   #=> false
 ```
 
 
