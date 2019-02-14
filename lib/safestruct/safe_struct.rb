@@ -36,11 +36,15 @@ def self.build_class( **attributes )
 
   ## add self.new too - note: call/forward to "old" orginal self.new of Event (base) class
   klass.define_singleton_method( :new ) do |*args|
-    if args.size != attributes.size
-      ## check for required args/params - all MUST be passed in!!!
-      raise ArgumentError.new( "[SafeStruct] wrong number of arguments for #{name}.new - #{args.size} for #{attributes.size}" )
+    if args.empty?  ## no args - use new_zero and set (initialize) all ivars to zero
+      new_zero
+    else
+      if args.size != attributes.size
+        ## check for required args/params - all MUST be passed in!!!
+        raise ArgumentError.new( "[SafeStruct] wrong number of arguments for #{name}.new - #{args.size} for #{attributes.size}" )
+      end
+      old_new( *args )
     end
-    old_new( *args )
   end
 
   klass.define_singleton_method( :new_zero ) do
