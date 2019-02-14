@@ -39,7 +39,7 @@ How can the code work without nil?
 Let's say hello to zero.
 The new rule for NO null/nil ever (again) is: 
 
-**All variables - including structs, arrays and mappings (hash dictionaries) -  
+**All variables - including structs, arrays and mappings (hash dictionaries) -
 MUST ALWAYS get set (initialized) to ZERO (default) values.**
 
 What's zero?
