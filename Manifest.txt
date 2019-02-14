@@ -3,4 +3,11 @@ Manifest.txt
 README.md
 Rakefile
 lib/safestruct.rb
+lib/safestruct/safe_array.rb
+lib/safestruct/safe_hash.rb
+lib/safestruct/safe_struct.rb
 lib/safestruct/version.rb
+test/helper.rb
+test/test_array.rb
+test/test_hash.rb
+test/test_struct.rb
