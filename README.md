@@ -66,7 +66,7 @@ Voter = SafeStruct.new( weight: 0, voted: false, vote: 0, delegate: '0x0000' )
 
 voter1 = Voter.new    # or Voter.new_zero
 pp voter1.weight      #=> 0
-pp voter1.voted       #=> false
+pp voter1.voted?      #=> false
 pp voter1.vote        #=> 0
 pp voter1.delegate    #=> '0x0000'
 pp voter1.frozen?     #=> false
