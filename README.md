@@ -83,7 +83,7 @@ voter2 == Voter.zero     #=> false
 
 Voter.zero.frozen?       #=> true
 
-voter3 = Voter.new( 0 )  #=> ArgumentError - wrong number of arguments
+voter3 = Voter.new( 0 )  #=> ArgumentError: wrong number of arguments
                          #     for Voter.new - 1 for 4
 ```
 
@@ -101,7 +101,7 @@ Example:
 ArrayInteger = SafeArray.build_class( Integer )
 ary = ArrayInteger.new
 ary.size       #=> 0
-ary[0]         #=> IndexError
+ary[0]         #=> IndexError: index 0 outside of array bounds
 ary.size = 2   #=> [0,0]
 ary[0]         #=> 0
 ```
@@ -111,7 +111,7 @@ or use the `Array.of` convenience shortcut:
 ``` ruby
 ary = Array.of( Integer )
 ary.size       #=> 0
-ary[0]         #=> IndexError
+ary[0]         #=> IndexError: index 0 outside of array bounds
 ary.size = 2   #=> [0, 0]
 ary[0]         #=> 0
 
@@ -119,7 +119,7 @@ ary[0]         #=> 0
 
 another_ary = Array.of( Bool )
 another_ary.size      #=> 0
-another_ary[0]        #=> IndexError
+another_ary[0]        #=> IndexError: index 0 outside of array bounds
 another_ary.size = 2  #=> [false, false]
 another_ary[0]        #=> false
 
@@ -135,7 +135,7 @@ Yes, Safe Array works with structs (or nested arrays or hash mappings) too. Exam
 ``` ruby
 ary = Array.of( Vote )
 
-ary[0]         #=> IndexError
+ary[0]         #=> IndexError: index 0 outside of array bounds
 ary.size = 2   #=> [#<Vote @weight=0, @voted=false, @vote=0, @delegate='0x0000'>,
                #    #<Vote @weight=0, @voted=false, @vote=0, @delegate='0x0000'>]
 ary[0]         #=> #<Vote @weight=0, @voted=false, @vote=0, @delegate='0x0000'>
