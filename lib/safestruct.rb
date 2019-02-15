@@ -28,7 +28,7 @@ end
 #####
 # add "beautiful" convenience helpers
 
-class Mapping
+class Hash
 
   def self.of( *args )
      ## e.g. gets passed in [{Address=>Integer}]
@@ -38,7 +38,7 @@ class Mapping
        arg = args[0].to_a   ## convert to array (for easier access)
        klass_key   = arg[0][0]
        klass_value = arg[0][1]
-       klass = SafeHash.build_class( klass_key, klass_value )
+       klass = Safe::SafeHash.build_class( klass_key, klass_value )
        klass.new
      else
        ## todo/fix: throw argument error/exception
@@ -52,17 +52,16 @@ class Array
   ## "typed" safe array "constructor"
   ## e.g.  Array.of( Address ) or Array.of( Money ) or Array.of( Proposal, size: 2 ) etc.
   def self.of( klass_value )
-    klass = SafeArray.build_class( klass_value )
+    klass = Safe::SafeArray.build_class( klass_value )
     klass.new  ## todo: add klass.new( **kwargs ) for size: 2 etc.
   end
 end
 
-
-############################
-# note: HACK redefine built in struct
-#  => warning: already initialized constant Struct
-OldStruct = Struct        ## save old struct class
-Struct    = SafeStruct
-
+module Safe
+  ############################
+  # note: HACK redefine built in struct in module Safe "context"
+  ClassicStruct = ::Struct        ## save old classic struct class
+  Struct        = SafeStruct
+end
 
 puts Safe.banner    ## say hello

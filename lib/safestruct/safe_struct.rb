@@ -1,5 +1,7 @@
 # encoding: utf-8
 
+module Safe
+
 class SafeStruct
 
 def self.build_class( **attributes )
@@ -81,3 +83,4 @@ def self.zero
   @zero ||= new_zero.freeze
 end
 end # class SafeStruct
+end # module Safe

@@ -1,12 +1,13 @@
 # encoding: utf-8
 
+module Safe
 
 class SafeHash
 
   ## e.g.
-  ##  Mapping.of( Address => Money )
+  ##  Hash.of( Address => Money )
 
-  ##   note: need to create new class!! for every mapping
+  ##   note: need to create new class!! for every safe hash
   ##     make klass_key class and
   ##          klass_value class  into class instance variables
   ##     that can get used by zero
@@ -75,3 +76,4 @@ RUBY
   def size() @h.size; end
   def length() size; end
 end # class SafeHash
+end # module Safe

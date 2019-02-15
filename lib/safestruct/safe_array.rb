@@ -1,5 +1,7 @@
 # encoding: utf-8
 
+module Safe
+
 class SafeArray
 
   ## e.g.
@@ -67,3 +69,4 @@ RUBY
   def size() @ary.size; end
   def length() size; end
 end # class SafeArray
+end # module Safe

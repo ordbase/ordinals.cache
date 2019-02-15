@@ -10,6 +10,8 @@ require 'helper'
 
 class TestStruct < MiniTest::Test
 
+include Safe
+
 ## sig: [Integer, Bool, Integer, Address]
 Voter = SafeStruct.new( weight: 0, voted: false, vote: 0, delegate: '0x0000' )
 

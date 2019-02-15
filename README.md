@@ -17,28 +17,28 @@ safestruct gem / library - safe data structures (array, hash, struct) - say good
 
 ### Null / Nil - The Billion Dollar Mistake ++ Zero - The Billion Dollar Fix
 
-> I call it my billion-dollar mistake. It was the invention of the null reference in 1965. 
-> At that time, I was designing the first comprehensive type system for references 
-> in an object oriented language (ALGOL W). 
-> My goal was to ensure that all use of references should be absolutely safe, 
-> with checking performed automatically by the compiler. 
-> But I couldn't resist the temptation to put in a null reference, 
-> simply because it was so easy to implement. 
-> This has led to innumerable errors, vulnerabilities, and system crashes, 
+> I call it my billion-dollar mistake. It was the invention of the null reference in 1965.
+> At that time, I was designing the first comprehensive type system for references
+> in an object oriented language (ALGOL W).
+> My goal was to ensure that all use of references should be absolutely safe,
+> with checking performed automatically by the compiler.
+> But I couldn't resist the temptation to put in a null reference,
+> simply because it was so easy to implement.
+> This has led to innumerable errors, vulnerabilities, and system crashes,
 > which have probably caused a billion dollars of pain and damage in the last forty years.
 >
 > -- [Sir Tony Hoare](https://en.wikipedia.org/wiki/Tony_Hoare)
 
 
-Let's make the code safer and 
-let's say goodbye to null / nil (and maybe). 
+Let's make the code safer and
+let's say goodbye to null / nil (and maybe).
 How can the code work without nil?
 
 
 Let's say hello to zero.
-The new rule for NO null/nil ever (again) is: 
+The new rule for NO null/nil ever (again) is:
 
-**All variables - including structs, arrays and mappings (hash dictionaries) -
+**All variables - including structs, arrays and hash mappings -
 MUST ALWAYS get set (initialized) to ZERO (default) values.**
 
 What's zero?
@@ -74,17 +74,22 @@ voter1 == Voter.zero    #=> true
 
 voter1.delegate = '0x1111'
 voter1 == Voter.zero    #=> false
- 
+
 voter2 = Voter.new( 0, false, 0, '0x0000')  
 
 voter2.voted    = true
 voter2.delegate = '0x2222'
-voter2 == Voter.zero    #=> false
+voter2 == Voter.zero     #=> false
 
-Voter.zero.frozen?      #=> true
+Voter.zero.frozen?       #=> true
+
+voter3 = Voter.new( 0 )  #=> ArgumentError - wrong number of arguments
+                         #     for Voter.new - 1 for 4
 ```
 
-Note: You can use `Struct` as an alias for `SafeStruct`.
+
+Note: You can use `Struct` as an alias for `SafeStruct`
+(in the `Safe` namespace / module context).
 
 
 ### Safe Array
@@ -95,30 +100,45 @@ Example:
 ``` ruby
 ArrayInteger = SafeArray.build_class( Integer )
 ary = ArrayInteger.new
-
-ary[0] #=> 0
+ary.size       #=> 0
+ary[0]         #=> IndexError
+ary.size = 2   #=> [0,0]
+ary[0]         #=> 0
 ```
 
 or use the `Array.of` convenience shortcut:
 
 ``` ruby
 ary = Array.of( Integer )
-
-ary[0]  #=> 0
+ary.size       #=> 0
+ary[0]         #=> IndexError
+ary.size = 2   #=> [0, 0]
+ary[0]         #=> 0
 
 ## or
 
 another_ary = Array.of( Bool )
+another_ary.size      #=> 0
+another_ary[0]        #=> IndexError
+another_ary.size = 2  #=> [false, false]
+another_ary[0]        #=> false
 
-another_ary[0]  #=> false
+## or
+
+another_ary = Array.of( Bool, 2 )
+another_ary.size      #=> 2
+another_ary[0]        #=> false
 ```
 
-Note: Safe Array works with structs (or nested arrays or mappings) too. Example:
+Yes, Safe Array works with structs (or nested arrays or hash mappings) too. Example:
 
 ``` ruby
 ary = Array.of( Vote )
 
-ary[0]         #=> #<Vote @weight=0, @voted=false, @vote=0, @delegate='0x0000'> 
+ary[0]         #=> IndexError
+ary.size = 2   #=> [#<Vote @weight=0, @voted=false, @vote=0, @delegate='0x0000'>,
+               #    #<Vote @weight=0, @voted=false, @vote=0, @delegate='0x0000'>]
+ary[0]         #=> #<Vote @weight=0, @voted=false, @vote=0, @delegate='0x0000'>
 ary[0].voted?  #=> false
 ```
 
@@ -135,27 +155,47 @@ hash = Hash_X_Integer.new
 hash['0x0000']  #=> 0
 ```
 
-or use the `Mapping.of` convenience shortcut:
+or use the `Hash.of` convenience shortcut:
 
 ``` ruby
-hash = Mapping.of( String => Integer )
+hash = Hash.of( String => Integer )
 
-hash['0x0000']  #=> 0
+hash['0x0000']         #=> 0
+hash['0x0000'] += 42
+hash['0x0000']         #=> 42
+```
+
+Note: Safe Hash will ALWAYS return a value.
+If the key is missing in the hash mapping on lookup,
+the key gets auto-added with a zero value.
+Use `has_key?` or `key?` to check if a key is present.
+
+
+Yes, Safe Hash works with structs (or arrays or nested hash mappings) too. Example:
+
+``` ruby
+hash = Hash.of( String => Vote )
+
+hash['0x0000']                #=> #<Vote @weight=0, @voted=false, @vote=0, @delegate='0x0000'>
+hash['0x0000'].voted?         #=> false
+hash['0x0000'].voted = true
+hash['0x0000'].voted?         #=> true
 ```
 
 
-Note: Safe Hash works with structs (or arrays or nested mappings) too. Example:
 
-``` ruby
-hash = Mapping.of( String => Vote )
 
-hash['0x0000']          #=> #<Vote @weight=0, @voted=false, @vote=0, @delegate='0x0000'> 
-hash['0x0000'].voted?   #=> false
-```
+## More "Real World" Safe Data Structures (Array, Hash, Struct) Samples
+
+- [The "Red Paper" about sruby](https://github.com/s6ruby/redpaper) - Small, Smart, Secure, Safe, Solid & Sound (S6) Ruby - The Ruby Programming Language for Contract / Transaction Scripts on the Blockchain World Computer - Yes, It's Just Ruby
+- [Programming Crypto Blockchain Contracts Step-by-Step Book / Guide](https://github.com/s6ruby/programming-cryptocontracts). Let's Start with Ponzi & Pyramid Schemes. Run Your Own Lotteries, Gambling Casinos and more on the Blockchain World Computer...
+- [Ruby Sample Contracts for the Universum Blockchain/World Computer Runtime](https://github.com/s6ruby/universum-contracts)
 
 
 
 ## License
+
+![](https://publicdomainworks.github.io/buttons/zero88x31.png)
 
 The `safestruct` scripts are dedicated to the public domain.
 Use it as you please with no restrictions whatsoever.

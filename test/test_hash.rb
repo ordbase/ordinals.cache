@@ -10,6 +10,8 @@ require 'helper'
 
 class TestHash < MiniTest::Test
 
+  include Safe
+
   ## sig: [Integer, Bool, Integer, Address]
   Voter = SafeStruct.new( weight: 0, voted: false, vote: 0, delegate: '0x0000' )
 
@@ -30,8 +32,8 @@ def test_integer
   assert_equal 101,  h['0x1111']
   assert_equal 102,  h['0x2222']
 
-  ## check Mapping.of  (uses cached classes)
-  assert_equal Hash_X_Integer, Mapping.of( String => Integer ).class
+  ## check Hash.of  (uses cached classes)
+  assert_equal Hash_X_Integer, Hash.of( String => Integer ).class
 end
 
 
@@ -48,8 +50,8 @@ def test_bool
   assert_equal true,  h['0x1111']
   assert_equal true,  h['0x2222']
 
-  ## check Mapping.of  (uses cached classes)
-  assert_equal Hash_X_Bool, Mapping.of( String => Bool ).class
+  ## check Hash.of  (uses cached classes)
+  assert_equal Hash_X_Bool, Hash.of( String => Bool ).class
 end
 
 
@@ -69,8 +71,8 @@ def test_voter
   pp h['0x1111']
   pp h['0x2222']
 
-  ## check Mapping.of  (uses cached classes)
-  assert_equal Hash_X_Voter, Mapping.of( String => Voter ).class
+  ## check Hash.of  (uses cached classes)
+  assert_equal Hash_X_Voter, Hash.of( String => Voter ).class
 end
 
 

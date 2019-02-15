@@ -10,6 +10,8 @@ require 'helper'
 
 class TestArray < MiniTest::Test
 
+  include Safe
+
   Array_Integer = SafeArray.build_class( Integer )
   Array_Bool    = SafeArray.build_class( Bool )
 
