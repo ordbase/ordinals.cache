@@ -27,11 +27,23 @@ def self.build_class( **attributes )
       end
     end
 
+    alias_method :old_freeze, :freeze   # note: store "old" orginal version of freeze
+    define_method( :freeze ) do
+      old_freeze    ## same as calling super
+      attributes.keys.each do |key|
+        instance_variable_get( "@#{key}" ).freeze
+      end
+      self   # return reference to self
+    end
+
     define_method( :== ) do |other|
-       return false unless other.is_a?( klass )
-        attributes.keys.all? do |key|
-          __send__( key ) == other.__send__( key )
-        end
+       if other.is_a?( klass )
+         attributes.keys.all? do |key|
+           __send__( key ) == other.__send__( key )
+         end
+       else
+         false
+       end
     end
     alias_method :eql?, :==
   end
@@ -54,10 +66,14 @@ def self.build_class( **attributes )
     ##     use new_zero to create a new instance!!!
     ##     do NOT use the passed in reference!!!!
     values = attributes.values.map do |value|
-      if value.is_a?(SafeStruct) ||
-         value.is_a?(SafeArray)  ||
-         value.is_a?(SafeHash)
-         value.class.new_zero
+      ## note: was: use more "generic" check for respond_to?( :new_zero )
+      ##  value.is_a?(SafeStruct) ||
+      ##  value.is_a?(SafeArray)  ||
+      ##  value.is_a?(SafeHash)
+      if value.is_a?(String) && value == '0x0000'
+        value.dup    ## special case for Address(0) or Address.zero encoded as string for now!!!!
+      elsif value.class.respond_to?( :new_zero )
+        value.class.new_zero
       else
         ## assume "value" object / semantics (e.g. 0, false, '0x0000' etc.) and pass through
         value

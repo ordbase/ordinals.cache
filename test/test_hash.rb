@@ -23,6 +23,22 @@ def test_integer
   pp Hash_X_Integer
   pp h = Hash_X_Integer.new
 
+  assert_equal false, h.key?( '0x1111' )
+  assert_equal false, h.has_key?( '0x1111' )
+
+  ## todo/fix: remove size and length for (safe) hash - why? why not?
+  assert_equal 0, h.size
+  assert_equal 0, h.length
+
+  assert_equal Hash_X_Integer.zero, h
+  assert_equal Hash_X_Integer.zero, Hash_X_Integer.new
+
+  pp Hash_X_Integer.zero
+  assert_equal true,   Hash_X_Integer.zero.frozen?
+  assert_equal false,  Hash_X_Integer.new.frozen?
+  assert_equal false,  h.frozen?
+
+  
   assert_equal Integer, Hash_X_Integer.klass_value
   assert_equal 0,  h['0x1111']
   assert_equal 0,  h['0x2222']

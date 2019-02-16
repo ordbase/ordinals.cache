@@ -1,6 +1,7 @@
 # encoding: utf-8
 
 require 'pp'
+require 'forwardable'     # uses def_delegator
 
 
 ## our own code
@@ -13,15 +14,23 @@ require 'safestruct/safe_struct'
 
 
 ####################################
-## add dummy bool class for mapping and (payable) method signature
+## add zero/zero_new machinery for builin classes
 
+#### value semantics
 class Integer
-  def self.zero() 0; end
+  def self.zero() 0; end      ## note: 0.frozen? == true  by default
 end
 
 class Bool
-  def self.zero() false; end
+  def self.zero() false; end   ## note: false.frozen? == true  by default
 end
+
+#### reference semantics (new copy ALWAYS needed)
+class String
+  def self.new_zero() new; end
+  def self.zero() @zero ||= new_zero.freeze;  end
+end
+
 
 
 
@@ -50,12 +59,15 @@ end
 
 class Array
   ## "typed" safe array "constructor"
-  ## e.g.  Array.of( Address ) or Array.of( Money ) or Array.of( Proposal, size: 2 ) etc.
-  def self.of( klass_value )
+  ## e.g.  Array.of( Address ) or Array.of( Money ) or
+  ##       Array.of( Proposal, 2 ) etc.
+  def self.of( klass_value, size=0 )
     klass = Safe::SafeArray.build_class( klass_value )
-    klass.new  ## todo: add klass.new( **kwargs ) for size: 2 etc.
+    klass.new( size )
   end
 end
+
+
 
 module Safe
   ############################

@@ -19,31 +19,50 @@ class SafeHash
     ## note: keep a class cache
     cache = @@cache ||= {}
     klass = cache[ klass_value ]
-    return klass   if klass
 
-    klass = Class.new( SafeHash )
-    klass.class_eval( <<RUBY )
-      def self.klass_key
-        @klass_key   ||= #{klass_key}
-      end
-      def self.klass_value
-        @klass_value ||= #{klass_value}
-      end
+    if klass.nil?
+      klass = Class.new( SafeHash )
+      klass.class_eval( <<RUBY )
+        def self.klass_key
+          @klass_key   ||= #{klass_key}
+        end
+        def self.klass_value
+          @klass_value ||= #{klass_value}
+        end
 RUBY
-    ## add to cache for later (re)use
-    cache[ klass_value ] = klass
+      ## add to cache for later (re)use
+      cache[ klass_value ] = klass
+    end
+
     klass
   end
 
 
   def self.new_zero()  new;  end
-  def self.zero()      @zero ||= new_zero;  end
+  def self.zero()      @zero ||= new_zero.freeze;  end
 
 
   def initialize
     ## todo/check: if hash works if value is a (nested) hash
-    @h  = {}
+    @h = {}
   end
+
+  def freeze
+    super
+    @h.freeze  ## note: pass on freeze to "wrapped" hash
+    self   # return reference to self
+  end
+
+  def ==( other )
+    if other.is_a?( self.class )                    ## note: must be same hash class
+      @h == other.instance_variable_get( '@h' )    ## compare "wrapped" hash
+    else
+      false
+    end
+  end
+  alias_method :eql?, :==
+
+
 
 
   def []=(key, value)
@@ -73,7 +92,9 @@ RUBY
     item
   end
 
-  def size() @h.size; end
-  def length() size; end
+  extend Forwardable
+  def_delegators :@h, :size, :length,   ## todo/fix: remove size and length for (safe) hash - why? why not?
+                      :has_key?, :key?
+
 end # class SafeHash
 end # module Safe
