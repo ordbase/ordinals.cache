@@ -168,7 +168,7 @@ hash['0x0000']         #=> 42
 Note: Safe Hash will ALWAYS return a value.
 If the key is missing in the hash mapping on lookup,
 the key gets auto-added with a zero value.
-Use `has_key?` or `key?` to check if a key is present.
+Use `has_key?` or `key?` to check if a key is present (or missing).
 
 
 Yes, Safe Hash works with structs (or arrays or nested hash mappings) too. Example:
