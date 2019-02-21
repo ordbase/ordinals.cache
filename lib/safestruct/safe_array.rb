@@ -98,10 +98,12 @@ RUBY
     ##   note: Address might be a String too (Address | String)
     ##     store Address always as String!!! - why? why not?
     @ary.push( item )
+    ## note: returns array.size (NOT array itself!!!) to keep compatible with solidity - why? why not?
+    @ary.size
   end
 
 extend Forwardable
-def_delegators :@ary, :size, :length,
+def_delegators :@ary, :size, :length, :clear,
                       :each, :each_with_index
 
 

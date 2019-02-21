@@ -93,8 +93,10 @@ RUBY
   end
 
   extend Forwardable
-  def_delegators :@h, :size, :length,   ## todo/fix: remove size and length for (safe) hash - why? why not?
-                      :has_key?, :key?
+  def_delegators :@h, :has_key?, :key?, :delete, :clear
+
+  ## note:  remove size and length for (safe) hash (for now) - follows solidity convention - why? why not?
+  ##   :size, :length,
 
 end # class SafeHash
 end # module Safe

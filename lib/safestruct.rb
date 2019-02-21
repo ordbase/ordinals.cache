@@ -43,15 +43,17 @@ class Hash
      ## e.g. gets passed in [{Address=>Integer}]
      ##  check for Integer - use Hash.new(0)
      ##  check for Bool    - use Hash.new(False)
-     if args[0].is_a? Hash
+     if args[0].is_a?( Hash ) && args.size == 1
        arg = args[0].to_a   ## convert to array (for easier access)
        klass_key   = arg[0][0]
-       klass_value = arg[0][1]
+       ## note: for nested Hash.of or Array.of a ("prototype") object
+       ##        gets passed in (NOT class) - auto-convert to use class
+       klass_or_proto_value = arg[0][1]
+       klass_value = klass_or_proto_value.is_a?( Class ) ? klass_or_proto_value : klass_or_proto_value.class
        klass = Safe::SafeHash.build_class( klass_key, klass_value )
        klass.new
      else
-       ## todo/fix: throw argument error/exception
-       Hash.new    ## that is, "plain" {} with all "standard" defaults
+       raise ArgumentError.new( "[Hash.of] wrong argument; expected (default) hash e.g. String => Integer" )
      end
   end
 end
@@ -61,7 +63,10 @@ class Array
   ## "typed" safe array "constructor"
   ## e.g.  Array.of( Address ) or Array.of( Money ) or
   ##       Array.of( Proposal, 2 ) etc.
-  def self.of( klass_value, size=0 )
+  def self.of( klass_or_proto_value, size=0 )
+    ## note: for nested Hash.of or Array.of a ("prototype") object
+    ##        gets passed in (NOT class) - auto-convert to use class
+    klass_value = klass_or_proto_value.is_a?( Class ) ? klass_or_proto_value : klass_or_proto_value.class
     klass = Safe::SafeArray.build_class( klass_value )
     klass.new( size )
   end

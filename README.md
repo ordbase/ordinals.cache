@@ -180,8 +180,22 @@ hash['0x0000']                #=> #<Vote @weight=0, @voted=false, @vote=0, @dele
 hash['0x0000'].voted?         #=> false
 hash['0x0000'].voted = true
 hash['0x0000'].voted?         #=> true
-```
 
+# or
+
+allowances = Hash.of( String => Hash.of( String => Integer ) )
+
+allowances['0x1111']['0xaaaa'] = 100
+allowances['0x1111']['0xbbbb'] = 200
+allowances['0x2222']['0xaaaa'] = 300
+
+allowances['0x1111']['0xaaaa']  #=> 100
+allowances['0x1111']['0xbbbb']  #=> 200
+allowances['0x2222']['0xaaaa']  #=> 300
+
+allowances['0x2222'].delete( '0xaaaa' )
+allowances['0x2222']['0xaaaa']  #=> 0
+```
 
 
 

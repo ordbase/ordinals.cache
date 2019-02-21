@@ -15,6 +15,26 @@ class TestArray < MiniTest::Test
   Array_Integer = SafeArray.build_class( Integer )
   Array_Bool    = SafeArray.build_class( Bool )
 
+  ## multi-dimensional / nested  array
+  Array_Array_Integer = SafeArray.build_class( Array_Integer )
+
+
+def test_push_and_clear
+  ary = Array_Integer.new
+
+  ## note: push returns array.size after adding new item
+  ##   std ruby returns reference to array itself
+  assert_equal 0, ary.size
+  assert_equal 1, ary.push( 10 )
+  assert_equal 1, ary.size
+
+  assert_equal 2, ary.push( 20 )
+  assert_equal 2, ary.size
+
+  ary.clear
+  assert_equal 0, ary.size
+end
+
 def test_integer
   pp Array_Integer
   pp ary = Array_Integer.new(2)
@@ -67,5 +87,55 @@ def test_bool
   assert_equal Array_Bool, Array.of( Bool ).class
 end
 
+def test_array_of
+    assert_equal true,  Array.is_a?( Class )
+
+    ary = Array.of( Integer )   # note:Array.of returns a new ("prototype") object and NOT a class
+    assert_equal false, ary.is_a?( Class )
+    assert_equal true,  ary.class.is_a?( Class )
+end
+
+def test_multi  # nested (multi-dimensional) array
+  ## todo/fix: try with size: 3  e.g. 3x3
+  ##   make it work with size too!!!!!
+  ##    remember size if passed in in c'tor!!!!!!
+
+   multi = Array_Array_Integer.new
+   multi.push( Array_Integer.new )
+   multi[0].push( 100 )
+   multi[0].push( 200 )
+   multi.push( Array_Integer.new )
+   multi[1].push( 300 )
+   pp multi
+
+   assert_equal 100, multi[0][0]
+   assert_equal 200, multi[0][1]
+   assert_equal 300, multi[1][0]
+
+   multi[1].clear
+   assert_equal 0, multi[1].size
+   multi.clear
+   assert_equal 0, multi.size
+
+   ##############################################
+   ## try Array.of convenience helper
+
+   multi = Array.of( Array.of( Integer ) )
+   multi.push( Array.of( Integer ) )
+   multi[0].push( 100 )
+   multi[0].push( 200 )
+   multi.push( Array.of( Integer ) )
+   multi[1].push( 300 )
+   pp multi
+
+   assert_equal 100, multi[0][0]
+   assert_equal 200, multi[0][1]
+   assert_equal 300, multi[1][0]
+
+   multi[1].clear
+   assert_equal 0, multi[1].size
+   multi.clear
+   assert_equal 0, multi.size
+end
 
 end # class TestArray
