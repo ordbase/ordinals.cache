@@ -67,8 +67,8 @@ class Array
     ## note: for nested Hash.of or Array.of a ("prototype") object
     ##        gets passed in (NOT class) - auto-convert to use class
     klass_value = klass_or_proto_value.is_a?( Class ) ? klass_or_proto_value : klass_or_proto_value.class
-    klass = Safe::SafeArray.build_class( klass_value )
-    klass.new( size )
+    klass = Safe::SafeArray.build_class( klass_value, size )
+    klass.new
   end
 end
 

@@ -5,14 +5,15 @@ module Safe
 class SafeArray
 
   ## e.g.
-  ##  Array.of( Address ), Array.of( Integer), etc.
+  ##  Array.of( Address ), Array.of( Integer),
+  ##  Array.of( Integer, 3 ) or Array.of( Integer, 3*3 ) etc.
 
-  def self.build_class( klass_value )
-    ## note: care for now only about value type / class
-
+  def self.build_class( klass_value, size=0 )
     ## note: keep a class cache
-    cache = @@cache ||= {}
-    klass = cache[ klass_value ]
+    ##  note: klasses may have different init sizes (default 0)
+    cache           = @@cache ||= {}
+    cache_all_sizes = cache[ klass_value ] ||= {}
+    klass           = cache_all_sizes[ size ]
 
     if klass.nil?
 
@@ -21,9 +22,12 @@ class SafeArray
         def self.klass_value
           @klass_value ||= #{klass_value}
         end
+        def self.klass_size
+          @klass_size  ||= #{size}
+        end
 RUBY
       ## add to cache for later (re)use
-      cache[ klass_value ] = klass
+      cache[ klass_value ][ size ] = klass
     end
     klass
   end
@@ -33,9 +37,7 @@ RUBY
   def self.zero()      @zero ||= new_zero.freeze;  end
 
 
-
-  def initialize( size=0 )
-    ## todo/check: if array works if value is a (nested/multi-dimensional) array
+  def initialize( size=self.class.klass_size )
     @ary  = []
     self.size = size   if size > 0  ## auto-init with zeros
     self   # return reference to self
@@ -102,8 +104,17 @@ RUBY
     @ary.size
   end
 
+  def clear
+    ## note: reset ary to zero  (NOT empty e.g. [])
+    ##         differes for "fixed" size arrays
+    @ary = []
+    self.size = self.class.klass_size   if self.class.klass_size > 0  ## auto-init with zeros
+    self  # return reference to self
+  end
+
+
 extend Forwardable
-def_delegators :@ary, :size, :length, :clear,
+def_delegators :@ary, :size, :length,
                       :each, :each_with_index
 
 

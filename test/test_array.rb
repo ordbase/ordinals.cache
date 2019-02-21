@@ -18,6 +18,10 @@ class TestArray < MiniTest::Test
   ## multi-dimensional / nested  array
   Array_Array_Integer = SafeArray.build_class( Array_Integer )
 
+  ## "fixed" size
+  Array_3_Integer         = SafeArray.build_class( Integer, 3 )
+  Array_Array_3x3_Integer = SafeArray.build_class( Array_3_Integer, 3 )
+
 
 def test_push_and_clear
   ary = Array_Integer.new
@@ -40,6 +44,7 @@ def test_integer
   pp ary = Array_Integer.new(2)
 
   assert_equal Integer, Array_Integer.klass_value
+  assert_equal 0,       Array_Integer.klass_size
   assert_equal 0, ary[0]
   assert_equal 0, ary[1]
 
@@ -75,6 +80,7 @@ def test_bool
   pp ary = Array_Bool.new(2)
 
   assert_equal Bool, Array_Bool.klass_value
+  assert_equal 0,    Array_Bool.klass_size
   assert_equal false,  ary[0]
   assert_equal false,  ary[1]
 
@@ -96,10 +102,6 @@ def test_array_of
 end
 
 def test_multi  # nested (multi-dimensional) array
-  ## todo/fix: try with size: 3  e.g. 3x3
-  ##   make it work with size too!!!!!
-  ##    remember size if passed in in c'tor!!!!!!
-
    multi = Array_Array_Integer.new
    multi.push( Array_Integer.new )
    multi[0].push( 100 )
@@ -137,5 +139,88 @@ def test_multi  # nested (multi-dimensional) array
    multi.clear
    assert_equal 0, multi.size
 end
+
+def test_3x3  # nested (multi-dimensional) array
+   board = Array_Array_3x3_Integer.new
+   pp board
+
+   assert_equal Integer, Array_3_Integer.klass_value
+   assert_equal 3,       Array_3_Integer.klass_size
+
+   assert_equal Array_3_Integer, Array_Array_3x3_Integer.klass_value
+   assert_equal 3,               Array_Array_3x3_Integer.klass_size
+
+   assert_equal 0, board[0][0]
+   assert_equal 0, board[0][1]
+   assert_equal 0, board[0][2]
+   assert_equal 0, board[1][0]
+   assert_equal 0, board[1][1]
+   assert_equal 0, board[1][2]
+   assert_equal 0, board[2][0]
+   assert_equal 0, board[2][1]
+   assert_equal 0, board[2][2]
+
+   board[0][0] = 1
+   board[0][1] = 2
+   board[0][2] = 1
+   board[1][0] = 2
+   pp board
+
+   assert_equal 1, board[0][0]
+   assert_equal 2, board[0][1]
+   assert_equal 1, board[0][2]
+   assert_equal 2, board[1][0]
+
+   board[0].clear
+   pp board[0]
+   assert_equal 3, board[0].size
+   assert_equal 0, board[0][0]
+   assert_equal 0, board[0][1]
+   assert_equal 0, board[0][2]
+
+   board.clear
+   assert_equal 3, board.size
+   assert_equal 3, board[0].size
+   assert_equal 3, board[1].size
+   assert_equal 3, board[2].size
+
+   assert_equal 0, board[0][0]
+   assert_equal 0, board[0][1]
+   assert_equal 0, board[0][2]
+   assert_equal 0, board[1][0]
+   assert_equal 0, board[1][1]
+   assert_equal 0, board[1][2]
+   assert_equal 0, board[2][0]
+   assert_equal 0, board[2][1]
+   assert_equal 0, board[2][2]
+
+   ##############################################
+   ## try Array.of convenience helper
+
+   board = Array.of( Array.of( Integer, 3 ), 3 )
+   pp board
+
+   assert_equal 0, board[0][0]
+   assert_equal 0, board[0][1]
+   assert_equal 0, board[0][2]
+   assert_equal 0, board[1][0]
+   assert_equal 0, board[1][1]
+   assert_equal 0, board[1][2]
+   assert_equal 0, board[2][0]
+   assert_equal 0, board[2][1]
+   assert_equal 0, board[2][2]
+
+   board[0][0] = 1
+   board[0][1] = 2
+   board[0][2] = 1
+   board[1][0] = 2
+   pp board
+
+   assert_equal 1, board[0][0]
+   assert_equal 2, board[0][1]
+   assert_equal 1, board[0][2]
+   assert_equal 2, board[1][0]
+end
+
 
 end # class TestArray
