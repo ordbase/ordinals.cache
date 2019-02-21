@@ -61,14 +61,15 @@ def test_integer
   ary.each_with_index { |item,i| puts "[#{i}] #{item}"}
 
   ary.size = 3
-  assert_equal 3, ary.size
-  assert_equal 0, ary[2]
-  assert       Array_Integer.zero != ary
+  assert_equal 3,     ary.size
+  assert_equal 0,     ary[2]
+  assert_equal false, Array_Integer.zero == ary
 
   pp Array_Integer.zero
-  assert_equal true,               Array_Integer.zero.frozen?
-  assert_equal Array_Integer.zero, Array_Integer.zero
-  assert_equal Array_Integer.zero, Array_Integer.new
+  assert_equal true,  Array_Integer.zero.frozen?
+  assert_equal true,  Array_Integer.zero == Array_Integer.zero
+  assert_equal true,  Array_Integer.zero == Array_Integer.new
+  assert_equal true,  Array_Integer.zero == Array_Integer.new_zero
 
   ## check Array.of  (uses cached classes)
   assert_equal Array_Integer, Array.of( Integer ).class

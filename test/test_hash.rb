@@ -33,8 +33,9 @@ def test_integer
   assert_equal 0, h.instance_variable_get('@h').size
   assert_equal 0, h.instance_variable_get('@h').length
 
-  assert_equal Hash_X_Integer.zero, h
-  assert_equal Hash_X_Integer.zero, Hash_X_Integer.new
+  assert_equal true, Hash_X_Integer.zero == h
+  assert_equal true, Hash_X_Integer.zero == Hash_X_Integer.new
+  assert_equal true, Hash_X_Integer.zero == Hash_X_Integer.new_zero
 
   pp Hash_X_Integer.zero
   assert_equal true,   Hash_X_Integer.zero.frozen?
@@ -79,8 +80,8 @@ def test_voter
   pp h = Hash_X_Voter.new
 
   assert_equal Voter, Hash_X_Voter.klass_value
-  assert_equal Voter.zero, h['0x1111']
-  assert_equal Voter.zero, h['0x2222']
+  assert_equal true, Voter.zero == h['0x1111']
+  assert_equal true, Voter.zero == h['0x2222']
 
   h['0x1111'].voted = true
   h['0x2222'].voted = true
