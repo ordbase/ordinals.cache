@@ -4,7 +4,7 @@
 
 ### ClassMethods 
 
-- [ ] Auto-add `struct` class methdos also by default to Safe itself with extend.
+- [ ] Auto-add `struct` class methods also by default to Safe itself with extend.
 Possible to call extend with ClassMethods on Safe itself?
 
 Make this work "out-of-the-box":
