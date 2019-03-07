@@ -4,7 +4,24 @@ module Safe
 
 class SafeStruct
 
-def self.build_class( **attributes )
+
+def self.convert( arg )
+  ## note: for now only supports 0 for Vote(0) as Vote.zero shortcut
+  if arg == 0
+    zero
+  else
+    raise ArgumentError.new( "[SafeStruct] invalid argument #{arg} - cannot convert to #{name}" )
+  end
+end
+
+
+def self.build_class( class_name, **attributes )
+
+ ## todo/fix:
+ ## check if valid class_name MUST start with uppercase letter etc.
+ ##  todo/fix: check if constant is undefined in Safe namespace!!!!
+
+  
   klass = Class.new( SafeStruct ) do
     define_method( :initialize ) do |*args|
       attributes.keys.zip( args ).each do |key, arg|
@@ -82,7 +99,22 @@ def self.build_class( **attributes )
     old_new( *values )
   end
 
-  klass
+
+  ## note: use Object for "namespacing"
+  ##   make all enums convenience converters (always) global
+  ##     including uppercase methods (e.g. State(), Color(), etc.) does NOT work otherwise (with other module includes)
+
+  ## add global convenience converter function
+  ##  e.g. Vote(0) is same as Vote.convert(0)
+  Object.class_eval( <<RUBY )
+    def #{class_name}( arg )
+       #{class_name}.convert( arg )
+    end
+RUBY
+
+ ## note: use Safe (module) and NOT Object for namespacing
+ ##   use include Safe to make all structs global
+  Safe.const_set( class_name, klass )   ## returns klass (plus sets global constant class name)
 end # method build_class
 
 class << self

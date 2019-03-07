@@ -3,9 +3,12 @@
 require 'pp'
 require 'forwardable'     # uses def_delegator
 
+## 3rd party libs
+require 'enums'
 
 ## our own code
 require 'safestruct/version'    # note: let version always go first
+
 
 require 'safestruct/safe_array'
 require 'safestruct/safe_hash'
@@ -79,6 +82,17 @@ module Safe
   # note: HACK redefine built in struct in module Safe "context"
   ClassicStruct = ::Struct        ## save old classic struct class
   Struct        = SafeStruct
-end
+
+  module ClassMethods
+    ## add more convenience "constructor" methods
+    ##   e.g. struct 'Voter', { weight: 0, voted: false, vote: 0, delegate: '0x0000'}
+    ##    or  struct 'Voter', weight: 0, voted: false, vote: 0, delegate: '0x0000'
+    def struct( class_name, **attributes )
+      SafeStruct.new( class_name, attributes )
+    end
+  end # module ClassMethods
+end # module Safe
+
+
 
 puts Safe.banner    ## say hello

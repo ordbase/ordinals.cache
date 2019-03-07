@@ -8,52 +8,41 @@
 require 'helper'
 
 
+## note: require voter to avoid DUPLICATE definition (with undefined state/errors etc.)
+require_relative 'voter'
+
+
 class TestStruct < MiniTest::Test
 
 include Safe
 
-## sig: [Integer, Bool, Integer, Address]
-Voter = SafeStruct.new( weight: 0, voted: false, vote: 0, delegate: '0x0000' )
-
 ## sig: [Address, Integer, Integer, Money]
-Bet   = SafeStruct.new( user: '0x0000', block: 0, cap: 0, amount: 0 )
+## SafeStruct.new( 'Bet', user: '0x0000', block: 0, cap: 0, amount: 0 )
+struct :Bet,
+  user:   '0x0000',
+  block:  0,
+  cap:    0,
+  amount: 0
 
-
-
-### test with "real" enum
-class Enum
-  def initialize( key, value )
-    @key   = key
-    @value = value
-  end
-end
-
-class Winner < Enum
-  NONE       = new(:none, 0 )
-  DRAW       = new(:draw, 1 )
-  HOST       = new(:host, 2 )
-  CHALLENGER = new(:challenger, 3)
-
-  def self.none()       NONE;       end
-  def self.draw()       DRAW;       end
-  def self.host()       HOST;       end
-  def self.challenger() CHALLENGER; end
-
-  def none?()       self == NONE; end
-  def draw?()       self == DRAW; end
-  def host?()       self == HOST; end
-  def challenger?() self == CHALLENGER; end
-end
+## Enum.new( 'Winner', :none, :draw, :host, :challenger )
+enum :Winner, :none, :draw, :host, :challenger
 
 Board = Array_9_Integer = SafeArray.build_class( Integer, 3*3 )
 
 ## sig: [Address, Address, Address, Winner(Enum), Board(Array9)]
-Game = SafeStruct.new( host:       '0x0000',
-                       challenger: '0x0000',
-                       turn:       '0x0000',   ## address of host/ challenger
-                       winner:     Winner.none,
-                       board:      Board.zero
-                     )
+## SafeStruct.new( 'Game',
+##                  host:       '0x0000',
+##                  challenger: '0x0000',
+##                  turn:       '0x0000',   ## address of host/ challenger
+##                  winner:     Winner.none,  ## e.g. Winner(0)
+##                  board:      Board.zero)
+struct :Game,
+  host:       '0x0000',
+  challenger: '0x0000',
+  turn:       '0x0000',   ## address of host/ challenger
+  winner:     Winner.none,  ## e.g. Winner(0)
+  board:      Board.zero
+
 
 def test_voter
   assert_equal true,       Voter.zero.frozen?

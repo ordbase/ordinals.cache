@@ -4,6 +4,10 @@ module Safe
 
 class SafeHash
 
+  def self.debug?()      @debug ||= false; end
+  def self.debug=(value) @debug = value; end
+
+
   ## e.g.
   ##  Hash.of( Address => Money )
 
@@ -19,8 +23,16 @@ class SafeHash
     ## note: keep a class cache
     cache = @@cache ||= {}
     klass = cache[ klass_value ]
+    if debug?
+      puts "[debug] SafeHash - build_class klass_value:"
+      pp klass_value
+    end
 
     if klass.nil?
+      if debug?
+        puts "[debug] SafeHash - build_class new class (no cache hit)"
+      end
+
       klass = Class.new( SafeHash )
       klass.class_eval( <<RUBY )
         def self.klass_key
@@ -32,6 +44,11 @@ class SafeHash
 RUBY
       ## add to cache for later (re)use
       cache[ klass_value ] = klass
+    else
+      if debug?
+        puts "[debug] SafeHash - build_class bingo!! (re)use cached class:"
+        pp klass
+      end
     end
 
     klass

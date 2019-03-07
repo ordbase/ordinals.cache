@@ -8,12 +8,13 @@
 require 'helper'
 
 
+## note: require voter to avoid DUPLICATE definition (with undefined state/errors etc.)
+require_relative 'voter'
+
+
 class TestHash < MiniTest::Test
 
   include Safe
-
-  ## sig: [Integer, Bool, Integer, Address]
-  Voter = SafeStruct.new( weight: 0, voted: false, vote: 0, delegate: '0x0000' )
 
   Hash_X_Integer = SafeHash.build_class( String, Integer )
   Hash_X_Bool    = SafeHash.build_class( String, Bool )
@@ -21,6 +22,7 @@ class TestHash < MiniTest::Test
 
   ## nested e.g. String => (String => Integer)
   Hash_Hash_X_Integer = SafeHash.build_class( String, Hash_X_Integer )
+
 
 def test_integer
   pp Hash_X_Integer

@@ -61,7 +61,7 @@ Let's you define (auto-build) new struct classes.
 Example:
 
 ``` ruby
-Voter = SafeStruct.new( weight: 0, voted: false, vote: 0, delegate: '0x0000' )
+SafeStruct.new( 'Voter', weight: 0, voted: false, vote: 0, delegate: '0x0000' )
 
 voter1 = Voter.new    # or Voter.new_zero
 voter1.weight      #=> 0
@@ -71,6 +71,7 @@ voter1.delegate    #=> '0x0000'
 voter1.frozen?     #=> false
 
 voter1 == Voter.zero    #=> true
+voter1 == Voter(0)      #=> true
 
 voter1.delegate = '0x1111'
 voter1 == Voter.zero    #=> false
@@ -89,7 +90,20 @@ voter3 = Voter.new( 0 )  #=> ArgumentError: wrong number of arguments
 
 
 Note: You can use `Struct` as an alias for `SafeStruct`
-(in the `Safe` namespace / module context).
+(in the `Safe` namespace) or use the `struct`
+class method macro:
+
+``` ruby
+struct( 'Voter', weight: 0, voted: false, vote: 0, delegate: '0x0000')
+# or
+struct 'Voter', weight: 0, voted: false, vote: 0, delegate: '0x0000'
+# or
+struct 'Voter',
+  weight:    0,
+  voted:     false,
+  vote:      0,
+  delegate: '0x0000'
+```
 
 
 ### Safe Array
@@ -196,6 +210,23 @@ allowances['0x2222']['0xaaaa']  #=> 300
 allowances['0x2222'].delete( '0xaaaa' )
 allowances['0x2222']['0xaaaa']  #=> 0
 ```
+
+
+
+### What about Safe Enumeration (Integer) Types?
+
+Yes, yes, yes. The `Enum` class from the enums library gets auto-required.
+Use like:
+
+``` ruby
+Enum.new( 'Color', :red, :green, :blue )
+## or
+enum 'Color', :red, :green, :blue
+## or
+enum 'Color', [:red, :green, :blue]
+```
+
+See the [enums library documentation for more »](https://github.com/s6ruby/enums)
 
 
 
