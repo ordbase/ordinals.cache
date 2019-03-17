@@ -4,6 +4,8 @@
 
 ### ClassMethods 
 
+- [ ] use module Kernel for "global" converter functions plus use Kernel (and NOT object) for generated-"global" convert function too!!
+
 - [ ] Auto-add `struct` class methods also by default to Safe itself with extend.
 Possible to call extend with ClassMethods on Safe itself?
 
