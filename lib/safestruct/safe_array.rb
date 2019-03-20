@@ -18,14 +18,23 @@ class SafeArray
     if klass.nil?
 
       klass = Class.new( SafeArray )
-      klass.class_eval( <<RUBY )
-        def self.klass_value
-          @klass_value ||= #{klass_value}
-        end
-        def self.klass_size
-          @klass_size  ||= #{size}
-        end
-RUBY
+      klass.define_singleton_method( :klass_value ) do
+        @klass_value ||= klass_value
+      end
+      klass.define_singleton_method( :klass_size ) do
+        @klass_size  ||= size
+      end
+
+      ##### was: not working for anymous class e.g. klass_value.to_s => #<Class:>
+#      klass.class_eval( <<RUBY )
+#        def self.klass_value
+#          @klass_value ||= #{klass_value}
+#        end
+#        def self.klass_size
+#          @klass_size  ||= #{size}
+#        end
+# RUBY
+
       ## add to cache for later (re)use
       cache[ klass_value ][ size ] = klass
     end
@@ -35,6 +44,8 @@ RUBY
 
   def self.new_zero()  new;  end
   def self.zero()      @zero ||= new_zero.freeze;  end
+
+  def zero?()   self == self.class.zero; end
 
 
   def initialize( size=self.class.klass_size )
@@ -71,11 +82,11 @@ RUBY
       ## note: use a new unfrozen copy of the zero object
       ##    changes to the object MUST be possible (new "empty" modifable object expected)
       diff.times { @ary << self.class.klass_value.new_zero }
-   else  # assume value semantics e.g. Integer, Bool, etc. zero values gets replaced
+    else  # assume value semantics e.g. Integer, Bool, etc. zero values gets replaced
       ## puts "use value semantics"
       diff.times { @ary << self.class.klass_value.zero }
-   end
-   self  # return reference to self
+    end
+    self  # return reference to self
   end
   alias_method :'length=', :'size='
 

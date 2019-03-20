@@ -1,11 +1,18 @@
 # encoding: utf-8
 
 
-module Safe
+###
+# note: do not "pollute" Safe namespace / module
+#  use its own module
+#
+#  note: SafeStruct is already taken :-), thus, use SaferStruct
+
+
+module SaferStruct
 
   MAJOR = 1
   MINOR = 2
-  PATCH = 0
+  PATCH = 1
   VERSION = [MAJOR,MINOR,PATCH].join('.')
 
   def self.version
@@ -20,4 +27,4 @@ module Safe
     "#{File.expand_path( File.dirname(File.dirname(File.dirname(__FILE__))) )}"
   end
 
-end # module Safe
+end # module SaferStruct

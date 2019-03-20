@@ -19,19 +19,31 @@ require 'safestruct/safe_struct'
 ####################################
 ## add zero/zero_new machinery for builin classes
 
-#### value semantics
+#########################
+#### with value semantics
 class Integer
   def self.zero() 0; end      ## note: 0.frozen? == true  by default
+  def zero?() self == self.class.zero;  end
 end
 
 class Bool
   def self.zero() false; end   ## note: false.frozen? == true  by default
 end
 
-#### reference semantics (new copy ALWAYS needed)
+class TrueClass    # note: ruby has no builtin/default bool (base) class only TrueClass|FalseClass
+  def zero?() false; end
+end
+
+class FalseClass
+  def zero?() true; end
+end
+
+##################
+#### with reference semantics (new copy ALWAYS needed)
 class String
   def self.new_zero() new; end
   def self.zero() @zero ||= new_zero.freeze;  end
+  def zero?() self == self.class.zero; end
 end
 
 
@@ -90,9 +102,14 @@ module Safe
     def struct( class_name, **attributes )
       SafeStruct.new( class_name, attributes )
     end
+
+    ### note: do NOT add helpers for
+    ##   - hash( class_name, ...)  and
+    ##   - array( class_name, ...) for now
+    ##   why? why not? needs more testing/considerations for overloading / breaking builtin defaults
   end # module ClassMethods
 end # module Safe
 
 
 
-puts Safe.banner    ## say hello
+puts SaferStruct.banner    ## say hello

@@ -3,7 +3,7 @@ require './lib/safestruct/version.rb'
 
 Hoe.spec 'safestruct' do
 
-  self.version = Safe::VERSION
+  self.version = SaferStruct::VERSION
 
   self.summary = "safestruct - safe data structures (array, hash, struct) - say goodbye to null / nil (and maybe) - say hello to zero"
   self.description = summary

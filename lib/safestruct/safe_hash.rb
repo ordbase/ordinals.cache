@@ -26,6 +26,7 @@ class SafeHash
     if debug?
       puts "[debug] SafeHash - build_class klass_value:"
       pp klass_value
+      pp klass_value.to_s    ## note: for "anonymous" class something like #<Class:>
     end
 
     if klass.nil?
@@ -34,14 +35,24 @@ class SafeHash
       end
 
       klass = Class.new( SafeHash )
-      klass.class_eval( <<RUBY )
-        def self.klass_key
-          @klass_key   ||= #{klass_key}
-        end
-        def self.klass_value
-          @klass_value ||= #{klass_value}
-        end
-RUBY
+
+      klass.define_singleton_method( :klass_key ) do
+        @klass_key ||= klass_key
+      end
+      klass.define_singleton_method( :klass_value ) do
+        @klass_value ||= klass_value
+      end
+
+      ### was:  - NOT working for "anonymous" classes e.g. klass_value.to_s starting with #<Class:>
+      # klass.class_eval( <<RUBY )
+      #  def self.klass_key
+      #    @klass_key   ||= #{klass_key}
+      #  end
+      #  def self.klass_value
+      #    @klass_value ||= #{klass_value}
+      #  end
+# RUBY
+
       ## add to cache for later (re)use
       cache[ klass_value ] = klass
     else
@@ -57,6 +68,8 @@ RUBY
 
   def self.new_zero()  new;  end
   def self.zero()      @zero ||= new_zero.freeze;  end
+
+  def zero?() self == self.class.zero; end
 
 
   def initialize
@@ -100,11 +113,11 @@ RUBY
       if self.class.klass_value.respond_to?( :new_zero )
         ## note: use a dup(licated) unfrozen copy of the zero object
         ##    changes to the object MUST be possible (new "empty" modifable object expected)
-       item = @h[ key ] = self.class.klass_value.new_zero
-     else  # assume value semantics e.g. Integer, Bool, etc. zero values gets replaced
-       ## puts "use value semantics"
-       item = @h[ key ] = self.class.klass_value.zero
-     end
+        item = @h[ key ] = self.class.klass_value.new_zero
+      else  # assume value semantics e.g. Integer, Bool, etc. zero values gets replaced
+        ## puts "use value semantics"
+        item = @h[ key ] = self.class.klass_value.zero
+      end
     end
     item
   end

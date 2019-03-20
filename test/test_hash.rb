@@ -23,6 +23,20 @@ class TestHash < MiniTest::Test
   ## nested e.g. String => (String => Integer)
   Hash_Hash_X_Integer = SafeHash.build_class( String, Hash_X_Integer )
 
+  SafeStruct.new( :Game123, host:       '',
+                            challenger: '',
+                            turn:       '')
+
+def test_hash_of_hash
+  ## note: use Game123 (with unique/unused name)
+  ##   for testing an "anonymous" hash class (e.g. without a class name)
+   h = Hash.of( String => Hash.of( String => Game123 ))
+   pp h
+   h2 = Hash.of( String => Hash.of( String => Game123 ))
+   pp h2
+   assert true
+end
+
 
 def test_integer
   pp Hash_X_Integer
@@ -38,6 +52,11 @@ def test_integer
   assert_equal true, Hash_X_Integer.zero == h
   assert_equal true, Hash_X_Integer.zero == Hash_X_Integer.new
   assert_equal true, Hash_X_Integer.zero == Hash_X_Integer.new_zero
+
+  assert_equal true, h.zero?
+  assert_equal true, Hash_X_Integer.zero.zero?
+  assert_equal true, Hash_X_Integer.new.zero?
+  assert_equal true, Hash_X_Integer.new_zero.zero?
 
   pp Hash_X_Integer.zero
   assert_equal true,   Hash_X_Integer.zero.frozen?
