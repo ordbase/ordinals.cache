@@ -26,6 +26,7 @@ class Integer
   def zero?() self == self.class.zero;  end
 end
 
+
 class Bool
   def self.zero() false; end   ## note: false.frozen? == true  by default
 end
@@ -88,14 +89,21 @@ class Array
 end
 
 
-
-module Safe
+module Classic   ## use/add Unsafe alias too - why? why not?
   ############################
   # note: HACK redefine built in struct in module Safe "context"
-  ClassicStruct = ::Struct        ## save old classic struct class
-  Struct        = SafeStruct
+  Struct = ::Struct        ## save old classic struct class
 
-  module ClassMethods
+  ### add Hash and Array too - why? why not?
+end
+
+
+
+
+module Safe
+  Struct = SafeStruct
+
+  module SafeHelper
     ## add more convenience "constructor" methods
     ##   e.g. struct 'Voter', { weight: 0, voted: false, vote: 0, delegate: '0x0000'}
     ##    or  struct 'Voter', weight: 0, voted: false, vote: 0, delegate: '0x0000'
@@ -107,7 +115,7 @@ module Safe
     ##   - hash( class_name, ...)  and
     ##   - array( class_name, ...) for now
     ##   why? why not? needs more testing/considerations for overloading / breaking builtin defaults
-  end # module ClassMethods
+  end # module SafeHelper
 end # module Safe
 
 

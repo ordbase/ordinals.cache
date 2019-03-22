@@ -55,6 +55,19 @@ class SafeHash
 
       ## add to cache for later (re)use
       cache[ klass_value ] = klass
+
+      ## note: also add a Constant to Safe for easy debugging and (re)use - will "auto"name class
+      ##   note: use X for now for key class name
+      class_name = "Hash_X"
+
+      name = klass_value.name
+      name = name.sub( /\bSafe::/, '' )   ## remove safe module from name if present
+      name = name.gsub( '::', '' )        ## remove module separator if present
+      class_name << "_#{name}"
+      if debug?
+        puts "[debug] SafeHash - class_name >#{class_name}<"
+      end
+      Safe.const_set( class_name, klass )
     else
       if debug?
         puts "[debug] SafeHash - build_class bingo!! (re)use cached class:"
