@@ -61,7 +61,7 @@ Let's you define (auto-build) new struct classes.
 Example:
 
 ``` ruby
-SafeStruct.new( 'Voter', weight: 0, voted: false, vote: 0, delegate: '0x0000' )
+SafeStruct.new( :Voter, weight: 0, voted: false, vote: 0, delegate: '0x0000' )
 
 voter1 = Voter.new    # or Voter.new_zero
 voter1.weight      #=> 0
@@ -114,8 +114,8 @@ Let's you define (auto-build) new (type safe) array classes.
 Example:
 
 ``` ruby
-ArrayInteger = SafeArray.build_class( Integer )
-ary = ArrayInteger.new
+Array_Integer = SafeArray.build_class( Integer )
+ary = Array_Integer.new
 ary.size       #=> 0
 ary[0]         #=> IndexError: index 0 outside of array bounds
 ary.size = 2   #=> [0,0]
@@ -165,8 +165,8 @@ Let's you define (auto-build) new (type safe) hash classes.
 Example:
 
 ``` ruby
-Hash_X_Integer = SafeHash.build_class( String, Integer )
-hash = Hash_X_Integer.new
+Hash_String_x_Integer = SafeHash.build_class( String, Integer )
+hash = Hash_String_x_Integer.new
 
 hash['0x0000']  #=> 0
 ```
@@ -272,11 +272,11 @@ Yes, yes, yes. The `Enum` class from the enums library gets auto-required.
 Use like:
 
 ``` ruby
-Enum.new( 'Color', :red, :green, :blue )
+Enum.new( :Color, :red, :green, :blue )
 ## or
-enum 'Color', :red, :green, :blue
+enum :Color, :red, :green, :blue
 ## or
-enum 'Color', [:red, :green, :blue]
+enum :Color, [:red, :green, :blue]
 ```
 
 See the [enums library documentation for more »](https://github.com/s6ruby/enums)
