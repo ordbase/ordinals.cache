@@ -57,7 +57,7 @@ What's zero?
 
 ### Safe Struct
 
-Let's you define (auto-build) new struct classes.
+Lets you define (auto-build) new struct classes.
 Example:
 
 ``` ruby
@@ -110,7 +110,7 @@ struct :Voter,
 
 ### Safe Array
 
-Let's you define (auto-build) new (type safe) array classes.
+Lets you define (auto-build) new (type safe) array classes.
 Example:
 
 ``` ruby
@@ -161,7 +161,7 @@ ary[0].voted?  #=> false
 
 ### Safe Hash
 
-Let's you define (auto-build) new (type safe) hash classes.
+Lets you define (auto-build) new (type safe) hash classes.
 Example:
 
 ``` ruby
