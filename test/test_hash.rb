@@ -46,8 +46,8 @@ def test_integer
   assert_equal false, h.has_key?( '0x1111' )
 
   ## todo/fix: remove size and length for (safe) hash - why? why not?
-  assert_equal 0, h.instance_variable_get('@h').size
-  assert_equal 0, h.instance_variable_get('@h').length
+  assert_equal 0, h.instance_variable_get('@table').size
+  assert_equal 0, h.instance_variable_get('@table').length
 
   assert_equal true, Hash_X_Integer.zero == h
   assert_equal true, Hash_X_Integer.zero == Hash_X_Integer.new

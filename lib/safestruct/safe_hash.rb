@@ -7,6 +7,12 @@ class SafeHash
   def self.debug?()      @debug ||= false; end
   def self.debug=(value) @debug = value; end
 
+  ## let's you configure the class name used for auto-generation class constants
+  ##  e.g. use SafeHash.klass_name = 'Mapping' to rename from (default) 'Hash'
+  def self.klass_name()        @@klass_name ||= 'Hash'; end
+  def self.klass_name=(value)  @@klass_name = value; end
+
+
 
   ## e.g.
   ##  Hash.of( Address => Money )
@@ -22,9 +28,13 @@ class SafeHash
 
     ## note: keep a class cache
     cache = @@cache ||= {}
-    klass = cache[ klass_value ]
+    cache_all_values = cache[ klass_key ] ||= {}
+    klass = cache_all_values[ klass_value ]
+
     if debug?
-      puts "[debug] SafeHash - build_class klass_value:"
+      puts "[debug] SafeHash - build_class( klass_key, klass_value ):"
+      pp klass_key
+      pp klass_key.to_s    ## note: for "anonymous" class something like #<Class:>
       pp klass_value
       pp klass_value.to_s    ## note: for "anonymous" class something like #<Class:>
     end
@@ -54,16 +64,20 @@ class SafeHash
 # RUBY
 
       ## add to cache for later (re)use
-      cache[ klass_value ] = klass
+      cache[ klass_key ][ klass_value ] = klass
 
       ## note: also add a Constant to Safe for easy debugging and (re)use - will "auto"name class
-      ##   note: use X for now for key class name
-      class_name = "Hash_X"
+      class_name = "#{klass_name}"
 
-      name = klass_value.name
-      name = name.sub( /\bSafe::/, '' )   ## remove safe module from name if present
-      name = name.gsub( '::', '' )        ## remove module separator if present
-      class_name << "_#{name}"
+      key_name = klass_key.name
+      key_name = key_name.sub( /\bSafe::/, '' )   ## remove safe module from name if present
+      key_name = key_name.gsub( '::', '' )        ## remove module separator if present
+
+      value_name = klass_value.name
+      value_name = value_name.sub( /\bSafe::/, '' )   ## remove safe module from name if present
+      value_name = value_name.gsub( '::', '' )        ## remove module separator if present
+
+      class_name << "‹#{key_name}→#{value_name}›"
       if debug?
         puts "[debug] SafeHash - class_name >#{class_name}<"
       end
@@ -87,18 +101,18 @@ class SafeHash
 
   def initialize
     ## todo/check: if hash works if value is a (nested) hash
-    @h = {}
+    @table = {}
   end
 
   def freeze
     super
-    @h.freeze  ## note: pass on freeze to "wrapped" hash
+    @table.freeze  ## note: pass on freeze to "wrapped" hash
     self   # return reference to self
   end
 
   def ==( other )
-    if other.is_a?( self.class )                    ## note: must be same hash class
-      @h == other.instance_variable_get( '@h' )    ## compare "wrapped" hash
+    if other.is_a?( self.class )                    ## note: must be same hash (table) class
+      @table == other.instance_variable_get( '@table' )    ## compare "wrapped" hash
     else
       false
     end
@@ -109,11 +123,11 @@ class SafeHash
 
 
   def []=(key, value)
-    @h[key] = value
+    @table[key] = value
   end
 
   def [](key)
-    item = @h[ key ]
+    item = @table[ key ]
     if item.nil?
       ## pp self.class.klass_value
       ## pp self.class.klass_value.zero
@@ -126,17 +140,17 @@ class SafeHash
       if self.class.klass_value.respond_to?( :new_zero )
         ## note: use a dup(licated) unfrozen copy of the zero object
         ##    changes to the object MUST be possible (new "empty" modifable object expected)
-        item = @h[ key ] = self.class.klass_value.new_zero
+        item = @table[ key ] = self.class.klass_value.new_zero
       else  # assume value semantics e.g. Integer, Bool, etc. zero values gets replaced
         ## puts "use value semantics"
-        item = @h[ key ] = self.class.klass_value.zero
+        item = @table[ key ] = self.class.klass_value.zero
       end
     end
     item
   end
 
   extend Forwardable
-  def_delegators :@h, :has_key?, :key?, :delete, :clear
+  def_delegators :@table, :has_key?, :key?, :delete, :clear
 
   ## note:  remove size and length for (safe) hash (for now) - follows solidity convention - why? why not?
   ##   :size, :length,

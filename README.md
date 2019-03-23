@@ -94,11 +94,13 @@ Note: You can use `Struct` as an alias for `SafeStruct`
 class method macro:
 
 ``` ruby
-struct( 'Voter', weight: 0, voted: false, vote: 0, delegate: '0x0000')
+struct( :Voter, weight: 0, voted: false, vote: 0, delegate: '0x0000')
 # or
-struct 'Voter', weight: 0, voted: false, vote: 0, delegate: '0x0000'
+struct :Voter, { weight: 0, voted: false, vote: 0, delegate: '0x0000' }
 # or
-struct 'Voter',
+struct :Voter, weight: 0, voted: false, vote: 0, delegate: '0x0000'
+# or
+struct :Voter,
   weight:    0,
   voted:     false,
   vote:      0,
@@ -211,6 +213,57 @@ allowances['0x2222'].delete( '0xaaaa' )
 allowances['0x2222']['0xaaaa']  #=> 0
 ```
 
+### Bonus: Auto-Generated Unicode (UTF-8) Class Constants / Names for Pretty Printing
+
+Did you know? Yes, you can use unicode characters in your identifiers.
+The safe data structures library auto-generates unicode class constants / names
+for pretty printing and more. Examples:
+
+| Class Builder                          | Class Constant / Name |
+|----------------------------------------|-----------------------|
+| `Array.of( Integer )`                  | `Array‹Integer›` |
+| `Array.of( Bool )`                     | `Array‹Bool›`    |
+| `Array.of( Bool, 2 )`                  | `Array‹Bool›×2`  |
+| `Array.of( Vote )`                     | `Array‹Vote›`    |
+| `Array.of( Array.of( Integer, 3), 3 )` | `Array‹Array‹Integer›×3›×3`  |
+| `Hash.of( String => Integer )`         | `Hash‹String→Integer›`       |
+| `Hash.of( String => Vote )`            | `Hash‹String→Vote›`          |
+| `Hash.of( String => Hash.of( String => Integer ))` | `Hash‹String→Hash‹String→Integer››` |
+| ...                                                |                                     |
+
+
+Note, and yes if the typing is not too much - you can use
+the "magic" names in your code too. Example:
+
+``` ruby
+ary = Array‹Integer›.new
+ary.size       #=> 0
+ary[0]         #=> IndexError: index 0 outside of array bounds
+ary.size = 2   #=> [0,0]
+ary[0]         #=> 0
+
+# or
+
+another_ary = Array‹Bool›×2.new
+another_ary.size      #=> 2
+another_ary[0]        #=> false
+
+# or
+
+hash = Hash‹String→Integer›.new
+hash['0x0000']         #=> 0
+hash['0x0000'] += 42
+hash['0x0000']         #=> 42
+
+# or
+
+allowances = Hash‹String→Hash‹String→Integer››.new
+allowances['0x1111']['0xaaaa'] = 100
+allowances['0x1111']['0xbbbb'] = 200
+allowances['0x2222']['0xaaaa'] = 300
+```
+
+and so on.
 
 
 ### What about Safe Enumeration (Integer) Types?

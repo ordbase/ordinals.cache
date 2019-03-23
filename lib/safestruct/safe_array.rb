@@ -40,12 +40,12 @@ class SafeArray
 
       ## note: also add a Constant to Safe for easy debugging and (re)use - will "auto"name class
       class_name = "Array"
-      class_name << "#{size}"  if size > 0   ## add size if non-zero
 
       name = klass_value.name
       name = name.sub( /\bSafe::/, '' )   ## remove safe module from name if present
       name = name.gsub( '::', '' )        ## remove module separator if present
-      class_name << "_#{name}"
+      class_name << "‹#{name}›"
+      class_name << "×#{size}"  if size > 0   ## add size if non-zero
       Safe.const_set( class_name, klass )
     end
     klass

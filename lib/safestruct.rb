@@ -89,14 +89,15 @@ class Array
 end
 
 
-module Classic   ## use/add Unsafe alias too - why? why not?
+module Standard
   ############################
   # note: HACK redefine built in struct in module Safe "context"
   Struct = ::Struct        ## save old classic struct class
-
-  ### add Hash and Array too - why? why not?
+  Array  = ::Array
+  Hash   = ::Hash
 end
-
+## use/add Unsafe alias too - why? why not?
+Std = Standard ## add alias lets use you use Std::Struct,Std::Array, Std::Hash etc.
 
 
 
