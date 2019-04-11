@@ -114,8 +114,8 @@ Lets you define (auto-build) new (type safe) array classes.
 Example:
 
 ``` ruby
-Array_Integer = SafeArray.build_class( Integer )
-ary = Array_Integer.new
+Array‹Integer› = SafeArray.build_class( Integer )
+ary = Array‹Integer›.new   ## note: same as Integer[].new
 ary.size       #=> 0
 ary[0]         #=> IndexError: index 0 outside of array bounds
 ary.size = 2   #=> [0,0]
@@ -125,7 +125,7 @@ ary[0]         #=> 0
 or use the `Array.of` convenience shortcut:
 
 ``` ruby
-ary = Array.of( Integer )
+ary = Array.of( Integer ).new    ## note: same as Array‹Integer›.new or Integer[].new
 ary.size       #=> 0
 ary[0]         #=> IndexError: index 0 outside of array bounds
 ary.size = 2   #=> [0, 0]
@@ -133,7 +133,7 @@ ary[0]         #=> 0
 
 ## or
 
-another_ary = Array.of( Bool )
+another_ary = Array.of( Bool ).new    ## note: same as Array‹Bool›.new or Bool[].new
 another_ary.size      #=> 0
 another_ary[0]        #=> IndexError: index 0 outside of array bounds
 another_ary.size = 2  #=> [false, false]
@@ -141,7 +141,7 @@ another_ary[0]        #=> false
 
 ## or
 
-another_ary = Array.of( Bool, 2 )
+another_ary = Array.of( Bool, 2 ).new    ## note: same as Array‹Bool›×2.new or Bool[2].new
 another_ary.size      #=> 2
 another_ary[0]        #=> false
 ```
@@ -149,7 +149,7 @@ another_ary[0]        #=> false
 Yes, Safe Array works with structs (or nested arrays or hash mappings) too. Example:
 
 ``` ruby
-ary = Array.of( Vote )
+ary = Array.of( Vote ).new    # same as Array‹Vote›.new or Vote[].new
 
 ary[0]         #=> IndexError: index 0 outside of array bounds
 ary.size = 2   #=> [#<Vote @weight=0, @voted=false, @vote=0, @delegate='0x0000'>,
@@ -165,8 +165,8 @@ Lets you define (auto-build) new (type safe) hash classes.
 Example:
 
 ``` ruby
-Hash_String_x_Integer = SafeHash.build_class( String, Integer )
-hash = Hash_String_x_Integer.new
+Hash‹String→Integer› = SafeHash.build_class( String, Integer )
+hash = Hash‹String→Integer›.new
 
 hash['0x0000']  #=> 0
 ```
@@ -174,7 +174,7 @@ hash['0x0000']  #=> 0
 or use the `Hash.of` convenience shortcut:
 
 ``` ruby
-hash = Hash.of( String => Integer )
+hash = Hash.of( String => Integer ).new   ## note: same as Hash‹String→Integer›.new
 
 hash['0x0000']         #=> 0
 hash['0x0000'] += 42
@@ -190,7 +190,7 @@ Use `has_key?` or `key?` to check if a key is present (or missing).
 Yes, Safe Hash works with structs (or arrays or nested hash mappings) too. Example:
 
 ``` ruby
-hash = Hash.of( String => Vote )
+hash = Hash.of( String => Vote ).new    ## note: same as Hash‹String→Vote›.new
 
 hash['0x0000']                #=> #<Vote @weight=0, @voted=false, @vote=0, @delegate='0x0000'>
 hash['0x0000'].voted?         #=> false
@@ -199,7 +199,7 @@ hash['0x0000'].voted?         #=> true
 
 # or
 
-allowances = Hash.of( String => Hash.of( String => Integer ) )
+allowances = Hash.of( String => Hash.of( String => Integer ) ).new  ## note: same as Hash‹String→Hash‹String→Integer››.new 
 
 allowances['0x1111']['0xaaaa'] = 100
 allowances['0x1111']['0xbbbb'] = 200
