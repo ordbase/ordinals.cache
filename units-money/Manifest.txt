@@ -1,9 +1,0 @@
-CHANGELOG.md
-LICENSE.md
-Manifest.txt
-README.md
-Rakefile
-lib/units-money.rb
-lib/units-money/version.rb
-test/helper.rb
-test/test_units_money.rb
