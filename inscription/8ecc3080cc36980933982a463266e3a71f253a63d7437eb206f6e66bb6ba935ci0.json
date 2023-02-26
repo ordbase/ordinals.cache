@@ -1,0 +1,18 @@
+{
+  "title": "Inscription 582",
+  "id": "8ecc3080cc36980933982a463266e3a71f253a63d7437eb206f6e66bb6ba935ci0",
+  "address": "bc1q4cmhrpx7k6pkhytyks75vxq7dwvk0r6v3undnp",
+  "output value": "8020",
+  "sat": "1883186434695496",
+  "preview": "link",
+  "content": "link",
+  "content length": "367 bytes",
+  "content type": "image/png",
+  "timestamp": "2023-02-01 15:54:57 UTC",
+  "genesis height": "774595",
+  "genesis fee": "4540",
+  "genesis transaction": "8ecc3080cc36980933982a463266e3a71f253a63d7437eb206f6e66bb6ba935c",
+  "location": "6191b4557ee5b24630deeafba138b390b82cc6e12ff2796b6db379a74091a609:0:0",
+  "output": "6191b4557ee5b24630deeafba138b390b82cc6e12ff2796b6db379a74091a609:0",
+  "offset": "0"
+}

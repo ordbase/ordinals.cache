@@ -1,0 +1,18 @@
+{
+  "title": "Inscription 595",
+  "id": "41bce6e1ad0265c7a0a1157a775f955d8b55b165cda13e946b1d115c326294dai0",
+  "address": "bc1ql7ymlc2udl3kud9zj865dstk58rgwdggyjtmx0",
+  "output value": "8020",
+  "sat": "1527376859426067",
+  "preview": "link",
+  "content": "link",
+  "content length": "373 bytes",
+  "content type": "image/png",
+  "timestamp": "2023-02-01 16:32:16 UTC",
+  "genesis height": "774599",
+  "genesis fee": "4560",
+  "genesis transaction": "41bce6e1ad0265c7a0a1157a775f955d8b55b165cda13e946b1d115c326294da",
+  "location": "9779dcbe47c8378ad783af5adad96dc50c95fa84d6b5acccf15ac7697341eef6:0:0",
+  "output": "9779dcbe47c8378ad783af5adad96dc50c95fa84d6b5acccf15ac7697341eef6:0",
+  "offset": "0"
+}

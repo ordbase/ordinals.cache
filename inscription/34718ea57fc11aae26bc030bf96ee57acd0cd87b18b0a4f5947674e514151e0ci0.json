@@ -1,0 +1,18 @@
+{
+  "title": "Inscription 472",
+  "id": "34718ea57fc11aae26bc030bf96ee57acd0cd87b18b0a4f5947674e514151e0ci0",
+  "address": "bc1p73fk9na4vzagp2z28rq9hrutn42fvwzk60y22xtk0nvchm6h7rjsh5ftq7",
+  "output value": "4007762",
+  "sat": "1440861820765832",
+  "preview": "link",
+  "content": "link",
+  "content length": "501 bytes",
+  "content type": "image/png",
+  "timestamp": "2023-02-01 03:55:44 UTC",
+  "genesis height": "774531",
+  "genesis fee": "5200",
+  "genesis transaction": "34718ea57fc11aae26bc030bf96ee57acd0cd87b18b0a4f5947674e514151e0c",
+  "location": "9dd0df11ba67cf63ea985a04ce46b35e4b68ce1f9dafbefb2562d9795d6d1ab4:0:2000000",
+  "output": "9dd0df11ba67cf63ea985a04ce46b35e4b68ce1f9dafbefb2562d9795d6d1ab4:0",
+  "offset": "2000000"
+}

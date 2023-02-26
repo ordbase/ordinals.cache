@@ -1,0 +1,18 @@
+{
+  "title": "Inscription 414",
+  "id": "2fe9bb034f60db694701acb23a76c3d7d5aba4328dbd315764f6ee406ba41786i0",
+  "address": "bc1qcg0vjhnqtcap6zhk97pj8vs88z4qv477u864ng",
+  "output value": "8020",
+  "sat": "1883186433837517",
+  "preview": "link",
+  "content": "link",
+  "content length": "520 bytes",
+  "content type": "image/png",
+  "timestamp": "2023-01-31 20:42:21 UTC",
+  "genesis height": "774496",
+  "genesis fee": "5300",
+  "genesis transaction": "2fe9bb034f60db694701acb23a76c3d7d5aba4328dbd315764f6ee406ba41786",
+  "location": "75581dc376fe9f12fdc6d7b60e95b803c54757952976b2a891dd1264f8987f90:0:0",
+  "output": "75581dc376fe9f12fdc6d7b60e95b803c54757952976b2a891dd1264f8987f90:0",
+  "offset": "0"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Inscription 415",
+  "id": "dcfa240f2681d1e4a8948120a3a64567262e3c78d5497cb4e97351bfa836b638i0",
+  "address": "bc1qcg0vjhnqtcap6zhk97pj8vs88z4qv477u864ng",
+  "output value": "8020",
+  "sat": "1883186433852817",
+  "preview": "link",
+  "content": "link",
+  "content length": "424 bytes",
+  "content type": "image/png",
+  "timestamp": "2023-01-31 21:08:45 UTC",
+  "genesis height": "774497",
+  "genesis fee": "4820",
+  "genesis transaction": "dcfa240f2681d1e4a8948120a3a64567262e3c78d5497cb4e97351bfa836b638",
+  "location": "e915bf171a85572346664f2a1e574c3ac6dd698dcabe600feafcbe1066aea840:0:0",
+  "output": "e915bf171a85572346664f2a1e574c3ac6dd698dcabe600feafcbe1066aea840:0",
+  "offset": "0"
+}
