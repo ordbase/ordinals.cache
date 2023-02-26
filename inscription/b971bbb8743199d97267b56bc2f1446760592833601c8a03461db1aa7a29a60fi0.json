@@ -1,0 +1,18 @@
+{
+  "title": "Inscription 1252",
+  "id": "b971bbb8743199d97267b56bc2f1446760592833601c8a03461db1aa7a29a60fi0",
+  "address": "bc1pk5eghyprf6glppztqyc3f96qfnhwapqqjcz958034ave9ssx5vssg6f8sq",
+  "output value": "9556",
+  "sat": "1814869647575219",
+  "preview": "link",
+  "content": "link",
+  "content length": "37695 bytes",
+  "content type": "image/jpeg",
+  "timestamp": "2023-02-03 06:53:57 UTC",
+  "genesis height": "774836",
+  "genesis fee": "19226",
+  "genesis transaction": "b971bbb8743199d97267b56bc2f1446760592833601c8a03461db1aa7a29a60f",
+  "location": "e95ad08f940edcc16492aef5baab94ccbd9908aded94b7da019037249d6ba162:0:0",
+  "output": "e95ad08f940edcc16492aef5baab94ccbd9908aded94b7da019037249d6ba162:0",
+  "offset": "0"
+}
