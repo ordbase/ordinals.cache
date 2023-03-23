@@ -1,0 +1,18 @@
+{
+  "title": "Inscription 0",
+  "id": "6fb976ab49dcec017f1e201e84395983204ae1a7c2abf7ced0a85d692e442799i0",
+  "address": "bc1qv8zhcjzpjw4m4tdyc5zn3dmax0z6rr6l78fevg",
+  "output value": "9678",
+  "sat": "1252201400444387",
+  "preview": "link",
+  "content": "link",
+  "content length": "793 bytes",
+  "content type": "image/png",
+  "timestamp": "2022-12-14 20:32:00 UTC",
+  "genesis height": "767430",
+  "genesis fee": "322",
+  "genesis transaction": "6fb976ab49dcec017f1e201e84395983204ae1a7c2abf7ced0a85d692e442799",
+  "location": "6fb976ab49dcec017f1e201e84395983204ae1a7c2abf7ced0a85d692e442799:0:0",
+  "output": "6fb976ab49dcec017f1e201e84395983204ae1a7c2abf7ced0a85d692e442799:0",
+  "offset": "0"
+}
