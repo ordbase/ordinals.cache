@@ -1,0 +1,17 @@
+{
+  "title": "Inscription 400",
+  "id": "81b02ce6f896799a8d8617ce8ee2f074dd411b578378ca930e75a4be27d5545di0",
+  "address": "ltc1qfrjvdh239r5lak3cx4fq3x44r7evcgjlaxjf3y",
+  "output value": "10000",
+  "preview": "link",
+  "content": "link",
+  "content length": "2 bytes",
+  "content type": "text/plain;charset=utf-8",
+  "timestamp": "2023-02-21 02:23:26 UTC",
+  "genesis height": "2426119",
+  "genesis fee": "420",
+  "genesis transaction": "81b02ce6f896799a8d8617ce8ee2f074dd411b578378ca930e75a4be27d5545d",
+  "location": "81b02ce6f896799a8d8617ce8ee2f074dd411b578378ca930e75a4be27d5545d:0:0",
+  "output": "81b02ce6f896799a8d8617ce8ee2f074dd411b578378ca930e75a4be27d5545d:0",
+  "offset": "0"
+}
