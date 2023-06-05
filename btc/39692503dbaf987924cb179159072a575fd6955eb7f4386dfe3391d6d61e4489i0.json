@@ -1,0 +1,18 @@
+{
+  "title": "Inscription 9993801",
+  "id": "39692503dbaf987924cb179159072a575fd6955eb7f4386dfe3391d6d61e4489i0",
+  "address": "bc1pafkxrclfpv84ycqeughrsr4p4v3vyzlgzqg5uulsnqrsskgu8jash3cdwf",
+  "output value": "546",
+  "sat": "1313762673965685",
+  "preview": "link",
+  "content": "link",
+  "content length": "63 bytes",
+  "content type": "text/plain;charset=utf-8",
+  "timestamp": "2023-05-29 21:31:38 UTC",
+  "genesis height": "792008",
+  "genesis fee": "5115",
+  "genesis transaction": "39692503dbaf987924cb179159072a575fd6955eb7f4386dfe3391d6d61e4489",
+  "location": "39692503dbaf987924cb179159072a575fd6955eb7f4386dfe3391d6d61e4489:0:0",
+  "output": "39692503dbaf987924cb179159072a575fd6955eb7f4386dfe3391d6d61e4489:0",
+  "offset": "0"
+}

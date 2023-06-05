@@ -1,0 +1,18 @@
+{
+  "title": "Inscription 9989729",
+  "id": "8330512cc1b08f2c844e6be7a73f133044094942ada31c84033508eb1cd548cei0",
+  "address": "bc1pm64t0uwpyeddnpp4xlpx29506tvu9d87rq3fdejakxdsek9vv95sl0h0f9",
+  "output value": "546",
+  "sat": "1666132465003499",
+  "preview": "link",
+  "content": "link",
+  "content length": "15 bytes",
+  "content type": "text/plain;charset=utf-8",
+  "timestamp": "2023-05-29 21:01:56 UTC",
+  "genesis height": "792002",
+  "genesis fee": "11440",
+  "genesis transaction": "8330512cc1b08f2c844e6be7a73f133044094942ada31c84033508eb1cd548ce",
+  "location": "8330512cc1b08f2c844e6be7a73f133044094942ada31c84033508eb1cd548ce:0:0",
+  "output": "8330512cc1b08f2c844e6be7a73f133044094942ada31c84033508eb1cd548ce:0",
+  "offset": "0"
+}
