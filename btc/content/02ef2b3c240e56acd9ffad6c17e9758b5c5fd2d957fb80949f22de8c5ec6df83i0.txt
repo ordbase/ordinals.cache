@@ -1,0 +1,9 @@
+{
+	"p": "orc-721",
+	"op": "deploy",
+	"slug": "diycoolcats",
+	"name": "D.I.Y. Cool Cats",
+	"max": 721,
+	"dim": "24x24",
+	"generative": "3d9f89d725cff85b8ed2f1be57adab3ecb96efb4ee50c7f197efbe3862c325eei0"
+}
