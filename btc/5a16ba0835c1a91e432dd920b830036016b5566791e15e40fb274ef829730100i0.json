@@ -1,0 +1,18 @@
+{
+  "title": "Inscription 10254695",
+  "id": "5a16ba0835c1a91e432dd920b830036016b5566791e15e40fb274ef829730100i0",
+  "address": "bc1pfj0vmsjagk3y202wauwyqmr75mcnrr9fs6n64u2al3sqjkcnpdksxg3gwh",
+  "output value": "546",
+  "sat": "1917390209992012",
+  "preview": "link",
+  "content": "link",
+  "content length": "56 bytes",
+  "content type": "text/plain;charset=utf-8",
+  "timestamp": "2023-05-31 06:04:30 UTC",
+  "genesis height": "792202",
+  "genesis fee": "8316",
+  "genesis transaction": "5a16ba0835c1a91e432dd920b830036016b5566791e15e40fb274ef829730100",
+  "location": "5a16ba0835c1a91e432dd920b830036016b5566791e15e40fb274ef829730100:0:0",
+  "output": "5a16ba0835c1a91e432dd920b830036016b5566791e15e40fb274ef829730100:0",
+  "offset": "0"
+}
