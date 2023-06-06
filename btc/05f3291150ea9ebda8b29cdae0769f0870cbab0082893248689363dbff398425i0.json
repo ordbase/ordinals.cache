@@ -1,0 +1,18 @@
+{
+  "title": "Inscription 10308631",
+  "id": "05f3291150ea9ebda8b29cdae0769f0870cbab0082893248689363dbff398425i0",
+  "address": "bc1plh5qm7qgxfyfvkxnf8uvu04t56huw0cffa0qzk6nlpa0t00qezesx48tr6",
+  "output value": "546",
+  "sat": "240805389979039",
+  "preview": "link",
+  "content": "link",
+  "content length": "62 bytes",
+  "content type": "text/plain;charset=utf-8",
+  "timestamp": "2023-05-31 12:30:35 UTC",
+  "genesis height": "792253",
+  "genesis fee": "7254",
+  "genesis transaction": "05f3291150ea9ebda8b29cdae0769f0870cbab0082893248689363dbff398425",
+  "location": "05f3291150ea9ebda8b29cdae0769f0870cbab0082893248689363dbff398425:0:0",
+  "output": "05f3291150ea9ebda8b29cdae0769f0870cbab0082893248689363dbff398425:0",
+  "offset": "0"
+}
