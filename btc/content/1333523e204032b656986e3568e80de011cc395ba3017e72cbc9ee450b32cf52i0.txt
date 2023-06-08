@@ -1,0 +1,7 @@
+{"op": "deploy",
+  "slug": "diyordibots",
+  "name": "D.I.Y. Ordibots",
+  "max": 1000,
+  "dim": "32x32",
+  "generative": "477e87bc55d33a1698024e12af7357e5f5d5e5fba2bc8aadc0a71d83776cb70ai0"
+}

@@ -1,0 +1,21 @@
+{
+    "p": "orc-721",
+    "op": "deploy",
+    "slug": "diyordibots",
+    "name": "D.I.Y. Ordibots",
+    "max": 1000,
+    "dim": "32x32",
+    "generative": "<spritesheet/art layers inscription id here>"
+}
+{
+   "p":"orc-721",
+   "op":"mint",
+   "s":"diyordibots",
+   "g": [2,4,15,23,9]
+}
+{
+   "p":"orc-721",
+   "op":"mint",
+   "s":"diyordibots",
+   "g": [0,5,13,20,8]
+}

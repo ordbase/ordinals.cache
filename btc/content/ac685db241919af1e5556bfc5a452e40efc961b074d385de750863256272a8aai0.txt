@@ -1,0 +1,9 @@
+{
+    "p": "orc-721",
+    "op": "deploy",
+    "slug": "btcwords",
+    "name": "Words on Bitcoin",
+    "max": 1000,
+    "dim": "102x32",
+    "generative": "c1805b21d5fb0be5d310d964735333f7ae806377220e0aa6e8147522199a306ei0"
+}
