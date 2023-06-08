@@ -1,0 +1,9 @@
+{
+"p":"orc-721",
+"op":"deploy”,
+"slug":"diyordibots-v2",
+"name":"D.I.Y. Ordibots V2",
+"max":999,
+"dim":"32x32",
+"generative":"477e87bc55d33a1698024e12af7357e5f5d5e5fba2bc8aadc0a71d83776cb"
+}

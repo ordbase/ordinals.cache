@@ -1,0 +1,5 @@
+{"p":"orc-721","op":"mint","s":"diyordibots-v2","g":[1,5,14,21,11]}
+{"p":"orc-721","op":"mint","s":"diyordibots-v2","g":[1,8,14,22,11]}
+{"p":"orc-721","op":"mint","s":"diyordibots-v2","g":[1,5,14,24,18]}
+{"p":"orc-721","op":"mint","s":"diyordibots-v2","g":[1,5,14,23,14]}
+{"p":"orc-721","op":"mint","s":"diyordibots-v2","g":[1,5,11,24,11]}
