@@ -1,0 +1,1 @@
+{"p":"orc-721","op":"mint","s":"diypunks-v2","g":[58, Bitcoin Orange,  Background,  3, Zombie, Base, 27, Crazy Red Hair, Hair, 17, Cowboy Hat, Headwear, 34, Heart Shades,    Eyewear,40, Chinstrap, Beards, 43, Frown,  Mouth, 50, Cigarette, Mouth Props , 54, Earring,   Jewelery,57, Hoodie, Clothes]}

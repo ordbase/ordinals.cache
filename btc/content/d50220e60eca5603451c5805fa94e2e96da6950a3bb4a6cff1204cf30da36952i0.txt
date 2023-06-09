@@ -1,0 +1,1 @@
+{"p":"orc-721","op":"mint","s":"diypunks-v2","g":[58, Bitcoin Orange,  Background,8, Mummy, Base,22, Messy Black Hair, Hair,15, Cap McD Red,   Headwear,35, Eye Mask,    Eyewear,40, Chinstrap, Beards,43, Frown,  Mouth,45, Spots, Face,47, Clown Nose, Nose,48, Demon Horns, More,51, Cigar, Mouth Props,55, Gold Chain, Jewelery,57, Hoodie, Clothes]}

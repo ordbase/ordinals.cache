@@ -1,0 +1,18 @@
+{
+  "title": "Inscription 10313204",
+  "id": "00882e3ebab7fc255971b91af28acaea5b544da9bdf6fc289de37bd22db7250ci0",
+  "address": "bc1qlu49zar74f2rcnh5982nee9axx0r72emwa2daf",
+  "output value": "546",
+  "sat": "1396728766344235",
+  "preview": "link",
+  "content": "link",
+  "content length": "74 bytes",
+  "content type": "text/plain;charset=utf-8",
+  "timestamp": "2023-05-31 13:11:51 UTC",
+  "genesis height": "792257",
+  "genesis fee": "6132",
+  "genesis transaction": "00882e3ebab7fc255971b91af28acaea5b544da9bdf6fc289de37bd22db7250c",
+  "location": "00882e3ebab7fc255971b91af28acaea5b544da9bdf6fc289de37bd22db7250c:0:0",
+  "output": "00882e3ebab7fc255971b91af28acaea5b544da9bdf6fc289de37bd22db7250c:0",
+  "offset": "0"
+}

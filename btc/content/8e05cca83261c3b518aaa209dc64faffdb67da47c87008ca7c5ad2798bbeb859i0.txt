@@ -1,0 +1,1 @@
+{"p":"orc-721","op":"mint","s":"diypunks-v2","g":[59, Bitcoin Pattern, Background，4, Ape, Base，28, Red Mohawk, Hair，17, Cowboy Hat,   Headwear，36, Eye Patch,    Eyewear，41, Goatie, Beards，44, Smile,  Mouth，46, Mole, Face，47, Clown Nose, Nose，48, Demon Horns, More，51, Cigar, Mouth Props，56, Silver Chain, Jewelery，57, Hoodie, Clothes]}
