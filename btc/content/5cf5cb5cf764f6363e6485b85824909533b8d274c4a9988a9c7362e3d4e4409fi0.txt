@@ -1,0 +1,9 @@
+{
+	"p": "orc-721",
+	"op": "deploy",
+	"slug": "diybirdies",
+	"name": "D.I.Y. Birdies",
+	"max": 721,
+	"dim": "24x24",
+	"generative": "02f325b9333a61aeaabf7405205d99ea311014ded42dd97c590d9459400c1d11i0"
+}
