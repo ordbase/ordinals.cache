@@ -1,0 +1,9 @@
+{
+    "p": "orc-721",
+    "op": "deploy",
+    "slug": "orangepixels",
+    "name": "Orange Pixels",
+    "max": 100,
+    "dim": "24x24",
+    "generative": "c0a4f0a19765b944bfea57cb51105a76e1c6a724a533ed46a288059dc9a2a963i0"
+}
