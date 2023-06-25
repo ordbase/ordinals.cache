@@ -1,0 +1,5 @@
+og deploy diyphunks
+name: D.I.Y. Phunks
+max: 100
+dim: 24x24
+dd91c8b33dd19ccd8410e54c2099bfd50d4f777a186ee974fe4c15420c42ea0fi0
