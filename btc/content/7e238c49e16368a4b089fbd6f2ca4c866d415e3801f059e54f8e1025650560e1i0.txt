@@ -1,0 +1,5 @@
+og deploy diymaxibiz
+name: D.I.Y. Maxi Biz (Punks)
+max: 100
+dim: 24x24
+ad56d4f242677ac334844002f1c27b9b636ba71f68590cdc0cc5a2cbce080990i0
