@@ -1,0 +1,18 @@
+{
+  "title": "Inscription 12723304",
+  "id": "b268b2acccd6b04680c2aa3130863ffbaa450f6870f100af678428cd07212ef6i0",
+  "address": "bc1p8c633u900pdreu2v4sqwlzp2ya3nqe76rdctzd8y4ty5fsgtn7aqgv60hu",
+  "output value": "546",
+  "sat": "1412547983897370",
+  "preview": "link",
+  "content": "link",
+  "content length": "136 bytes",
+  "content type": "image/png",
+  "timestamp": "2023-06-19 04:42:04 UTC",
+  "genesis height": "795002",
+  "genesis fee": "2040",
+  "genesis transaction": "b268b2acccd6b04680c2aa3130863ffbaa450f6870f100af678428cd07212ef6",
+  "location": "b268b2acccd6b04680c2aa3130863ffbaa450f6870f100af678428cd07212ef6:0:0",
+  "output": "b268b2acccd6b04680c2aa3130863ffbaa450f6870f100af678428cd07212ef6:0",
+  "offset": "0"
+}
