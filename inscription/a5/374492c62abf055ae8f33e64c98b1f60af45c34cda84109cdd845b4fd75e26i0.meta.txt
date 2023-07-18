@@ -1,0 +1,14 @@
+title: Inscription 8707
+id: a5374492c62abf055ae8f33e64c98b1f60af45c34cda84109cdd845b4fd75e26i0
+address: bc1pct8t42vyal65qu970kjzwrxerlgkgaaqv2j8d6pkr3fzaznnfp0sn36wqk
+output-value: 10000
+sat: 1670324938854109
+content-length: 337 bytes
+content-type: image/png
+timestamp: 2023-02-06 23:17:45 UTC
+genesis-height: 775362
+genesis-fee: 1095
+genesis-transaction: a5374492c62abf055ae8f33e64c98b1f60af45c34cda84109cdd845b4fd75e26
+location: a5374492c62abf055ae8f33e64c98b1f60af45c34cda84109cdd845b4fd75e26:0:0
+output: a5374492c62abf055ae8f33e64c98b1f60af45c34cda84109cdd845b4fd75e26:0
+offset: 0

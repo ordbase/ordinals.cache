@@ -1,0 +1,14 @@
+title: Inscription 1054
+id: cf38415b6569ceaa2e86be4061608511c6f3805d69b3ac89662c93036ff7d728i0
+address: bc1pj72t6m5szddm9h2cm6vqrhd2z0fl6ujss88g57uqg755qt3uu7xsnl42ct
+output-value: 9672
+sat: 1924648667634302
+content-length: 36281 bytes
+content-type: image/jpeg
+timestamp: 2023-02-02 09:51:12 UTC
+genesis-height: 774713
+genesis-fee: 19440
+genesis-transaction: cf38415b6569ceaa2e86be4061608511c6f3805d69b3ac89662c93036ff7d728
+location: 854c7e1970765098c23cf0b2a09f1156a44e98b8bba13e963188043818b8da8e:0:0
+output: 854c7e1970765098c23cf0b2a09f1156a44e98b8bba13e963188043818b8da8e:0
+offset: 0

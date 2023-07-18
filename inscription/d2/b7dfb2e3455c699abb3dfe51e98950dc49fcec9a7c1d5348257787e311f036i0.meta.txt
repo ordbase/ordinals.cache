@@ -1,0 +1,14 @@
+title: Inscription 10344141
+id: d2b7dfb2e3455c699abb3dfe51e98950dc49fcec9a7c1d5348257787e311f036i0
+address: bc1p8s9xhr5h6r0vfwgpw67cw3rxrcmrgceh64mxeg8j76j2qcjc4egs4s67vm
+output-value: 546
+sat: 831330402985380
+content-length: 81 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 20:00:15 UTC
+genesis-height: 792299
+genesis-fee: 16808
+genesis-transaction: d2b7dfb2e3455c699abb3dfe51e98950dc49fcec9a7c1d5348257787e311f036
+location: d2b7dfb2e3455c699abb3dfe51e98950dc49fcec9a7c1d5348257787e311f036:0:0
+output: d2b7dfb2e3455c699abb3dfe51e98950dc49fcec9a7c1d5348257787e311f036:0
+offset: 0

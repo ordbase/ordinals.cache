@@ -1,0 +1,14 @@
+title: Inscription 605
+id: c3c9bcea83fd38976bc67ea1b1ddf34f9b62def3d494d287c6aeae28cc7ccb9ci0
+address: bc1pwkr8puxmw8xmy5nvl8cl4fl32mcruryta6zy4uvcej43uqag9prqs9zg9h
+output-value: 2892
+sat: 500358283087463
+content-length: 349 bytes
+content-type: image/png
+timestamp: 2023-02-01 17:40:32 UTC
+genesis-height: 774606
+genesis-fee: 4440
+genesis-transaction: c3c9bcea83fd38976bc67ea1b1ddf34f9b62def3d494d287c6aeae28cc7ccb9c
+location: 78ef713466141b85389acbf3ee8ceaee15b77569c16c731c76d80c63a031031f:0:0
+output: 78ef713466141b85389acbf3ee8ceaee15b77569c16c731c76d80c63a031031f:0
+offset: 0

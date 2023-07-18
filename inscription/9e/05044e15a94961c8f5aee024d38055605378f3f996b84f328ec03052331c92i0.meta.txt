@@ -1,0 +1,14 @@
+title: Inscription 10067227
+id: 9e05044e15a94961c8f5aee024d38055605378f3f996b84f328ec03052331c92i0
+address: bc1pzhf8cjfxztgsheuqd8wxqlf5m7fccf0y0h025cq7ldlaatkz2hqslpxc64
+output-value: 546
+sat: 1500150438213822
+content-length: 59 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-30 04:49:37 UTC
+genesis-height: 792048
+genesis-fee: 16320
+genesis-transaction: 9e05044e15a94961c8f5aee024d38055605378f3f996b84f328ec03052331c92
+location: 9e05044e15a94961c8f5aee024d38055605378f3f996b84f328ec03052331c92:0:0
+output: 9e05044e15a94961c8f5aee024d38055605378f3f996b84f328ec03052331c92:0
+offset: 0

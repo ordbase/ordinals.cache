@@ -1,0 +1,14 @@
+title: Inscription 10066398
+id: fabd9da405dffea336196bb911b4911359a28bf6170691dee97300f8a09d9a8ai0
+address: bc1pn00p0vrez0sfuq08a5xj8h6zxzkc7lj5j0refgy2m975cxasgnds2mkfx4
+output-value: 2364
+sat: 1499089971150384
+content-length: 68 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-30 04:49:37 UTC
+genesis-height: 792048
+genesis-fee: 10271
+genesis-transaction: fabd9da405dffea336196bb911b4911359a28bf6170691dee97300f8a09d9a8a
+location: fabd9da405dffea336196bb911b4911359a28bf6170691dee97300f8a09d9a8a:0:0
+output: fabd9da405dffea336196bb911b4911359a28bf6170691dee97300f8a09d9a8a:0
+offset: 0

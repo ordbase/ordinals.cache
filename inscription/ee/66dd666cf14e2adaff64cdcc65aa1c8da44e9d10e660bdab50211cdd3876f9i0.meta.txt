@@ -1,0 +1,14 @@
+title: Inscription 10016546
+id: ee66dd666cf14e2adaff64cdcc65aa1c8da44e9d10e660bdab50211cdd3876f9i0
+address: bc1pte60q644yv9pegq5p2u39ej75mvalyfy28h9ljsl8m9xu2as3yeqca8337
+output-value: 546
+sat: 1259486000499152
+content-length: 56 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-29 23:49:13 UTC
+genesis-height: 792019
+genesis-fee: 8008
+genesis-transaction: ee66dd666cf14e2adaff64cdcc65aa1c8da44e9d10e660bdab50211cdd3876f9
+location: ee66dd666cf14e2adaff64cdcc65aa1c8da44e9d10e660bdab50211cdd3876f9:0:0
+output: ee66dd666cf14e2adaff64cdcc65aa1c8da44e9d10e660bdab50211cdd3876f9:0
+offset: 0

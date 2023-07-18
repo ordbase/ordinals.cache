@@ -1,0 +1,14 @@
+title: Inscription 4765
+id: 0af7b218d73356509907f40a322353a5f90906e120b1b9bfebcc30ce97c515ebi0
+address: bc1ph4squvef3yaqdpjgtwc4gmqy86t2lypmzl8xqjdp8q9vnldryfmquan4jd
+output-value: 9556
+sat: 626823059342493
+content-length: 55266 bytes
+content-type: image/jpeg
+timestamp: 2023-02-05 15:55:26 UTC
+genesis-height: 775180
+genesis-fee: 14031
+genesis-transaction: 0af7b218d73356509907f40a322353a5f90906e120b1b9bfebcc30ce97c515eb
+location: 0c530c2dd84572e7931498300bc26410681591572962bca41af813d868e28f99:0:0
+output: 0c530c2dd84572e7931498300bc26410681591572962bca41af813d868e28f99:0
+offset: 0

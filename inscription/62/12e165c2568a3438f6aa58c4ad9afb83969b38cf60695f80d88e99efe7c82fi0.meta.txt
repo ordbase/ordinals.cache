@@ -1,0 +1,14 @@
+title: Inscription 10368663
+id: 6212e165c2568a3438f6aa58c4ad9afb83969b38cf60695f80d88e99efe7c82fi0
+address: bc1pem7dxv6d8u2ffst6rtcugvp2ucglyta96rwckndfttauf0kvf7cqe7wgfx
+output-value: 546
+sat: 258446528436694
+content-length: 67 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 03:48:26 UTC
+genesis-height: 792333
+genesis-fee: 8648
+genesis-transaction: 6212e165c2568a3438f6aa58c4ad9afb83969b38cf60695f80d88e99efe7c82f
+location: 6212e165c2568a3438f6aa58c4ad9afb83969b38cf60695f80d88e99efe7c82f:0:0
+output: 6212e165c2568a3438f6aa58c4ad9afb83969b38cf60695f80d88e99efe7c82f:0
+offset: 0

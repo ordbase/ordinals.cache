@@ -1,0 +1,14 @@
+title: Inscription 609
+id: 0359e8e0777fad554f6bdedae5d4b1654a5e145083e80a9d24ded5dbedf3525ei0
+address: bc1p98r077pwrk8hysvgzfzh7ypanpheftnzg6mzj8u6gfkqwz5qajqq0ly2zz
+output-value: 4682
+sat: 1924963396415424
+content-length: 398 bytes
+content-type: image/png
+timestamp: 2023-02-01 17:59:12 UTC
+genesis-height: 774607
+genesis-fee: 4680
+genesis-transaction: 0359e8e0777fad554f6bdedae5d4b1654a5e145083e80a9d24ded5dbedf3525e
+location: a8b94815407ca5d5f38581f5b8f9aea947ff376d1d520fe91acf47fcfac30b9d:1:0
+output: a8b94815407ca5d5f38581f5b8f9aea947ff376d1d520fe91acf47fcfac30b9d:1
+offset: 0

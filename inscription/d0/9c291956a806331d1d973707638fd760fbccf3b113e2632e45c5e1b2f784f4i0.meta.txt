@@ -1,0 +1,14 @@
+title: Inscription 10034955
+id: d09c291956a806331d1d973707638fd760fbccf3b113e2632e45c5e1b2f784f4i0
+address: bc1pt8q8cvcw240nytjyvjxfnft64jgnkxlmf0mcgzd0ewhlqtcftwjsv72dmj
+output-value: 1000
+sat: 319505010483697
+content-length: 77 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-30 01:44:56 UTC
+genesis-height: 792031
+genesis-fee: 13490
+genesis-transaction: d09c291956a806331d1d973707638fd760fbccf3b113e2632e45c5e1b2f784f4
+location: d09c291956a806331d1d973707638fd760fbccf3b113e2632e45c5e1b2f784f4:0:0
+output: d09c291956a806331d1d973707638fd760fbccf3b113e2632e45c5e1b2f784f4:0
+offset: 0

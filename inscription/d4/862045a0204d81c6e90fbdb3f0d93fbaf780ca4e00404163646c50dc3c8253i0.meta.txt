@@ -1,0 +1,14 @@
+title: Inscription 10019726
+id: d4862045a0204d81c6e90fbdb3f0d93fbaf780ca4e00404163646c50dc3c8253i0
+address: bc1qjedwja94arultegw64etznltn3t0wh7vz355n4
+output-value: 546
+sat: 198901347860175
+content-length: 56 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-30 00:06:07 UTC
+genesis-height: 792022
+genesis-fee: 6816
+genesis-transaction: d4862045a0204d81c6e90fbdb3f0d93fbaf780ca4e00404163646c50dc3c8253
+location: d4862045a0204d81c6e90fbdb3f0d93fbaf780ca4e00404163646c50dc3c8253:0:0
+output: d4862045a0204d81c6e90fbdb3f0d93fbaf780ca4e00404163646c50dc3c8253:0
+offset: 0

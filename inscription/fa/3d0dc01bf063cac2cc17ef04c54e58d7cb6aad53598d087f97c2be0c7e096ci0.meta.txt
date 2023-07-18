@@ -1,0 +1,14 @@
+title: Inscription 15131911
+id: fa3d0dc01bf063cac2cc17ef04c54e58d7cb6aad53598d087f97c2be0c7e096ci0
+address: bc1pm045djpu6rg3ye83vujpggsqzrgpq2rlpc9w9hg7eezv2yn8vkzq4scag4
+output-value: 546
+sat: 1912622089609955
+content-length: 151 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-07-07 09:12:39 UTC
+genesis-height: 797569
+genesis-fee: 1770
+genesis-transaction: fa3d0dc01bf063cac2cc17ef04c54e58d7cb6aad53598d087f97c2be0c7e096c
+location: fa3d0dc01bf063cac2cc17ef04c54e58d7cb6aad53598d087f97c2be0c7e096c:0:0
+output: fa3d0dc01bf063cac2cc17ef04c54e58d7cb6aad53598d087f97c2be0c7e096c:0
+offset: 0

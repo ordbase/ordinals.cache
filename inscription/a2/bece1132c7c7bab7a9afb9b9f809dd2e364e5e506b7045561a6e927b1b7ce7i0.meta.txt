@@ -1,0 +1,14 @@
+title: Inscription 11213981
+id: a2bece1132c7c7bab7a9afb9b9f809dd2e364e5e506b7045561a6e927b1b7ce7i0
+address: bc1pewftg9g08djc65lywgmeq523k9d0dm08yx946hdwkr00at08x8wsxfjjwq
+output-value: 546
+sat: 1659512716220025
+content-length: 68 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-09 04:33:44 UTC
+genesis-height: 793502
+genesis-fee: 3297
+genesis-transaction: a2bece1132c7c7bab7a9afb9b9f809dd2e364e5e506b7045561a6e927b1b7ce7
+location: a2bece1132c7c7bab7a9afb9b9f809dd2e364e5e506b7045561a6e927b1b7ce7:0:0
+output: a2bece1132c7c7bab7a9afb9b9f809dd2e364e5e506b7045561a6e927b1b7ce7:0
+offset: 0

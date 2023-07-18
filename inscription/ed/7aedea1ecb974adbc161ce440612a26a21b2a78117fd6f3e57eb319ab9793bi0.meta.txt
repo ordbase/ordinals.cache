@@ -1,0 +1,14 @@
+title: Inscription 10287172
+id: ed7aedea1ecb974adbc161ce440612a26a21b2a78117fd6f3e57eb319ab9793bi0
+address: bc1p7s8nhu4rqmszqe9wyhvnjhnfz8s7pay0pfg7sqaxp7y478yfgf9syzrrrz
+output-value: 546
+sat: 1938252679941128
+content-length: 77 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 10:13:01 UTC
+genesis-height: 792234
+genesis-fee: 7790
+genesis-transaction: ed7aedea1ecb974adbc161ce440612a26a21b2a78117fd6f3e57eb319ab9793b
+location: ed7aedea1ecb974adbc161ce440612a26a21b2a78117fd6f3e57eb319ab9793b:0:0
+output: ed7aedea1ecb974adbc161ce440612a26a21b2a78117fd6f3e57eb319ab9793b:0
+offset: 0

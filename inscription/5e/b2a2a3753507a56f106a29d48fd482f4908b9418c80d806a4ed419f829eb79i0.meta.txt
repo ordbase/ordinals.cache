@@ -1,0 +1,14 @@
+title: Inscription 139306
+id: 5eb2a2a3753507a56f106a29d48fd482f4908b9418c80d806a4ed419f829eb79i0
+address: bc1pdthhxpzwah8g79jd6lg7ycxcq5vqqqfxdnmmj93mjvq3gqwwehnsg55zc5
+output-value: 9778
+sat: 1926202670060732
+content-length: 238 bytes
+content-type: image/png
+timestamp: 2023-02-18 15:27:42 UTC
+genesis-height: 777186
+genesis-fee: 776
+genesis-transaction: 5eb2a2a3753507a56f106a29d48fd482f4908b9418c80d806a4ed419f829eb79
+location: 53d65c426d96d10962c33d2d1eba6ce53b118d6a9f50a276ff54dc2f2bf03961:0:0
+output: 53d65c426d96d10962c33d2d1eba6ce53b118d6a9f50a276ff54dc2f2bf03961:0
+offset: 0

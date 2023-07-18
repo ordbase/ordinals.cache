@@ -1,0 +1,14 @@
+title: Inscription 47628
+id: 9b4c3a49ad80c45de4f41e565999c5b08f73f1882c9474547dabc13fe0e68ec4i0
+address: bc1p2n5fjlsckp53ymy72l5pxmr9kjcp9w7m5hhx0fhdw9g5hqf2v37qps43zm
+output-value: 10000
+sat: 1737880444192279
+content-length: 346 bytes
+content-type: image/png
+timestamp: 2023-02-10 08:06:50 UTC
+genesis-height: 775858
+genesis-fee: 1326
+genesis-transaction: 9b4c3a49ad80c45de4f41e565999c5b08f73f1882c9474547dabc13fe0e68ec4
+location: 9b4c3a49ad80c45de4f41e565999c5b08f73f1882c9474547dabc13fe0e68ec4:0:0
+output: 9b4c3a49ad80c45de4f41e565999c5b08f73f1882c9474547dabc13fe0e68ec4:0
+offset: 0

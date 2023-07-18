@@ -1,0 +1,14 @@
+title: Inscription 2035
+id: 7d2ae26d7f1ae42de493b346044d328027729d3ee20337db3179acde7d63d0f2i0
+address: bc1ps9s3z9ax6n6vxtc73dd0gcdqsvum5265fqme79ladtfu3np7z70swer2s9
+output-value: 8890
+sat: 520048156048985
+content-length: 55027 bytes
+content-type: image/jpeg
+timestamp: 2023-02-04 17:33:56 UTC
+genesis-height: 775025
+genesis-fee: 69855
+genesis-transaction: 7d2ae26d7f1ae42de493b346044d328027729d3ee20337db3179acde7d63d0f2
+location: d2726e6ec1d3b0e429d0af5d97b1f3146ead3ad4d74cf65c903aa4e34b7c5b7c:0:0
+output: d2726e6ec1d3b0e429d0af5d97b1f3146ead3ad4d74cf65c903aa4e34b7c5b7c:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 11828078
+id: a8eff6642ba01e9ac9b8ea3cd7bec986383a665a1dc314b9e52be26d475a8a8di0
+address: bc1pcqz3ahqtkn87ph65klmufln7k5ma07uxy4gzuef9qhl5jflpqz3qw254zv
+output-value: 546
+sat: 1002256849958606
+content-length: 57 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-14 06:37:36 UTC
+genesis-height: 794288
+genesis-fee: 2310
+genesis-transaction: a8eff6642ba01e9ac9b8ea3cd7bec986383a665a1dc314b9e52be26d475a8a8d
+location: a8eff6642ba01e9ac9b8ea3cd7bec986383a665a1dc314b9e52be26d475a8a8d:0:0
+output: a8eff6642ba01e9ac9b8ea3cd7bec986383a665a1dc314b9e52be26d475a8a8d:0
+offset: 0

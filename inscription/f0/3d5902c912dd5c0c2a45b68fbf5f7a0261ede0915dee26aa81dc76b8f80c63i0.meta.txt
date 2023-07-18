@@ -1,0 +1,14 @@
+title: Inscription 85
+id: f03d5902c912dd5c0c2a45b68fbf5f7a0261ede0915dee26aa81dc76b8f80c63i0
+address: bc1pnycwd4pwvahy5ku759zvm64qgeud0mm9c70y2gnw7eym3ftx9lys97jtfe
+output-value: 9445
+sat: 1023795948645695
+content-length: 212 bytes
+content-type: image/png
+timestamp: 2023-01-25 01:32:30 UTC
+genesis-height: 773455
+genesis-fee: 188
+genesis-transaction: f03d5902c912dd5c0c2a45b68fbf5f7a0261ede0915dee26aa81dc76b8f80c63
+location: 82b30bd3aba5e324a03490e5a2dd462ea23c3ba60c9c49a9216554ec6e41762e:0:0
+output: 82b30bd3aba5e324a03490e5a2dd462ea23c3ba60c9c49a9216554ec6e41762e:0
+offset: 0

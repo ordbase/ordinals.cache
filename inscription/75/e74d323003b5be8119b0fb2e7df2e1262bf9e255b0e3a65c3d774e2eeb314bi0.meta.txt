@@ -1,0 +1,14 @@
+title: Inscription 139389
+id: 75e74d323003b5be8119b0fb2e7df2e1262bf9e255b0e3a65c3d774e2eeb314bi0
+address: bc1pdthhxpzwah8g79jd6lg7ycxcq5vqqqfxdnmmj93mjvq3gqwwehnsg55zc5
+output-value: 9667
+sat: 1359510880726242
+content-length: 231 bytes
+content-type: image/png
+timestamp: 2023-02-18 16:59:17 UTC
+genesis-height: 777196
+genesis-fee: 1920
+genesis-transaction: 75e74d323003b5be8119b0fb2e7df2e1262bf9e255b0e3a65c3d774e2eeb314b
+location: 13506897aeb4f36c2dd53d34a69847717060c57c87e432452af354efeb411de7:0:0
+output: 13506897aeb4f36c2dd53d34a69847717060c57c87e432452af354efeb411de7:0
+offset: 0

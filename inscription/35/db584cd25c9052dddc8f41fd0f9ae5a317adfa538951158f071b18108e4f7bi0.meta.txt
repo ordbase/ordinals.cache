@@ -1,0 +1,14 @@
+title: Inscription 138372
+id: 35db584cd25c9052dddc8f41fd0f9ae5a317adfa538951158f071b18108e4f7bi0
+address: bc1ps2vzk7r9533jv93yrjtesx4cj7r0jdxdfcp07k3u3x84xcsvmwesqhvfwy
+output-value: 8109
+sat: 1490377054821434
+content-length: 281 bytes
+content-type: image/png
+timestamp: 2023-02-18 11:17:28 UTC
+genesis-height: 777161
+genesis-fee: 2050
+genesis-transaction: 35db584cd25c9052dddc8f41fd0f9ae5a317adfa538951158f071b18108e4f7b
+location: acb1f4938c89bd0004ffeb6aad21fe68d7515ea824274abeab51e9b82f7c58a6:0:0
+output: acb1f4938c89bd0004ffeb6aad21fe68d7515ea824274abeab51e9b82f7c58a6:0
+offset: 0

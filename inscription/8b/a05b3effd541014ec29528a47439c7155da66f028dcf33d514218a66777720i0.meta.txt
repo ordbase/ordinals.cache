@@ -1,0 +1,14 @@
+title: Inscription 48200
+id: 8ba05b3effd541014ec29528a47439c7155da66f028dcf33d514218a66777720i0
+address: bc1pa93qt5kuzlhqh63rdnakvtt9dksq49dx8nexuythyvr8pg78y0pqm4q6y6
+output-value: 10000
+sat: 1532884309790020
+content-length: 346 bytes
+content-type: image/png
+timestamp: 2023-02-10 10:00:26 UTC
+genesis-height: 775869
+genesis-fee: 1768
+genesis-transaction: 8ba05b3effd541014ec29528a47439c7155da66f028dcf33d514218a66777720
+location: 8ba05b3effd541014ec29528a47439c7155da66f028dcf33d514218a66777720:0:0
+output: 8ba05b3effd541014ec29528a47439c7155da66f028dcf33d514218a66777720:0
+offset: 0

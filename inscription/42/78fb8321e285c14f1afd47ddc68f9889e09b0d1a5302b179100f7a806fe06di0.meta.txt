@@ -1,0 +1,14 @@
+title: Inscription 12802000
+id: 4278fb8321e285c14f1afd47ddc68f9889e09b0d1a5302b179100f7a806fe06di0
+address: bc1pdc2ux4f3xtj2hmklhdrjx4ennuf4xh5z7lrzwm2l8azr4wr84kpqwfw3gg
+output-value: 546
+sat: 1931683561719914
+content-length: 82 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-19 18:32:24 UTC
+genesis-height: 795084
+genesis-fee: 2923
+genesis-transaction: 4278fb8321e285c14f1afd47ddc68f9889e09b0d1a5302b179100f7a806fe06d
+location: 4278fb8321e285c14f1afd47ddc68f9889e09b0d1a5302b179100f7a806fe06d:0:0
+output: 4278fb8321e285c14f1afd47ddc68f9889e09b0d1a5302b179100f7a806fe06d:0
+offset: 0

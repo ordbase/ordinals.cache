@@ -1,0 +1,14 @@
+title: Inscription 603
+id: 1c0a1d257fa1aa00b051d136c930f24060457b394ca267799f0f8cfece3edfd6i0
+address: bc1pe4x7cvy5xc6c2s80u2vsry05hsnc9xt07ft5k5kcvxylstq9vcwqnaammy
+output-value: 3982
+sat: 1694228181046194
+content-length: 436 bytes
+content-type: image/png
+timestamp: 2023-02-01 17:35:29 UTC
+genesis-height: 774605
+genesis-fee: 4880
+genesis-transaction: 1c0a1d257fa1aa00b051d136c930f24060457b394ca267799f0f8cfece3edfd6
+location: 4b0fdcdc812ab3f8937e403648ac843d757dacd171b0ef0722d7333c8dd1ee4b:0:0
+output: 4b0fdcdc812ab3f8937e403648ac843d757dacd171b0ef0722d7333c8dd1ee4b:0
+offset: 0

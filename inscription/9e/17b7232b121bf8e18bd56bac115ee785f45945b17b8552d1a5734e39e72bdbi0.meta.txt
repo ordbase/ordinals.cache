@@ -1,0 +1,14 @@
+title: Inscription 139416
+id: 9e17b7232b121bf8e18bd56bac115ee785f45945b17b8552d1a5734e39e72bdbi0
+address: bc1pdthhxpzwah8g79jd6lg7ycxcq5vqqqfxdnmmj93mjvq3gqwwehnsg55zc5
+output-value: 9667
+sat: 983149604216226
+content-length: 272 bytes
+content-type: image/png
+timestamp: 2023-02-18 16:59:17 UTC
+genesis-height: 777196
+genesis-fee: 2030
+genesis-transaction: 9e17b7232b121bf8e18bd56bac115ee785f45945b17b8552d1a5734e39e72bdb
+location: 535621b929c5544f1f25e6251adf44998b449a592dafa5253cdc1717d99b06c7:0:0
+output: 535621b929c5544f1f25e6251adf44998b449a592dafa5253cdc1717d99b06c7:0
+offset: 0

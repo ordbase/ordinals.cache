@@ -1,0 +1,14 @@
+title: Inscription 10638554
+id: ec96fd93d473ad21973dff4806838bda16458947abe87d6d2d04b59d3ed2ae19i0
+address: bc1pushmv80zmcpvv2247uv53z0dhyujqyagrtl8c9qxfv3as34wlqjspey086
+output-value: 546
+sat: 1459265406445648
+content-length: 58 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-03 08:42:04 UTC
+genesis-height: 792666
+genesis-fee: 3145
+genesis-transaction: ec96fd93d473ad21973dff4806838bda16458947abe87d6d2d04b59d3ed2ae19
+location: ec96fd93d473ad21973dff4806838bda16458947abe87d6d2d04b59d3ed2ae19:0:0
+output: ec96fd93d473ad21973dff4806838bda16458947abe87d6d2d04b59d3ed2ae19:0
+offset: 0

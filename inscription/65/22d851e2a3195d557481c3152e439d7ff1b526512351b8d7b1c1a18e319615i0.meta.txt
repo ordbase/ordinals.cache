@@ -1,0 +1,14 @@
+title: Inscription 9990398
+id: 6522d851e2a3195d557481c3152e439d7ff1b526512351b8d7b1c1a18e319615i0
+address: bc1p6hjw02820ek9m9j0wgklvqrp6jpvyd0t22ys759mv8zd5smxgd9s7masws
+output-value: 546
+sat: 1364964974969329
+content-length: 62 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-29 21:06:34 UTC
+genesis-height: 792003
+genesis-fee: 9300
+genesis-transaction: 6522d851e2a3195d557481c3152e439d7ff1b526512351b8d7b1c1a18e319615
+location: 6522d851e2a3195d557481c3152e439d7ff1b526512351b8d7b1c1a18e319615:0:0
+output: 6522d851e2a3195d557481c3152e439d7ff1b526512351b8d7b1c1a18e319615:0
+offset: 0

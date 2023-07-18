@@ -1,0 +1,14 @@
+title: Inscription 10384977
+id: b4b2b38c1e9801fbfabc496aedea3019f4eb9b11019d1bb56228976406c2a350i0
+address: bc1qfuplslks3u6lh4gf08k6zl2ztj3pa3jlnl4t5t
+output-value: 546
+sat: 1609848391912439
+content-length: 66 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 10:07:14 UTC
+genesis-height: 792361
+genesis-fee: 6125
+genesis-transaction: b4b2b38c1e9801fbfabc496aedea3019f4eb9b11019d1bb56228976406c2a350
+location: b4b2b38c1e9801fbfabc496aedea3019f4eb9b11019d1bb56228976406c2a350:0:0
+output: b4b2b38c1e9801fbfabc496aedea3019f4eb9b11019d1bb56228976406c2a350:0
+offset: 0

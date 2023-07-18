@@ -1,0 +1,14 @@
+title: Inscription 10339802
+id: 5462137c7f8d62c9bd53ab3b87e3700d029fb350a53c976326e21df78ee71f34i0
+address: bc1pkn0v8j8d28e2htfqayss29f948xvf0akvz4uu5x27ylaspjm02tqlsxwnf
+output-value: 546
+sat: 1488699089347486
+content-length: 63 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 19:20:38 UTC
+genesis-height: 792294
+genesis-fee: 12480
+genesis-transaction: 5462137c7f8d62c9bd53ab3b87e3700d029fb350a53c976326e21df78ee71f34
+location: 5462137c7f8d62c9bd53ab3b87e3700d029fb350a53c976326e21df78ee71f34:0:0
+output: 5462137c7f8d62c9bd53ab3b87e3700d029fb350a53c976326e21df78ee71f34:0
+offset: 0

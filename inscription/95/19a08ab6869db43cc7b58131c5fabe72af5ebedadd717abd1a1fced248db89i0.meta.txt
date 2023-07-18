@@ -1,0 +1,14 @@
+title: Inscription 5929
+id: 9519a08ab6869db43cc7b58131c5fabe72af5ebedadd717abd1a1fced248db89i0
+address: bc1pq3p9h7cc7zraw2l3607hrnnrqf7kwyghgp83v78j73w6q5jjy94qnj82vt
+output-value: 10000
+sat: 973276237284162
+content-length: 45493 bytes
+content-type: image/jpeg
+timestamp: 2023-02-06 05:30:09 UTC
+genesis-height: 775245
+genesis-fee: 28933
+genesis-transaction: 9519a08ab6869db43cc7b58131c5fabe72af5ebedadd717abd1a1fced248db89
+location: c0719e56367b5f2fbefe75e598a6a295ab867184930a18dcca3ea51393554a3f:0:0
+output: c0719e56367b5f2fbefe75e598a6a295ab867184930a18dcca3ea51393554a3f:0
+offset: 0

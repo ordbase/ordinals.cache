@@ -1,0 +1,14 @@
+title: Inscription 10368326
+id: 6e6ff0f0fc4b0ee343590d56cea98d0440b2b4dcf0d09c5f4d5a95e379ff2f30i0
+address: bc1ppenxfxd5hvhj3n7n4zfje7qy49mnt5ntvfvfp0a3pg4glwazv43sv574ez
+output-value: 546
+sat: 670321194720013
+content-length: 67 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 03:35:25 UTC
+genesis-height: 792332
+genesis-fee: 8478
+genesis-transaction: 6e6ff0f0fc4b0ee343590d56cea98d0440b2b4dcf0d09c5f4d5a95e379ff2f30
+location: 6e6ff0f0fc4b0ee343590d56cea98d0440b2b4dcf0d09c5f4d5a95e379ff2f30:0:0
+output: 6e6ff0f0fc4b0ee343590d56cea98d0440b2b4dcf0d09c5f4d5a95e379ff2f30:0
+offset: 0

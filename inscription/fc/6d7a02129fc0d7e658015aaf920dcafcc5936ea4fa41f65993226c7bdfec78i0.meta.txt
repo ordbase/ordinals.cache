@@ -1,0 +1,14 @@
+title: Inscription 10369305
+id: fc6d7a02129fc0d7e658015aaf920dcafcc5936ea4fa41f65993226c7bdfec78i0
+address: bc1pf73vqca06v67paqnlsg3gqgmcknfnxrm4vmh5n879ed69y22qjcsua39ag
+output-value: 546
+sat: 1200291308400630
+content-length: 66 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 03:48:26 UTC
+genesis-height: 792333
+genesis-fee: 7667
+genesis-transaction: fc6d7a02129fc0d7e658015aaf920dcafcc5936ea4fa41f65993226c7bdfec78
+location: fc6d7a02129fc0d7e658015aaf920dcafcc5936ea4fa41f65993226c7bdfec78:0:0
+output: fc6d7a02129fc0d7e658015aaf920dcafcc5936ea4fa41f65993226c7bdfec78:0
+offset: 0

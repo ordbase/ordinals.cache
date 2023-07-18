@@ -1,0 +1,14 @@
+title: Inscription 10012738
+id: 574fcb98ebb686a3256b51d56b4897b3bd3e8eb871077b5bcbd05a3f8a0ce320i0
+address: bc1prd38ncvxp5gq642dqt58xjvaseejlmp3u8vruy89ly8tr2zll2hqa4cyxu
+output-value: 546
+sat: 1300939940813956
+content-length: 73 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-29 23:47:59 UTC
+genesis-height: 792018
+genesis-fee: 11529
+genesis-transaction: 574fcb98ebb686a3256b51d56b4897b3bd3e8eb871077b5bcbd05a3f8a0ce320
+location: 574fcb98ebb686a3256b51d56b4897b3bd3e8eb871077b5bcbd05a3f8a0ce320:0:0
+output: 574fcb98ebb686a3256b51d56b4897b3bd3e8eb871077b5bcbd05a3f8a0ce320:0
+offset: 0

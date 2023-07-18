@@ -1,0 +1,14 @@
+title: Inscription 15682746
+id: 2b54cc199948d9b20bdddc274938ccc13b8b647d2db5b9a933b1a20d2aadb512i0
+address: bc1pysq6qjfq96hq9xl4qrv07n7re0d2qy7trrlyycl68l85zehhznvsspg9lv
+output-value: 546
+sat: 877548969106734
+content-length: 32 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-07-09 02:34:23 UTC
+genesis-height: 797879
+genesis-fee: 1253
+genesis-transaction: 2b54cc199948d9b20bdddc274938ccc13b8b647d2db5b9a933b1a20d2aadb512
+location: 2b54cc199948d9b20bdddc274938ccc13b8b647d2db5b9a933b1a20d2aadb512:0:0
+output: 2b54cc199948d9b20bdddc274938ccc13b8b647d2db5b9a933b1a20d2aadb512:0
+offset: 0

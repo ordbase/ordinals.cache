@@ -1,0 +1,14 @@
+title: Inscription 10367006
+id: ea99c905b7043ff58336e00814d1c258fc281b43ac48c70a8a3782aa934c99e8i0
+address: bc1phlezdwtge4999673nhy9vf2c0qgrmcr40quppn22qej2t9047ljsh0vu3d
+output-value: 546
+sat: 1827100710387513
+content-length: 66 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 02:58:40 UTC
+genesis-height: 792330
+genesis-fee: 8789
+genesis-transaction: ea99c905b7043ff58336e00814d1c258fc281b43ac48c70a8a3782aa934c99e8
+location: ea99c905b7043ff58336e00814d1c258fc281b43ac48c70a8a3782aa934c99e8:0:0
+output: ea99c905b7043ff58336e00814d1c258fc281b43ac48c70a8a3782aa934c99e8:0
+offset: 0

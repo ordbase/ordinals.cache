@@ -1,0 +1,14 @@
+title: Inscription 15134787
+id: 15e96e37ce28e450f9dfd02c7efcfe5e78458b0741416f37b206c3bc9121c49ai0
+address: bc1q73dleq0awd0crquhgvdcp8n4crkm9fsmky24gk
+output-value: 546
+sat: 410024400271725
+content-length: 33 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-07-07 09:32:49 UTC
+genesis-height: 797571
+genesis-fee: 1169
+genesis-transaction: 15e96e37ce28e450f9dfd02c7efcfe5e78458b0741416f37b206c3bc9121c49a
+location: 15e96e37ce28e450f9dfd02c7efcfe5e78458b0741416f37b206c3bc9121c49a:0:0
+output: 15e96e37ce28e450f9dfd02c7efcfe5e78458b0741416f37b206c3bc9121c49a:0
+offset: 0

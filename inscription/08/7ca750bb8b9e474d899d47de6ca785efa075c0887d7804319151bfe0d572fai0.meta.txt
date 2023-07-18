@@ -1,0 +1,14 @@
+title: Inscription 591
+id: 087ca750bb8b9e474d899d47de6ca785efa075c0887d7804319151bfe0d572fai0
+address: bc1q38n79d8fy08l42u5e4fqyaw6k48j70vg546rdc
+output-value: 8020
+sat: 1883186434710036
+content-length: 395 bytes
+content-type: image/png
+timestamp: 2023-02-01 16:24:14 UTC
+genesis-height: 774598
+genesis-fee: 4680
+genesis-transaction: 087ca750bb8b9e474d899d47de6ca785efa075c0887d7804319151bfe0d572fa
+location: 248a101bff23bcf0c3c43e7ec40c8c450db179b448c331620fa85e57ce68eb17:0:0
+output: 248a101bff23bcf0c3c43e7ec40c8c450db179b448c331620fa85e57ce68eb17:0
+offset: 0

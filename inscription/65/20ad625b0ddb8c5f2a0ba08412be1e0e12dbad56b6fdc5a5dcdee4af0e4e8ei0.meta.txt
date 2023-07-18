@@ -1,0 +1,14 @@
+title: Inscription 130917
+id: 6520ad625b0ddb8c5f2a0ba08412be1e0e12dbad56b6fdc5a5dcdee4af0e4e8ei0
+address: bc1p9e69z7gzju07a0dy8nyuwe72hnm6ztfsq2d7e8ydpugykm6h02mqrnfgxw
+output-value: 8113
+sat: 1617796012352895
+content-length: 302 bytes
+content-type: image/png
+timestamp: 2023-02-17 23:12:36 UTC
+genesis-height: 777069
+genesis-fee: 5460
+genesis-transaction: 6520ad625b0ddb8c5f2a0ba08412be1e0e12dbad56b6fdc5a5dcdee4af0e4e8e
+location: 4d21625b6126947d92fefb06c619619984f6ec8e290abb74629fd6b2d4b8f5d3:0:0
+output: 4d21625b6126947d92fefb06c619619984f6ec8e290abb74629fd6b2d4b8f5d3:0
+offset: 0

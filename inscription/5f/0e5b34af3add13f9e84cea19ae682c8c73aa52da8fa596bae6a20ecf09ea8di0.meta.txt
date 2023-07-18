@@ -1,0 +1,14 @@
+title: Inscription 5939
+id: 5f0e5b34af3add13f9e84cea19ae682c8c73aa52da8fa596bae6a20ecf09ea8di0
+address: bc1p20xnvx937q48f72hqyxxdl9cf4mhgjnyg32xmxsruagpx8zytd9szj8zex
+output-value: 6637
+sat: 93444681867479
+content-length: 36588 bytes
+content-type: image/jpeg
+timestamp: 2023-02-06 05:30:09 UTC
+genesis-height: 775245
+genesis-fee: 23335
+genesis-transaction: 5f0e5b34af3add13f9e84cea19ae682c8c73aa52da8fa596bae6a20ecf09ea8d
+location: a3d24caa16f7627016c420bd28615cfa3ad7d7228c51f1940c585db6ea16ef54:0:0
+output: a3d24caa16f7627016c420bd28615cfa3ad7d7228c51f1940c585db6ea16ef54:0
+offset: 0

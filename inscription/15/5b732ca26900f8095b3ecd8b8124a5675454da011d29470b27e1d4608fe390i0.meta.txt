@@ -1,0 +1,14 @@
+title: Inscription 8505
+id: 155b732ca26900f8095b3ecd8b8124a5675454da011d29470b27e1d4608fe390i0
+address: bc1purccufl3dvwrmuzfh0nxldqwnenaacpeeya3dhxuhaaqmtw0vuxs477c5m
+output-value: 10000
+sat: 1053041541345400
+content-length: 759 bytes
+content-type: image/png
+timestamp: 2023-02-06 22:41:25 UTC
+genesis-height: 775359
+genesis-fee: 1950
+genesis-transaction: 155b732ca26900f8095b3ecd8b8124a5675454da011d29470b27e1d4608fe390
+location: 155b732ca26900f8095b3ecd8b8124a5675454da011d29470b27e1d4608fe390:0:0
+output: 155b732ca26900f8095b3ecd8b8124a5675454da011d29470b27e1d4608fe390:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 1304
+id: 340800579ad78e30201d2be56d7875e47c91389c4040f6f58413828b6b5a0f28i0
+address: bc1pa9hs2tdtclyuf3va7yamgyrsw0v6l4wzk3vdurygs7qpvyq58lzqfkzfh7
+output-value: 9000
+sat: 1924648667671644
+content-length: 32154 bytes
+content-type: image/jpeg
+timestamp: 2023-02-03 09:18:17 UTC
+genesis-height: 774849
+genesis-fee: 27369
+genesis-transaction: 340800579ad78e30201d2be56d7875e47c91389c4040f6f58413828b6b5a0f28
+location: dd3f2e100de0893cc47feb7662b27bfa91d3c5c8f8875f83a6aac457424436b7:0:0
+output: dd3f2e100de0893cc47feb7662b27bfa91d3c5c8f8875f83a6aac457424436b7:0
+offset: 0

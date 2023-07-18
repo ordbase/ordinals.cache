@@ -1,0 +1,14 @@
+title: Inscription 10512003
+id: 4dfb61c4ea589777701af43e5b6912a927a91293ce8ee6e706457dc9c0b2b6bci0
+address: bc1pkk40uehzhgshzknht8yzv324yztdx08uyqh4jnq7ucea80th4mwqraj920
+output-value: 546
+sat: 535317637694589
+content-length: 65 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-02 12:57:16 UTC
+genesis-height: 792541
+genesis-fee: 5148
+genesis-transaction: 4dfb61c4ea589777701af43e5b6912a927a91293ce8ee6e706457dc9c0b2b6bc
+location: 4dfb61c4ea589777701af43e5b6912a927a91293ce8ee6e706457dc9c0b2b6bc:0:0
+output: 4dfb61c4ea589777701af43e5b6912a927a91293ce8ee6e706457dc9c0b2b6bc:0
+offset: 0

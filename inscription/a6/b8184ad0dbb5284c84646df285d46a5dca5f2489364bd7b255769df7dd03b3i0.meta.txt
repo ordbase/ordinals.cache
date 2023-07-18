@@ -1,0 +1,14 @@
+title: Inscription 77
+id: a6b8184ad0dbb5284c84646df285d46a5dca5f2489364bd7b255769df7dd03b3i0
+address: bc1psfa45k4tsukyveln3jtj27pq9djzmjmu9j6qhs0aunlkt47vd9equrmt34
+output-value: 8668
+sat: 783628092826076
+content-length: 14800 bytes
+content-type: image/png
+timestamp: 2023-01-23 17:47:01 UTC
+genesis-height: 773266
+genesis-fee: 11568
+genesis-transaction: a6b8184ad0dbb5284c84646df285d46a5dca5f2489364bd7b255769df7dd03b3
+location: 63430bc23899634389426a5af4dc4aa6b451c8c501c47b719987a576b3ae0a0c:0:0
+output: 63430bc23899634389426a5af4dc4aa6b451c8c501c47b719987a576b3ae0a0c:0
+offset: 0

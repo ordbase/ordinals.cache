@@ -1,0 +1,14 @@
+title: Inscription 1306
+id: 4cd64e24a5363f8d7673eef740c09ff9a6bb02e04a15e882613f57fc0ece77b3i0
+address: bc1qrm4jtvnfnjm5u7emxatszcj9dryh89087xukh7
+output-value: 9723
+sat: 973276237429122
+content-length: 27460 bytes
+content-type: image/jpeg
+timestamp: 2023-02-03 09:20:59 UTC
+genesis-height: 774850
+genesis-fee: 23440
+genesis-transaction: 4cd64e24a5363f8d7673eef740c09ff9a6bb02e04a15e882613f57fc0ece77b3
+location: 5d00cf58684b219fba2652be58b591ff91396d9cb9f9e29ec764c598413953e8:0:0
+output: 5d00cf58684b219fba2652be58b591ff91396d9cb9f9e29ec764c598413953e8:0
+offset: 0

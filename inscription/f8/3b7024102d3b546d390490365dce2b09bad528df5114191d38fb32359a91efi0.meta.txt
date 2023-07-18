@@ -1,0 +1,14 @@
+title: Inscription 10079310
+id: f83b7024102d3b546d390490365dce2b09bad528df5114191d38fb32359a91efi0
+address: bc1q0j4uclg5njv827jqvu5ry828aq54hdp8kd5xp7
+output-value: 546
+sat: 1162834785329849
+content-length: 58 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-30 05:46:13 UTC
+genesis-height: 792058
+genesis-fee: 5680
+genesis-transaction: f83b7024102d3b546d390490365dce2b09bad528df5114191d38fb32359a91ef
+location: f83b7024102d3b546d390490365dce2b09bad528df5114191d38fb32359a91ef:0:0
+output: f83b7024102d3b546d390490365dce2b09bad528df5114191d38fb32359a91ef:0
+offset: 0

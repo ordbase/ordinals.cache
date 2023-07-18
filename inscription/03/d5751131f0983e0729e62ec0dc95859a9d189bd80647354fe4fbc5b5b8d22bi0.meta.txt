@@ -1,0 +1,14 @@
+title: Inscription 9963053
+id: 03d5751131f0983e0729e62ec0dc95859a9d189bd80647354fe4fbc5b5b8d22bi0
+address: bc1pfdewv88c0kv8qn9d07znplh9cx0qhnmnqpjfatf3td04psqewvrsda97ck
+output-value: 546
+sat: 1180565778230598
+content-length: 60 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-29 18:09:37 UTC
+genesis-height: 791982
+genesis-fee: 7750
+genesis-transaction: 03d5751131f0983e0729e62ec0dc95859a9d189bd80647354fe4fbc5b5b8d22b
+location: 03d5751131f0983e0729e62ec0dc95859a9d189bd80647354fe4fbc5b5b8d22b:0:0
+output: 03d5751131f0983e0729e62ec0dc95859a9d189bd80647354fe4fbc5b5b8d22b:0
+offset: 0

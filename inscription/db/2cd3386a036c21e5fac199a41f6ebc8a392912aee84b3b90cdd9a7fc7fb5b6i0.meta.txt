@@ -1,0 +1,14 @@
+title: Inscription 9963065
+id: db2cd3386a036c21e5fac199a41f6ebc8a392912aee84b3b90cdd9a7fc7fb5b6i0
+address: bc1pfdewv88c0kv8qn9d07znplh9cx0qhnmnqpjfatf3td04psqewvrsda97ck
+output-value: 546
+sat: 1180565778355488
+content-length: 60 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-29 18:09:37 UTC
+genesis-height: 791982
+genesis-fee: 7750
+genesis-transaction: db2cd3386a036c21e5fac199a41f6ebc8a392912aee84b3b90cdd9a7fc7fb5b6
+location: db2cd3386a036c21e5fac199a41f6ebc8a392912aee84b3b90cdd9a7fc7fb5b6:0:0
+output: db2cd3386a036c21e5fac199a41f6ebc8a392912aee84b3b90cdd9a7fc7fb5b6:0
+offset: 0

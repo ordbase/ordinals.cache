@@ -1,0 +1,14 @@
+title: Inscription 58016
+id: 475d7b16f38ae4d778c084f995a73162f3303393cee8391f9bafe4438dddc44ai0
+address: bc1p4gy6v9nmc622qxzxweuh5v2nv2d0xtd02v4mr6y3dex9g0p29e5sylvjv4
+output-value: 10000
+sat: 1532884310659811
+content-length: 314 bytes
+content-type: image/png
+timestamp: 2023-02-11 19:18:30 UTC
+genesis-height: 776077
+genesis-fee: 8520
+genesis-transaction: 475d7b16f38ae4d778c084f995a73162f3303393cee8391f9bafe4438dddc44a
+location: 475d7b16f38ae4d778c084f995a73162f3303393cee8391f9bafe4438dddc44a:0:0
+output: 475d7b16f38ae4d778c084f995a73162f3303393cee8391f9bafe4438dddc44a:0
+offset: 0

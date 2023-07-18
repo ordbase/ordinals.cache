@@ -1,0 +1,14 @@
+title: Inscription 10227832
+id: c50dbd68527b706f57c9b0abd3171f9f2fb61e708eb2290b5e9347e4f948391fi0
+address: bc1puaymm0t6xmy7f5y6td58lel67xncpys6usdw5nc8vwsmzc02e2nstjp6vs
+output-value: 546
+sat: 1281310552613503
+content-length: 53 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 00:24:57 UTC
+genesis-height: 792177
+genesis-fee: 7191
+genesis-transaction: c50dbd68527b706f57c9b0abd3171f9f2fb61e708eb2290b5e9347e4f948391f
+location: c50dbd68527b706f57c9b0abd3171f9f2fb61e708eb2290b5e9347e4f948391f:0:0
+output: c50dbd68527b706f57c9b0abd3171f9f2fb61e708eb2290b5e9347e4f948391f:0
+offset: 0

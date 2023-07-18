@@ -1,0 +1,14 @@
+title: Inscription 10313076
+id: 356fd3ad9130f35c939ca4ed4b7ae522b3579ed14acad61b80af589ac5ab1b53i0
+address: bc1phlemwc5j82f2uqrfdkv3zqnhdupdgtazzfr75uqecrpmc3rmckqq0fnrmz
+output-value: 546
+sat: 1918392969949835
+content-length: 63 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 13:11:51 UTC
+genesis-height: 792257
+genesis-fee: 8228
+genesis-transaction: 356fd3ad9130f35c939ca4ed4b7ae522b3579ed14acad61b80af589ac5ab1b53
+location: 356fd3ad9130f35c939ca4ed4b7ae522b3579ed14acad61b80af589ac5ab1b53:0:0
+output: 356fd3ad9130f35c939ca4ed4b7ae522b3579ed14acad61b80af589ac5ab1b53:0
+offset: 0

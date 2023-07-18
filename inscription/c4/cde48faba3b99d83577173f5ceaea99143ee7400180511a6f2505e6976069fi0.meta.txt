@@ -1,0 +1,14 @@
+title: Inscription 14564092
+id: c4cde48faba3b99d83577173f5ceaea99143ee7400180511a6f2505e6976069fi0
+address: bc1pe9xevr8ucalzjwpty0vmzumjp30mmd8xyetxqmdu4st2axldcn4s4287qr
+output-value: 546
+sat: 1874416094534107
+content-length: 95 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-07-03 08:33:47 UTC
+genesis-height: 796991
+genesis-fee: 978
+genesis-transaction: c4cde48faba3b99d83577173f5ceaea99143ee7400180511a6f2505e6976069f
+location: c4cde48faba3b99d83577173f5ceaea99143ee7400180511a6f2505e6976069f:0:0
+output: c4cde48faba3b99d83577173f5ceaea99143ee7400180511a6f2505e6976069f:0
+offset: 0

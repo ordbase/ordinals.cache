@@ -1,0 +1,14 @@
+title: Inscription 11517396
+id: 883682380df8df4dddbc4991d9c7e1921a2f52494b4e995aedb8c07db3d3ea56i0
+address: bc1pax8u27hjz6ue80zy9wn926cugc62kt5hvx4da2gfweppjxl7tews5qyzn0
+output-value: 546
+sat: 1938970369303801
+content-length: 60 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-11 15:50:48 UTC
+genesis-height: 793913
+genesis-fee: 1395
+genesis-transaction: 883682380df8df4dddbc4991d9c7e1921a2f52494b4e995aedb8c07db3d3ea56
+location: 883682380df8df4dddbc4991d9c7e1921a2f52494b4e995aedb8c07db3d3ea56:0:0
+output: 883682380df8df4dddbc4991d9c7e1921a2f52494b4e995aedb8c07db3d3ea56:0
+offset: 0

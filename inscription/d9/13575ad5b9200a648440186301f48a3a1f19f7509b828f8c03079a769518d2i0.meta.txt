@@ -1,0 +1,14 @@
+title: Inscription 10018062
+id: d913575ad5b9200a648440186301f48a3a1f19f7509b828f8c03079a769518d2i0
+address: bc1pvzp2zqzy0vj3ha60fw45c5h3uwp7txf925x2g55wtzsa2yd6jheqecs5s0
+output-value: 546
+sat: 1009921687547580
+content-length: 53 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-29 23:51:31 UTC
+genesis-height: 792020
+genesis-fee: 9180
+genesis-transaction: d913575ad5b9200a648440186301f48a3a1f19f7509b828f8c03079a769518d2
+location: d913575ad5b9200a648440186301f48a3a1f19f7509b828f8c03079a769518d2:0:0
+output: d913575ad5b9200a648440186301f48a3a1f19f7509b828f8c03079a769518d2:0
+offset: 0

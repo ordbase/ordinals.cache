@@ -1,0 +1,14 @@
+title: Inscription 5935
+id: 0f98a256cc2cc746ce645bf1e177074c99573a12b089726dacc4462ea10d0277i0
+address: bc1pyaht9udl56kskve2wv4h3khv00kkgf9zm6uss5r8ptgsddvv9zlq6369s5
+output-value: 8087
+sat: 320672942850200
+content-length: 44317 bytes
+content-type: image/jpeg
+timestamp: 2023-02-06 05:30:09 UTC
+genesis-height: 775245
+genesis-fee: 28195
+genesis-transaction: 0f98a256cc2cc746ce645bf1e177074c99573a12b089726dacc4462ea10d0277
+location: 389a90b3a0a65c8ecd90382069316a9834f9afb5c5048c93eb83ffdf23ec7948:0:0
+output: 389a90b3a0a65c8ecd90382069316a9834f9afb5c5048c93eb83ffdf23ec7948:0
+offset: 0

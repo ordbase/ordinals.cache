@@ -1,0 +1,14 @@
+title: Inscription 10069187
+id: bcd0178f414d5087e282ed803f146c0c426494d885f732fcbae95f8d9710b162i0
+address: bc1pwhknxlgqp3dq9gp4wjhx2uvkwp2zj6vx9tt24wsh8ruqjflex8yqz3yhnp
+output-value: 546
+sat: 316544352252971
+content-length: 73 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-30 04:55:19 UTC
+genesis-height: 792050
+genesis-fee: 11907
+genesis-transaction: bcd0178f414d5087e282ed803f146c0c426494d885f732fcbae95f8d9710b162
+location: bcd0178f414d5087e282ed803f146c0c426494d885f732fcbae95f8d9710b162:0:0
+output: bcd0178f414d5087e282ed803f146c0c426494d885f732fcbae95f8d9710b162:0
+offset: 0

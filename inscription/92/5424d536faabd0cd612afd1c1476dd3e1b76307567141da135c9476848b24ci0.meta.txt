@@ -1,0 +1,14 @@
+title: Inscription 10366466
+id: 925424d536faabd0cd612afd1c1476dd3e1b76307567141da135c9476848b24ci0
+address: bc1pasdaj0gmadk6anv3nmcv7528xfe5v9xya9rdwsjtzk8easd9prkql8te0q
+output-value: 546
+sat: 668191786663150
+content-length: 14 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 02:52:43 UTC
+genesis-height: 792329
+genesis-fee: 8526
+genesis-transaction: 925424d536faabd0cd612afd1c1476dd3e1b76307567141da135c9476848b24c
+location: 925424d536faabd0cd612afd1c1476dd3e1b76307567141da135c9476848b24c:0:0
+output: 925424d536faabd0cd612afd1c1476dd3e1b76307567141da135c9476848b24c:0
+offset: 0

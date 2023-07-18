@@ -1,0 +1,14 @@
+title: Inscription 10280379
+id: e504fe305b0c182d9e58dd4275392e4e2d72207a4055c65ba324389d7b1f9b08i0
+address: bc1p32thfxlsd8mw7m5ajz52s0n33l8adswfpjnqcruw3k0q384nz2ssyslrhj
+output-value: 546
+sat: 1780521466690915
+content-length: 58 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 09:03:15 UTC
+genesis-height: 792227
+genesis-fee: 8162
+genesis-transaction: e504fe305b0c182d9e58dd4275392e4e2d72207a4055c65ba324389d7b1f9b08
+location: e504fe305b0c182d9e58dd4275392e4e2d72207a4055c65ba324389d7b1f9b08:0:0
+output: e504fe305b0c182d9e58dd4275392e4e2d72207a4055c65ba324389d7b1f9b08:0
+offset: 0

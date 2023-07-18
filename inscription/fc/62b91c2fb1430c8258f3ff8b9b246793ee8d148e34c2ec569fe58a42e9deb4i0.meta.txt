@@ -1,0 +1,14 @@
+title: Inscription 92
+id: fc62b91c2fb1430c8258f3ff8b9b246793ee8d148e34c2ec569fe58a42e9deb4i0
+address: bc1pu0yham7q4umutm2w84yl023a3pjs3jh2k6783fl8tjn9eecg32es28fj7s
+output-value: 9445
+sat: 1023795948655883
+content-length: 216 bytes
+content-type: image/png
+timestamp: 2023-01-25 23:20:34 UTC
+genesis-height: 773614
+genesis-fee: 378
+genesis-transaction: fc62b91c2fb1430c8258f3ff8b9b246793ee8d148e34c2ec569fe58a42e9deb4
+location: 67bd9dd46ba106b4374481e302ee8bbb60e3b63005f6c6d61690c3f6fab56aba:0:0
+output: 67bd9dd46ba106b4374481e302ee8bbb60e3b63005f6c6d61690c3f6fab56aba:0
+offset: 0

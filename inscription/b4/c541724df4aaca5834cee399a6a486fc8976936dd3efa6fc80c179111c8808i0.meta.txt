@@ -1,0 +1,14 @@
+title: Inscription 612
+id: b4c541724df4aaca5834cee399a6a486fc8976936dd3efa6fc80c179111c8808i0
+address: bc1pkkkm8tl5pcqwdfmsua2gtfngkdr8h9fsfx4a7hhwwlrnqyfhfacqgr8s36
+output-value: 6004
+sat: 1694228181090994
+content-length: 364 bytes
+content-type: image/png
+timestamp: 2023-02-01 18:13:13 UTC
+genesis-height: 774609
+genesis-fee: 4520
+genesis-transaction: b4c541724df4aaca5834cee399a6a486fc8976936dd3efa6fc80c179111c8808
+location: a21c9b51ccf11c62c188d64a7807e1d9b7774343bc744a65fa268362a8b5e2ea:0:0
+output: a21c9b51ccf11c62c188d64a7807e1d9b7774343bc744a65fa268362a8b5e2ea:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 10225097
+id: 457fedb933cbede8641c4ae00d11096ecfe8375ecdfa44814ad3e3cd483295d5i0
+address: bc1puu3vqdzkd7a4cc22fh9y0xez744zqm6upglxc9ptnktwpq03ywsq7ruvjh
+output-value: 546
+sat: 1896882901555979
+content-length: 73 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-30 23:46:09 UTC
+genesis-height: 792174
+genesis-fee: 7560
+genesis-transaction: 457fedb933cbede8641c4ae00d11096ecfe8375ecdfa44814ad3e3cd483295d5
+location: 457fedb933cbede8641c4ae00d11096ecfe8375ecdfa44814ad3e3cd483295d5:0:0
+output: 457fedb933cbede8641c4ae00d11096ecfe8375ecdfa44814ad3e3cd483295d5:0
+offset: 0

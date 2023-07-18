@@ -1,0 +1,14 @@
+title: Inscription 438
+id: 5c63fb98e9f218648a090c53a9b3aa5ec3b18768e8b843987bfd338fe0e8e9b7i0
+address: bc1py76ugfh8mhwnjzgm799lzgsw67yp80hfhf6y4nm4kdxhzvf5zdxqkc8knu
+output-value: 6800
+sat: 1165465340967265
+content-length: 402 bytes
+content-type: image/png
+timestamp: 2023-01-31 23:04:21 UTC
+genesis-height: 774506
+genesis-fee: 4700
+genesis-transaction: 5c63fb98e9f218648a090c53a9b3aa5ec3b18768e8b843987bfd338fe0e8e9b7
+location: 01b0f0681f38bcbade249865c2a9c08e79269e36841ab19cd1e352347aeac6df:0:0
+output: 01b0f0681f38bcbade249865c2a9c08e79269e36841ab19cd1e352347aeac6df:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 4808
+id: 5f14f60588ad4c802e51959c9b9991bb55a4b49c1ff9cb68f6863faaa7eef8d4i0
+address: bc1prgnrpenn8ev9xn8a29u0ylpzg8e2tsryyklyle8aj75g96rwl7ns8ltaq2
+output-value: 9556
+sat: 1891399285434565
+content-length: 53471 bytes
+content-type: image/jpeg
+timestamp: 2023-02-05 16:50:42 UTC
+genesis-height: 775184
+genesis-fee: 40737
+genesis-transaction: 5f14f60588ad4c802e51959c9b9991bb55a4b49c1ff9cb68f6863faaa7eef8d4
+location: 71a8097991f15d3f89771f95e0054dba4cd79a6df2b6ccb5e128b7c50872826e:0:0
+output: 71a8097991f15d3f89771f95e0054dba4cd79a6df2b6ccb5e128b7c50872826e:0
+offset: 0

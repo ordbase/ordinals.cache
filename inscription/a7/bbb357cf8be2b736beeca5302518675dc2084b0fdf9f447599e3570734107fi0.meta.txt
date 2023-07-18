@@ -1,0 +1,14 @@
+title: Inscription 2731
+id: a7bbb357cf8be2b736beeca5302518675dc2084b0fdf9f447599e3570734107fi0
+address: bc1pu2mmjlc9alska0667kct8dltq65mdajt46wneuprh7zau9cqc4gqc3sjt3
+output-value: 9667
+sat: 1261250245527583
+content-length: 53311 bytes
+content-type: image/jpeg
+timestamp: 2023-02-05 01:07:25 UTC
+genesis-height: 775072
+genesis-fee: 27078
+genesis-transaction: a7bbb357cf8be2b736beeca5302518675dc2084b0fdf9f447599e3570734107f
+location: 360145ca9eb46e9d3b4c3c4f4548c26c71008ca863903c9d144f2714f84ed06e:0:0
+output: 360145ca9eb46e9d3b4c3c4f4548c26c71008ca863903c9d144f2714f84ed06e:0
+offset: 0

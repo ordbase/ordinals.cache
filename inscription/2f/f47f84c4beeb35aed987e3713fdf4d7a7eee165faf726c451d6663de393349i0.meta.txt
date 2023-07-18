@@ -1,0 +1,14 @@
+title: Inscription 10509930
+id: 2ff47f84c4beeb35aed987e3713fdf4d7a7eee165faf726c451d6663de393349i0
+address: bc1pkqwhwfe4ja8gxf6vyrl3z0ynnk08xyqga3wdwra3rpgrjhh0hu3qnu4n8z
+output-value: 546
+sat: 688325221313620
+content-length: 62 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-02 12:31:37 UTC
+genesis-height: 792538
+genesis-fee: 6820
+genesis-transaction: 2ff47f84c4beeb35aed987e3713fdf4d7a7eee165faf726c451d6663de393349
+location: 2ff47f84c4beeb35aed987e3713fdf4d7a7eee165faf726c451d6663de393349:0:0
+output: 2ff47f84c4beeb35aed987e3713fdf4d7a7eee165faf726c451d6663de393349:0
+offset: 0

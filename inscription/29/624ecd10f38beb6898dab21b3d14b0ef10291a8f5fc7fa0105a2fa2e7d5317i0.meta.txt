@@ -1,0 +1,14 @@
+title: Inscription 10368299
+id: 29624ecd10f38beb6898dab21b3d14b0ef10291a8f5fc7fa0105a2fa2e7d5317i0
+address: bc1p00wrshmpfav5ywpmn6yq5shvpc5v7hnfwly7sw9katep4xfu3wpqxfx83d
+output-value: 546
+sat: 990206272905192
+content-length: 67 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 03:35:25 UTC
+genesis-height: 792332
+genesis-fee: 8635
+genesis-transaction: 29624ecd10f38beb6898dab21b3d14b0ef10291a8f5fc7fa0105a2fa2e7d5317
+location: 29624ecd10f38beb6898dab21b3d14b0ef10291a8f5fc7fa0105a2fa2e7d5317:0:0
+output: 29624ecd10f38beb6898dab21b3d14b0ef10291a8f5fc7fa0105a2fa2e7d5317:0
+offset: 0

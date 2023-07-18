@@ -1,0 +1,14 @@
+title: Inscription 3409
+id: 078a4f07e01dad3bcf200c6a9733a26da5a0d6f5c2075931cdd4f27b16ca134di0
+address: bc1pgl9zldg62pka0qu8asm5ulnlzrfhq67qu9parzyxsu63kh4t32fqkrwcn4
+output-value: 9667
+sat: 1926434491223302
+content-length: 52118 bytes
+content-type: image/jpeg
+timestamp: 2023-02-05 03:41:33 UTC
+genesis-height: 775089
+genesis-fee: 13239
+genesis-transaction: 078a4f07e01dad3bcf200c6a9733a26da5a0d6f5c2075931cdd4f27b16ca134d
+location: 9fb7c5487caa6ff5db0671632ac54062a5c09403f290006c75161de15234aa6e:0:0
+output: 9fb7c5487caa6ff5db0671632ac54062a5c09403f290006c75161de15234aa6e:0
+offset: 0

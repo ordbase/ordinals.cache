@@ -1,0 +1,14 @@
+title: Inscription 10371107
+id: ec621ea8742c1ffa0cadd381b8d6dbaa53ca70fd5bb2721b8b1696b74a526a32i0
+address: bc1p76qtl8qxtcfcp98cuqaqrdhqp8k5m2lzntlqvqcr8tpycq0mql5qhjywnn
+output-value: 546
+sat: 1863971802259520
+content-length: 67 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 05:00:57 UTC
+genesis-height: 792337
+genesis-fee: 7332
+genesis-transaction: ec621ea8742c1ffa0cadd381b8d6dbaa53ca70fd5bb2721b8b1696b74a526a32
+location: ec621ea8742c1ffa0cadd381b8d6dbaa53ca70fd5bb2721b8b1696b74a526a32:0:0
+output: ec621ea8742c1ffa0cadd381b8d6dbaa53ca70fd5bb2721b8b1696b74a526a32:0
+offset: 0

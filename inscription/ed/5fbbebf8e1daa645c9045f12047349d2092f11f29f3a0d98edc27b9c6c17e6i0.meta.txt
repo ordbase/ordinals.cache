@@ -1,0 +1,14 @@
+title: Inscription 11141640
+id: ed5fbbebf8e1daa645c9045f12047349d2092f11f29f3a0d98edc27b9c6c17e6i0
+address: bc1pa2043xfxlkwcpsgpuznejxslr8l3svlq4nuh7yr6gnhd7vyruyrs8f2xya
+output-value: 546
+sat: 915197392928227
+content-length: 63 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-08 09:23:54 UTC
+genesis-height: 793372
+genesis-fee: 3740
+genesis-transaction: ed5fbbebf8e1daa645c9045f12047349d2092f11f29f3a0d98edc27b9c6c17e6
+location: ed5fbbebf8e1daa645c9045f12047349d2092f11f29f3a0d98edc27b9c6c17e6:0:0
+output: ed5fbbebf8e1daa645c9045f12047349d2092f11f29f3a0d98edc27b9c6c17e6:0
+offset: 0

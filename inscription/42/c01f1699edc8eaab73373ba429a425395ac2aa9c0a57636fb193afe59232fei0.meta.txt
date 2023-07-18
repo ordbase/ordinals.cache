@@ -1,0 +1,14 @@
+title: Inscription 10048481
+id: 42c01f1699edc8eaab73373ba429a425395ac2aa9c0a57636fb193afe59232fei0
+address: bc1pn00p0vrez0sfuq08a5xj8h6zxzkc7lj5j0refgy2m975cxasgnds2mkfx4
+output-value: 546
+sat: 655579482955637
+content-length: 64 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-30 03:03:05 UTC
+genesis-height: 792038
+genesis-fee: 9984
+genesis-transaction: 42c01f1699edc8eaab73373ba429a425395ac2aa9c0a57636fb193afe59232fe
+location: 42c01f1699edc8eaab73373ba429a425395ac2aa9c0a57636fb193afe59232fe:0:0
+output: 42c01f1699edc8eaab73373ba429a425395ac2aa9c0a57636fb193afe59232fe:0
+offset: 0

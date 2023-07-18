@@ -1,0 +1,14 @@
+title: Inscription 11517398
+id: 3c129f1292584c5de69ac6c25e6a0b3963fca6161280a9cab0bdde382d86de63i0
+address: bc1pax8u27hjz6ue80zy9wn926cugc62kt5hvx4da2gfweppjxl7tews5qyzn0
+output-value: 546
+sat: 1938970369283638
+content-length: 60 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-11 15:50:48 UTC
+genesis-height: 793913
+genesis-fee: 1395
+genesis-transaction: 3c129f1292584c5de69ac6c25e6a0b3963fca6161280a9cab0bdde382d86de63
+location: 3c129f1292584c5de69ac6c25e6a0b3963fca6161280a9cab0bdde382d86de63:0:0
+output: 3c129f1292584c5de69ac6c25e6a0b3963fca6161280a9cab0bdde382d86de63:0
+offset: 0

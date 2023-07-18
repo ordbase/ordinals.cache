@@ -1,0 +1,14 @@
+title: Inscription 10232610
+id: 6c973760f4841ca2cbc7526c5e74bb8cd5763d476c80a66f9596a5403f8e0a93i0
+address: bc1puu3vqdzkd7a4cc22fh9y0xez744zqm6upglxc9ptnktwpq03ywsq7ruvjh
+output-value: 546
+sat: 1871070707566349
+content-length: 59 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 01:48:20 UTC
+genesis-height: 792183
+genesis-fee: 5580
+genesis-transaction: 6c973760f4841ca2cbc7526c5e74bb8cd5763d476c80a66f9596a5403f8e0a93
+location: 6c973760f4841ca2cbc7526c5e74bb8cd5763d476c80a66f9596a5403f8e0a93:0:0
+output: 6c973760f4841ca2cbc7526c5e74bb8cd5763d476c80a66f9596a5403f8e0a93:0
+offset: 0

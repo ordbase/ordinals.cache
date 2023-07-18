@@ -1,0 +1,14 @@
+title: Inscription 10222239
+id: ea4be2583b623c2e19a166bffd10285b1481b85458ff674d9dd474523a746a44i0
+address: bc1phmw052ftxhda3lm84xf0qgwjn3kmd3d6s95l4kgy9m7yy6h6nmdsknnsj3
+output-value: 546
+sat: 1314373428063903
+content-length: 59 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-30 23:34:51 UTC
+genesis-height: 792173
+genesis-fee: 12172
+genesis-transaction: ea4be2583b623c2e19a166bffd10285b1481b85458ff674d9dd474523a746a44
+location: ea4be2583b623c2e19a166bffd10285b1481b85458ff674d9dd474523a746a44:0:0
+output: ea4be2583b623c2e19a166bffd10285b1481b85458ff674d9dd474523a746a44:0
+offset: 0

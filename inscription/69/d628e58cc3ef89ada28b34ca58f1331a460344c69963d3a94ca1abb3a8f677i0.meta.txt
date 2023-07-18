@@ -1,0 +1,14 @@
+title: Inscription 9972540
+id: 69d628e58cc3ef89ada28b34ca58f1331a460344c69963d3a94ca1abb3a8f677i0
+address: bc1p40uqqmyymrz7mwc4q2hlkm53mgkfr0qgz6pqd5txvp7qlv3r3g7qkmvuwd
+output-value: 546
+sat: 747102655066987
+content-length: 73 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-29 19:13:17 UTC
+genesis-height: 791991
+genesis-fee: 7110
+genesis-transaction: 69d628e58cc3ef89ada28b34ca58f1331a460344c69963d3a94ca1abb3a8f677
+location: 69d628e58cc3ef89ada28b34ca58f1331a460344c69963d3a94ca1abb3a8f677:0:0
+output: 69d628e58cc3ef89ada28b34ca58f1331a460344c69963d3a94ca1abb3a8f677:0
+offset: 0

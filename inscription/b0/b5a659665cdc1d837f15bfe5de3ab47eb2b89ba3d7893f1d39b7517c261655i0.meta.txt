@@ -1,0 +1,14 @@
+title: Inscription 10237442
+id: b0b5a659665cdc1d837f15bfe5de3ab47eb2b89ba3d7893f1d39b7517c261655i0
+address: bc1puaymm0t6xmy7f5y6td58lel67xncpys6usdw5nc8vwsmzc02e2nstjp6vs
+output-value: 546
+sat: 1921690556717003
+content-length: 56 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 02:41:41 UTC
+genesis-height: 792187
+genesis-fee: 5390
+genesis-transaction: b0b5a659665cdc1d837f15bfe5de3ab47eb2b89ba3d7893f1d39b7517c261655
+location: b0b5a659665cdc1d837f15bfe5de3ab47eb2b89ba3d7893f1d39b7517c261655:0:0
+output: b0b5a659665cdc1d837f15bfe5de3ab47eb2b89ba3d7893f1d39b7517c261655:0
+offset: 0

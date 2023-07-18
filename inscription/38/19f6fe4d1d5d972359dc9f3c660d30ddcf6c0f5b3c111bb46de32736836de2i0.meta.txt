@@ -1,0 +1,14 @@
+title: Inscription 10278102
+id: 3819f6fe4d1d5d972359dc9f3c660d30ddcf6c0f5b3c111bb46de32736836de2i0
+address: bc1pvslfrupt79hjj3pjfrp5tdcv8yqm7f8v5nr6unchw4t9lrr5x3lqm99679
+output-value: 546
+sat: 1428951308346798
+content-length: 59 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 08:45:34 UTC
+genesis-height: 792224
+genesis-fee: 7750
+genesis-transaction: 3819f6fe4d1d5d972359dc9f3c660d30ddcf6c0f5b3c111bb46de32736836de2
+location: 3819f6fe4d1d5d972359dc9f3c660d30ddcf6c0f5b3c111bb46de32736836de2:0:0
+output: 3819f6fe4d1d5d972359dc9f3c660d30ddcf6c0f5b3c111bb46de32736836de2:0
+offset: 0

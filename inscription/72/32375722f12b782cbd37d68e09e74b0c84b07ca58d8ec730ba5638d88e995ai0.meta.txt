@@ -1,0 +1,14 @@
+title: Inscription 10369279
+id: 7232375722f12b782cbd37d68e09e74b0c84b07ca58d8ec730ba5638d88e995ai0
+address: bc1qwuywj8zgwkgzc2884hhs0pkjz7dcxj29p07vqk
+output-value: 546
+sat: 1611175792167089
+content-length: 68 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 03:48:26 UTC
+genesis-height: 792333
+genesis-fee: 7216
+genesis-transaction: 7232375722f12b782cbd37d68e09e74b0c84b07ca58d8ec730ba5638d88e995a
+location: 7232375722f12b782cbd37d68e09e74b0c84b07ca58d8ec730ba5638d88e995a:0:0
+output: 7232375722f12b782cbd37d68e09e74b0c84b07ca58d8ec730ba5638d88e995a:0
+offset: 0

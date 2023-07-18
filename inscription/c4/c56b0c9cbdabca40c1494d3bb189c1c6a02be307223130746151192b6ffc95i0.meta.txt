@@ -1,0 +1,14 @@
+title: Inscription 9991930
+id: c4c56b0c9cbdabca40c1494d3bb189c1c6a02be307223130746151192b6ffc95i0
+address: bc1pehvyx3t6wdx4ku303jyy6wu729r2mttjjargsqcnfjhhvmt23a7qeeaesj
+output-value: 1000
+sat: 1725222606735260
+content-length: 65 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-29 21:24:12 UTC
+genesis-height: 792006
+genesis-fee: 8580
+genesis-transaction: c4c56b0c9cbdabca40c1494d3bb189c1c6a02be307223130746151192b6ffc95
+location: c4c56b0c9cbdabca40c1494d3bb189c1c6a02be307223130746151192b6ffc95:0:0
+output: c4c56b0c9cbdabca40c1494d3bb189c1c6a02be307223130746151192b6ffc95:0
+offset: 0

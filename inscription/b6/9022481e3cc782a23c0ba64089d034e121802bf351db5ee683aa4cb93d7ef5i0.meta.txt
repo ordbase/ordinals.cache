@@ -1,0 +1,14 @@
+title: Inscription 56459
+id: b69022481e3cc782a23c0ba64089d034e121802bf351db5ee683aa4cb93d7ef5i0
+address: bc1ppu7f3pelx77hdgru96r2kt450yvmjag9amzxljgz8hsndue98jjsxzsuk9
+output-value: 10000
+sat: 1532884310297824
+content-length: 346 bytes
+content-type: image/png
+timestamp: 2023-02-11 15:05:41 UTC
+genesis-height: 776046
+genesis-fee: 6630
+genesis-transaction: b69022481e3cc782a23c0ba64089d034e121802bf351db5ee683aa4cb93d7ef5
+location: b69022481e3cc782a23c0ba64089d034e121802bf351db5ee683aa4cb93d7ef5:0:0
+output: b69022481e3cc782a23c0ba64089d034e121802bf351db5ee683aa4cb93d7ef5:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 60434
+id: d0d848e0f5236ec81ee67fde04e0d2ddb769bacebb24cc8c47a46d14c0a0e369i0
+address: bc1pwvfe46dq9nxyfkwmyk09j0r430rhs66hm5rn0qcnx2g0ecasd47qpuujjj
+output-value: 10000
+sat: 1283289308845427
+content-length: 345 bytes
+content-type: image/png
+timestamp: 2023-02-12 02:27:12 UTC
+genesis-height: 776116
+genesis-fee: 8840
+genesis-transaction: d0d848e0f5236ec81ee67fde04e0d2ddb769bacebb24cc8c47a46d14c0a0e369
+location: d0d848e0f5236ec81ee67fde04e0d2ddb769bacebb24cc8c47a46d14c0a0e369:0:0
+output: d0d848e0f5236ec81ee67fde04e0d2ddb769bacebb24cc8c47a46d14c0a0e369:0
+offset: 0

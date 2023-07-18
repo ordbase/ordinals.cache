@@ -1,0 +1,14 @@
+title: Inscription 6826
+id: cda500e2239bfe638e6a8062863d177237a515c959ca9f79f8f9dfb67d785f4di0
+address: bc1p77fs7dk3l7grg7ckdg3mzmkwv2xc2tfjl2hxfl6hd5ef5lr73d3sddm5r3
+output-value: 8890
+sat: 1337162290203786
+content-length: 305 bytes
+content-type: image/png
+timestamp: 2023-02-06 15:48:51 UTC
+genesis-height: 775307
+genesis-fee: 1055
+genesis-transaction: cda500e2239bfe638e6a8062863d177237a515c959ca9f79f8f9dfb67d785f4d
+location: f8629b85d44aa95fe60a9064ffae5d422cbe9b51e04bdbb801ef3be82346b630:0:0
+output: f8629b85d44aa95fe60a9064ffae5d422cbe9b51e04bdbb801ef3be82346b630:0
+offset: 0

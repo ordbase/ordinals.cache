@@ -1,0 +1,14 @@
+title: Inscription 10368202
+id: 2a9b3b8d244daa1c6fe86bde3dac08ee70401ee2433e16f4d1c7f413c326b521i0
+address: bc1pj4lleugn6rjkuy9urdf4ysflt245afecwnu6dpn236vcl88nermq40c5vs
+output-value: 546
+sat: 322714876013202
+content-length: 66 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 03:35:25 UTC
+genesis-height: 792332
+genesis-fee: 11407
+genesis-transaction: 2a9b3b8d244daa1c6fe86bde3dac08ee70401ee2433e16f4d1c7f413c326b521
+location: 2a9b3b8d244daa1c6fe86bde3dac08ee70401ee2433e16f4d1c7f413c326b521:0:0
+output: 2a9b3b8d244daa1c6fe86bde3dac08ee70401ee2433e16f4d1c7f413c326b521:0
+offset: 0

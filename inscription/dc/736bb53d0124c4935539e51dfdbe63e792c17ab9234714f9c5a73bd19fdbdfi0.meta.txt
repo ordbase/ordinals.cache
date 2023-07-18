@@ -1,0 +1,14 @@
+title: Inscription 10387332
+id: dc736bb53d0124c4935539e51dfdbe63e792c17ab9234714f9c5a73bd19fdbdfi0
+address: bc1qfuplslks3u6lh4gf08k6zl2ztj3pa3jlnl4t5t
+output-value: 546
+sat: 1932095173203273
+content-length: 66 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 10:28:30 UTC
+genesis-height: 792363
+genesis-fee: 5250
+genesis-transaction: dc736bb53d0124c4935539e51dfdbe63e792c17ab9234714f9c5a73bd19fdbdf
+location: dc736bb53d0124c4935539e51dfdbe63e792c17ab9234714f9c5a73bd19fdbdf:0:0
+output: dc736bb53d0124c4935539e51dfdbe63e792c17ab9234714f9c5a73bd19fdbdf:0
+offset: 0

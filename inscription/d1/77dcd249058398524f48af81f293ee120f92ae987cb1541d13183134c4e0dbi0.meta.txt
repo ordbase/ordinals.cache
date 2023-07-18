@@ -1,0 +1,14 @@
+title: Inscription 10281080
+id: d177dcd249058398524f48af81f293ee120f92ae987cb1541d13183134c4e0dbi0
+address: bc1pgym6cc0rtwqe62u2q8ndxu4rheejpsrzjs4xc78j84z3jxzypfeq02ff0g
+output-value: 546
+sat: 403582948499195
+content-length: 56 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 09:07:04 UTC
+genesis-height: 792228
+genesis-fee: 8624
+genesis-transaction: d177dcd249058398524f48af81f293ee120f92ae987cb1541d13183134c4e0db
+location: d177dcd249058398524f48af81f293ee120f92ae987cb1541d13183134c4e0db:0:0
+output: d177dcd249058398524f48af81f293ee120f92ae987cb1541d13183134c4e0db:0
+offset: 0

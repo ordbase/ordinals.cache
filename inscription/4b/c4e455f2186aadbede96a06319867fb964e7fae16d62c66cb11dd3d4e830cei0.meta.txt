@@ -1,0 +1,14 @@
+title: Inscription 11209886
+id: 4bc4e455f2186aadbede96a06319867fb964e7fae16d62c66cb11dd3d4e830cei0
+address: bc1pwc33jtl73wad5fazwskegdc9ekke4wr87tq2vxacvwvyswvh6m2spxdg5f
+output-value: 546
+sat: 1786048348942423
+content-length: 72 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-09 04:01:41 UTC
+genesis-height: 793496
+genesis-fee: 6426
+genesis-transaction: 4bc4e455f2186aadbede96a06319867fb964e7fae16d62c66cb11dd3d4e830ce
+location: 4bc4e455f2186aadbede96a06319867fb964e7fae16d62c66cb11dd3d4e830ce:0:0
+output: 4bc4e455f2186aadbede96a06319867fb964e7fae16d62c66cb11dd3d4e830ce:0
+offset: 0

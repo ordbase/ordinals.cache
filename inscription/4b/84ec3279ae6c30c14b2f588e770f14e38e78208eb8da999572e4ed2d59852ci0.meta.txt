@@ -1,0 +1,14 @@
+title: Inscription 13496306
+id: 4b84ec3279ae6c30c14b2f588e770f14e38e78208eb8da999572e4ed2d59852ci0
+address: bc1pdthhxpzwah8g79jd6lg7ycxcq5vqqqfxdnmmj93mjvq3gqwwehnsg55zc5
+output-value: 546
+sat: 1346052708814722
+content-length: 22 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-25 12:48:39 UTC
+genesis-height: 795855
+genesis-fee: 1595
+genesis-transaction: 4b84ec3279ae6c30c14b2f588e770f14e38e78208eb8da999572e4ed2d59852c
+location: 4b84ec3279ae6c30c14b2f588e770f14e38e78208eb8da999572e4ed2d59852c:0:0
+output: 4b84ec3279ae6c30c14b2f588e770f14e38e78208eb8da999572e4ed2d59852c:0
+offset: 0

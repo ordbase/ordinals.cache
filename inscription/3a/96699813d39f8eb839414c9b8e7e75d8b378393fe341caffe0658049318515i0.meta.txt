@@ -1,0 +1,14 @@
+title: Inscription 10351356
+id: 3a96699813d39f8eb839414c9b8e7e75d8b378393fe341caffe0658049318515i0
+address: bc1p93ndeqx4jvafqnd0evg5r34uqwxsyhdcrny6cnuv8d8hff6fnapsg398vv
+output-value: 546
+sat: 989962784237680
+content-length: 66 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 22:37:47 UTC
+genesis-height: 792307
+genesis-fee: 10920
+genesis-transaction: 3a96699813d39f8eb839414c9b8e7e75d8b378393fe341caffe0658049318515
+location: 3a96699813d39f8eb839414c9b8e7e75d8b378393fe341caffe0658049318515:0:0
+output: 3a96699813d39f8eb839414c9b8e7e75d8b378393fe341caffe0658049318515:0
+offset: 0

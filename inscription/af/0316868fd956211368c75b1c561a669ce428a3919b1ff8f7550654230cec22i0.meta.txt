@@ -1,0 +1,14 @@
+title: Inscription 9656
+id: af0316868fd956211368c75b1c561a669ce428a3919b1ff8f7550654230cec22i0
+address: bc1pa8tcpsj0uewdlyfyz0ms5fu0uuz8x8fpvcrwcl07frkzc9gu7xkqs04y40
+output-value: 10000
+sat: 1053041540869330
+content-length: 957 bytes
+content-type: image/png
+timestamp: 2023-02-07 03:10:31 UTC
+genesis-height: 775382
+genesis-fee: 2250
+genesis-transaction: af0316868fd956211368c75b1c561a669ce428a3919b1ff8f7550654230cec22
+location: af0316868fd956211368c75b1c561a669ce428a3919b1ff8f7550654230cec22:0:0
+output: af0316868fd956211368c75b1c561a669ce428a3919b1ff8f7550654230cec22:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 581
+id: 2f1ddeeda6260800127d21372d3a41375ac145a237c54456ba5219d10c297718i0
+address: bc1qhemdmt9x3e0pvyf5ssfnt5d7pz822lmenadmjj
+output-value: 8020
+sat: 1527376859487827
+content-length: 434 bytes
+content-type: image/png
+timestamp: 2023-02-01 15:54:57 UTC
+genesis-height: 774595
+genesis-fee: 4860
+genesis-transaction: 2f1ddeeda6260800127d21372d3a41375ac145a237c54456ba5219d10c297718
+location: 72c79bce7b9d44b72af9acfda6f26a272ea4b9a2cece28ff7d975b812f6dfedc:0:0
+output: 72c79bce7b9d44b72af9acfda6f26a272ea4b9a2cece28ff7d975b812f6dfedc:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 14999762
+id: 7e238c49e16368a4b089fbd6f2ca4c866d415e3801f059e54f8e1025650560e1i0
+address: bc1pysq6qjfq96hq9xl4qrv07n7re0d2qy7trrlyycl68l85zehhznvsspg9lv
+output-value: 546
+sat: 1338014440304338
+content-length: 137 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-07-06 23:19:53 UTC
+genesis-height: 797504
+genesis-fee: 1435
+genesis-transaction: 7e238c49e16368a4b089fbd6f2ca4c866d415e3801f059e54f8e1025650560e1
+location: 7e238c49e16368a4b089fbd6f2ca4c866d415e3801f059e54f8e1025650560e1:0:0
+output: 7e238c49e16368a4b089fbd6f2ca4c866d415e3801f059e54f8e1025650560e1:0
+offset: 0

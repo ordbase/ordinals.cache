@@ -1,0 +1,14 @@
+title: Inscription 12225841
+id: 7953ccb6614a41e7b4c4ed2a2b112b52feda387de92de2c1a314f03d5da41955i0
+address: bc1p8c633u900pdreu2v4sqwlzp2ya3nqe76rdctzd8y4ty5fsgtn7aqgv60hu
+output-value: 546
+sat: 1627601827505805
+content-length: 204 bytes
+content-type: image/png
+timestamp: 2023-06-16 23:49:15 UTC
+genesis-height: 794678
+genesis-fee: 3196
+genesis-transaction: 7953ccb6614a41e7b4c4ed2a2b112b52feda387de92de2c1a314f03d5da41955
+location: 7953ccb6614a41e7b4c4ed2a2b112b52feda387de92de2c1a314f03d5da41955:0:0
+output: 7953ccb6614a41e7b4c4ed2a2b112b52feda387de92de2c1a314f03d5da41955:0
+offset: 0

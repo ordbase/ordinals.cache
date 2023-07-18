@@ -1,0 +1,14 @@
+title: Inscription 3072
+id: aca867c420ba0a8fe012894b0bdbd9c152cf2b633ee1cec0751b3990386106f4i0
+address: bc1p7p8aaqyj70zv5f4nv6rz9ygzxw2nxfvxjj89awqrfqq2ra8ryemqz70ccv
+output-value: 9556
+sat: 1586274230432382
+content-length: 53873 bytes
+content-type: image/jpeg
+timestamp: 2023-02-05 03:13:16 UTC
+genesis-height: 775085
+genesis-fee: 13681
+genesis-transaction: aca867c420ba0a8fe012894b0bdbd9c152cf2b633ee1cec0751b3990386106f4
+location: e9f78d53654962db9cedc49d63486075834a6d716eecd0c09591005a00b67c49:0:0
+output: e9f78d53654962db9cedc49d63486075834a6d716eecd0c09591005a00b67c49:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 6440
+id: f6f09d08bb0618ff53b386064b5f85a2d154ee4509d6763fba2091e6413625b3i0
+address: bc1pqsa9fgfvnxvgusswcshlcxnrjfhkvxpcw7l7vshyqhumzdmfgeysrn0k0g
+output-value: 8787
+sat: 900744243320379
+content-length: 323 bytes
+content-type: image/png
+timestamp: 2023-02-06 10:56:59 UTC
+genesis-height: 775278
+genesis-fee: 1728
+genesis-transaction: f6f09d08bb0618ff53b386064b5f85a2d154ee4509d6763fba2091e6413625b3
+location: f1c1b536aa10e9f70005159615b3750e2d958780b1392d5d288a087c263d2d8b:0:0
+output: f1c1b536aa10e9f70005159615b3750e2d958780b1392d5d288a087c263d2d8b:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 74010
+id: e428e0f82107b1cc48e8619104f5db70753bb97b13c3d7e6efc6a48137b9232ei0
+address: bc1pzm5d65c3gvkhkqgfpfr3eeyyds0x9d0dfnc8enjug4wfzstds4kstl2c25
+output-value: 4918
+sat: 1186565357729520
+content-length: 209 bytes
+content-type: image/png
+timestamp: 2023-02-13 13:08:57 UTC
+genesis-height: 776342
+genesis-fee: 5236
+genesis-transaction: e428e0f82107b1cc48e8619104f5db70753bb97b13c3d7e6efc6a48137b9232e
+location: 5db30084dc3d54839f3559a617b14bf56e70d6c67862558738cec073fdc85727:0:0
+output: 5db30084dc3d54839f3559a617b14bf56e70d6c67862558738cec073fdc85727:0
+offset: 0

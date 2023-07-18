@@ -1,0 +1,14 @@
+title: Inscription 10126387
+id: 491d183e651899daa5cfc21af003c39a37efee9d93164a11f1059dc68caa8732i0
+address: bc1p6wuqhv7z509fu4g7umcfvkdavqu0s7ws6t4e3hgrjksudhjlvrasger25p
+output-value: 546
+sat: 942793604950443
+content-length: 137 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-30 09:20:18 UTC
+genesis-height: 792083
+genesis-fee: 8352
+genesis-transaction: 491d183e651899daa5cfc21af003c39a37efee9d93164a11f1059dc68caa8732
+location: 491d183e651899daa5cfc21af003c39a37efee9d93164a11f1059dc68caa8732:0:0
+output: 491d183e651899daa5cfc21af003c39a37efee9d93164a11f1059dc68caa8732:0
+offset: 0

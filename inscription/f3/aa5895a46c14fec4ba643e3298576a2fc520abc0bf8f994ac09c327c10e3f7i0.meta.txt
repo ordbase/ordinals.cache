@@ -1,0 +1,14 @@
+title: Inscription 11842093
+id: f3aa5895a46c14fec4ba643e3298576a2fc520abc0bf8f994ac09c327c10e3f7i0
+address: bc1pjrnv4s49kgjq8prf3jh8n33wtku4y5rtq9a6992fz59pzwspwz9q25yt4s
+output-value: 546
+sat: 1821566266023331
+content-length: 62 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-14 12:09:04 UTC
+genesis-height: 794308
+genesis-fee: 4805
+genesis-transaction: f3aa5895a46c14fec4ba643e3298576a2fc520abc0bf8f994ac09c327c10e3f7
+location: f3aa5895a46c14fec4ba643e3298576a2fc520abc0bf8f994ac09c327c10e3f7:0:0
+output: f3aa5895a46c14fec4ba643e3298576a2fc520abc0bf8f994ac09c327c10e3f7:0
+offset: 0

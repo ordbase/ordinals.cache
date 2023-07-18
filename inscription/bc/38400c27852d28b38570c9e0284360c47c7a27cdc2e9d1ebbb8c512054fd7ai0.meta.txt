@@ -1,0 +1,14 @@
+title: Inscription 1280
+id: bc38400c27852d28b38570c9e0284360c47c7a27cdc2e9d1ebbb8c512054fd7ai0
+address: bc1pflwuet9lvzm9vqf92hv5yzk78adtu4ephyhexnvcex7xvel0gqlq2kuz5g
+output-value: 8002
+sat: 1926902525968052
+content-length: 39337 bytes
+content-type: image/jpeg
+timestamp: 2023-02-03 07:06:30 UTC
+genesis-height: 774837
+genesis-fee: 20052
+genesis-transaction: bc38400c27852d28b38570c9e0284360c47c7a27cdc2e9d1ebbb8c512054fd7a
+location: 1a65802900f7ae0f6da0c0a1f710dba8d45c30c20fa51313f72ae8e66e3ec8ea:0:0
+output: 1a65802900f7ae0f6da0c0a1f710dba8d45c30c20fa51313f72ae8e66e3ec8ea:0
+offset: 0

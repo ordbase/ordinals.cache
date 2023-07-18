@@ -1,0 +1,14 @@
+title: Inscription 9993817
+id: 799d6ae226e9caf3310f134d5ca300d36bb90f8d43d3a3b34a448cdb5d91267bi0
+address: bc1p32thfxlsd8mw7m5ajz52s0n33l8adswfpjnqcruw3k0q384nz2ssyslrhj
+output-value: 546
+sat: 1816251928646513
+content-length: 61 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-29 21:31:38 UTC
+genesis-height: 792008
+genesis-fee: 4805
+genesis-transaction: 799d6ae226e9caf3310f134d5ca300d36bb90f8d43d3a3b34a448cdb5d91267b
+location: 799d6ae226e9caf3310f134d5ca300d36bb90f8d43d3a3b34a448cdb5d91267b:0:0
+output: 799d6ae226e9caf3310f134d5ca300d36bb90f8d43d3a3b34a448cdb5d91267b:0
+offset: 0

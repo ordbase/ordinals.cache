@@ -1,0 +1,14 @@
+title: Inscription 620
+id: b8ce900663108e2e07994632722b01ba86dfaa37e6636080828262f719c99ef7i0
+address: bc1pdlzqs6hth7yhm4wu68t0fg84ej233348upzudafrttlz4gpaz7vqkmxmk4
+output-value: 7780
+sat: 1888769432915959
+content-length: 396 bytes
+content-type: image/png
+timestamp: 2023-02-01 18:33:59 UTC
+genesis-height: 774612
+genesis-fee: 4680
+genesis-transaction: b8ce900663108e2e07994632722b01ba86dfaa37e6636080828262f719c99ef7
+location: bf9f4e2681e5ed4de9e828d8b6a90693839a7947b9b8e0d7ffe2a48dd907636e:0:0
+output: bf9f4e2681e5ed4de9e828d8b6a90693839a7947b9b8e0d7ffe2a48dd907636e:0
+offset: 0

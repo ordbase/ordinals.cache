@@ -1,0 +1,14 @@
+title: Inscription 5425
+id: 3b1917dde7266739c484ded9166eab7e7c1db0172f972cfaf4ad1bfe43e7f537i0
+address: bc1peggn9anup8daljw9z5zl4jcycjk6duz89yu02dwgyrsyh68y3lssqqwevv
+output-value: 10000
+sat: 1891399285596491
+content-length: 52030 bytes
+content-type: image/jpeg
+timestamp: 2023-02-06 01:47:26 UTC
+genesis-height: 775226
+genesis-fee: 26434
+genesis-transaction: 3b1917dde7266739c484ded9166eab7e7c1db0172f972cfaf4ad1bfe43e7f537
+location: 3b1917dde7266739c484ded9166eab7e7c1db0172f972cfaf4ad1bfe43e7f537:0:0
+output: 3b1917dde7266739c484ded9166eab7e7c1db0172f972cfaf4ad1bfe43e7f537:0
+offset: 0

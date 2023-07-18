@@ -1,0 +1,14 @@
+title: Inscription 131594
+id: de19526d533f02951038df54c930a9dd12db33301575707b8e33884473a4d09ei0
+address: bc1p3j2m5txyk0cw3atghu8safh2xqfy4r2l6tkgy3kv0v228cy4vgds4ykdzj
+output-value: 9778
+sat: 1599649398482237
+content-length: 279 bytes
+content-type: image/png
+timestamp: 2023-02-17 23:55:25 UTC
+genesis-height: 777079
+genesis-fee: 2460
+genesis-transaction: de19526d533f02951038df54c930a9dd12db33301575707b8e33884473a4d09e
+location: b8190aaa7dfc036ecd6d01a587e22046e05c7db2f9f1a480ac6a21476f308e56:0:0
+output: b8190aaa7dfc036ecd6d01a587e22046e05c7db2f9f1a480ac6a21476f308e56:0
+offset: 0

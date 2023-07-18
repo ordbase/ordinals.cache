@@ -1,0 +1,14 @@
+title: Inscription 12223093
+id: 549dbfd29408fabbc7a8a28f314614de37839fe0a2b996419c1010e3f10d3b40i0
+address: bc1pa8p82ejqmycms87w0sqcqstnqkx80q89c2rxsmcfuexznv8f5nhsrc3fc3
+output-value: 546
+sat: 871713458389841
+content-length: 85 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-16 22:19:30 UTC
+genesis-height: 794668
+genesis-fee: 4347
+genesis-transaction: 549dbfd29408fabbc7a8a28f314614de37839fe0a2b996419c1010e3f10d3b40
+location: 549dbfd29408fabbc7a8a28f314614de37839fe0a2b996419c1010e3f10d3b40:0:0
+output: 549dbfd29408fabbc7a8a28f314614de37839fe0a2b996419c1010e3f10d3b40:0
+offset: 0

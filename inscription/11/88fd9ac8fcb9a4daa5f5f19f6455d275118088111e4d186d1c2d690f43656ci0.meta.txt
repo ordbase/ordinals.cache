@@ -1,0 +1,14 @@
+title: Inscription 597
+id: 1188fd9ac8fcb9a4daa5f5f19f6455d275118088111e4d186d1c2d690f43656ci0
+address: bc1pkvg2ur2vgrtljjph3v3g9vp6plh732pv3khmy787zqd8x6wugghqe3wm25
+output-value: 7780
+sat: 1924963396355644
+content-length: 392 bytes
+content-type: image/png
+timestamp: 2023-02-01 16:42:58 UTC
+genesis-height: 774600
+genesis-fee: 4660
+genesis-transaction: 1188fd9ac8fcb9a4daa5f5f19f6455d275118088111e4d186d1c2d690f43656c
+location: b401bc3d45a279ff6d1e2bc49128d85efe4b7483f6883272b458c6ea4ffc567d:0:0
+output: b401bc3d45a279ff6d1e2bc49128d85efe4b7483f6883272b458c6ea4ffc567d:0
+offset: 0

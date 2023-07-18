@@ -1,0 +1,14 @@
+title: Inscription 10280463
+id: 7fe1e43c5a54f0fc7122f4b285c5ef808c260b37933c31f5e65732182d72da80i0
+address: bc1qlu49zar74f2rcnh5982nee9axx0r72emwa2daf
+output-value: 546
+sat: 13512848445730
+content-length: 71 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 09:03:15 UTC
+genesis-height: 792227
+genesis-fee: 6862
+genesis-transaction: 7fe1e43c5a54f0fc7122f4b285c5ef808c260b37933c31f5e65732182d72da80
+location: 7fe1e43c5a54f0fc7122f4b285c5ef808c260b37933c31f5e65732182d72da80:0:0
+output: 7fe1e43c5a54f0fc7122f4b285c5ef808c260b37933c31f5e65732182d72da80:0
+offset: 0

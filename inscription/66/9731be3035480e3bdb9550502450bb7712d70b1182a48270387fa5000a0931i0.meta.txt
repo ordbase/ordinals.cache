@@ -1,0 +1,14 @@
+title: Inscription 10512018
+id: 669731be3035480e3bdb9550502450bb7712d70b1182a48270387fa5000a0931i0
+address: bc1pt70r4dmqy4exll5yxhfzfaafltywy2fguuqe4ztazm32gnrgc5dqxvfp6h
+output-value: 546
+sat: 1352087262258196
+content-length: 62 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-02 12:57:16 UTC
+genesis-height: 792541
+genesis-fee: 5766
+genesis-transaction: 669731be3035480e3bdb9550502450bb7712d70b1182a48270387fa5000a0931
+location: 669731be3035480e3bdb9550502450bb7712d70b1182a48270387fa5000a0931:0:0
+output: 669731be3035480e3bdb9550502450bb7712d70b1182a48270387fa5000a0931:0
+offset: 0

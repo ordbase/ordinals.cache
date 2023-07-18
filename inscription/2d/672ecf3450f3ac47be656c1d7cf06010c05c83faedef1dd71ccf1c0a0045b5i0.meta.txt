@@ -1,0 +1,14 @@
+title: Inscription 10366648
+id: 2d672ecf3450f3ac47be656c1d7cf06010c05c83faedef1dd71ccf1c0a0045b5i0
+address: bc1p8kntv5jg7f0pnwxfnndlwh2upjd9tn8fr9xa5kwdkl9cqc26ch7sptg6jg
+output-value: 546
+sat: 1676475183685137
+content-length: 70 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 02:52:43 UTC
+genesis-height: 792329
+genesis-fee: 8836
+genesis-transaction: 2d672ecf3450f3ac47be656c1d7cf06010c05c83faedef1dd71ccf1c0a0045b5
+location: 2d672ecf3450f3ac47be656c1d7cf06010c05c83faedef1dd71ccf1c0a0045b5:0:0
+output: 2d672ecf3450f3ac47be656c1d7cf06010c05c83faedef1dd71ccf1c0a0045b5:0
+offset: 0

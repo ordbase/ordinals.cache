@@ -1,0 +1,14 @@
+title: Inscription 13147501
+id: b1e30d343706235afb194c1f497f399cb30d65f18e1d5a9d59dec2128f2f8972i0
+address: bc1pa2043xfxlkwcpsgpuznejxslr8l3svlq4nuh7yr6gnhd7vyruyrs8f2xya
+output-value: 546
+sat: 1531020647987793
+content-length: 428 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-22 15:20:10 UTC
+genesis-height: 795454
+genesis-fee: 4464
+genesis-transaction: b1e30d343706235afb194c1f497f399cb30d65f18e1d5a9d59dec2128f2f8972
+location: b1e30d343706235afb194c1f497f399cb30d65f18e1d5a9d59dec2128f2f8972:0:0
+output: b1e30d343706235afb194c1f497f399cb30d65f18e1d5a9d59dec2128f2f8972:0
+offset: 0

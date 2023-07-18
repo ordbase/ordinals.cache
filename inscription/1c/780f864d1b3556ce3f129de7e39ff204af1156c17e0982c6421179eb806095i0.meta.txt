@@ -1,0 +1,14 @@
+title: Inscription 11092932
+id: 1c780f864d1b3556ce3f129de7e39ff204af1156c17e0982c6421179eb806095i0
+address: bc1pvslfrupt79hjj3pjfrp5tdcv8yqm7f8v5nr6unchw4t9lrr5x3lqm99679
+output-value: 546
+sat: 1771129360684800
+content-length: 60 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-08 01:27:00 UTC
+genesis-height: 793321
+genesis-fee: 3255
+genesis-transaction: 1c780f864d1b3556ce3f129de7e39ff204af1156c17e0982c6421179eb806095
+location: 1c780f864d1b3556ce3f129de7e39ff204af1156c17e0982c6421179eb806095:0:0
+output: 1c780f864d1b3556ce3f129de7e39ff204af1156c17e0982c6421179eb806095:0
+offset: 0

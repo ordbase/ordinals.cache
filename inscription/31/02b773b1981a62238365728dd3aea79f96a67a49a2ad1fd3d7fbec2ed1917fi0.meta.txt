@@ -1,0 +1,14 @@
+title: Inscription 654
+id: 3102b773b1981a62238365728dd3aea79f96a67a49a2ad1fd3d7fbec2ed1917fi0
+address: bc1pg4ky0z4jc035qqdsjsacxwhhx9qkf3728u92gfp36fm7f5n754fqrcj0lt
+output-value: 4046
+sat: 973276237109531
+content-length: 28257 bytes
+content-type: image/jpeg
+timestamp: 2023-02-01 20:56:32 UTC
+genesis-height: 774630
+genesis-fee: 57920
+genesis-transaction: 3102b773b1981a62238365728dd3aea79f96a67a49a2ad1fd3d7fbec2ed1917f
+location: 72874d9b16279d627079c53b755de372f01241bf76efd63be1548f28ab9706ec:0:0
+output: 72874d9b16279d627079c53b755de372f01241bf76efd63be1548f28ab9706ec:0
+offset: 0

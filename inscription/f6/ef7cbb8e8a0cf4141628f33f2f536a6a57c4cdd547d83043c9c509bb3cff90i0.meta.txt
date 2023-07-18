@@ -1,0 +1,14 @@
+title: Inscription 10283303
+id: f6ef7cbb8e8a0cf4141628f33f2f536a6a57c4cdd547d83043c9c509bb3cff90i0
+address: bc1pxvrpxdfywnqf7fmn4k9ld9hwe60el56er69ap7r77djhpfed7lpsww9km4
+output-value: 546
+sat: 1800626113251749
+content-length: 44 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 09:18:12 UTC
+genesis-height: 792229
+genesis-fee: 6916
+genesis-transaction: f6ef7cbb8e8a0cf4141628f33f2f536a6a57c4cdd547d83043c9c509bb3cff90
+location: f6ef7cbb8e8a0cf4141628f33f2f536a6a57c4cdd547d83043c9c509bb3cff90:0:0
+output: f6ef7cbb8e8a0cf4141628f33f2f536a6a57c4cdd547d83043c9c509bb3cff90:0
+offset: 0

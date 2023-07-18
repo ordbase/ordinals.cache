@@ -1,0 +1,14 @@
+title: Inscription 9959200
+id: 31bd26c29a483fbcde4c44d0a7f21741d72931e107aae978f43d1f6511b7bba8i0
+address: bc1p40uqqmyymrz7mwc4q2hlkm53mgkfr0qgz6pqd5txvp7qlv3r3g7qkmvuwd
+output-value: 546
+sat: 1146116038996418
+content-length: 56 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-29 17:53:55 UTC
+genesis-height: 791978
+genesis-fee: 10010
+genesis-transaction: 31bd26c29a483fbcde4c44d0a7f21741d72931e107aae978f43d1f6511b7bba8
+location: 31bd26c29a483fbcde4c44d0a7f21741d72931e107aae978f43d1f6511b7bba8:0:0
+output: 31bd26c29a483fbcde4c44d0a7f21741d72931e107aae978f43d1f6511b7bba8:0
+offset: 0

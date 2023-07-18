@@ -1,0 +1,14 @@
+title: Inscription 13069311
+id: c0a4f0a19765b944bfea57cb51105a76e1c6a724a533ed46a288059dc9a2a963i0
+address: bc1pxallsqvsull3naqu2psvqyludvzmyrmj726kq5zp9fvshz7jd6vq29x7p4
+output-value: 3000
+sat: 1695506754194473
+content-length: 345 bytes
+content-type: image/png
+timestamp: 2023-06-21 16:51:15 UTC
+genesis-height: 795335
+genesis-fee: 7076
+genesis-transaction: c0a4f0a19765b944bfea57cb51105a76e1c6a724a533ed46a288059dc9a2a963
+location: c0a4f0a19765b944bfea57cb51105a76e1c6a724a533ed46a288059dc9a2a963:0:0
+output: c0a4f0a19765b944bfea57cb51105a76e1c6a724a533ed46a288059dc9a2a963:0
+offset: 0

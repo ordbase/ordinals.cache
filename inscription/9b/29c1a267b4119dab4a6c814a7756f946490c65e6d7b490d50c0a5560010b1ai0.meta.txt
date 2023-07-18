@@ -1,0 +1,14 @@
+title: Inscription 5921
+id: 9b29c1a267b4119dab4a6c814a7756f946490c65e6d7b490d50c0a5560010b1ai0
+address: bc1phlft8naf69xq4edly38cql8f6heggs6jmsdv99wlyqwpaqd9q4mqpvkpl2
+output-value: 6419
+sat: 320672942954237
+content-length: 33383 bytes
+content-type: image/jpeg
+timestamp: 2023-02-06 05:30:09 UTC
+genesis-height: 775245
+genesis-fee: 21323
+genesis-transaction: 9b29c1a267b4119dab4a6c814a7756f946490c65e6d7b490d50c0a5560010b1a
+location: 999438a64e85050de79aab4539e8a0bc7f05cd4325ba2bba0284dcb19d6a233c:0:0
+output: 999438a64e85050de79aab4539e8a0bc7f05cd4325ba2bba0284dcb19d6a233c:0
+offset: 0

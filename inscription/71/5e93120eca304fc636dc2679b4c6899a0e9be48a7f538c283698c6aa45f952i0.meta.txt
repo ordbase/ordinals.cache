@@ -1,0 +1,14 @@
+title: Inscription 44673
+id: 715e93120eca304fc636dc2679b4c6899a0e9be48a7f538c283698c6aa45f952i0
+address: bc1ph3ex96myz3szvdqzyty5my0vmcd5vh8mede8ddg8jn7cujvxsxnscgaqg5
+output-value: 10000
+sat: 1737880444181379
+content-length: 360 bytes
+content-type: image/png
+timestamp: 2023-02-10 01:12:36 UTC
+genesis-height: 775817
+genesis-fee: 900
+genesis-transaction: 715e93120eca304fc636dc2679b4c6899a0e9be48a7f538c283698c6aa45f952
+location: 715e93120eca304fc636dc2679b4c6899a0e9be48a7f538c283698c6aa45f952:0:0
+output: 715e93120eca304fc636dc2679b4c6899a0e9be48a7f538c283698c6aa45f952:0
+offset: 0

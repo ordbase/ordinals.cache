@@ -1,0 +1,14 @@
+title: Inscription 11539039
+id: a6b1b42aad2c9be7c83dc2a6292f1a8cf6f223c94392f98f0cffc180f2793e6fi0
+address: bc1pty8xdt52tz9t8p7hf9jrxxywg99at7chrv3adsaz5lkda8ztql8stzp2cp
+output-value: 546
+sat: 1226860203911588
+content-length: 134 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-11 21:11:17 UTC
+genesis-height: 793941
+genesis-fee: 2595
+genesis-transaction: a6b1b42aad2c9be7c83dc2a6292f1a8cf6f223c94392f98f0cffc180f2793e6f
+location: a6b1b42aad2c9be7c83dc2a6292f1a8cf6f223c94392f98f0cffc180f2793e6f:0:0
+output: a6b1b42aad2c9be7c83dc2a6292f1a8cf6f223c94392f98f0cffc180f2793e6f:0
+offset: 0

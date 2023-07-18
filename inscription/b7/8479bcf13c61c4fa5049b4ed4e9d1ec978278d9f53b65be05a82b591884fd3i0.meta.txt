@@ -1,0 +1,14 @@
+title: Inscription 10776
+id: b78479bcf13c61c4fa5049b4ed4e9d1ec978278d9f53b65be05a82b591884fd3i0
+address: bc1pcxvzdek7tx9wq3zv7mr0ds4n7teu5zjzqzh0k7pxra6g4ymkllkqvmqtqx
+output-value: 10000
+sat: 1053041541621060
+content-length: 588 bytes
+content-type: image/png
+timestamp: 2023-02-07 14:36:23 UTC
+genesis-height: 775440
+genesis-fee: 2820
+genesis-transaction: b78479bcf13c61c4fa5049b4ed4e9d1ec978278d9f53b65be05a82b591884fd3
+location: b78479bcf13c61c4fa5049b4ed4e9d1ec978278d9f53b65be05a82b591884fd3:0:0
+output: b78479bcf13c61c4fa5049b4ed4e9d1ec978278d9f53b65be05a82b591884fd3:0
+offset: 0

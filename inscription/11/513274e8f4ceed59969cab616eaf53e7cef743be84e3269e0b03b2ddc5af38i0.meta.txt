@@ -1,0 +1,14 @@
+title: Inscription 10000891
+id: 11513274e8f4ceed59969cab616eaf53e7cef743be84e3269e0b03b2ddc5af38i0
+address: bc1p4rx70ssesyf0556yrsgkfvn6vns6dd9ljdm8defjr0w7u4uhwf8q3uz7uf
+output-value: 546
+sat: 1926426944084267
+content-length: 73 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-29 23:03:25 UTC
+genesis-height: 792013
+genesis-fee: 9261
+genesis-transaction: 11513274e8f4ceed59969cab616eaf53e7cef743be84e3269e0b03b2ddc5af38
+location: 11513274e8f4ceed59969cab616eaf53e7cef743be84e3269e0b03b2ddc5af38:0:0
+output: 11513274e8f4ceed59969cab616eaf53e7cef743be84e3269e0b03b2ddc5af38:0
+offset: 0

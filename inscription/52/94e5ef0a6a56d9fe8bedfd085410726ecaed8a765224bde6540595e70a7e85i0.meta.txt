@@ -1,0 +1,14 @@
+title: Inscription 10372121
+id: 5294e5ef0a6a56d9fe8bedfd085410726ecaed8a765224bde6540595e70a7e85i0
+address: bc1q96v3g64gtempvqhsvm3aa8lm36rlee6cf6rw6h
+output-value: 546
+sat: 1284427779295023
+content-length: 56 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 05:03:24 UTC
+genesis-height: 792338
+genesis-fee: 5112
+genesis-transaction: 5294e5ef0a6a56d9fe8bedfd085410726ecaed8a765224bde6540595e70a7e85
+location: 5294e5ef0a6a56d9fe8bedfd085410726ecaed8a765224bde6540595e70a7e85:0:0
+output: 5294e5ef0a6a56d9fe8bedfd085410726ecaed8a765224bde6540595e70a7e85:0
+offset: 0

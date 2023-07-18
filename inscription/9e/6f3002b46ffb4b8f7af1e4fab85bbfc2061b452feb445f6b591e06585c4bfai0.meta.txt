@@ -1,0 +1,14 @@
+title: Inscription 11331437
+id: 9e6f3002b46ffb4b8f7af1e4fab85bbfc2061b452feb445f6b591e06585c4bfai0
+address: bc1pxfnaprge00ltnwzf5zkknw9zhhjf69wgadcyf8eqzf0kuzcuh6csemzxyl
+output-value: 546
+sat: 1934630956347612
+content-length: 96 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-10 14:46:11 UTC
+genesis-height: 793723
+genesis-fee: 3510
+genesis-transaction: 9e6f3002b46ffb4b8f7af1e4fab85bbfc2061b452feb445f6b591e06585c4bfa
+location: 9e6f3002b46ffb4b8f7af1e4fab85bbfc2061b452feb445f6b591e06585c4bfa:0:0
+output: 9e6f3002b46ffb4b8f7af1e4fab85bbfc2061b452feb445f6b591e06585c4bfa:0
+offset: 0

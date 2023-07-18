@@ -1,0 +1,14 @@
+title: Inscription 11216930
+id: ef65127730568107cb71d9dc2b113441d200d02bcf6bb7422c2d9cfc2e29eb74i0
+address: bc1pschnxnzadgvxl32kmcz0kaxzx75e7q99pr2a3l3hgndwjvqtlm0qt7ndlp
+output-value: 546
+sat: 1937917317725322
+content-length: 64 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-09 05:41:26 UTC
+genesis-height: 793508
+genesis-fee: 3120
+genesis-transaction: ef65127730568107cb71d9dc2b113441d200d02bcf6bb7422c2d9cfc2e29eb74
+location: ef65127730568107cb71d9dc2b113441d200d02bcf6bb7422c2d9cfc2e29eb74:0:0
+output: ef65127730568107cb71d9dc2b113441d200d02bcf6bb7422c2d9cfc2e29eb74:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 610
+id: 5da7fce363f34293a1ea268fa2be0bd7e19b693e1704aa93db3e631ebbf7226ci0
+address: bc1pjhmk3m35eg9mmr25wzn07l0yenp04lu8m4hcfsjknd5u3hkpuuxqgmaaat
+output-value: 7780
+sat: 1253672161732026
+content-length: 404 bytes
+content-type: image/png
+timestamp: 2023-02-01 17:59:12 UTC
+genesis-height: 774607
+genesis-fee: 4720
+genesis-transaction: 5da7fce363f34293a1ea268fa2be0bd7e19b693e1704aa93db3e631ebbf7226c
+location: a6ad5403d4aa09ff7f2dbff7b558d7ff7b10392480288d48606b2ffd38d986ce:0:0
+output: a6ad5403d4aa09ff7f2dbff7b558d7ff7b10392480288d48606b2ffd38d986ce:0
+offset: 0

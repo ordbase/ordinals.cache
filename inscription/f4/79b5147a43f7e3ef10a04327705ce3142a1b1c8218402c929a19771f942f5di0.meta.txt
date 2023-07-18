@@ -1,0 +1,14 @@
+title: Inscription 10390431
+id: f479b5147a43f7e3ef10a04327705ce3142a1b1c8218402c929a19771f942f5di0
+address: bc1pyxhpqar6gtlxgdqj28yw7xsv9kt3edgfmqkvjct8pf8njqp8ydvqznku7m
+output-value: 546
+sat: 1926668711900245
+content-length: 219 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 10:49:29 UTC
+genesis-height: 792367
+genesis-fee: 8588
+genesis-transaction: f479b5147a43f7e3ef10a04327705ce3142a1b1c8218402c929a19771f942f5d
+location: f479b5147a43f7e3ef10a04327705ce3142a1b1c8218402c929a19771f942f5d:0:0
+output: f479b5147a43f7e3ef10a04327705ce3142a1b1c8218402c929a19771f942f5d:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 15682749
+id: 06664ae5ee1999e9f6377fdafc9bfde03dbce7a3ad2c63981cd87749bdda0335i0
+address: bc1py7ukzss5dklzgs6432qnsku0r5hyh50w0nn478ursjhp7spuqz9s5daqhn
+output-value: 546
+sat: 877548969118734
+content-length: 58 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-07-09 02:34:23 UTC
+genesis-height: 797879
+genesis-fee: 1295
+genesis-transaction: 06664ae5ee1999e9f6377fdafc9bfde03dbce7a3ad2c63981cd87749bdda0335
+location: 06664ae5ee1999e9f6377fdafc9bfde03dbce7a3ad2c63981cd87749bdda0335:0:0
+output: 06664ae5ee1999e9f6377fdafc9bfde03dbce7a3ad2c63981cd87749bdda0335:0
+offset: 0

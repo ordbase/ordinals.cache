@@ -1,0 +1,14 @@
+title: Inscription 1277
+id: 411a72dee7b8f04a5b71c2c0e58002a33b49c02ed2211dd023d8dc2de76a6854i0
+address: bc1pa2szve25axqmw2n2wxf2mcj25689779yhrjvl6yk3vxnu7022t7qe80apf
+output-value: 5199
+sat: 75470908737814
+content-length: 39740 bytes
+content-type: image/jpeg
+timestamp: 2023-02-03 07:06:30 UTC
+genesis-height: 774837
+genesis-fee: 20254
+genesis-transaction: 411a72dee7b8f04a5b71c2c0e58002a33b49c02ed2211dd023d8dc2de76a6854
+location: f639fe86d2a07d3965248fc9b4b759e9793bd5d87076804f5c0f220c27a588ef:0:0
+output: f639fe86d2a07d3965248fc9b4b759e9793bd5d87076804f5c0f220c27a588ef:0
+offset: 0

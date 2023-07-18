@@ -1,0 +1,14 @@
+title: Inscription 15111560
+id: 1ff0b25f3500708602a3b3a919603d45c79a0c556844a05f0b95bed0732c74d4i0
+address: bc1pz7xl7vnekj5v8t87chlru8v3yn4luatcv3kszmutkckne0jxpvxs4nc5uy
+output-value: 546
+sat: 1936390987300256
+content-length: 4033 bytes
+content-type: image/png
+timestamp: 2023-07-07 08:21:11 UTC
+genesis-height: 797562
+genesis-fee: 5755
+genesis-transaction: 1ff0b25f3500708602a3b3a919603d45c79a0c556844a05f0b95bed0732c74d4
+location: 1ff0b25f3500708602a3b3a919603d45c79a0c556844a05f0b95bed0732c74d4:0:0
+output: 1ff0b25f3500708602a3b3a919603d45c79a0c556844a05f0b95bed0732c74d4:0
+offset: 0

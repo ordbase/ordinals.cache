@@ -1,0 +1,14 @@
+title: Inscription 10172
+id: 8626339db1c649e2c4ed51832a97da0e71f99496f5237c36d869fc198c55ca75i0
+address: bc1pv9z0fuup9pvve4ew0yh378ljmkygcf73pl2xd23260sm4dpyzqlq02h27w
+output-value: 10000
+sat: 1053041541094678
+content-length: 623 bytes
+content-type: image/png
+timestamp: 2023-02-07 05:00:11 UTC
+genesis-height: 775391
+genesis-fee: 2910
+genesis-transaction: 8626339db1c649e2c4ed51832a97da0e71f99496f5237c36d869fc198c55ca75
+location: 8626339db1c649e2c4ed51832a97da0e71f99496f5237c36d869fc198c55ca75:0:0
+output: 8626339db1c649e2c4ed51832a97da0e71f99496f5237c36d869fc198c55ca75:0
+offset: 0

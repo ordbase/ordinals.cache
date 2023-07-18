@@ -1,0 +1,14 @@
+title: Inscription 4931
+id: cd4a4fb2db9f5002311b6ef04ff6b990f817e311214455dcf18b7928e0fa9b7ai0
+address: bc1ppq6s9fllprgphu7y2hrfmav65zw3swtfnnyzmaqde4sf6u9tjjns0s5eqn
+output-value: 10000
+sat: 1907526544166869
+content-length: 52028 bytes
+content-type: image/jpeg
+timestamp: 2023-02-05 19:29:06 UTC
+genesis-height: 775195
+genesis-fee: 66085
+genesis-transaction: cd4a4fb2db9f5002311b6ef04ff6b990f817e311214455dcf18b7928e0fa9b7a
+location: cd4a4fb2db9f5002311b6ef04ff6b990f817e311214455dcf18b7928e0fa9b7a:0:0
+output: cd4a4fb2db9f5002311b6ef04ff6b990f817e311214455dcf18b7928e0fa9b7a:0
+offset: 0

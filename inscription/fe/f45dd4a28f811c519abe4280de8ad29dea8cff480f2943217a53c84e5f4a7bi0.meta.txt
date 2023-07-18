@@ -1,0 +1,14 @@
+title: Inscription 10369964
+id: fef45dd4a28f811c519abe4280de8ad29dea8cff480f2943217a53c84e5f4a7bi0
+address: bc1pgrvllslpusad56u4wdl20j8c6h5lry9x8erchwg66g9jkhclaslszhh0s3
+output-value: 546
+sat: 1040452087158096
+content-length: 67 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 04:54:04 UTC
+genesis-height: 792335
+genesis-fee: 9577
+genesis-transaction: fef45dd4a28f811c519abe4280de8ad29dea8cff480f2943217a53c84e5f4a7b
+location: fef45dd4a28f811c519abe4280de8ad29dea8cff480f2943217a53c84e5f4a7b:0:0
+output: fef45dd4a28f811c519abe4280de8ad29dea8cff480f2943217a53c84e5f4a7b:0
+offset: 0

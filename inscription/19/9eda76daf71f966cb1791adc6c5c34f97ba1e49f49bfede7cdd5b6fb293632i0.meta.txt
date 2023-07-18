@@ -1,0 +1,14 @@
+title: Inscription 10371688
+id: 199eda76daf71f966cb1791adc6c5c34f97ba1e49f49bfede7cdd5b6fb293632i0
+address: bc1p3h4eecuxjj2g72sq38gyva732866u5w29lhxgeqfe6c0sg8xmagsuau63k
+output-value: 546
+sat: 967502783649173
+content-length: 85 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 05:00:57 UTC
+genesis-height: 792337
+genesis-fee: 13468
+genesis-transaction: 199eda76daf71f966cb1791adc6c5c34f97ba1e49f49bfede7cdd5b6fb293632
+location: 199eda76daf71f966cb1791adc6c5c34f97ba1e49f49bfede7cdd5b6fb293632:0:0
+output: 199eda76daf71f966cb1791adc6c5c34f97ba1e49f49bfede7cdd5b6fb293632:0
+offset: 0

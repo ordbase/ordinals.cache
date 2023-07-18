@@ -1,0 +1,14 @@
+title: Inscription 4657
+id: 2f4959c4a9e025a8c5530ec7abb3d23c3beb42982b6a936c3e1f97adbb2e2522i0
+address: bc1ptvtllfpnn4aqlzwqapp5c27quasjs2yx5nekd96qc4fjp35mcx8q650tjq
+output-value: 9556
+sat: 626823059416070
+content-length: 53042 bytes
+content-type: image/jpeg
+timestamp: 2023-02-05 14:52:20 UTC
+genesis-height: 775169
+genesis-fee: 40416
+genesis-transaction: 2f4959c4a9e025a8c5530ec7abb3d23c3beb42982b6a936c3e1f97adbb2e2522
+location: 92eb81a0dbfcfa0749dcc82935cba02bc4f64e050628066ca9ac93971f1e0e0a:0:0
+output: 92eb81a0dbfcfa0749dcc82935cba02bc4f64e050628066ca9ac93971f1e0e0a:0
+offset: 0

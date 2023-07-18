@@ -1,0 +1,14 @@
+title: Inscription 9914
+id: 30698b4a8a4e6ced1821b3b5ea4d04387d6646a9fda9e17ee4447499f7075b02i0
+address: bc1pyx3u8ylfsgqmj7r95w0saw80rxjx7gdq2ndu0g6uy3afj7uhdn9st9r9hs
+output-value: 8890
+sat: 1617129990705559
+content-length: 285 bytes
+content-type: image/png
+timestamp: 2023-02-07 03:21:17 UTC
+genesis-height: 775385
+genesis-fee: 1030
+genesis-transaction: 30698b4a8a4e6ced1821b3b5ea4d04387d6646a9fda9e17ee4447499f7075b02
+location: a3b38b6513eb1e16f38a06736a5d99ce225536e830cb8b14012c965966cd88c7:0:0
+output: a3b38b6513eb1e16f38a06736a5d99ce225536e830cb8b14012c965966cd88c7:0
+offset: 0

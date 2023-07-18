@@ -1,0 +1,14 @@
+title: Inscription 417
+id: 81e8d9159b8e9a27c692a5bb3ba18ca037757e94e975b53e175eaaeb2c52f15ai0
+address: bc1qcg0vjhnqtcap6zhk97pj8vs88z4qv477u864ng
+output-value: 8020
+sat: 1924963396266764
+content-length: 426 bytes
+content-type: image/png
+timestamp: 2023-01-31 21:08:45 UTC
+genesis-height: 774497
+genesis-fee: 4820
+genesis-transaction: 81e8d9159b8e9a27c692a5bb3ba18ca037757e94e975b53e175eaaeb2c52f15a
+location: 1fd717b10bd7c2fe224fad4d0ea71c8f9fc112da88dee007f9b08405e8c07630:0:0
+output: 1fd717b10bd7c2fe224fad4d0ea71c8f9fc112da88dee007f9b08405e8c07630:0
+offset: 0

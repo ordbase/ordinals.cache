@@ -1,0 +1,14 @@
+title: Inscription 10274600
+id: 43bda90722bef6e323327506d5bbdaae1780539e83481698e12d9771b0a55426i0
+address: bc1pxsdwh7jfd9guklvlpf63zmx6vcdg2jgdq6pfu88p6cx8f4662e8qry5rm8
+output-value: 546
+sat: 1634111999338822
+content-length: 59 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 08:27:58 UTC
+genesis-height: 792222
+genesis-fee: 6200
+genesis-transaction: 43bda90722bef6e323327506d5bbdaae1780539e83481698e12d9771b0a55426
+location: 43bda90722bef6e323327506d5bbdaae1780539e83481698e12d9771b0a55426:0:0
+output: 43bda90722bef6e323327506d5bbdaae1780539e83481698e12d9771b0a55426:0
+offset: 0

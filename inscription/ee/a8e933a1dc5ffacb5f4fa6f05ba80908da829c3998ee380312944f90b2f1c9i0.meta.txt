@@ -1,0 +1,14 @@
+title: Inscription 89
+id: eea8e933a1dc5ffacb5f4fa6f05ba80908da829c3998ee380312944f90b2f1c9i0
+address: bc1pxzz6nx8tnjxvuw3tctcmq72xuzz20pqz53ee4rfwtd8l8eapzz0stqvaln
+output-value: 8668
+sat: 75881865492574
+content-length: 220 bytes
+content-type: image/png
+timestamp: 2023-01-25 17:58:06 UTC
+genesis-height: 773578
+genesis-fee: 190
+genesis-transaction: eea8e933a1dc5ffacb5f4fa6f05ba80908da829c3998ee380312944f90b2f1c9
+location: ee44703f3d70eb00888c2ac169ad59500553af00a417721dd0a1f8210871609d:0:0
+output: ee44703f3d70eb00888c2ac169ad59500553af00a417721dd0a1f8210871609d:0
+offset: 0

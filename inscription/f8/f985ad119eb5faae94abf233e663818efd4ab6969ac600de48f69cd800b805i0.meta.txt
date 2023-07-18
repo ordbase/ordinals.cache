@@ -1,0 +1,14 @@
+title: Inscription 11871005
+id: f8f985ad119eb5faae94abf233e663818efd4ab6969ac600de48f69cd800b805i0
+address: bc1p0cuk8fytjtk4jy7t92z0rvet2acuj94sxk825zjekcyp50dsc92qdxx0ju
+output-value: 546
+sat: 1217542515207170
+content-length: 89 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-14 23:00:17 UTC
+genesis-height: 794374
+genesis-fee: 2106
+genesis-transaction: f8f985ad119eb5faae94abf233e663818efd4ab6969ac600de48f69cd800b805
+location: f8f985ad119eb5faae94abf233e663818efd4ab6969ac600de48f69cd800b805:0:0
+output: f8f985ad119eb5faae94abf233e663818efd4ab6969ac600de48f69cd800b805:0
+offset: 0

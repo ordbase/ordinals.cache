@@ -1,0 +1,14 @@
+title: Inscription 1276
+id: 73d2be33909b6cd060bb9d1ecf3f75181ffa2fa08eca43977860b2500fe2b24ci0
+address: bc1p8shhgg2228ym57xj9h34zkllcayj7xm4saw020ua4q0zsljv3wps6m8e0c
+output-value: 9445
+sat: 1491705930174147
+content-length: 39982 bytes
+content-type: image/jpeg
+timestamp: 2023-02-03 07:06:30 UTC
+genesis-height: 774837
+genesis-fee: 20376
+genesis-transaction: 73d2be33909b6cd060bb9d1ecf3f75181ffa2fa08eca43977860b2500fe2b24c
+location: c3c25b97e3d3606c021ccb43ffe3132bc0bcb3daf588519185d5c9e906d5d91b:0:0
+output: c3c25b97e3d3606c021ccb43ffe3132bc0bcb3daf588519185d5c9e906d5d91b:0
+offset: 0

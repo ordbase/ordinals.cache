@@ -1,0 +1,14 @@
+title: Inscription 54661
+id: 084706b8898de6d24ea95eff84c61dc207e8dbf09cc5b4c767983c1529249e72i0
+address: bc1ptnh5nzg7ldsrenj3ryc2dkncdfj7lmtdrdpj466sx5dl55sgrvdqjelyd2
+output-value: 10000
+sat: 1532884309907824
+content-length: 325 bytes
+content-type: image/png
+timestamp: 2023-02-11 09:58:18 UTC
+genesis-height: 776015
+genesis-fee: 8640
+genesis-transaction: 084706b8898de6d24ea95eff84c61dc207e8dbf09cc5b4c767983c1529249e72
+location: 084706b8898de6d24ea95eff84c61dc207e8dbf09cc5b4c767983c1529249e72:0:0
+output: 084706b8898de6d24ea95eff84c61dc207e8dbf09cc5b4c767983c1529249e72:0
+offset: 0

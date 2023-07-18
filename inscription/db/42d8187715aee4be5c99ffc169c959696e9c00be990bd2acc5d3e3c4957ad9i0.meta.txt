@@ -1,0 +1,14 @@
+title: Inscription 9984952
+id: db42d8187715aee4be5c99ffc169c959696e9c00be990bd2acc5d3e3c4957ad9i0
+address: bc1pz4894c6ujskzmk0ddt2dnsggtgtfe8jualxususrenzcg0rzerxq5se3s8
+output-value: 546
+sat: 1021118816392488
+content-length: 56 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-29 20:00:56 UTC
+genesis-height: 791999
+genesis-fee: 6776
+genesis-transaction: db42d8187715aee4be5c99ffc169c959696e9c00be990bd2acc5d3e3c4957ad9
+location: db42d8187715aee4be5c99ffc169c959696e9c00be990bd2acc5d3e3c4957ad9:0:0
+output: db42d8187715aee4be5c99ffc169c959696e9c00be990bd2acc5d3e3c4957ad9:0
+offset: 0

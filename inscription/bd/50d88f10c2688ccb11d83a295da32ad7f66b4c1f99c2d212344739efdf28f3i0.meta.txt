@@ -1,0 +1,14 @@
+title: Inscription 6491
+id: bd50d88f10c2688ccb11d83a295da32ad7f66b4c1f99c2d212344739efdf28f3i0
+address: bc1pm8eq62s5av4gakv88a4ecg385srldjtmgn866ypp0a5tkdkaxh4suvz35h
+output-value: 10000
+sat: 1543173557156859
+content-length: 372 bytes
+content-type: image/png
+timestamp: 2023-02-06 11:08:33 UTC
+genesis-height: 775279
+genesis-fee: 1140
+genesis-transaction: bd50d88f10c2688ccb11d83a295da32ad7f66b4c1f99c2d212344739efdf28f3
+location: bd50d88f10c2688ccb11d83a295da32ad7f66b4c1f99c2d212344739efdf28f3:0:0
+output: bd50d88f10c2688ccb11d83a295da32ad7f66b4c1f99c2d212344739efdf28f3:0
+offset: 0

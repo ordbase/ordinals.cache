@@ -1,0 +1,14 @@
+title: Inscription 114598
+id: 717e3a5fb292de6ce328cce0b5a4ca465da857d4608e2c75d1bb7c510f1f0ab1i0
+address: bc1pwwrlgu8zmw5n3me4wjdk9wvslu99xgr09hd3fmxecnxccryge7jsfyusrv
+output-value: 7336
+sat: 923842087549435
+content-length: 218 bytes
+content-type: image/png
+timestamp: 2023-02-16 02:00:39 UTC
+genesis-height: 776751
+genesis-fee: 1134
+genesis-transaction: 717e3a5fb292de6ce328cce0b5a4ca465da857d4608e2c75d1bb7c510f1f0ab1
+location: 0953d4f9042985de4d52e1f317089c3066b76400008c3192961697073d08c9d6:0:0
+output: 0953d4f9042985de4d52e1f317089c3066b76400008c3192961697073d08c9d6:0
+offset: 0

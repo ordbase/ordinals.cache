@@ -1,0 +1,14 @@
+title: Inscription 86
+id: 7d2fb1240214421c3df34a148743ac58240a22a6a111adcd5223868741f9cc07i0
+address: bc1p0hwpkfr2w7d7u7yxrqavu8nhpvumfrtq2qcfhun4tzcy8t435juq6cvf5y
+output-value: 10000
+sat: 765825158137507
+content-length: 84 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-01-25 04:35:02 UTC
+genesis-height: 773481
+genesis-fee: 159
+genesis-transaction: 7d2fb1240214421c3df34a148743ac58240a22a6a111adcd5223868741f9cc07
+location: 7d2fb1240214421c3df34a148743ac58240a22a6a111adcd5223868741f9cc07:0:0
+output: 7d2fb1240214421c3df34a148743ac58240a22a6a111adcd5223868741f9cc07:0
+offset: 0

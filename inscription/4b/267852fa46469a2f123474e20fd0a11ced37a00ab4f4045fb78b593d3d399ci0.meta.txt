@@ -1,0 +1,14 @@
+title: Inscription 10072374
+id: 4b267852fa46469a2f123474e20fd0a11ced37a00ab4f4045fb78b593d3d399ci0
+address: bc1qx97dvwgzmvmy4aa335etc4adxehdac73h4vr56
+output-value: 546
+sat: 1254219366908727
+content-length: 57 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-30 05:02:36 UTC
+genesis-height: 792052
+genesis-fee: 8520
+genesis-transaction: 4b267852fa46469a2f123474e20fd0a11ced37a00ab4f4045fb78b593d3d399c
+location: 4b267852fa46469a2f123474e20fd0a11ced37a00ab4f4045fb78b593d3d399c:0:0
+output: 4b267852fa46469a2f123474e20fd0a11ced37a00ab4f4045fb78b593d3d399c:0
+offset: 0

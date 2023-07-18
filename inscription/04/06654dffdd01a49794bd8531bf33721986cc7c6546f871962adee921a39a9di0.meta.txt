@@ -1,0 +1,14 @@
+title: Inscription 411
+id: 0406654dffdd01a49794bd8531bf33721986cc7c6546f871962adee921a39a9di0
+address: bc1qcg0vjhnqtcap6zhk97pj8vs88z4qv477u864ng
+output-value: 8020
+sat: 1883186433822197
+content-length: 523 bytes
+content-type: image/png
+timestamp: 2023-01-31 20:23:09 UTC
+genesis-height: 774494
+genesis-fee: 5320
+genesis-transaction: 0406654dffdd01a49794bd8531bf33721986cc7c6546f871962adee921a39a9d
+location: d67682a046adc05881082b6ba4799c72c41fc9c9bbea6006053018f3d9a81e21:0:0
+output: d67682a046adc05881082b6ba4799c72c41fc9c9bbea6006053018f3d9a81e21:0
+offset: 0

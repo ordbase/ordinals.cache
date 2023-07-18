@@ -1,0 +1,14 @@
+title: Inscription 11215853
+id: 4df979d322ad57df68c082801906dfeccf1301c6cd11e22f5948500ef1c34d36i0
+address: bc1prdu973ew5vwtuddeaaxa4r6c5sw29gfupm2s64rrecd9ecuuh9ps8ppdvs
+output-value: 546
+sat: 1905897342316685
+content-length: 68 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-09 05:16:05 UTC
+genesis-height: 793506
+genesis-fee: 8460
+genesis-transaction: 4df979d322ad57df68c082801906dfeccf1301c6cd11e22f5948500ef1c34d36
+location: 4df979d322ad57df68c082801906dfeccf1301c6cd11e22f5948500ef1c34d36:0:0
+output: 4df979d322ad57df68c082801906dfeccf1301c6cd11e22f5948500ef1c34d36:0
+offset: 0

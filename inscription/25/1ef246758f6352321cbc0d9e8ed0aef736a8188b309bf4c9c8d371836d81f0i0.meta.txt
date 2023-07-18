@@ -1,0 +1,14 @@
+title: Inscription 10053013
+id: 251ef246758f6352321cbc0d9e8ed0aef736a8188b309bf4c9c8d371836d81f0i0
+address: bc1pn00p0vrez0sfuq08a5xj8h6zxzkc7lj5j0refgy2m975cxasgnds2mkfx4
+output-value: 2036
+sat: 655579482924047
+content-length: 64 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-30 03:14:15 UTC
+genesis-height: 792040
+genesis-fee: 8494
+genesis-transaction: 251ef246758f6352321cbc0d9e8ed0aef736a8188b309bf4c9c8d371836d81f0
+location: 251ef246758f6352321cbc0d9e8ed0aef736a8188b309bf4c9c8d371836d81f0:0:0
+output: 251ef246758f6352321cbc0d9e8ed0aef736a8188b309bf4c9c8d371836d81f0:0
+offset: 0

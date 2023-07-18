@@ -1,0 +1,14 @@
+title: Inscription 69
+id: cd55a39d881663508a9340bafb4e860f016f16cb07bf6d34cf40bf5a62adf57bi0
+address: bc1pylsrw3pd7v7kgnk67nzsw3yq38a9mu9tg0jk8evcp8jttg8uyk2qmhqqc3
+output-value: 8668
+sat: 1368034374207537
+content-length: 21670 bytes
+content-type: image/png
+timestamp: 2023-01-23 07:08:15 UTC
+genesis-height: 773204
+genesis-fee: 5583
+genesis-transaction: cd55a39d881663508a9340bafb4e860f016f16cb07bf6d34cf40bf5a62adf57b
+location: 594876a881e14c6867e426d0b9f8fe6a2f87e9b380e905c5ab43ec516e734026:0:0
+output: 594876a881e14c6867e426d0b9f8fe6a2f87e9b380e905c5ab43ec516e734026:0
+offset: 0

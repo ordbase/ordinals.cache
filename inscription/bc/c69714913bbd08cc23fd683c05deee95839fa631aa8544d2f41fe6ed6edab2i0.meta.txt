@@ -1,0 +1,14 @@
+title: Inscription 11225072
+id: bcc69714913bbd08cc23fd683c05deee95839fa631aa8544d2f41fe6ed6edab2i0
+address: bc1pxqeh4lhtxerhh0dzse9dscvqdymu3808xd3axjdh8wl046k55c6qnwxk72
+output-value: 546
+sat: 1900191677707503
+content-length: 73 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-09 07:18:56 UTC
+genesis-height: 793524
+genesis-fee: 3402
+genesis-transaction: bcc69714913bbd08cc23fd683c05deee95839fa631aa8544d2f41fe6ed6edab2
+location: bcc69714913bbd08cc23fd683c05deee95839fa631aa8544d2f41fe6ed6edab2:0:0
+output: bcc69714913bbd08cc23fd683c05deee95839fa631aa8544d2f41fe6ed6edab2:0
+offset: 0

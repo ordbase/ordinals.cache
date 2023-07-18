@@ -1,0 +1,14 @@
+title: Inscription 8692
+id: b6ae4b1d69d88f6b1c8dc369976f96f50f524e502b5ae1e6b3cfcd8baf20fd2fi0
+address: bc1pkseenwuc0280x3psk2ut5ecls3x6y2t6qe63chjl95zhgz6wspgq78542t
+output-value: 10000
+sat: 1053041541448568
+content-length: 774 bytes
+content-type: image/png
+timestamp: 2023-02-06 23:17:45 UTC
+genesis-height: 775362
+genesis-fee: 1974
+genesis-transaction: b6ae4b1d69d88f6b1c8dc369976f96f50f524e502b5ae1e6b3cfcd8baf20fd2f
+location: b6ae4b1d69d88f6b1c8dc369976f96f50f524e502b5ae1e6b3cfcd8baf20fd2f:0:0
+output: b6ae4b1d69d88f6b1c8dc369976f96f50f524e502b5ae1e6b3cfcd8baf20fd2f:0
+offset: 0

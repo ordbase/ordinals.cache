@@ -1,0 +1,14 @@
+title: Inscription 10345722
+id: 830164d8e369501cb9b338960d1f4af0aca8801140d6e4ded022698eb89bb2cci0
+address: bc1p272tu4wl9wt2l8rhnkwm9yhs2f92zfm7dq2den3r9683pk3u8chq82rums
+output-value: 546
+sat: 1829410381335991
+content-length: 64 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 20:37:29 UTC
+genesis-height: 792301
+genesis-fee: 13090
+genesis-transaction: 830164d8e369501cb9b338960d1f4af0aca8801140d6e4ded022698eb89bb2cc
+location: 830164d8e369501cb9b338960d1f4af0aca8801140d6e4ded022698eb89bb2cc:0:0
+output: 830164d8e369501cb9b338960d1f4af0aca8801140d6e4ded022698eb89bb2cc:0
+offset: 0

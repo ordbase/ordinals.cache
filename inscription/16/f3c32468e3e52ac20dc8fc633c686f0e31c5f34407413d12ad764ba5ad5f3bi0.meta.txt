@@ -1,0 +1,14 @@
+title: Inscription 13
+id: 16f3c32468e3e52ac20dc8fc633c686f0e31c5f34407413d12ad764ba5ad5f3bi0
+address: bc1pa382lq3dwhjdjxew0eh6jtslf9qxu5a2jj29s9qrffquz6w9xaxsnv3j0d
+output-value: 10000
+sat: 765825158036627
+content-length: 71364 bytes
+content-type: image/webp
+timestamp: 2023-01-19 12:22:46 UTC
+genesis-height: 772679
+genesis-fee: 18079
+genesis-transaction: 16f3c32468e3e52ac20dc8fc633c686f0e31c5f34407413d12ad764ba5ad5f3b
+location: 16f3c32468e3e52ac20dc8fc633c686f0e31c5f34407413d12ad764ba5ad5f3b:0:0
+output: 16f3c32468e3e52ac20dc8fc633c686f0e31c5f34407413d12ad764ba5ad5f3b:0
+offset: 0

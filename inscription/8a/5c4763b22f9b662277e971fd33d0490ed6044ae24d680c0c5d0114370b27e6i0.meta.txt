@@ -1,0 +1,14 @@
+title: Inscription 57918
+id: 8a5c4763b22f9b662277e971fd33d0490ed6044ae24d680c0c5d0114370b27e6i0
+address: bc1py8syg4nqqadrs8qazvayn3zpru8qsw43vha9kf5xz3a2a2gp9tksg5kd0g
+output-value: 10000
+sat: 737780858859989
+content-length: 346 bytes
+content-type: image/png
+timestamp: 2023-02-11 19:03:38 UTC
+genesis-height: 776075
+genesis-fee: 7735
+genesis-transaction: 8a5c4763b22f9b662277e971fd33d0490ed6044ae24d680c0c5d0114370b27e6
+location: 8a5c4763b22f9b662277e971fd33d0490ed6044ae24d680c0c5d0114370b27e6:0:0
+output: 8a5c4763b22f9b662277e971fd33d0490ed6044ae24d680c0c5d0114370b27e6:0
+offset: 0

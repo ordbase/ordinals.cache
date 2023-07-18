@@ -1,0 +1,14 @@
+title: Inscription 10229082
+id: 950ef75bc2a4ae8cc33e870a31d78b1046d170f5749f4d32db1f43da6147fdddi0
+address: bc1puu3vqdzkd7a4cc22fh9y0xez744zqm6upglxc9ptnktwpq03ywsq7ruvjh
+output-value: 546
+sat: 1896882901565979
+content-length: 59 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 00:45:07 UTC
+genesis-height: 792179
+genesis-fee: 4464
+genesis-transaction: 950ef75bc2a4ae8cc33e870a31d78b1046d170f5749f4d32db1f43da6147fddd
+location: 950ef75bc2a4ae8cc33e870a31d78b1046d170f5749f4d32db1f43da6147fddd:0:0
+output: 950ef75bc2a4ae8cc33e870a31d78b1046d170f5749f4d32db1f43da6147fddd:0
+offset: 0

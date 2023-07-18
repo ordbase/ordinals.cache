@@ -1,0 +1,14 @@
+title: Inscription 11217116
+id: aaf4046129c3db48ec53094f287e8e50ceefd3db093c10bd397ec80eba3cd9a6i0
+address: bc1pvfgmznnpmkjsmxz3rejta9rjlc502n2zm8l84aejwf3pegqkn8as4359vv
+output-value: 546
+sat: 1671991409805089
+content-length: 70 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-09 05:42:24 UTC
+genesis-height: 793509
+genesis-fee: 3948
+genesis-transaction: aaf4046129c3db48ec53094f287e8e50ceefd3db093c10bd397ec80eba3cd9a6
+location: aaf4046129c3db48ec53094f287e8e50ceefd3db093c10bd397ec80eba3cd9a6:0:0
+output: aaf4046129c3db48ec53094f287e8e50ceefd3db093c10bd397ec80eba3cd9a6:0
+offset: 0

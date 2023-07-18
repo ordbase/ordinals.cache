@@ -1,0 +1,14 @@
+title: Inscription 55318
+id: b165327979475ed1ac71e04f2d5a90356553542512f468696d394d32419bd44fi0
+address: bc1pmrr3wcrv8sxektw4aen8wr0wcceykswzlxsvqwtdpmp5kjlw4yaq0fmuq5
+output-value: 10000
+sat: 1532884310081956
+content-length: 347 bytes
+content-type: image/png
+timestamp: 2023-02-11 11:58:07 UTC
+genesis-height: 776026
+genesis-fee: 6216
+genesis-transaction: b165327979475ed1ac71e04f2d5a90356553542512f468696d394d32419bd44f
+location: b165327979475ed1ac71e04f2d5a90356553542512f468696d394d32419bd44f:0:0
+output: b165327979475ed1ac71e04f2d5a90356553542512f468696d394d32419bd44f:0
+offset: 0

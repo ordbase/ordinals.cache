@@ -1,0 +1,14 @@
+title: Inscription 10375520
+id: 97872ea46f2695617de447c44f04cdd4b39be841fb23343024be4a8567aeb7c0i0
+address: bc1qv2ncsczqzu9f9r4ew5u4dgjqvwfeudc8vs8kw8
+output-value: 546
+sat: 1923060854451827
+content-length: 67 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 06:22:02 UTC
+genesis-height: 792343
+genesis-fee: 5104
+genesis-transaction: 97872ea46f2695617de447c44f04cdd4b39be841fb23343024be4a8567aeb7c0
+location: 97872ea46f2695617de447c44f04cdd4b39be841fb23343024be4a8567aeb7c0:0:0
+output: 97872ea46f2695617de447c44f04cdd4b39be841fb23343024be4a8567aeb7c0:0
+offset: 0

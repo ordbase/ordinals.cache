@@ -1,0 +1,14 @@
+title: Inscription 10368500
+id: 048793c3576bea7f08ae35cfb20fb9a43f91ff89119932dc6136c9a5683c3a82i0
+address: bc1p340uny2xr83uzdnadfgl4c24uvjvhhwm5xhfsjf3edugzg6nspjquftnth
+output-value: 546
+sat: 1578101382539330
+content-length: 67 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 03:48:26 UTC
+genesis-height: 792333
+genesis-fee: 10990
+genesis-transaction: 048793c3576bea7f08ae35cfb20fb9a43f91ff89119932dc6136c9a5683c3a82
+location: 048793c3576bea7f08ae35cfb20fb9a43f91ff89119932dc6136c9a5683c3a82:0:0
+output: 048793c3576bea7f08ae35cfb20fb9a43f91ff89119932dc6136c9a5683c3a82:0
+offset: 0

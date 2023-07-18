@@ -1,0 +1,14 @@
+title: Inscription 10280453
+id: 5746ede4e38293dd72baf49ea69136a5049320dd748356a9d334af584ad1a0edi0
+address: bc1qx97dvwgzmvmy4aa335etc4adxehdac73h4vr56
+output-value: 546
+sat: 1254219367699901
+content-length: 56 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 09:03:15 UTC
+genesis-height: 792227
+genesis-fee: 6958
+genesis-transaction: 5746ede4e38293dd72baf49ea69136a5049320dd748356a9d334af584ad1a0ed
+location: 5746ede4e38293dd72baf49ea69136a5049320dd748356a9d334af584ad1a0ed:0:0
+output: 5746ede4e38293dd72baf49ea69136a5049320dd748356a9d334af584ad1a0ed:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 6833
+id: d50301d6f7397297f5e5eadd7c7c33c5474e1858930907d2a0b1460df5bb57f3i0
+address: bc1pvuf74l6yx9kcgame2l6xcydxfhmflgr5pqql2pcrplfcgtyqtdss88uya6
+output-value: 10000
+sat: 548259653801275
+content-length: 447 bytes
+content-type: image/png
+timestamp: 2023-02-06 15:48:51 UTC
+genesis-height: 775307
+genesis-fee: 1235
+genesis-transaction: d50301d6f7397297f5e5eadd7c7c33c5474e1858930907d2a0b1460df5bb57f3
+location: d50301d6f7397297f5e5eadd7c7c33c5474e1858930907d2a0b1460df5bb57f3:0:0
+output: d50301d6f7397297f5e5eadd7c7c33c5474e1858930907d2a0b1460df5bb57f3:0
+offset: 0

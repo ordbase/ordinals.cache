@@ -1,0 +1,14 @@
+title: Inscription 5
+id: f58ad8178e7fe78624bcd814cf4b655dab8a6d5f293d4a395a8f24c49aaba78ai0
+address: 1DQ2dgH3McFXJHAfxTLUtAZ9GCXQ1ccyAw
+output-value: 10000
+sat: 765825157928116
+content-length: 185 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-01-12 09:54:57 UTC
+genesis-height: 771573
+genesis-fee: 185
+genesis-transaction: f58ad8178e7fe78624bcd814cf4b655dab8a6d5f293d4a395a8f24c49aaba78a
+location: deeea9807ec8721b5248cb484bdd6fc015f9d2dafd877e4ce31efa2e45a7b879:0:0
+output: deeea9807ec8721b5248cb484bdd6fc015f9d2dafd877e4ce31efa2e45a7b879:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 5880
+id: 2513e49411f105cba914f6adfee8b77b638d48c3aebba9925b9a67400a7ec978i0
+address: bc1pyn6e8ux7qllqwdhxh789satpxkhhs4fzxadcxekcj3gnqjtrgqrsgtje7q
+output-value: 8274
+sat: 320672943019797
+content-length: 33999 bytes
+content-type: image/jpeg
+timestamp: 2023-02-06 05:14:12 UTC
+genesis-height: 775243
+genesis-fee: 21708
+genesis-transaction: 2513e49411f105cba914f6adfee8b77b638d48c3aebba9925b9a67400a7ec978
+location: 65e8753c33bde8a15558452c409115da54318fc9cbca57b4b59d9e516c1ca010:0:0
+output: 65e8753c33bde8a15558452c409115da54318fc9cbca57b4b59d9e516c1ca010:0
+offset: 0

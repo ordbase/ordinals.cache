@@ -1,0 +1,14 @@
+title: Inscription 8448
+id: eb98ce0dd8bdf0ac266a4ec087858abca62bc669b7ea2a0df0097b26d34bea1di0
+address: bc1pqrvh3w77exf86tzr90ue3hqd6940fv7xfjh0jl76scqcmgaerwks5wjd94
+output-value: 10000
+sat: 1053041541645400
+content-length: 683 bytes
+content-type: image/png
+timestamp: 2023-02-06 22:41:25 UTC
+genesis-height: 775359
+genesis-fee: 1836
+genesis-transaction: eb98ce0dd8bdf0ac266a4ec087858abca62bc669b7ea2a0df0097b26d34bea1d
+location: eb98ce0dd8bdf0ac266a4ec087858abca62bc669b7ea2a0df0097b26d34bea1d:0:0
+output: eb98ce0dd8bdf0ac266a4ec087858abca62bc669b7ea2a0df0097b26d34bea1d:0
+offset: 0

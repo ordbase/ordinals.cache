@@ -1,0 +1,14 @@
+title: Inscription 1250
+id: 2cdcc7366c261ddf63ffc5e3453019403a5eccb83a62a8874ef7bfa260bac605i0
+address: bc1py20mr5qytlpj66fp6yd2s6e0cq7p09ttvh7tevkuvg4nlhk4n6gsmlfg37
+output-value: 9667
+sat: 469381490188463
+content-length: 38550 bytes
+content-type: image/jpeg
+timestamp: 2023-02-03 06:53:57 UTC
+genesis-height: 774836
+genesis-fee: 19656
+genesis-transaction: 2cdcc7366c261ddf63ffc5e3453019403a5eccb83a62a8874ef7bfa260bac605
+location: 19228201ab317837ddb8a7533ef09285396707fbe25f2e53468c1b9aab9aadcd:0:0
+output: 19228201ab317837ddb8a7533ef09285396707fbe25f2e53468c1b9aab9aadcd:0
+offset: 0

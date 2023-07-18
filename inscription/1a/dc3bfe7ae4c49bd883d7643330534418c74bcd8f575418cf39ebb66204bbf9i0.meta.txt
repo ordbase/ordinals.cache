@@ -1,0 +1,14 @@
+title: Inscription 9955
+id: 1adc3bfe7ae4c49bd883d7643330534418c74bcd8f575418cf39ebb66204bbf9i0
+address: bc1pjejqyccu39fzcvst88qa8lxuk93j9us3kd2pmnmtfa8vxcwr8qmq5cwax5
+output-value: 10000
+sat: 1670324938646409
+content-length: 345 bytes
+content-type: image/png
+timestamp: 2023-02-07 03:21:17 UTC
+genesis-height: 775385
+genesis-fee: 1105
+genesis-transaction: 1adc3bfe7ae4c49bd883d7643330534418c74bcd8f575418cf39ebb66204bbf9
+location: 1adc3bfe7ae4c49bd883d7643330534418c74bcd8f575418cf39ebb66204bbf9:0:0
+output: 1adc3bfe7ae4c49bd883d7643330534418c74bcd8f575418cf39ebb66204bbf9:0
+offset: 0

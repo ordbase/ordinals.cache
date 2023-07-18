@@ -1,0 +1,14 @@
+title: Inscription 14936822
+id: eaf9841e32e4753143a2c6a61afc321a520724fe7c4be05d5e0934678edb4ffbi0
+address: bc1pm40j7qu45538r86xzqmd4evv4s3d2agdutu3glnt2hxc5gx573dq9zwael
+output-value: 546
+sat: 1934554223356369
+content-length: 591 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-07-06 11:45:31 UTC
+genesis-height: 797429
+genesis-fee: 3840
+genesis-transaction: eaf9841e32e4753143a2c6a61afc321a520724fe7c4be05d5e0934678edb4ffb
+location: eaf9841e32e4753143a2c6a61afc321a520724fe7c4be05d5e0934678edb4ffb:0:0
+output: eaf9841e32e4753143a2c6a61afc321a520724fe7c4be05d5e0934678edb4ffb:0
+offset: 0

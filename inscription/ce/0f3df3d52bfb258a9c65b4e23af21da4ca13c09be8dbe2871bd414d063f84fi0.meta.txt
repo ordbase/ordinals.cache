@@ -1,0 +1,14 @@
+title: Inscription 15122645
+id: ce0f3df3d52bfb258a9c65b4e23af21da4ca13c09be8dbe2871bd414d063f84fi0
+address: bc1psgxtlkxxtuprfj0fj89zsq6g8qw3aduu7v3lk5kqqv4eq3k8yu5qr82243
+output-value: 546
+sat: 587674562843785
+content-length: 26 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-07-07 08:54:18 UTC
+genesis-height: 797567
+genesis-fee: 885
+genesis-transaction: ce0f3df3d52bfb258a9c65b4e23af21da4ca13c09be8dbe2871bd414d063f84f
+location: ce0f3df3d52bfb258a9c65b4e23af21da4ca13c09be8dbe2871bd414d063f84f:0:0
+output: ce0f3df3d52bfb258a9c65b4e23af21da4ca13c09be8dbe2871bd414d063f84f:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 15115966
+id: bb6078eef2d965ead4a9ac8fdf5f6c33f984e597fdef9cc2747a04379d2cf18bi0
+address: bc1pz8gpw2u5cyxadulp07x94fta6kl2jkndv243n8qxmnrhv5qafehqwj6zel
+output-value: 546
+sat: 587674562813785
+content-length: 44 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-07-07 08:41:51 UTC
+genesis-height: 797565
+genesis-fee: 910
+genesis-transaction: bb6078eef2d965ead4a9ac8fdf5f6c33f984e597fdef9cc2747a04379d2cf18b
+location: bb6078eef2d965ead4a9ac8fdf5f6c33f984e597fdef9cc2747a04379d2cf18b:0:0
+output: bb6078eef2d965ead4a9ac8fdf5f6c33f984e597fdef9cc2747a04379d2cf18b:0
+offset: 0

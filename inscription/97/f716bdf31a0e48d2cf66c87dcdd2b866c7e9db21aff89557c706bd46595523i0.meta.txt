@@ -1,0 +1,14 @@
+title: Inscription 596
+id: 97f716bdf31a0e48d2cf66c87dcdd2b866c7e9db21aff89557c706bd46595523i0
+address: bc1p3dwyejuntxrctchq6sz39putu987t2dzf333fsq6dx3rqvjmz0sqpxcrnd
+output-value: 7780
+sat: 1694228181016654
+content-length: 429 bytes
+content-type: image/png
+timestamp: 2023-02-01 16:42:58 UTC
+genesis-height: 774600
+genesis-fee: 4840
+genesis-transaction: 97f716bdf31a0e48d2cf66c87dcdd2b866c7e9db21aff89557c706bd46595523
+location: 76c31ef20888496d5667b4c5965da2d347ef5f756d492954bda12320c6945cfa:0:0
+output: 76c31ef20888496d5667b4c5965da2d347ef5f756d492954bda12320c6945cfa:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 10515692
+id: b19ab3590a8edb6bfc9f7a95d6bbd50e40f36c1cf405fb61ad6f83538dd9b759i0
+address: bc1pmmcdhl8hqlz8ah5qm837yhgf74kmdlrwszrhdmrqg2h75v4we2nqma8jn8
+output-value: 546
+sat: 1795699059870324
+content-length: 66 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-02 13:09:35 UTC
+genesis-height: 792544
+genesis-fee: 7644
+genesis-transaction: b19ab3590a8edb6bfc9f7a95d6bbd50e40f36c1cf405fb61ad6f83538dd9b759
+location: b19ab3590a8edb6bfc9f7a95d6bbd50e40f36c1cf405fb61ad6f83538dd9b759:0:0
+output: b19ab3590a8edb6bfc9f7a95d6bbd50e40f36c1cf405fb61ad6f83538dd9b759:0
+offset: 0

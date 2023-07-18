@@ -1,0 +1,14 @@
+title: Inscription 10072900
+id: 5263baa95dbd6defe53242ecdd8e87081545b38eaec0e6780a7b625f4d96ac35i0
+address: bc1qx97dvwgzmvmy4aa335etc4adxehdac73h4vr56
+output-value: 546
+sat: 1254219367033215
+content-length: 90 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-30 05:08:02 UTC
+genesis-height: 792053
+genesis-fee: 9060
+genesis-transaction: 5263baa95dbd6defe53242ecdd8e87081545b38eaec0e6780a7b625f4d96ac35
+location: 5263baa95dbd6defe53242ecdd8e87081545b38eaec0e6780a7b625f4d96ac35:0:0
+output: 5263baa95dbd6defe53242ecdd8e87081545b38eaec0e6780a7b625f4d96ac35:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 139407
+id: d02d67a75164d14ff5e93b472bc2b21ca5d97ca038e7de0e4a7fa3960ee11bafi0
+address: bc1pdthhxpzwah8g79jd6lg7ycxcq5vqqqfxdnmmj93mjvq3gqwwehnsg55zc5
+output-value: 9667
+sat: 1462066862526010
+content-length: 255 bytes
+content-type: image/png
+timestamp: 2023-02-18 16:59:17 UTC
+genesis-height: 777196
+genesis-fee: 1980
+genesis-transaction: d02d67a75164d14ff5e93b472bc2b21ca5d97ca038e7de0e4a7fa3960ee11baf
+location: be3253f44f048318eebc6f9e6c5d2846c10aa66e3a32ff33951dd1b07b03efad:0:0
+output: be3253f44f048318eebc6f9e6c5d2846c10aa66e3a32ff33951dd1b07b03efad:0
+offset: 0

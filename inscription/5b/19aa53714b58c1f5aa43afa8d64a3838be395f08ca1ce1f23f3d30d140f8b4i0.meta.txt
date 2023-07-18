@@ -1,0 +1,14 @@
+title: Inscription 1268
+id: 5b19aa53714b58c1f5aa43afa8d64a3838be395f08ca1ce1f23f3d30d140f8b4i0
+address: bc1puv4wuderum9hxakmudpxwzl4unyuj5nrnakge9kygc6an9zcr5ksd7gnpx
+output-value: 8446
+sat: 1000059159634438
+content-length: 36522 bytes
+content-type: image/jpeg
+timestamp: 2023-02-03 06:53:57 UTC
+genesis-height: 774836
+genesis-fee: 18636
+genesis-transaction: 5b19aa53714b58c1f5aa43afa8d64a3838be395f08ca1ce1f23f3d30d140f8b4
+location: 8c4b84ec85429cd974eacd01a197051af10b9e360beaef8af037f679750de6f6:0:0
+output: 8c4b84ec85429cd974eacd01a197051af10b9e360beaef8af037f679750de6f6:0
+offset: 0

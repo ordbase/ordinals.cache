@@ -1,0 +1,14 @@
+title: Inscription 5891
+id: 80263da9e97d5882f577fb919aaa83e5411187f756c6ccd46396cad9cb2b6b94i0
+address: bc1pdpxplal7r4v5sjyndge4gxsq58dlgfwx0msxwvyepfp833cnupss7c3emd
+output-value: 8198
+sat: 93444681635476
+content-length: 33549 bytes
+content-type: image/jpeg
+timestamp: 2023-02-06 05:14:46 UTC
+genesis-height: 775244
+genesis-fee: 21425
+genesis-transaction: 80263da9e97d5882f577fb919aaa83e5411187f756c6ccd46396cad9cb2b6b94
+location: b70cfd56661f7d81623cf5953b1e46b3f419d73b3604dfd6585109055b9a49fd:0:0
+output: b70cfd56661f7d81623cf5953b1e46b3f419d73b3604dfd6585109055b9a49fd:0
+offset: 0

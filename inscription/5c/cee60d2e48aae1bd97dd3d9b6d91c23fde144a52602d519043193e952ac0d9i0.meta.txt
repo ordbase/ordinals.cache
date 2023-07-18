@@ -1,0 +1,14 @@
+title: Inscription 14512798
+id: 5ccee60d2e48aae1bd97dd3d9b6d91c23fde144a52602d519043193e952ac0d9i0
+address: bc1ppkapg5695dv85gg4645kp9ssx2wptlf40y6yq5mapurz8ytq2zdq805etm
+output-value: 546
+sat: 1483782847330702
+content-length: 88 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-07-02 19:33:50 UTC
+genesis-height: 796903
+genesis-fee: 1296
+genesis-transaction: 5ccee60d2e48aae1bd97dd3d9b6d91c23fde144a52602d519043193e952ac0d9
+location: 5ccee60d2e48aae1bd97dd3d9b6d91c23fde144a52602d519043193e952ac0d9:0:0
+output: 5ccee60d2e48aae1bd97dd3d9b6d91c23fde144a52602d519043193e952ac0d9:0
+offset: 0

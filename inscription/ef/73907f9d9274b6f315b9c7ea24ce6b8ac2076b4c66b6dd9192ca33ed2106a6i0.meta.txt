@@ -1,0 +1,14 @@
+title: Inscription 87
+id: ef73907f9d9274b6f315b9c7ea24ce6b8ac2076b4c66b6dd9192ca33ed2106a6i0
+address: bc1pyg69sxslc26ks2xku6qtjs8yu5epncnstukr9nsqjygz3ur9drqqwt3rlr
+output-value: 10000
+sat: 1584636810726682
+content-length: 7326 bytes
+content-type: image/webp
+timestamp: 2023-01-25 08:22:37 UTC
+genesis-height: 773504
+genesis-fee: 1977
+genesis-transaction: ef73907f9d9274b6f315b9c7ea24ce6b8ac2076b4c66b6dd9192ca33ed2106a6
+location: ef73907f9d9274b6f315b9c7ea24ce6b8ac2076b4c66b6dd9192ca33ed2106a6:0:0
+output: ef73907f9d9274b6f315b9c7ea24ce6b8ac2076b4c66b6dd9192ca33ed2106a6:0
+offset: 0

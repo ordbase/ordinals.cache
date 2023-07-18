@@ -1,0 +1,14 @@
+title: Inscription 10369070
+id: 33395ac8f1cff7f431de251d856ff38b98a33b92ac2d4dd1a523154d9735c2a4i0
+address: bc1pact2vd7r26mpwgne6ehxr6yd5qufwn05rfhrwtx86c462me4a3rsnxuxya
+output-value: 546
+sat: 1911300522218115
+content-length: 66 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 03:48:26 UTC
+genesis-height: 792333
+genesis-fee: 13272
+genesis-transaction: 33395ac8f1cff7f431de251d856ff38b98a33b92ac2d4dd1a523154d9735c2a4
+location: 33395ac8f1cff7f431de251d856ff38b98a33b92ac2d4dd1a523154d9735c2a4:0:0
+output: 33395ac8f1cff7f431de251d856ff38b98a33b92ac2d4dd1a523154d9735c2a4:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 10369072
+id: 8fa2f5ec96256909949d8fa26454c94b6c1658da45d47c16004f63b8facef2a2i0
+address: bc1pact2vd7r26mpwgne6ehxr6yd5qufwn05rfhrwtx86c462me4a3rsnxuxya
+output-value: 546
+sat: 1911300522218661
+content-length: 67 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 03:48:26 UTC
+genesis-height: 792333
+genesis-fee: 6594
+genesis-transaction: 8fa2f5ec96256909949d8fa26454c94b6c1658da45d47c16004f63b8facef2a2
+location: 8fa2f5ec96256909949d8fa26454c94b6c1658da45d47c16004f63b8facef2a2:0:0
+output: 8fa2f5ec96256909949d8fa26454c94b6c1658da45d47c16004f63b8facef2a2:0
+offset: 0

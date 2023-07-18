@@ -1,0 +1,14 @@
+title: Inscription 2537
+id: 051984d19027f4197fe1e03b0f6d0751c6ed8a32fefb2815e07a022fba1aea23i0
+address: bc1pcusxt09nedfn5nl08e3hfwd34e8d2tzppske34t7vlg3pf2jhcusgy8uh8
+output-value: 8224
+sat: 469381483593158
+content-length: 53377 bytes
+content-type: image/jpeg
+timestamp: 2023-02-05 00:02:14 UTC
+genesis-height: 775064
+genesis-fee: 13556
+genesis-transaction: 051984d19027f4197fe1e03b0f6d0751c6ed8a32fefb2815e07a022fba1aea23
+location: e57dd2df2f0485dd520415a2b23c448c727a6d6d041550076cce8ff1cb2b7388:0:0
+output: e57dd2df2f0485dd520415a2b23c448c727a6d6d041550076cce8ff1cb2b7388:0
+offset: 0

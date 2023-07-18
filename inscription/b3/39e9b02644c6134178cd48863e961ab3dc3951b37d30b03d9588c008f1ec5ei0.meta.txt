@@ -1,0 +1,14 @@
+title: Inscription 8694
+id: b339e9b02644c6134178cd48863e961ab3dc3951b37d30b03d9588c008f1ec5ei0
+address: bc1pj6qfu7nv00ruv49yq5xvx8wv7xtn5nvkxsw8xm3hv76ux7q4jeysych4ha
+output-value: 10000
+sat: 1053041541657236
+content-length: 613 bytes
+content-type: image/png
+timestamp: 2023-02-06 23:17:45 UTC
+genesis-height: 775362
+genesis-fee: 1734
+genesis-transaction: b339e9b02644c6134178cd48863e961ab3dc3951b37d30b03d9588c008f1ec5e
+location: b339e9b02644c6134178cd48863e961ab3dc3951b37d30b03d9588c008f1ec5e:0:0
+output: b339e9b02644c6134178cd48863e961ab3dc3951b37d30b03d9588c008f1ec5e:0
+offset: 0

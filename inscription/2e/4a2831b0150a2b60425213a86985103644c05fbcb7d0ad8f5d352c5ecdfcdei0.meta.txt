@@ -1,0 +1,14 @@
+title: Inscription 11458603
+id: 2e4a2831b0150a2b60425213a86985103644c05fbcb7d0ad8f5d352c5ecdfcdei0
+address: bc1p7x46c3kvh6uj2c2guqg5s0hfenu7v574pa4v4e8f9n5nmgvz2euqx5ax08
+output-value: 546
+sat: 1335565276346717
+content-length: 115 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-11 09:55:18 UTC
+genesis-height: 793870
+genesis-fee: 3528
+genesis-transaction: 2e4a2831b0150a2b60425213a86985103644c05fbcb7d0ad8f5d352c5ecdfcde
+location: 2e4a2831b0150a2b60425213a86985103644c05fbcb7d0ad8f5d352c5ecdfcde:0:0
+output: 2e4a2831b0150a2b60425213a86985103644c05fbcb7d0ad8f5d352c5ecdfcde:0
+offset: 0

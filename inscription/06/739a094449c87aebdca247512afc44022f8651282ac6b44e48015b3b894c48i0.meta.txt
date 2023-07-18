@@ -1,0 +1,14 @@
+title: Inscription 139301
+id: 06739a094449c87aebdca247512afc44022f8651282ac6b44e48015b3b894c48i0
+address: bc1pdthhxpzwah8g79jd6lg7ycxcq5vqqqfxdnmmj93mjvq3gqwwehnsg55zc5
+output-value: 9778
+sat: 1926202671165072
+content-length: 262 bytes
+content-type: image/png
+timestamp: 2023-02-18 15:27:42 UTC
+genesis-height: 777186
+genesis-fee: 800
+genesis-transaction: 06739a094449c87aebdca247512afc44022f8651282ac6b44e48015b3b894c48
+location: 9e6e165e83dbbb8ef929e99d745da76650b4d3c68b9ebacfe4c41b04aaf4cf87:0:0
+output: 9e6e165e83dbbb8ef929e99d745da76650b4d3c68b9ebacfe4c41b04aaf4cf87:0
+offset: 0

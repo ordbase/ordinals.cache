@@ -1,0 +1,14 @@
+title: Inscription 13079473
+id: 76e26481c4a160c8257b14c016f484c092b0ccef828bca033cda1aad7e06a33ei0
+address: bc1pqlncqfmu4tx3tyqt7sqccyf0ycgfj6rqpurh2wls5zjpflx040uq94pyyx
+output-value: 546
+sat: 812084564077177
+content-length: 2143 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-21 22:58:58 UTC
+genesis-height: 795365
+genesis-fee: 33370
+genesis-transaction: 76e26481c4a160c8257b14c016f484c092b0ccef828bca033cda1aad7e06a33e
+location: 76e26481c4a160c8257b14c016f484c092b0ccef828bca033cda1aad7e06a33e:0:0
+output: 76e26481c4a160c8257b14c016f484c092b0ccef828bca033cda1aad7e06a33e:0
+offset: 0

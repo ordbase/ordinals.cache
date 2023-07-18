@@ -1,0 +1,14 @@
+title: Inscription 10491
+id: 7da9fade7118f36064fbe556d6a158d98c0461cbc9480ca6d913760a33f9fb6fi0
+address: bc1pjl3lpc2zshhntn77dv7r25ju8suc8q05773twfhkd9eqh4sserws78ax69
+output-value: 10000
+sat: 1053041541706706
+content-length: 650 bytes
+content-type: image/png
+timestamp: 2023-02-07 08:09:13 UTC
+genesis-height: 775409
+genesis-fee: 2980
+genesis-transaction: 7da9fade7118f36064fbe556d6a158d98c0461cbc9480ca6d913760a33f9fb6f
+location: 7da9fade7118f36064fbe556d6a158d98c0461cbc9480ca6d913760a33f9fb6f:0:0
+output: 7da9fade7118f36064fbe556d6a158d98c0461cbc9480ca6d913760a33f9fb6f:0
+offset: 0

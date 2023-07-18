@@ -1,0 +1,14 @@
+title: Inscription 55114
+id: 65f11e990faf179b6b126ea5f79fae4a8b4d9865e9b013865d50d6156611c4b4i0
+address: bc1pug2687rjzt7epwhcv0fh6yqm0swd06qmr4rdl9jjfez2vvpset8qvqcc9a
+output-value: 10000
+sat: 1532884310034264
+content-length: 354 bytes
+content-type: image/png
+timestamp: 2023-02-11 11:06:34 UTC
+genesis-height: 776022
+genesis-fee: 5798
+genesis-transaction: 65f11e990faf179b6b126ea5f79fae4a8b4d9865e9b013865d50d6156611c4b4
+location: 65f11e990faf179b6b126ea5f79fae4a8b4d9865e9b013865d50d6156611c4b4:0:0
+output: 65f11e990faf179b6b126ea5f79fae4a8b4d9865e9b013865d50d6156611c4b4:0
+offset: 0

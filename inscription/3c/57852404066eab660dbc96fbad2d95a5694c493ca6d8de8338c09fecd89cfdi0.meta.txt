@@ -1,0 +1,14 @@
+title: Inscription 10265069
+id: 3c57852404066eab660dbc96fbad2d95a5694c493ca6d8de8338c09fecd89cfdi0
+address: bc1p2nx7g6awj3mmuj2a0mayqmsm3vh0tw757znv5nmme8mfl05zh77s7wwufm
+output-value: 546
+sat: 363416260292827
+content-length: 62 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 07:08:35 UTC
+genesis-height: 792211
+genesis-fee: 14320
+genesis-transaction: 3c57852404066eab660dbc96fbad2d95a5694c493ca6d8de8338c09fecd89cfd
+location: 3c57852404066eab660dbc96fbad2d95a5694c493ca6d8de8338c09fecd89cfd:0:0
+output: 3c57852404066eab660dbc96fbad2d95a5694c493ca6d8de8338c09fecd89cfd:0
+offset: 0

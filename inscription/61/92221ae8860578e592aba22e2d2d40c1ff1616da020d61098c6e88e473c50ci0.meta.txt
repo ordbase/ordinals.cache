@@ -1,0 +1,14 @@
+title: Inscription 11209793
+id: 6192221ae8860578e592aba22e2d2d40c1ff1616da020d61098c6e88e473c50ci0
+address: bc1pdlrls76t3dfxelv6a5d26ph3r0tu0ur2je0zylm76pkznmklkwhsr4rn84
+output-value: 546
+sat: 1539110159277080
+content-length: 67 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-09 04:01:41 UTC
+genesis-height: 793496
+genesis-fee: 7144
+genesis-transaction: 6192221ae8860578e592aba22e2d2d40c1ff1616da020d61098c6e88e473c50c
+location: 6192221ae8860578e592aba22e2d2d40c1ff1616da020d61098c6e88e473c50c:0:0
+output: 6192221ae8860578e592aba22e2d2d40c1ff1616da020d61098c6e88e473c50c:0
+offset: 0

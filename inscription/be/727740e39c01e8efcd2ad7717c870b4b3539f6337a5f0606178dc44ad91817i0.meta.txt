@@ -1,0 +1,14 @@
+title: Inscription 5878
+id: be727740e39c01e8efcd2ad7717c870b4b3539f6337a5f0606178dc44ad91817i0
+address: bc1p283emgsd34z0n28sayqnkalz28garrzy7t08j4k44w7xtelauwgsjqt589
+output-value: 8897
+sat: 1693800019068542
+content-length: 32325 bytes
+content-type: image/jpeg
+timestamp: 2023-02-06 05:14:12 UTC
+genesis-height: 775243
+genesis-fee: 20658
+genesis-transaction: be727740e39c01e8efcd2ad7717c870b4b3539f6337a5f0606178dc44ad91817
+location: ab02545fd1acfa19c6af561085f5f25fe09ace624f998e1789e4d9be6653ccc4:0:0
+output: ab02545fd1acfa19c6af561085f5f25fe09ace624f998e1789e4d9be6653ccc4:0
+offset: 0

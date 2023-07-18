@@ -1,0 +1,14 @@
+title: Inscription 10381937
+id: fe39db72178759d476092fd2d5c8c3cda0d262aeac1aa573156b2aab4d026e47i0
+address: bc1pyxhpqar6gtlxgdqj28yw7xsv9kt3edgfmqkvjct8pf8njqp8ydvqznku7m
+output-value: 546
+sat: 1926668711419245
+content-length: 67 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 09:47:00 UTC
+genesis-height: 792356
+genesis-fee: 9400
+genesis-transaction: fe39db72178759d476092fd2d5c8c3cda0d262aeac1aa573156b2aab4d026e47
+location: fe39db72178759d476092fd2d5c8c3cda0d262aeac1aa573156b2aab4d026e47:0:0
+output: fe39db72178759d476092fd2d5c8c3cda0d262aeac1aa573156b2aab4d026e47:0
+offset: 0

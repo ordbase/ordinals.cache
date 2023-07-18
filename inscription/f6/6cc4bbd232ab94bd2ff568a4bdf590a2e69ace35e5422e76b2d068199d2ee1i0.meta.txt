@@ -1,0 +1,14 @@
+title: Inscription 10292835
+id: f66cc4bbd232ab94bd2ff568a4bdf590a2e69ace35e5422e76b2d068199d2ee1i0
+address: bc1qlu49zar74f2rcnh5982nee9axx0r72emwa2daf
+output-value: 546
+sat: 13512848607300
+content-length: 62 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 10:55:08 UTC
+genesis-height: 792240
+genesis-fee: 5434
+genesis-transaction: f66cc4bbd232ab94bd2ff568a4bdf590a2e69ace35e5422e76b2d068199d2ee1
+location: f66cc4bbd232ab94bd2ff568a4bdf590a2e69ace35e5422e76b2d068199d2ee1:0:0
+output: f66cc4bbd232ab94bd2ff568a4bdf590a2e69ace35e5422e76b2d068199d2ee1:0
+offset: 0

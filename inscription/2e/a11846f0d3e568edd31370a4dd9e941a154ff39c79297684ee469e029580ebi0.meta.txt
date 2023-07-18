@@ -1,0 +1,14 @@
+title: Inscription 9989831
+id: 2ea11846f0d3e568edd31370a4dd9e941a154ff39c79297684ee469e029580ebi0
+address: bc1p6hjw02820ek9m9j0wgklvqrp6jpvyd0t22ys759mv8zd5smxgd9s7masws
+output-value: 546
+sat: 1364964974832937
+content-length: 76 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-29 21:01:56 UTC
+genesis-height: 792002
+genesis-fee: 14250
+genesis-transaction: 2ea11846f0d3e568edd31370a4dd9e941a154ff39c79297684ee469e029580eb
+location: 2ea11846f0d3e568edd31370a4dd9e941a154ff39c79297684ee469e029580eb:0:0
+output: 2ea11846f0d3e568edd31370a4dd9e941a154ff39c79297684ee469e029580eb:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 6829
+id: 73c8d8d4e935ab98118a0eca153b384b4eaff1cdf7c41730e76c68aae2b5f376i0
+address: bc1pqlxv70n2he94ramvrnypuplqpjvs2msvq74w0vna773z4vfd0yvqq70h4v
+output-value: 8890
+sat: 548259653761275
+content-length: 289 bytes
+content-type: image/png
+timestamp: 2023-02-06 15:48:51 UTC
+genesis-height: 775307
+genesis-fee: 1035
+genesis-transaction: 73c8d8d4e935ab98118a0eca153b384b4eaff1cdf7c41730e76c68aae2b5f376
+location: ee4d70fa4502f7c9d43584fcb470283d481920ff36ed04528e1235e5edbbee56:0:0
+output: ee4d70fa4502f7c9d43584fcb470283d481920ff36ed04528e1235e5edbbee56:0
+offset: 0

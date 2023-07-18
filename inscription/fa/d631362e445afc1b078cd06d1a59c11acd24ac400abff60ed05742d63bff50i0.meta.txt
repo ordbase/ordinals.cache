@@ -1,0 +1,14 @@
+title: Inscription 74
+id: fad631362e445afc1b078cd06d1a59c11acd24ac400abff60ed05742d63bff50i0
+address: bc1pfdn200m7z995kq9u73083v67zwuntjpq00mc52a2edu38ka8ss4qeq7t7v
+output-value: 10000
+sat: 1368034374327371
+content-length: 327418 bytes
+content-type: audio/mpeg
+timestamp: 2023-01-23 08:14:08 UTC
+genesis-height: 773211
+genesis-fee: 82462
+genesis-transaction: fad631362e445afc1b078cd06d1a59c11acd24ac400abff60ed05742d63bff50
+location: fad631362e445afc1b078cd06d1a59c11acd24ac400abff60ed05742d63bff50:0:0
+output: fad631362e445afc1b078cd06d1a59c11acd24ac400abff60ed05742d63bff50:0
+offset: 0

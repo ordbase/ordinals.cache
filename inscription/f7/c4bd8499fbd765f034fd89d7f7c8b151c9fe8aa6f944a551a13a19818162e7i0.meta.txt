@@ -1,0 +1,14 @@
+title: Inscription 14934476
+id: f7c4bd8499fbd765f034fd89d7f7c8b151c9fe8aa6f944a551a13a19818162e7i0
+address: bc1par9938vnuprary2ww54glq2h5cxrfa2tvdmpfu6mq67g4jcl9pqqdqqd3m
+output-value: 546
+sat: 549567976762773
+content-length: 783 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-07-06 08:50:34 UTC
+genesis-height: 797414
+genesis-fee: 4784
+genesis-transaction: f7c4bd8499fbd765f034fd89d7f7c8b151c9fe8aa6f944a551a13a19818162e7
+location: f7c4bd8499fbd765f034fd89d7f7c8b151c9fe8aa6f944a551a13a19818162e7:0:0
+output: f7c4bd8499fbd765f034fd89d7f7c8b151c9fe8aa6f944a551a13a19818162e7:0
+offset: 0

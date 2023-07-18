@@ -1,0 +1,14 @@
+title: Inscription 407
+id: acda637db995df796b35035fd978cc1a947f1e6fd5215968da88b7e38a7e4b37i0
+address: bc1qx3scwushtwenxtxlnjet4x2w5vg35etdtse5u0
+output-value: 8020
+sat: 1883186433806857
+content-length: 529 bytes
+content-type: image/png
+timestamp: 2023-01-31 19:34:47 UTC
+genesis-height: 774489
+genesis-fee: 5340
+genesis-transaction: acda637db995df796b35035fd978cc1a947f1e6fd5215968da88b7e38a7e4b37
+location: 6630ff2153985504b180fc16721d559a4cecdc66f4be6acf33509ec2100c0aa5:0:0
+output: 6630ff2153985504b180fc16721d559a4cecdc66f4be6acf33509ec2100c0aa5:0
+offset: 0

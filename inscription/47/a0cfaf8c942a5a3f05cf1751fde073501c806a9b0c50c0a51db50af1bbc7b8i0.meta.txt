@@ -1,0 +1,14 @@
+title: Inscription 6688
+id: 47a0cfaf8c942a5a3f05cf1751fde073501c806a9b0c50c0a51db50af1bbc7b8i0
+address: bc1p8huvuffd5u2dqkk2jnxk9eslng32eckd8lluuxkm738ttf5dfypqrnm3cp
+output-value: 10000
+sat: 1871611713605541
+content-length: 265 bytes
+content-type: image/png
+timestamp: 2023-02-06 13:57:28 UTC
+genesis-height: 775296
+genesis-fee: 1005
+genesis-transaction: 47a0cfaf8c942a5a3f05cf1751fde073501c806a9b0c50c0a51db50af1bbc7b8
+location: 47a0cfaf8c942a5a3f05cf1751fde073501c806a9b0c50c0a51db50af1bbc7b8:0:0
+output: 47a0cfaf8c942a5a3f05cf1751fde073501c806a9b0c50c0a51db50af1bbc7b8:0
+offset: 0

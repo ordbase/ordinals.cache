@@ -1,0 +1,14 @@
+title: Inscription 138831
+id: df0a269873cec4308f77e55def4549080ead6d3c2458748b7d2354f6eea000f8i0
+address: bc1pdthhxpzwah8g79jd6lg7ycxcq5vqqqfxdnmmj93mjvq3gqwwehnsg55zc5
+output-value: 9667
+sat: 783327225656988
+content-length: 249 bytes
+content-type: image/png
+timestamp: 2023-02-18 13:20:12 UTC
+genesis-height: 777172
+genesis-fee: 788
+genesis-transaction: df0a269873cec4308f77e55def4549080ead6d3c2458748b7d2354f6eea000f8
+location: 9865fe5102bf06b15503e09b23f2e9156407f81d0b40aeb66056155c1bd6be5c:0:0
+output: 9865fe5102bf06b15503e09b23f2e9156407f81d0b40aeb66056155c1bd6be5c:0
+offset: 0

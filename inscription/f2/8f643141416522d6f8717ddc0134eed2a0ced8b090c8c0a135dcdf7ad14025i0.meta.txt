@@ -1,0 +1,14 @@
+title: Inscription 10370694
+id: f28f643141416522d6f8717ddc0134eed2a0ced8b090c8c0a135dcdf7ad14025i0
+address: bc1p3fw7lmp3jyudxfhffkyvp6dhprrmqjcvpu8su2kp4jrqfedwyncq0mj0zq
+output-value: 546
+sat: 1654735587425064
+content-length: 67 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 04:58:29 UTC
+genesis-height: 792336
+genesis-fee: 8084
+genesis-transaction: f28f643141416522d6f8717ddc0134eed2a0ced8b090c8c0a135dcdf7ad14025
+location: f28f643141416522d6f8717ddc0134eed2a0ced8b090c8c0a135dcdf7ad14025:0:0
+output: f28f643141416522d6f8717ddc0134eed2a0ced8b090c8c0a135dcdf7ad14025:0
+offset: 0

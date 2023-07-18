@@ -1,0 +1,14 @@
+title: Inscription 10345028
+id: 288e5576366cfdb086636385e2b5a1803beb7cb097deab17a5f963366025f447i0
+address: bc1pvta8equwv6m56xkx6f93a6re656ktxe2jemv3pl838q86hwn47wq5g5j0m
+output-value: 546
+sat: 1683090189596478
+content-length: 67 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 20:16:58 UTC
+genesis-height: 792300
+genesis-fee: 9577
+genesis-transaction: 288e5576366cfdb086636385e2b5a1803beb7cb097deab17a5f963366025f447
+location: 288e5576366cfdb086636385e2b5a1803beb7cb097deab17a5f963366025f447:0:0
+output: 288e5576366cfdb086636385e2b5a1803beb7cb097deab17a5f963366025f447:0
+offset: 0

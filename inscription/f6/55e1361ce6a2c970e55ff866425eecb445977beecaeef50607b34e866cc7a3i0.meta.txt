@@ -1,0 +1,14 @@
+title: Inscription 1267
+id: f655e1361ce6a2c970e55ff866425eecb445977beecaeef50607b34e866cc7a3i0
+address: bc1pntz6aymrrfkxhfvad42tqxzw2p2gwhwncwuktykl3wpwlc5xudaqclln4j
+output-value: 9667
+sat: 1924251529197500
+content-length: 43595 bytes
+content-type: image/jpeg
+timestamp: 2023-02-03 06:53:57 UTC
+genesis-height: 774836
+genesis-fee: 22192
+genesis-transaction: f655e1361ce6a2c970e55ff866425eecb445977beecaeef50607b34e866cc7a3
+location: 402a3e8ea8b3b6c270addc71ec1fb6fd34abe48d029dd64d51f79848e5466562:0:0
+output: 402a3e8ea8b3b6c270addc71ec1fb6fd34abe48d029dd64d51f79848e5466562:0
+offset: 0

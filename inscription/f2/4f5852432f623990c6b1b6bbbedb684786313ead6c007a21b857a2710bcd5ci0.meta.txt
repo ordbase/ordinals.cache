@@ -1,0 +1,14 @@
+title: Inscription 10368174
+id: f24f5852432f623990c6b1b6bbbedb684786313ead6c007a21b857a2710bcd5ci0
+address: bc1pkja8v5p3jccf8drgk06gua3hmkdch5jhn39ud3r004un3ez0r4rs4u5s4e
+output-value: 546
+sat: 89594723594016
+content-length: 67 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 03:35:25 UTC
+genesis-height: 792332
+genesis-fee: 11656
+genesis-transaction: f24f5852432f623990c6b1b6bbbedb684786313ead6c007a21b857a2710bcd5c
+location: f24f5852432f623990c6b1b6bbbedb684786313ead6c007a21b857a2710bcd5c:0:0
+output: f24f5852432f623990c6b1b6bbbedb684786313ead6c007a21b857a2710bcd5c:0
+offset: 0

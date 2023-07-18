@@ -1,0 +1,14 @@
+title: Inscription 10315184
+id: fb928ded23736dcb5f497d82b6bc1071af28f01a782b4d3f1731627d6b71f816i0
+address: bc1paptspdgen40557hecqh7pu3n8pwcyvk46589y3sz7wka2lrw3qssvchmcm
+output-value: 546
+sat: 1624957979989275
+content-length: 71 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 13:31:10 UTC
+genesis-height: 792259
+genesis-fee: 11340
+genesis-transaction: fb928ded23736dcb5f497d82b6bc1071af28f01a782b4d3f1731627d6b71f816
+location: fb928ded23736dcb5f497d82b6bc1071af28f01a782b4d3f1731627d6b71f816:0:0
+output: fb928ded23736dcb5f497d82b6bc1071af28f01a782b4d3f1731627d6b71f816:0
+offset: 0

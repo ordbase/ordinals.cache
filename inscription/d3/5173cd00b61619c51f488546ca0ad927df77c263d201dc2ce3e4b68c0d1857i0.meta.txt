@@ -1,0 +1,14 @@
+title: Inscription 9982216
+id: d35173cd00b61619c51f488546ca0ad927df77c263d201dc2ce3e4b68c0d1857i0
+address: bc1pud9ndkvmhtc3cfvwhs4zhztqk8ffhapx6w57thehq3nu5qn90a5sczklq4
+output-value: 546
+sat: 1632575969189708
+content-length: 14 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-29 19:41:28 UTC
+genesis-height: 791997
+genesis-fee: 6578
+genesis-transaction: d35173cd00b61619c51f488546ca0ad927df77c263d201dc2ce3e4b68c0d1857
+location: d35173cd00b61619c51f488546ca0ad927df77c263d201dc2ce3e4b68c0d1857:0:0
+output: d35173cd00b61619c51f488546ca0ad927df77c263d201dc2ce3e4b68c0d1857:0
+offset: 0

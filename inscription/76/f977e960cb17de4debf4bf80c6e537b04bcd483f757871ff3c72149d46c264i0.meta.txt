@@ -1,0 +1,14 @@
+title: Inscription 11999325
+id: 76f977e960cb17de4debf4bf80c6e537b04bcd483f757871ff3c72149d46c264i0
+address: bc1pfyu7305c9z30zhqx47cwdzguwhd2glc82l65ccy3h3mdmn4sz3tsndp2nv
+output-value: 546
+sat: 1066438099732329
+content-length: 104 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-15 18:54:23 UTC
+genesis-height: 794495
+genesis-fee: 4150
+genesis-transaction: 76f977e960cb17de4debf4bf80c6e537b04bcd483f757871ff3c72149d46c264
+location: 649834a21898845989e4896ac4c099db8bd62467ae50486ed4bc7fef51d1e78e:0:0
+output: 649834a21898845989e4896ac4c099db8bd62467ae50486ed4bc7fef51d1e78e:0
+offset: 0

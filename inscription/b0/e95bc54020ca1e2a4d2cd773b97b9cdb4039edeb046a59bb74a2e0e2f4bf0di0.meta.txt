@@ -1,0 +1,14 @@
+title: Inscription 1053
+id: b0e95bc54020ca1e2a4d2cd773b97b9cdb4039edeb046a59bb74a2e0e2f4bf0di0
+address: bc1pfuxrgl3e2j9pwz5xwg28kazwz24yyxj933gq3ywc4tf46hpfpxmsufccxw
+output-value: 9672
+sat: 1693800019409154
+content-length: 24267 bytes
+content-type: image/jpeg
+timestamp: 2023-02-02 09:51:12 UTC
+genesis-height: 774713
+genesis-fee: 13096
+genesis-transaction: b0e95bc54020ca1e2a4d2cd773b97b9cdb4039edeb046a59bb74a2e0e2f4bf0d
+location: 11bfc38db6adf56f7c46f92effc16bf3b4f3b1d1995c8a48cb1ccd386a819628:0:0
+output: 11bfc38db6adf56f7c46f92effc16bf3b4f3b1d1995c8a48cb1ccd386a819628:0
+offset: 0

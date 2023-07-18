@@ -1,0 +1,14 @@
+title: Inscription 15004401
+id: d5fac8d6f55830c510816a92eece66f3baa8fb0e58683ac9f6862beab43d1a3ei0
+address: bc1pz7xl7vnekj5v8t87chlru8v3yn4luatcv3kszmutkckne0jxpvxs4nc5uy
+output-value: 546
+sat: 1579868056486402
+content-length: 4372 bytes
+content-type: image/png
+timestamp: 2023-07-07 00:10:25 UTC
+genesis-height: 797509
+genesis-fee: 6180
+genesis-transaction: d5fac8d6f55830c510816a92eece66f3baa8fb0e58683ac9f6862beab43d1a3e
+location: d5fac8d6f55830c510816a92eece66f3baa8fb0e58683ac9f6862beab43d1a3e:0:0
+output: d5fac8d6f55830c510816a92eece66f3baa8fb0e58683ac9f6862beab43d1a3e:0
+offset: 0

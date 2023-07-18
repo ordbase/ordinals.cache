@@ -1,0 +1,14 @@
+title: Inscription 11107033
+id: 8a33d2d4fad61cf5bc5a6cdbe21ffa82d70c5a1fb684869aa0b644bacc74209bi0
+address: bc1plykt7sel5z8420vflkqc45lwhc4c93vj0nv8gcluwydd4kdvqfnqa5wt9y
+output-value: 546
+sat: 1430402344562087
+content-length: 67 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-08 04:23:16 UTC
+genesis-height: 793341
+genesis-fee: 2983
+genesis-transaction: 8a33d2d4fad61cf5bc5a6cdbe21ffa82d70c5a1fb684869aa0b644bacc74209b
+location: 8a33d2d4fad61cf5bc5a6cdbe21ffa82d70c5a1fb684869aa0b644bacc74209b:0:0
+output: 8a33d2d4fad61cf5bc5a6cdbe21ffa82d70c5a1fb684869aa0b644bacc74209b:0
+offset: 0

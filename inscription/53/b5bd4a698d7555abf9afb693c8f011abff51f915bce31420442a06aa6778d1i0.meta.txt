@@ -1,0 +1,14 @@
+title: Inscription 10746168
+id: 53b5bd4a698d7555abf9afb693c8f011abff51f915bce31420442a06aa6778d1i0
+address: bc1qzr89wh8j6vhar6uxaux0eaw2rplhdg9x2j5w0q
+output-value: 546
+sat: 1428582340270791
+content-length: 58 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-04 06:42:55 UTC
+genesis-height: 792780
+genesis-fee: 2595
+genesis-transaction: 53b5bd4a698d7555abf9afb693c8f011abff51f915bce31420442a06aa6778d1
+location: 53b5bd4a698d7555abf9afb693c8f011abff51f915bce31420442a06aa6778d1:0:0
+output: 53b5bd4a698d7555abf9afb693c8f011abff51f915bce31420442a06aa6778d1:0
+offset: 0

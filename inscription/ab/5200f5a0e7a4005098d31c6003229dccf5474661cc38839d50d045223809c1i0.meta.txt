@@ -1,0 +1,14 @@
+title: Inscription 495
+id: ab5200f5a0e7a4005098d31c6003229dccf5474661cc38839d50d045223809c1i0
+address: bc1qyctgk8tkjlxanpn3xsh056h0uv8qu34pk6gath
+output-value: 8020
+sat: 1440861821101332
+content-length: 396 bytes
+content-type: image/png
+timestamp: 2023-02-01 05:16:44 UTC
+genesis-height: 774541
+genesis-fee: 4680
+genesis-transaction: ab5200f5a0e7a4005098d31c6003229dccf5474661cc38839d50d045223809c1
+location: 8ce36d31fe96ce3b9250f208ecca3b1e38252be7603a8b77f87a577c79fa90a9:0:0
+output: 8ce36d31fe96ce3b9250f208ecca3b1e38252be7603a8b77f87a577c79fa90a9:0
+offset: 0

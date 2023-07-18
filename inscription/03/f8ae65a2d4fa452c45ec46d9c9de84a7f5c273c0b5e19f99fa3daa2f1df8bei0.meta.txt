@@ -1,0 +1,14 @@
+title: Inscription 445
+id: 03f8ae65a2d4fa452c45ec46d9c9de84a7f5c273c0b5e19f99fa3daa2f1df8bei0
+address: bc1pdpvx447ekzr5s335h96g4lrvecutt6z779938md36g675kjd4t2q06mp7h
+output-value: 7114
+sat: 333787650584411
+content-length: 455 bytes
+content-type: image/png
+timestamp: 2023-01-31 23:40:19 UTC
+genesis-height: 774509
+genesis-fee: 4980
+genesis-transaction: 03f8ae65a2d4fa452c45ec46d9c9de84a7f5c273c0b5e19f99fa3daa2f1df8be
+location: e1150f5a05bfd21b8d01a73eaea96f569ff2b9cbd08b2812f5f2e85e36d8e90f:0:0
+output: e1150f5a05bfd21b8d01a73eaea96f569ff2b9cbd08b2812f5f2e85e36d8e90f:0
+offset: 0

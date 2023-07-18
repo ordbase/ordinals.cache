@@ -1,0 +1,14 @@
+title: Inscription 5922
+id: 93ff1516850343b9cd776d6ae4810eeced9a668f4930912e7a9f6ebf9bac3fe0i0
+address: bc1pjp4qasmdccdhjncvj0kj4secansp9fkq29jas8k4f977tzpfpc9suncx7r
+output-value: 10000
+sat: 93444681962299
+content-length: 33990 bytes
+content-type: image/jpeg
+timestamp: 2023-02-06 05:30:09 UTC
+genesis-height: 775245
+genesis-fee: 21703
+genesis-transaction: 93ff1516850343b9cd776d6ae4810eeced9a668f4930912e7a9f6ebf9bac3fe0
+location: beccf06e6842da0b7393c8def9f72d81da89f84cb96a9c7cc727a2afaa78ceb0:2:0
+output: beccf06e6842da0b7393c8def9f72d81da89f84cb96a9c7cc727a2afaa78ceb0:2
+offset: 0

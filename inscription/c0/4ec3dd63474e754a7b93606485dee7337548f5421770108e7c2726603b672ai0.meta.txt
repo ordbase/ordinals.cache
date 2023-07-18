@@ -1,0 +1,14 @@
+title: Inscription 11213992
+id: c04ec3dd63474e754a7b93606485dee7337548f5421770108e7c2726603b672ai0
+address: bc1qj9vfj7dmwj46u5v7xcumg0x6p3e0u0r0l3n3g9
+output-value: 546
+sat: 1936713252535304
+content-length: 73 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-09 04:33:44 UTC
+genesis-height: 793502
+genesis-fee: 2920
+genesis-transaction: c04ec3dd63474e754a7b93606485dee7337548f5421770108e7c2726603b672a
+location: c04ec3dd63474e754a7b93606485dee7337548f5421770108e7c2726603b672a:0:0
+output: c04ec3dd63474e754a7b93606485dee7337548f5421770108e7c2726603b672a:0
+offset: 0

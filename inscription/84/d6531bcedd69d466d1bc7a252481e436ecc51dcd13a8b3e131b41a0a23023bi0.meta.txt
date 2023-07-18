@@ -1,0 +1,14 @@
+title: Inscription 6757
+id: 84d6531bcedd69d466d1bc7a252481e436ecc51dcd13a8b3e131b41a0a23023bi0
+address: bc1p526cyxf2s3f03ugwthp376kw2ktl3wgzv0cvwacnnwqkcgd36jjqj7ewaj
+output-value: 10000
+sat: 1741337420103665
+content-length: 318 bytes
+content-type: image/png
+timestamp: 2023-02-06 14:41:08 UTC
+genesis-height: 775302
+genesis-fee: 1070
+genesis-transaction: 84d6531bcedd69d466d1bc7a252481e436ecc51dcd13a8b3e131b41a0a23023b
+location: 84d6531bcedd69d466d1bc7a252481e436ecc51dcd13a8b3e131b41a0a23023b:0:0
+output: 84d6531bcedd69d466d1bc7a252481e436ecc51dcd13a8b3e131b41a0a23023b:0
+offset: 0

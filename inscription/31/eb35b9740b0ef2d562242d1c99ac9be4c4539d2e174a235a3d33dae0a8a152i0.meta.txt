@@ -1,0 +1,14 @@
+title: Inscription 11221912
+id: 31eb35b9740b0ef2d562242d1c99ac9be4c4539d2e174a235a3d33dae0a8a152i0
+address: bc1p7zg3zzecv8djrfsxuwl9chs7wmkje6exa7u567np6j8uqwck39uq56u95t
+output-value: 546
+sat: 1634019978471067
+content-length: 59 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-09 06:41:25 UTC
+genesis-height: 793518
+genesis-fee: 3720
+genesis-transaction: 31eb35b9740b0ef2d562242d1c99ac9be4c4539d2e174a235a3d33dae0a8a152
+location: 31eb35b9740b0ef2d562242d1c99ac9be4c4539d2e174a235a3d33dae0a8a152:0:0
+output: 31eb35b9740b0ef2d562242d1c99ac9be4c4539d2e174a235a3d33dae0a8a152:0
+offset: 0

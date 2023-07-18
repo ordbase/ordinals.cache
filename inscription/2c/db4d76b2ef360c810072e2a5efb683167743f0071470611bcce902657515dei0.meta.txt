@@ -1,0 +1,14 @@
+title: Inscription 624
+id: 2cdb4d76b2ef360c810072e2a5efb683167743f0071470611bcce902657515dei0
+address: bc1qw2rl4tsf9f6w9kk89j3s6kp5pd28ktn0nqmw35
+output-value: 8020
+sat: 1640968539369806
+content-length: 477 bytes
+content-type: image/png
+timestamp: 2023-02-01 19:20:24 UTC
+genesis-height: 774617
+genesis-fee: 5080
+genesis-transaction: 2cdb4d76b2ef360c810072e2a5efb683167743f0071470611bcce902657515de
+location: a49c001d7b4382a5c7120bdeb9636192f130162201e50085379fb0561e548d92:0:0
+output: a49c001d7b4382a5c7120bdeb9636192f130162201e50085379fb0561e548d92:0
+offset: 0

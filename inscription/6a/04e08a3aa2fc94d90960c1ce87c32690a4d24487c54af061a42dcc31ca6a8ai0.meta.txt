@@ -1,0 +1,14 @@
+title: Inscription 1060
+id: 6a04e08a3aa2fc94d90960c1ce87c32690a4d24487c54af061a42dcc31ca6a8ai0
+address: bc1qyr62f35q4f9utszg4sa2jkd3ddxydjsy38fe0l
+output-value: 9708
+sat: 1693800019209154
+content-length: 34796 bytes
+content-type: image/jpeg
+timestamp: 2023-02-02 09:51:12 UTC
+genesis-height: 774713
+genesis-fee: 18656
+genesis-transaction: 6a04e08a3aa2fc94d90960c1ce87c32690a4d24487c54af061a42dcc31ca6a8a
+location: 6d37d4d6a342bfdef475e7e7ca62a3fcde4206211bdc8766e2d4ee2a56954384:0:0
+output: 6d37d4d6a342bfdef475e7e7ca62a3fcde4206211bdc8766e2d4ee2a56954384:0
+offset: 0

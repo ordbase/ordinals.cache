@@ -1,0 +1,14 @@
+title: Inscription 10237525
+id: 9de772d1b47f72e805b88325dde82867b0bce8b97052d687bd24757924f9715ai0
+address: bc1puaymm0t6xmy7f5y6td58lel67xncpys6usdw5nc8vwsmzc02e2nstjp6vs
+output-value: 546
+sat: 875457518851388
+content-length: 56 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 02:41:41 UTC
+genesis-height: 792187
+genesis-fee: 5236
+genesis-transaction: 9de772d1b47f72e805b88325dde82867b0bce8b97052d687bd24757924f9715a
+location: 9de772d1b47f72e805b88325dde82867b0bce8b97052d687bd24757924f9715a:0:0
+output: 9de772d1b47f72e805b88325dde82867b0bce8b97052d687bd24757924f9715a:0
+offset: 0

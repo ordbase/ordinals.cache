@@ -1,0 +1,14 @@
+title: Inscription 642
+id: 0cc4000a34b8549afd96b48b78a0d491c541618b2b1f2e0364a48f2d9cccc8cei0
+address: bc1ptejmce005kvwss8x7erktg5e7gkd48nx5xzdnhp9la442djek6yq52kjff
+output-value: 2007762
+sat: 1694228181162317
+content-length: 381 bytes
+content-type: image/png
+timestamp: 2023-02-01 19:27:27 UTC
+genesis-height: 774619
+genesis-fee: 4600
+genesis-transaction: 0cc4000a34b8549afd96b48b78a0d491c541618b2b1f2e0364a48f2d9cccc8ce
+location: f15378ed9f8a508846e730abaf2b104a247e005cec58222900513148fee846b9:0:0
+output: f15378ed9f8a508846e730abaf2b104a247e005cec58222900513148fee846b9:0
+offset: 0

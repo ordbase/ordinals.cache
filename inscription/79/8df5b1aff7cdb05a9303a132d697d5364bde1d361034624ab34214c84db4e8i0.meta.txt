@@ -1,0 +1,14 @@
+title: Inscription 10344320
+id: 798df5b1aff7cdb05a9303a132d697d5364bde1d361034624ab34214c84db4e8i0
+address: bc1qz0ucgft2ahvrax3khm9phq5dl270vp7x69gj5n
+output-value: 546
+sat: 943991736376040
+content-length: 81 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 20:00:15 UTC
+genesis-height: 792299
+genesis-fee: 11993
+genesis-transaction: 798df5b1aff7cdb05a9303a132d697d5364bde1d361034624ab34214c84db4e8
+location: 798df5b1aff7cdb05a9303a132d697d5364bde1d361034624ab34214c84db4e8:0:0
+output: 798df5b1aff7cdb05a9303a132d697d5364bde1d361034624ab34214c84db4e8:0
+offset: 0

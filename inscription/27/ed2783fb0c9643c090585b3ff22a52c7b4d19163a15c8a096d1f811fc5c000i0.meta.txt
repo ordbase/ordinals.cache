@@ -1,0 +1,14 @@
+title: Inscription 10367426
+id: 27ed2783fb0c9643c090585b3ff22a52c7b4d19163a15c8a096d1f811fc5c000i0
+address: bc1ped3vlfujus0a7gn2veg7d5fytmedfxsm8alllwkl5xnxxcqzs4rsql99pu
+output-value: 546
+sat: 675335379533764
+content-length: 74 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 03:05:29 UTC
+genesis-height: 792331
+genesis-fee: 7584
+genesis-transaction: 27ed2783fb0c9643c090585b3ff22a52c7b4d19163a15c8a096d1f811fc5c000
+location: 27ed2783fb0c9643c090585b3ff22a52c7b4d19163a15c8a096d1f811fc5c000:0:0
+output: 27ed2783fb0c9643c090585b3ff22a52c7b4d19163a15c8a096d1f811fc5c000:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 61226
+id: 0f293bb2992377ddfd0efc475edece2e7227da847e470be8b5601bc9f067b8b5i0
+address: bc1pv9n57g9tnrcssl4r37u5y5aswmz9qqf5564nm4p0npg8xu7gmtyskeczjd
+output-value: 10000
+sat: 309511306327342
+content-length: 365 bytes
+content-type: image/png
+timestamp: 2023-02-12 03:53:07 UTC
+genesis-height: 776127
+genesis-fee: 5650
+genesis-transaction: 0f293bb2992377ddfd0efc475edece2e7227da847e470be8b5601bc9f067b8b5
+location: 0f293bb2992377ddfd0efc475edece2e7227da847e470be8b5601bc9f067b8b5:0:0
+output: 0f293bb2992377ddfd0efc475edece2e7227da847e470be8b5601bc9f067b8b5:0
+offset: 0

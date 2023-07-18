@@ -1,0 +1,14 @@
+title: Inscription 10315226
+id: a9327b204388228621fd9d9bf9d13b16717c3868da98149202510269d9d73710i0
+address: bc1pj5rfcqe6fnwu0mn9ktr3yplgfe8gts9fghlvh74mg256w2tfkp0swks38y
+output-value: 546
+sat: 1509448284244823
+content-length: 56 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 13:31:10 UTC
+genesis-height: 792259
+genesis-fee: 9086
+genesis-transaction: a9327b204388228621fd9d9bf9d13b16717c3868da98149202510269d9d73710
+location: a9327b204388228621fd9d9bf9d13b16717c3868da98149202510269d9d73710:0:0
+output: a9327b204388228621fd9d9bf9d13b16717c3868da98149202510269d9d73710:0
+offset: 0

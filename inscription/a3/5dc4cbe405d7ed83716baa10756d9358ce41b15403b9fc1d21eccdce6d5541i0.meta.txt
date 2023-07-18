@@ -1,0 +1,14 @@
+title: Inscription 10520471
+id: a35dc4cbe405d7ed83716baa10756d9358ce41b15403b9fc1d21eccdce6d5541i0
+address: bc1pcmtwe3rhyf055jk339spzrk72z7mjqktu2qfze67j7lxktq4tpms0nuedh
+output-value: 546
+sat: 1077466157545332
+content-length: 66 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-02 13:43:27 UTC
+genesis-height: 792548
+genesis-fee: 6171
+genesis-transaction: a35dc4cbe405d7ed83716baa10756d9358ce41b15403b9fc1d21eccdce6d5541
+location: a35dc4cbe405d7ed83716baa10756d9358ce41b15403b9fc1d21eccdce6d5541:0:0
+output: a35dc4cbe405d7ed83716baa10756d9358ce41b15403b9fc1d21eccdce6d5541:0
+offset: 0

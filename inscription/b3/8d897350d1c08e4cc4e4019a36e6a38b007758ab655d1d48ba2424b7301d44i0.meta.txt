@@ -1,0 +1,14 @@
+title: Inscription 14935132
+id: b38d897350d1c08e4cc4e4019a36e6a38b007758ab655d1d48ba2424b7301d44i0
+address: bc1par9938vnuprary2ww54glq2h5cxrfa2tvdmpfu6mq67g4jcl9pqqdqqd3m
+output-value: 546
+sat: 549567976750773
+content-length: 73 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-07-06 09:48:33 UTC
+genesis-height: 797418
+genesis-fee: 1512
+genesis-transaction: b38d897350d1c08e4cc4e4019a36e6a38b007758ab655d1d48ba2424b7301d44
+location: b38d897350d1c08e4cc4e4019a36e6a38b007758ab655d1d48ba2424b7301d44:0:0
+output: b38d897350d1c08e4cc4e4019a36e6a38b007758ab655d1d48ba2424b7301d44:0
+offset: 0

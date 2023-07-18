@@ -1,0 +1,14 @@
+title: Inscription 34
+id: b8bf03e34f8fb497941a878793f7138aab502f4a34604923cc3147ef7f6ba471i0
+address: bc1prn8gvxeq2t98ptrmxzsjrss9f2qvmgt3sret29n4rfh6chmvx6tsu4g25g
+output-value: 10000
+sat: 1904399608963889
+content-length: 2632 bytes
+content-type: image/png
+timestamp: 2023-01-22 09:28:02 UTC
+genesis-height: 773059
+genesis-fee: 1592
+genesis-transaction: b8bf03e34f8fb497941a878793f7138aab502f4a34604923cc3147ef7f6ba471
+location: b8bf03e34f8fb497941a878793f7138aab502f4a34604923cc3147ef7f6ba471:0:0
+output: b8bf03e34f8fb497941a878793f7138aab502f4a34604923cc3147ef7f6ba471:0
+offset: 0

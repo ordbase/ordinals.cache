@@ -1,0 +1,14 @@
+title: Inscription 604
+id: ad011c59be35c823fb9dd3e559bce5011900eeebad1fb3fed7a4de80399d3b25i0
+address: bc1pmsd65rj855zpehy4nlsrjk0y2ay5r7ksjzmfgsm4nn4prcfc2tns2myx7d
+output-value: 7780
+sat: 1924963396400304
+content-length: 485 bytes
+content-type: image/png
+timestamp: 2023-02-01 17:40:32 UTC
+genesis-height: 774606
+genesis-fee: 5120
+genesis-transaction: ad011c59be35c823fb9dd3e559bce5011900eeebad1fb3fed7a4de80399d3b25
+location: 5626c8cd9cbe934bb52a5ad4a4076da916ca7bb1ad6e39585953cdef2b4d75de:0:0
+output: 5626c8cd9cbe934bb52a5ad4a4076da916ca7bb1ad6e39585953cdef2b4d75de:0
+offset: 0

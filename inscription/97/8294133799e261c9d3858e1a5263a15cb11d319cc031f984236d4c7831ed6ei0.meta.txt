@@ -1,0 +1,14 @@
+title: Inscription 10515742
+id: 978294133799e261c9d3858e1a5263a15cb11d319cc031f984236d4c7831ed6ei0
+address: bc1pk87z579hdc3pc8mhqh7t8r4mjd70eeyvu9ssmu5slz4gjyc5pnqsx72sd7
+output-value: 546
+sat: 1447117879177122
+content-length: 63 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-02 13:09:35 UTC
+genesis-height: 792544
+genesis-fee: 6396
+genesis-transaction: 978294133799e261c9d3858e1a5263a15cb11d319cc031f984236d4c7831ed6e
+location: 978294133799e261c9d3858e1a5263a15cb11d319cc031f984236d4c7831ed6e:0:0
+output: 978294133799e261c9d3858e1a5263a15cb11d319cc031f984236d4c7831ed6e:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 56994
+id: e29eab929876bb72cc3ad6c9a09f316b214788e58d52cedfc419fdd33b4c92f2i0
+address: bc1pl0xtawfuw0xm53fskhhgvpck68u2xyx06es8x7hs8qyl3lr7hmfqseq3r0
+output-value: 10000
+sat: 1532884310456274
+content-length: 380 bytes
+content-type: image/png
+timestamp: 2023-02-11 16:57:06 UTC
+genesis-height: 776056
+genesis-fee: 10350
+genesis-transaction: e29eab929876bb72cc3ad6c9a09f316b214788e58d52cedfc419fdd33b4c92f2
+location: e29eab929876bb72cc3ad6c9a09f316b214788e58d52cedfc419fdd33b4c92f2:0:0
+output: e29eab929876bb72cc3ad6c9a09f316b214788e58d52cedfc419fdd33b4c92f2:0
+offset: 0

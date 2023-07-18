@@ -1,0 +1,14 @@
+title: Inscription 53
+id: 87295ff96556bc668c44068875aed32fbbbcebb8d5af3869fe37b264ba319a00i0
+address: bc1pagzcyzu9pjp5uf9nz069z2t6kx76guuu8zv8vw2y79eklx5pd4ksdtnn2y
+output-value: 8657
+sat: 1821640950524180
+content-length: 4939 bytes
+content-type: image/png
+timestamp: 2023-01-22 19:17:46 UTC
+genesis-height: 773132
+genesis-fee: 1376
+genesis-transaction: 87295ff96556bc668c44068875aed32fbbbcebb8d5af3869fe37b264ba319a00
+location: d284c7de9512f24a7458a3210dabdf6586bc10690ef4d58a398fd07cba41aff3:0:0
+output: d284c7de9512f24a7458a3210dabdf6586bc10690ef4d58a398fd07cba41aff3:0
+offset: 0

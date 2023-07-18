@@ -1,0 +1,14 @@
+title: Inscription 96
+id: 049552142bbc235dfe6cf80536fe663e3591b0c293b7ed66f5dd285ac6457615i0
+address: bc1p4aqdz3uwd7xa8r8lsdsxs822drgyu5fus59nndu4mqxqmn3pwk9q6jk7uw
+output-value: 10000
+sat: 783628093103252
+content-length: 47770 bytes
+content-type: image/png
+timestamp: 2023-01-26 14:29:33 UTC
+genesis-height: 773718
+genesis-fee: 14575
+genesis-transaction: 049552142bbc235dfe6cf80536fe663e3591b0c293b7ed66f5dd285ac6457615
+location: 049552142bbc235dfe6cf80536fe663e3591b0c293b7ed66f5dd285ac6457615:0:0
+output: 049552142bbc235dfe6cf80536fe663e3591b0c293b7ed66f5dd285ac6457615:0
+offset: 0

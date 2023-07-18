@@ -1,0 +1,14 @@
+title: Inscription 1279
+id: 6f3c6c2f8954b3e4e83fa0e04f841a35f581a0208a746a3c1c94fc71d441345ei0
+address: bc1pryuych38559k82nkc55p53c4e8jt393azeklxhwsm0v6gaczrses0m7ajw
+output-value: 10000
+sat: 1927912723318632
+content-length: 39252 bytes
+content-type: image/jpeg
+timestamp: 2023-02-03 07:06:30 UTC
+genesis-height: 774837
+genesis-fee: 20008
+genesis-transaction: 6f3c6c2f8954b3e4e83fa0e04f841a35f581a0208a746a3c1c94fc71d441345e
+location: 6f3c6c2f8954b3e4e83fa0e04f841a35f581a0208a746a3c1c94fc71d441345e:0:0
+output: 6f3c6c2f8954b3e4e83fa0e04f841a35f581a0208a746a3c1c94fc71d441345e:0
+offset: 0

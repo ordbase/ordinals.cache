@@ -1,0 +1,14 @@
+title: Inscription 10312460
+id: 06c7078389a8305aa650ebfbff4fd5ce5099a01405e4ce566cde9f8a33ceb7fei0
+address: bc1pqysvnja0l8rjmx49eruxpjca27p8h688gyangsnkkw4he9pmzg3q8jkrq6
+output-value: 546
+sat: 372660290724845
+content-length: 65 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 13:06:55 UTC
+genesis-height: 792256
+genesis-fee: 9537
+genesis-transaction: 06c7078389a8305aa650ebfbff4fd5ce5099a01405e4ce566cde9f8a33ceb7fe
+location: 06c7078389a8305aa650ebfbff4fd5ce5099a01405e4ce566cde9f8a33ceb7fe:0:0
+output: 06c7078389a8305aa650ebfbff4fd5ce5099a01405e4ce566cde9f8a33ceb7fe:0
+offset: 0

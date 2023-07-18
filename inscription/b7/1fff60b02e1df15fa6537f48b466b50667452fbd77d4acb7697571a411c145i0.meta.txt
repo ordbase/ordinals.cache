@@ -1,0 +1,14 @@
+title: Inscription 10391295
+id: b71fff60b02e1df15fa6537f48b466b50667452fbd77d4acb7697571a411c145i0
+address: bc1pushmv80zmcpvv2247uv53z0dhyujqyagrtl8c9qxfv3as34wlqjspey086
+output-value: 546
+sat: 1459265406342648
+content-length: 67 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 10:54:59 UTC
+genesis-height: 792368
+genesis-fee: 3760
+genesis-transaction: b71fff60b02e1df15fa6537f48b466b50667452fbd77d4acb7697571a411c145
+location: b71fff60b02e1df15fa6537f48b466b50667452fbd77d4acb7697571a411c145:0:0
+output: b71fff60b02e1df15fa6537f48b466b50667452fbd77d4acb7697571a411c145:0
+offset: 0

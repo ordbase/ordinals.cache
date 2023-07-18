@@ -1,0 +1,14 @@
+title: Inscription 10085829
+id: 875ee985e64c45dea4bc3a78bf1c5302136875f33853fdbc9490ae3a86c41a1ai0
+address: bc1p5vgh4tyekuxmq2u93r4urtgl2rghdm8m9knel5auhdpglykxuplsh69ye7
+output-value: 10000
+sat: 1562286486063756
+content-length: 53 bytes
+content-type: application/json
+timestamp: 2023-05-30 06:03:33 UTC
+genesis-height: 792061
+genesis-fee: 4172
+genesis-transaction: 875ee985e64c45dea4bc3a78bf1c5302136875f33853fdbc9490ae3a86c41a1a
+location: 875ee985e64c45dea4bc3a78bf1c5302136875f33853fdbc9490ae3a86c41a1a:0:0
+output: 875ee985e64c45dea4bc3a78bf1c5302136875f33853fdbc9490ae3a86c41a1a:0
+offset: 0

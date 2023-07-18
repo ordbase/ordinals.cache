@@ -1,0 +1,14 @@
+title: Inscription 15633999
+id: f384bb141bc0cef77eceda06a99d9860115ca45fd687c729dcea246612d46b1fi0
+address: bc1p2ghm2x064h3cwtyl7zsjd7yfudyw9fvqahrzp9k8sytqhmc5cyzsrawz75
+output-value: 546
+sat: 935814355251883
+content-length: 40 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-07-08 23:20:54 UTC
+genesis-height: 797856
+genesis-fee: 750
+genesis-transaction: f384bb141bc0cef77eceda06a99d9860115ca45fd687c729dcea246612d46b1f
+location: f384bb141bc0cef77eceda06a99d9860115ca45fd687c729dcea246612d46b1f:0:0
+output: f384bb141bc0cef77eceda06a99d9860115ca45fd687c729dcea246612d46b1f:0
+offset: 0

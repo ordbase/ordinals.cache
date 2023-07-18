@@ -1,0 +1,14 @@
+title: Inscription 12799683
+id: c6f21b231c204e450afa7df98fae36738b14a264c8bbd41311b1ca95633c7faai0
+address: bc1p8c633u900pdreu2v4sqwlzp2ya3nqe76rdctzd8y4ty5fsgtn7aqgv60hu
+output-value: 546
+sat: 1412547983946032
+content-length: 142 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-19 17:42:00 UTC
+genesis-height: 795077
+genesis-fee: 4400
+genesis-transaction: c6f21b231c204e450afa7df98fae36738b14a264c8bbd41311b1ca95633c7faa
+location: c6f21b231c204e450afa7df98fae36738b14a264c8bbd41311b1ca95633c7faa:0:0
+output: c6f21b231c204e450afa7df98fae36738b14a264c8bbd41311b1ca95633c7faa:0
+offset: 0

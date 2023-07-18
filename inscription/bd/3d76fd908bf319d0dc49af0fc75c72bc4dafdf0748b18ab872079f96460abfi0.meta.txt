@@ -1,0 +1,14 @@
+title: Inscription 655
+id: bd3d76fd908bf319d0dc49af0fc75c72bc4dafdf0748b18ab872079f96460abfi0
+address: bc1pwj5qgrpe6nmydlvw66nku9hse4uy2536d2639s6z6pyqy8jgs03srxxgfc
+output-value: 9754
+sat: 973276237641824
+content-length: 31670 bytes
+content-type: image/jpeg
+timestamp: 2023-02-01 20:56:32 UTC
+genesis-height: 774630
+genesis-fee: 64784
+genesis-transaction: bd3d76fd908bf319d0dc49af0fc75c72bc4dafdf0748b18ab872079f96460abf
+location: 3f4a28549bcd4d941739e06514af2842f735e39fad9c3f8a81d0abfdc6ccb8c9:0:0
+output: 3f4a28549bcd4d941739e06514af2842f735e39fad9c3f8a81d0abfdc6ccb8c9:0
+offset: 0

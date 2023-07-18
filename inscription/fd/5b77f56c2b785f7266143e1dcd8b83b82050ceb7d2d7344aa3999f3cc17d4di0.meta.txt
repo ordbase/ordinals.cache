@@ -1,0 +1,14 @@
+title: Inscription 22
+id: fd5b77f56c2b785f7266143e1dcd8b83b82050ceb7d2d7344aa3999f3cc17d4di0
+address: bc1pcjfwrf9aa0zdsdhzu762qa5ct038g2722a633dehfahtxaz30lys2g099j
+output-value: 7447
+sat: 1884778689253351
+content-length: 75530 bytes
+content-type: image/jpeg
+timestamp: 2023-01-21 18:40:07 UTC
+genesis-height: 772980
+genesis-fee: 38254
+genesis-transaction: fd5b77f56c2b785f7266143e1dcd8b83b82050ceb7d2d7344aa3999f3cc17d4d
+location: 16a7c76df2dab66feb64ab9ae7f00eadde0d1c09987c8dadfb0b214e9a0d1e6a:0:0
+output: 16a7c76df2dab66feb64ab9ae7f00eadde0d1c09987c8dadfb0b214e9a0d1e6a:0
+offset: 0

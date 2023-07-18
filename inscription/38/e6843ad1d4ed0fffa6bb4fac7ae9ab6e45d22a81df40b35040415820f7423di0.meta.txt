@@ -1,0 +1,14 @@
+title: Inscription 13085062
+id: 38e6843ad1d4ed0fffa6bb4fac7ae9ab6e45d22a81df40b35040415820f7423di0
+address: bc1p26n98v9kqtwzd9mqgjeapc72we4vxrhtzdygxwqa0jfhqdxxy6fq9c0qfq
+output-value: 546
+sat: 713976345805905
+content-length: 56 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-22 02:54:51 UTC
+genesis-height: 795379
+genesis-fee: 6290
+genesis-transaction: 38e6843ad1d4ed0fffa6bb4fac7ae9ab6e45d22a81df40b35040415820f7423d
+location: 38e6843ad1d4ed0fffa6bb4fac7ae9ab6e45d22a81df40b35040415820f7423d:0:0
+output: 38e6843ad1d4ed0fffa6bb4fac7ae9ab6e45d22a81df40b35040415820f7423d:0
+offset: 0

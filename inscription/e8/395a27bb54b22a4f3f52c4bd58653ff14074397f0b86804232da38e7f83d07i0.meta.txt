@@ -1,0 +1,14 @@
+title: Inscription 10368150
+id: e8395a27bb54b22a4f3f52c4bd58653ff14074397f0b86804232da38e7f83d07i0
+address: bc1p8y5sj8s98yfd6pz8qq27zhw33udpt94ktrpnt7tzu0kkdpzgr6xsywwpve
+output-value: 546
+sat: 446982340211890
+content-length: 67 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 03:35:25 UTC
+genesis-height: 792332
+genesis-fee: 12220
+genesis-transaction: e8395a27bb54b22a4f3f52c4bd58653ff14074397f0b86804232da38e7f83d07
+location: e8395a27bb54b22a4f3f52c4bd58653ff14074397f0b86804232da38e7f83d07:0:0
+output: e8395a27bb54b22a4f3f52c4bd58653ff14074397f0b86804232da38e7f83d07:0
+offset: 0

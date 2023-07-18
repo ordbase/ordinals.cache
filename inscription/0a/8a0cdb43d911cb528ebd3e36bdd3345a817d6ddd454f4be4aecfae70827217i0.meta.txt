@@ -1,0 +1,14 @@
+title: Inscription 57527
+id: 0a8a0cdb43d911cb528ebd3e36bdd3345a817d6ddd454f4be4aecfae70827217i0
+address: bc1p0q8ny9qup0fusukrjzncpm38qxmq54rxd266q7gcy3yvkwdk4ats4390sd
+output-value: 10000
+sat: 1532884310641375
+content-length: 349 bytes
+content-type: image/png
+timestamp: 2023-02-11 18:35:13 UTC
+genesis-height: 776069
+genesis-fee: 8436
+genesis-transaction: 0a8a0cdb43d911cb528ebd3e36bdd3345a817d6ddd454f4be4aecfae70827217
+location: 0a8a0cdb43d911cb528ebd3e36bdd3345a817d6ddd454f4be4aecfae70827217:0:0
+output: 0a8a0cdb43d911cb528ebd3e36bdd3345a817d6ddd454f4be4aecfae70827217:0
+offset: 0

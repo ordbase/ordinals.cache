@@ -1,0 +1,14 @@
+title: Inscription 93
+id: 5a3e92e5c5c0bac06728501836ab239598ffc1c6aed186b4c629a45c3c8700b6i0
+address: bc1pepxz3mdfkc5cq7qd8ucf5qeqc8h3exncl06sa4kgqwvan676sl7qupkw30
+output-value: 10000
+sat: 1584636810745702
+content-length: 8530 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-01-26 06:23:49 UTC
+genesis-height: 773661
+genesis-fee: 2283
+genesis-transaction: 5a3e92e5c5c0bac06728501836ab239598ffc1c6aed186b4c629a45c3c8700b6
+location: 5a3e92e5c5c0bac06728501836ab239598ffc1c6aed186b4c629a45c3c8700b6:0:0
+output: 5a3e92e5c5c0bac06728501836ab239598ffc1c6aed186b4c629a45c3c8700b6:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 1328
+id: a28089fb0f0b58aaaca127ef007dcb8874786201bffb2a6db1c82da3c3c20a75i0
+address: bc1qpgunfm8h63qxpq4a35tsrd8l9c08jxru7ruq5x
+output-value: 8614
+sat: 1678377676701295
+content-length: 35211 bytes
+content-type: image/jpeg
+timestamp: 2023-02-03 14:38:37 UTC
+genesis-height: 774879
+genesis-fee: 35952
+genesis-transaction: a28089fb0f0b58aaaca127ef007dcb8874786201bffb2a6db1c82da3c3c20a75
+location: 1f64d733324a50ea3d53f02a407abdc30bde953fca688e9b54a071ad1f355daf:0:0
+output: 1f64d733324a50ea3d53f02a407abdc30bde953fca688e9b54a071ad1f355daf:0
+offset: 0

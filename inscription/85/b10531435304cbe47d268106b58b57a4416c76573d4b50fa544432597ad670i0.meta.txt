@@ -1,0 +1,14 @@
+title: Inscription 54
+id: 85b10531435304cbe47d268106b58b57a4416c76573d4b50fa544432597ad670i0
+address: bc1p7u7eyz2uhzfrd33uvf95x2catjy0d97kpzqzng590nht9w7d9jxsrp6p7t
+output-value: 10000
+sat: 1821640950535556
+content-length: 184292 bytes
+content-type: application/pdf
+timestamp: 2023-01-22 19:53:03 UTC
+genesis-height: 773135
+genesis-fee: 46475
+genesis-transaction: 85b10531435304cbe47d268106b58b57a4416c76573d4b50fa544432597ad670
+location: 85b10531435304cbe47d268106b58b57a4416c76573d4b50fa544432597ad670:0:0
+output: 85b10531435304cbe47d268106b58b57a4416c76573d4b50fa544432597ad670:0
+offset: 0

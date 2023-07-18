@@ -1,0 +1,14 @@
+title: Inscription 11079434
+id: 7c7d37cfbb1a1fc50d33274a841b88ec2e06b2dde1b411586363814d8a2d374di0
+address: bc1pm9jy2waeua04snwj2spzp4yvxmzeakruyxxyzls9qvda5guznv8qq8u98m
+output-value: 546
+sat: 1631833440036274
+content-length: 88 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-07 22:51:00 UTC
+genesis-height: 793303
+genesis-fee: 10808
+genesis-transaction: 7c7d37cfbb1a1fc50d33274a841b88ec2e06b2dde1b411586363814d8a2d374d
+location: 7c7d37cfbb1a1fc50d33274a841b88ec2e06b2dde1b411586363814d8a2d374d:0:0
+output: 7c7d37cfbb1a1fc50d33274a841b88ec2e06b2dde1b411586363814d8a2d374d:0
+offset: 0

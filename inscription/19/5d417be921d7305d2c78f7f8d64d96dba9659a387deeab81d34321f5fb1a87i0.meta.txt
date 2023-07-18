@@ -1,0 +1,14 @@
+title: Inscription 11078299
+id: 195d417be921d7305d2c78f7f8d64d96dba9659a387deeab81d34321f5fb1a87i0
+address: bc1pz4894c6ujskzmk0ddt2dnsggtgtfe8jualxususrenzcg0rzerxq5se3s8
+output-value: 546
+sat: 1669661332315334
+content-length: 50 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-07 22:11:46 UTC
+genesis-height: 793299
+genesis-fee: 7752
+genesis-transaction: 195d417be921d7305d2c78f7f8d64d96dba9659a387deeab81d34321f5fb1a87
+location: 195d417be921d7305d2c78f7f8d64d96dba9659a387deeab81d34321f5fb1a87:0:0
+output: 195d417be921d7305d2c78f7f8d64d96dba9659a387deeab81d34321f5fb1a87:0
+offset: 0

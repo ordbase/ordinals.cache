@@ -1,0 +1,14 @@
+title: Inscription 15005216
+id: 6d9c47fd976b6ace9287bedbf3cb11bb9f6c65ca267e24490fc2059a9cd544e6i0
+address: bc1pz7xl7vnekj5v8t87chlru8v3yn4luatcv3kszmutkckne0jxpvxs4nc5uy
+output-value: 546
+sat: 1685639002787673
+content-length: 3039 bytes
+content-type: image/png
+timestamp: 2023-07-07 00:22:06 UTC
+genesis-height: 797510
+genesis-fee: 4505
+genesis-transaction: 6d9c47fd976b6ace9287bedbf3cb11bb9f6c65ca267e24490fc2059a9cd544e6
+location: 6d9c47fd976b6ace9287bedbf3cb11bb9f6c65ca267e24490fc2059a9cd544e6:0:0
+output: 6d9c47fd976b6ace9287bedbf3cb11bb9f6c65ca267e24490fc2059a9cd544e6:0
+offset: 0

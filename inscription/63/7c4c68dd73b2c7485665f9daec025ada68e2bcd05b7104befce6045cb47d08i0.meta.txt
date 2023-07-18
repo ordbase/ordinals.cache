@@ -1,0 +1,14 @@
+title: Inscription 8690
+id: 637c4c68dd73b2c7485665f9daec025ada68e2bcd05b7104befce6045cb47d08i0
+address: bc1pptf9ymaqpku9ylut8m9ftuun4wvh9r74j50u5fmnlaa35vggawhqwdfxnn
+output-value: 10000
+sat: 1053041541557302
+content-length: 852 bytes
+content-type: image/png
+timestamp: 2023-02-06 23:17:45 UTC
+genesis-height: 775362
+genesis-fee: 2094
+genesis-transaction: 637c4c68dd73b2c7485665f9daec025ada68e2bcd05b7104befce6045cb47d08
+location: 637c4c68dd73b2c7485665f9daec025ada68e2bcd05b7104befce6045cb47d08:0:0
+output: 637c4c68dd73b2c7485665f9daec025ada68e2bcd05b7104befce6045cb47d08:0
+offset: 0

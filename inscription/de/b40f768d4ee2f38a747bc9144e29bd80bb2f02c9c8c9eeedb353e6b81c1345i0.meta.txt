@@ -1,0 +1,14 @@
+title: Inscription 11073253
+id: deb40f768d4ee2f38a747bc9144e29bd80bb2f02c9c8c9eeedb353e6b81c1345i0
+address: bc1puaymm0t6xmy7f5y6td58lel67xncpys6usdw5nc8vwsmzc02e2nstjp6vs
+output-value: 546
+sat: 414737040262392
+content-length: 65 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-07 16:33:33 UTC
+genesis-height: 793271
+genesis-fee: 9828
+genesis-transaction: deb40f768d4ee2f38a747bc9144e29bd80bb2f02c9c8c9eeedb353e6b81c1345
+location: deb40f768d4ee2f38a747bc9144e29bd80bb2f02c9c8c9eeedb353e6b81c1345:0:0
+output: deb40f768d4ee2f38a747bc9144e29bd80bb2f02c9c8c9eeedb353e6b81c1345:0
+offset: 0

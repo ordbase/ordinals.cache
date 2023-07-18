@@ -1,0 +1,14 @@
+title: Inscription 10292741
+id: e4e2ed36080eff957d80304de49e549a9ea07cde6a2a3eaf7c973719d344a8dbi0
+address: bc1qlu49zar74f2rcnh5982nee9axx0r72emwa2daf
+output-value: 546
+sat: 13512848644813
+content-length: 68 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 10:55:08 UTC
+genesis-height: 792240
+genesis-fee: 5945
+genesis-transaction: e4e2ed36080eff957d80304de49e549a9ea07cde6a2a3eaf7c973719d344a8db
+location: e4e2ed36080eff957d80304de49e549a9ea07cde6a2a3eaf7c973719d344a8db:0:0
+output: e4e2ed36080eff957d80304de49e549a9ea07cde6a2a3eaf7c973719d344a8db:0
+offset: 0

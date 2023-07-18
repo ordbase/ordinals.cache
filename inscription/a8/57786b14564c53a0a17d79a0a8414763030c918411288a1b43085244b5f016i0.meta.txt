@@ -1,0 +1,14 @@
+title: Inscription 9982679
+id: a857786b14564c53a0a17d79a0a8414763030c918411288a1b43085244b5f016i0
+address: bc1pafkxrclfpv84ycqeughrsr4p4v3vyzlgzqg5uulsnqrsskgu8jash3cdwf
+output-value: 546
+sat: 1313762673951114
+content-length: 66 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-29 19:41:28 UTC
+genesis-height: 791997
+genesis-fee: 4212
+genesis-transaction: a857786b14564c53a0a17d79a0a8414763030c918411288a1b43085244b5f016
+location: a857786b14564c53a0a17d79a0a8414763030c918411288a1b43085244b5f016:0:0
+output: a857786b14564c53a0a17d79a0a8414763030c918411288a1b43085244b5f016:0
+offset: 0

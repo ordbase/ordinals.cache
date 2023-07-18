@@ -1,0 +1,14 @@
+title: Inscription 10370604
+id: a4be9de3a2d19e3b0aa9fd05822991f81eee7baa7ae3e71e36f7b4bc2e974ac2i0
+address: bc1pn8ncc2v9y3c7vnqmrqgf6szwe0lmm2z8t7a9czurddha9vf8luwqdz7lqv
+output-value: 546
+sat: 129913020900646
+content-length: 67 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 04:58:29 UTC
+genesis-height: 792336
+genesis-fee: 6594
+genesis-transaction: a4be9de3a2d19e3b0aa9fd05822991f81eee7baa7ae3e71e36f7b4bc2e974ac2
+location: a4be9de3a2d19e3b0aa9fd05822991f81eee7baa7ae3e71e36f7b4bc2e974ac2:0:0
+output: a4be9de3a2d19e3b0aa9fd05822991f81eee7baa7ae3e71e36f7b4bc2e974ac2:0
+offset: 0

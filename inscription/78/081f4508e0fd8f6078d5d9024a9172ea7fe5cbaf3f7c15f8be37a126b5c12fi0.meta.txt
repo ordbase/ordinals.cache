@@ -1,0 +1,14 @@
+title: Inscription 54787
+id: 78081f4508e0fd8f6078d5d9024a9172ea7fe5cbaf3f7c15f8be37a126b5c12fi0
+address: bc1pqm3k9tjayldxpuar43nwugp45msrr04w7mf7c5ppyr3qlqpamd3stmwu6g
+output-value: 10000
+sat: 1532884309926464
+content-length: 368 bytes
+content-type: image/png
+timestamp: 2023-02-11 10:06:23 UTC
+genesis-height: 776016
+genesis-fee: 9080
+genesis-transaction: 78081f4508e0fd8f6078d5d9024a9172ea7fe5cbaf3f7c15f8be37a126b5c12f
+location: 78081f4508e0fd8f6078d5d9024a9172ea7fe5cbaf3f7c15f8be37a126b5c12f:0:0
+output: 78081f4508e0fd8f6078d5d9024a9172ea7fe5cbaf3f7c15f8be37a126b5c12f:0
+offset: 0

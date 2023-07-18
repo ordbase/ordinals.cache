@@ -1,0 +1,14 @@
+title: Inscription 11522983
+id: c071b4590ea248238b11f0a1698373653838e08aa6fd5a55ef9954b53414dd13i0
+address: bc1pje504363yy6g02xj2xcthh095gmsph067cjp72sjw046g25frfestu4vy4
+output-value: 546
+sat: 1217023748658153
+content-length: 85 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-11 18:01:46 UTC
+genesis-height: 793922
+genesis-fee: 2415
+genesis-transaction: c071b4590ea248238b11f0a1698373653838e08aa6fd5a55ef9954b53414dd13
+location: c071b4590ea248238b11f0a1698373653838e08aa6fd5a55ef9954b53414dd13:0:0
+output: c071b4590ea248238b11f0a1698373653838e08aa6fd5a55ef9954b53414dd13:0
+offset: 0

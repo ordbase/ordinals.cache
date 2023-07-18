@@ -1,0 +1,14 @@
+title: Inscription 14935406
+id: d59c0016f2c7fb09ecbaab7491f0f3f270e3e30259ac2fe8280e1d09be32368ai0
+address: bc1pjrnv4s49kgjq8prf3jh8n33wtku4y5rtq9a6992fz59pzwspwz9q25yt4s
+output-value: 546
+sat: 609767144582392
+content-length: 137 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-07-06 10:34:14 UTC
+genesis-height: 797421
+genesis-fee: 3485
+genesis-transaction: d59c0016f2c7fb09ecbaab7491f0f3f270e3e30259ac2fe8280e1d09be32368a
+location: d59c0016f2c7fb09ecbaab7491f0f3f270e3e30259ac2fe8280e1d09be32368a:0:0
+output: d59c0016f2c7fb09ecbaab7491f0f3f270e3e30259ac2fe8280e1d09be32368a:0
+offset: 0

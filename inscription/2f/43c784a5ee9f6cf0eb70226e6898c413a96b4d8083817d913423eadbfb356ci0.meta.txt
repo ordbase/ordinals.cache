@@ -1,0 +1,14 @@
+title: Inscription 10370507
+id: 2f43c784a5ee9f6cf0eb70226e6898c413a96b4d8083817d913423eadbfb356ci0
+address: bc1pueqnr89ycfhtj2ntqevjdm3ka4z3mc4tgvdss6g0klelpv4vgfvq29ez5a
+output-value: 546
+sat: 1618958732011280
+content-length: 67 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 04:58:29 UTC
+genesis-height: 792336
+genesis-fee: 9933
+genesis-transaction: 2f43c784a5ee9f6cf0eb70226e6898c413a96b4d8083817d913423eadbfb356c
+location: 2f43c784a5ee9f6cf0eb70226e6898c413a96b4d8083817d913423eadbfb356c:0:0
+output: 2f43c784a5ee9f6cf0eb70226e6898c413a96b4d8083817d913423eadbfb356c:0
+offset: 0

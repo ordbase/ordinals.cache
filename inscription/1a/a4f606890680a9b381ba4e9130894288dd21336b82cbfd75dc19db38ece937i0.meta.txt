@@ -1,0 +1,14 @@
+title: Inscription 42
+id: 1aa4f606890680a9b381ba4e9130894288dd21336b82cbfd75dc19db38ece937i0
+address: bc1pqddhgux9p4v30r567847nvs93lme4pt20exnm0ydsqazurcms46shhzydv
+output-value: 10000
+sat: 783628092662334
+content-length: 2585 bytes
+content-type: image/png
+timestamp: 2023-01-22 10:46:37 UTC
+genesis-height: 773066
+genesis-fee: 1568
+genesis-transaction: 1aa4f606890680a9b381ba4e9130894288dd21336b82cbfd75dc19db38ece937
+location: 1aa4f606890680a9b381ba4e9130894288dd21336b82cbfd75dc19db38ece937:0:0
+output: 1aa4f606890680a9b381ba4e9130894288dd21336b82cbfd75dc19db38ece937:0
+offset: 0

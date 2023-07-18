@@ -1,0 +1,14 @@
+title: Inscription 1064
+id: f834ed227a9047c14510911e61f0691fcec7393cfe222a786c349b8fbd620c5ci0
+address: bc1p6t9aq3e647emx9x9a5z3kkclmgjdg29v9n208pxkfwewgwvfa7msvuzeaf
+output-value: 6946
+sat: 1693800019909154
+content-length: 26910 bytes
+content-type: image/jpeg
+timestamp: 2023-02-02 09:57:21 UTC
+genesis-height: 774714
+genesis-fee: 14492
+genesis-transaction: f834ed227a9047c14510911e61f0691fcec7393cfe222a786c349b8fbd620c5c
+location: fd43b480a7c7d31c933c2b79233ac96e58ee53b757811981f1e6190353d398dd:0:0
+output: fd43b480a7c7d31c933c2b79233ac96e58ee53b757811981f1e6190353d398dd:0
+offset: 0

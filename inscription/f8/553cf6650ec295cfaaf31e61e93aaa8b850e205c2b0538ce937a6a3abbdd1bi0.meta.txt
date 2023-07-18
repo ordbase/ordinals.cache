@@ -1,0 +1,14 @@
+title: Inscription 1253
+id: f8553cf6650ec295cfaaf31e61e93aaa8b850e205c2b0538ce937a6a3abbdd1bi0
+address: bc1pzkdh5qryd6gse2n4t5dmnfzrnjew6fq4fhuccc82xwlm65n7s99qmqhrgw
+output-value: 8446
+sat: 1926902525940138
+content-length: 35086 bytes
+content-type: image/jpeg
+timestamp: 2023-02-03 06:53:57 UTC
+genesis-height: 774836
+genesis-fee: 17914
+genesis-transaction: f8553cf6650ec295cfaaf31e61e93aaa8b850e205c2b0538ce937a6a3abbdd1b
+location: a1b1a40ae48669c1209857bf3c0615f2262ae70c9e1d17860b45595adc85cde1:0:0
+output: a1b1a40ae48669c1209857bf3c0615f2262ae70c9e1d17860b45595adc85cde1:0
+offset: 0

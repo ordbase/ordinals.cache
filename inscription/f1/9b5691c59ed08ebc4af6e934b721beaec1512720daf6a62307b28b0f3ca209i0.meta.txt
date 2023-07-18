@@ -1,0 +1,14 @@
+title: Inscription 9985103
+id: f19b5691c59ed08ebc4af6e934b721beaec1512720daf6a62307b28b0f3ca209i0
+address: bc1p0rxytpvpyc6egszgsl2st3peyd4y8czlp9ackahqahdd245x9gpq0fgjpg
+output-value: 546
+sat: 1632575961233013
+content-length: 55 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-29 20:00:56 UTC
+genesis-height: 791999
+genesis-fee: 6579
+genesis-transaction: f19b5691c59ed08ebc4af6e934b721beaec1512720daf6a62307b28b0f3ca209
+location: f19b5691c59ed08ebc4af6e934b721beaec1512720daf6a62307b28b0f3ca209:0:0
+output: f19b5691c59ed08ebc4af6e934b721beaec1512720daf6a62307b28b0f3ca209:0
+offset: 0

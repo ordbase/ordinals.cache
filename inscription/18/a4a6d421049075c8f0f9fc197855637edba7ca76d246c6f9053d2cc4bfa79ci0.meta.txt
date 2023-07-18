@@ -1,0 +1,14 @@
+title: Inscription 10292804
+id: 18a4a6d421049075c8f0f9fc197855637edba7ca76d246c6f9053d2cc4bfa79ci0
+address: bc1qlu49zar74f2rcnh5982nee9axx0r72emwa2daf
+output-value: 546
+sat: 13512848588776
+content-length: 62 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 10:55:08 UTC
+genesis-height: 792240
+genesis-fee: 13148
+genesis-transaction: 18a4a6d421049075c8f0f9fc197855637edba7ca76d246c6f9053d2cc4bfa79c
+location: 18a4a6d421049075c8f0f9fc197855637edba7ca76d246c6f9053d2cc4bfa79c:0:0
+output: 18a4a6d421049075c8f0f9fc197855637edba7ca76d246c6f9053d2cc4bfa79c:0
+offset: 0

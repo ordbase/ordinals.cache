@@ -1,0 +1,14 @@
+title: Inscription 10511959
+id: 4b58a1943f975d60347a3237f5b48b20ff642df228112d9de8a5344f08913e3ci0
+address: bc1pw2jkz44dxzp45mtnwfsqv8gqlect632h4x8a648y0vv3qfqgznyq46a3es
+output-value: 546
+sat: 1476980410176235
+content-length: 74 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-02 12:57:16 UTC
+genesis-height: 792541
+genesis-fee: 7560
+genesis-transaction: 4b58a1943f975d60347a3237f5b48b20ff642df228112d9de8a5344f08913e3c
+location: 4b58a1943f975d60347a3237f5b48b20ff642df228112d9de8a5344f08913e3c:0:0
+output: 4b58a1943f975d60347a3237f5b48b20ff642df228112d9de8a5344f08913e3c:0
+offset: 0

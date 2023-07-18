@@ -1,0 +1,14 @@
+title: Inscription 38
+id: 5166a9ef575565ed67d63044fc442a8ef07b4ad20631442d477f784b4cb1bd29i0
+address: bc1p7kyp2mp7wpfss3h932jtgmjwrdj7e9cjfr08vexdjplmq49r8sqq7z252x
+output-value: 10000
+sat: 1884778689351059
+content-length: 2607 bytes
+content-type: image/png
+timestamp: 2023-01-22 10:19:48 UTC
+genesis-height: 773063
+genesis-fee: 1580
+genesis-transaction: 5166a9ef575565ed67d63044fc442a8ef07b4ad20631442d477f784b4cb1bd29
+location: 5166a9ef575565ed67d63044fc442a8ef07b4ad20631442d477f784b4cb1bd29:0:0
+output: 5166a9ef575565ed67d63044fc442a8ef07b4ad20631442d477f784b4cb1bd29:0
+offset: 0

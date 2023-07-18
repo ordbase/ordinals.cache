@@ -1,0 +1,14 @@
+title: Inscription 11834165
+id: 172fe4cf7cec2cc7134b47f3e49635e3bbdc6121a95da8dd6170955992b0a97ei0
+address: bc1qpfxr7lr2frezgzc9z64s8t5hf3hafxnnnv0wdr
+output-value: 546
+sat: 1254243442290604
+content-length: 61 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-14 07:18:53 UTC
+genesis-height: 794292
+genesis-fee: 2015
+genesis-transaction: 172fe4cf7cec2cc7134b47f3e49635e3bbdc6121a95da8dd6170955992b0a97e
+location: 172fe4cf7cec2cc7134b47f3e49635e3bbdc6121a95da8dd6170955992b0a97e:0:0
+output: 172fe4cf7cec2cc7134b47f3e49635e3bbdc6121a95da8dd6170955992b0a97e:0
+offset: 0

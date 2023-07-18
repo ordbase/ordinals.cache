@@ -1,0 +1,14 @@
+title: Inscription 1065
+id: 3c6e07036a94946250919a83a94b0f06fb2c6dc91925e493fe6cc5f46509d049i0
+address: bc1pnnjschame3cj7dn9pk0shu5qew7hpcm82w93k3tmplfcjmva0ewsaaw6mk
+output-value: 10000
+sat: 1693800020088411
+content-length: 36942 bytes
+content-type: image/jpeg
+timestamp: 2023-02-02 09:57:21 UTC
+genesis-height: 774714
+genesis-fee: 19788
+genesis-transaction: 3c6e07036a94946250919a83a94b0f06fb2c6dc91925e493fe6cc5f46509d049
+location: 8e9d8b4992fe76da8a74a08762234547d1c7467d9e41dac44643cc017385816a:2:0
+output: 8e9d8b4992fe76da8a74a08762234547d1c7467d9e41dac44643cc017385816a:2
+offset: 0

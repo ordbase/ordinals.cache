@@ -1,0 +1,14 @@
+title: Inscription 11825474
+id: d69fca7b32413999b120a22fe5ca09663399d66c6694bf64f6a819d693aad295i0
+address: bc1pl5u2zet9wpnya46mx73xyfkhzvcuh2u9w246rjxx4xqtz4tylakqdsquh3
+output-value: 546
+sat: 1002256849944492
+content-length: 64 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-14 06:25:47 UTC
+genesis-height: 794286
+genesis-fee: 2805
+genesis-transaction: d69fca7b32413999b120a22fe5ca09663399d66c6694bf64f6a819d693aad295
+location: d69fca7b32413999b120a22fe5ca09663399d66c6694bf64f6a819d693aad295:0:0
+output: d69fca7b32413999b120a22fe5ca09663399d66c6694bf64f6a819d693aad295:0
+offset: 0

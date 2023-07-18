@@ -1,0 +1,14 @@
+title: Inscription 10344420
+id: e04e904db42877e75aeae18aac4bd290d9fe86ae695aa4578a60c5f6530813f3i0
+address: bc1pwzfuztz9wqy6pas2uknfwwhcrp9mw36c8hqqpphtcyl4chtj70vsev227k
+output-value: 546
+sat: 89594722367155
+content-length: 197 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 20:00:15 UTC
+genesis-height: 792299
+genesis-fee: 11970
+genesis-transaction: e04e904db42877e75aeae18aac4bd290d9fe86ae695aa4578a60c5f6530813f3
+location: e04e904db42877e75aeae18aac4bd290d9fe86ae695aa4578a60c5f6530813f3:0:0
+output: e04e904db42877e75aeae18aac4bd290d9fe86ae695aa4578a60c5f6530813f3:0
+offset: 0

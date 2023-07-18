@@ -1,0 +1,14 @@
+title: Inscription 1048
+id: 02d58656f015d6a414a4ab33b738dc9ccf2efd44766c7d22305717c1c3bd531ei0
+address: bc1pz76w6e5utjj4qmsggyhy5qd5zvxslr4kprmht4unlufj2wsyk75q3jj7zv
+output-value: 9667
+sat: 973276237225333
+content-length: 24835 bytes
+content-type: image/jpeg
+timestamp: 2023-02-02 09:05:58 UTC
+genesis-height: 774709
+genesis-fee: 13396
+genesis-transaction: 02d58656f015d6a414a4ab33b738dc9ccf2efd44766c7d22305717c1c3bd531e
+location: 54710ae88802cb4fecc64d613e775eecf0b4178df964126a90b887fa324258c7:0:0
+output: 54710ae88802cb4fecc64d613e775eecf0b4178df964126a90b887fa324258c7:0
+offset: 0

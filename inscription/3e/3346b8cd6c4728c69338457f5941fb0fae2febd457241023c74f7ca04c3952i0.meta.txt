@@ -1,0 +1,14 @@
+title: Inscription 57136
+id: 3e3346b8cd6c4728c69338457f5941fb0fae2febd457241023c74f7ca04c3952i0
+address: bc1ppwdhssf82n0ud5hf73aulhmqztasp5ex0xp8xtymxexzs0dv2u3s8m7ul4
+output-value: 10000
+sat: 1532884310495264
+content-length: 374 bytes
+content-type: image/png
+timestamp: 2023-02-11 17:14:48 UTC
+genesis-height: 776058
+genesis-fee: 10260
+genesis-transaction: 3e3346b8cd6c4728c69338457f5941fb0fae2febd457241023c74f7ca04c3952
+location: 3e3346b8cd6c4728c69338457f5941fb0fae2febd457241023c74f7ca04c3952:0:0
+output: 3e3346b8cd6c4728c69338457f5941fb0fae2febd457241023c74f7ca04c3952:0
+offset: 0

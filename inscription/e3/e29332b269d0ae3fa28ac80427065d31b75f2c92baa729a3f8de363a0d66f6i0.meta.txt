@@ -1,0 +1,14 @@
+title: Inscription 46
+id: e3e29332b269d0ae3fa28ac80427065d31b75f2c92baa729a3f8de363a0d66f6i0
+address: bc1pdac3hdz5cldf90zunz5k48vnr5c09lk8leg9sn2p2ngtl53umtfq0cvkde
+output-value: 10000
+sat: 783628092692507
+content-length: 28377 bytes
+content-type: image/jpeg
+timestamp: 2023-01-22 16:03:25 UTC
+genesis-height: 773102
+genesis-fee: 7270
+genesis-transaction: e3e29332b269d0ae3fa28ac80427065d31b75f2c92baa729a3f8de363a0d66f6
+location: e3e29332b269d0ae3fa28ac80427065d31b75f2c92baa729a3f8de363a0d66f6:0:0
+output: e3e29332b269d0ae3fa28ac80427065d31b75f2c92baa729a3f8de363a0d66f6:0
+offset: 0

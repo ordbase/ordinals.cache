@@ -1,0 +1,14 @@
+title: Inscription 11219773
+id: 9f61c15709dd6cd3186ffe5caf314e0d268632e6d881e836086e825ca2ce1267i0
+address: bc1p7zg3zzecv8djrfsxuwl9chs7wmkje6exa7u567np6j8uqwck39uq56u95t
+output-value: 546
+sat: 1634019978445067
+content-length: 64 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-09 06:26:46 UTC
+genesis-height: 793514
+genesis-fee: 3927
+genesis-transaction: 9f61c15709dd6cd3186ffe5caf314e0d268632e6d881e836086e825ca2ce1267
+location: 9f61c15709dd6cd3186ffe5caf314e0d268632e6d881e836086e825ca2ce1267:0:0
+output: 9f61c15709dd6cd3186ffe5caf314e0d268632e6d881e836086e825ca2ce1267:0
+offset: 0

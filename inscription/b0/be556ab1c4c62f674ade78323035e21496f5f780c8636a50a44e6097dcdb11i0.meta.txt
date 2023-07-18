@@ -1,0 +1,14 @@
+title: Inscription 1272
+id: b0be556ab1c4c62f674ade78323035e21496f5f780c8636a50a44e6097dcdb11i0
+address: bc1p8shhgg2228ym57xj9h34zkllcayj7xm4saw020ua4q0zsljv3wps6m8e0c
+output-value: 9556
+sat: 1678377676671107
+content-length: 39609 bytes
+content-type: image/jpeg
+timestamp: 2023-02-03 07:06:30 UTC
+genesis-height: 774837
+genesis-fee: 20188
+genesis-transaction: b0be556ab1c4c62f674ade78323035e21496f5f780c8636a50a44e6097dcdb11
+location: 157e886b569f4cca7f0cb0164e9d373d5cd23d0558e335506e3d2578d933e0c6:0:0
+output: 157e886b569f4cca7f0cb0164e9d373d5cd23d0558e335506e3d2578d933e0c6:0
+offset: 0

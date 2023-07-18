@@ -1,0 +1,14 @@
+title: Inscription 2031
+id: 36317d04034af762fde8ae7267e975a9370d712d224933c558012bd92b056715i0
+address: bc1phd8z4hkl58dtd5jnpamn5vqkdu8zlh832zashfmhw2pgy8u78u7suxpj4a
+output-value: 9667
+sat: 1775301102321782
+content-length: 55468 bytes
+content-type: image/jpeg
+timestamp: 2023-02-04 17:33:56 UTC
+genesis-height: 775025
+genesis-fee: 70410
+genesis-transaction: 36317d04034af762fde8ae7267e975a9370d712d224933c558012bd92b056715
+location: 06c16084bdc723929f8042aa04905c90584a1bb54666c1851636068d9e5f9e28:0:0
+output: 06c16084bdc723929f8042aa04905c90584a1bb54666c1851636068d9e5f9e28:0
+offset: 0

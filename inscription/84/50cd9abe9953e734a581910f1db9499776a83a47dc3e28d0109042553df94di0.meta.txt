@@ -1,0 +1,14 @@
+title: Inscription 436
+id: 8450cd9abe9953e734a581910f1db9499776a83a47dc3e28d0109042553df94di0
+address: bc1p325gc7zh8qyuqxr0crl77uqw0dzljk8capprt7z7jcm2300dewtqlmhqc0
+output-value: 4007762
+sat: 1440861820792012
+content-length: 433 bytes
+content-type: image/png
+timestamp: 2023-01-31 23:04:21 UTC
+genesis-height: 774506
+genesis-fee: 4860
+genesis-transaction: 8450cd9abe9953e734a581910f1db9499776a83a47dc3e28d0109042553df94d
+location: a1efbfb654eea11a4c6483d2eeb5d43ec57d8ed38ab7437e59ab787e3e285f4c:0:2000000
+output: a1efbfb654eea11a4c6483d2eeb5d43ec57d8ed38ab7437e59ab787e3e285f4c:0
+offset: 2000000

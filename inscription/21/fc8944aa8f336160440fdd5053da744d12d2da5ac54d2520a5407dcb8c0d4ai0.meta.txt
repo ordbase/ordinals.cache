@@ -1,0 +1,14 @@
+title: Inscription 9880
+id: 21fc8944aa8f336160440fdd5053da744d12d2da5ac54d2520a5407dcb8c0d4ai0
+address: bc1pnqa5pf5yx32htzqx64svyrvgvh7nudmggv5zm5ye9scktffenfasgdwm0p
+output-value: 10000
+sat: 1053041541380710
+content-length: 561 bytes
+content-type: image/png
+timestamp: 2023-02-07 03:21:17 UTC
+genesis-height: 775385
+genesis-fee: 2750
+genesis-transaction: 21fc8944aa8f336160440fdd5053da744d12d2da5ac54d2520a5407dcb8c0d4a
+location: 21fc8944aa8f336160440fdd5053da744d12d2da5ac54d2520a5407dcb8c0d4a:0:0
+output: 21fc8944aa8f336160440fdd5053da744d12d2da5ac54d2520a5407dcb8c0d4a:0
+offset: 0

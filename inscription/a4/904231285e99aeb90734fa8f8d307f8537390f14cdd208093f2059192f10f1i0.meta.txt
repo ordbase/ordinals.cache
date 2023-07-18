@@ -1,0 +1,14 @@
+title: Inscription 9978794
+id: a4904231285e99aeb90734fa8f8d307f8537390f14cdd208093f2059192f10f1i0
+address: bc1p4kuuzqt6a63mw368r6jk3qrygse8kz2hqw25ap2k494snxfrkjfszwv9ht
+output-value: 546
+sat: 1632575960988799
+content-length: 14 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-29 19:32:24 UTC
+genesis-height: 791995
+genesis-fee: 5720
+genesis-transaction: a4904231285e99aeb90734fa8f8d307f8537390f14cdd208093f2059192f10f1
+location: a4904231285e99aeb90734fa8f8d307f8537390f14cdd208093f2059192f10f1:0:0
+output: a4904231285e99aeb90734fa8f8d307f8537390f14cdd208093f2059192f10f1:0
+offset: 0

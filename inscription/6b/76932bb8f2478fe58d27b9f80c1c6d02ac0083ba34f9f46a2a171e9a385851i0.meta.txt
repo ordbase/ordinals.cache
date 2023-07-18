@@ -1,0 +1,14 @@
+title: Inscription 39
+id: 6b76932bb8f2478fe58d27b9f80c1c6d02ac0083ba34f9f46a2a171e9a385851i0
+address: bc1prpajz0u3m6m0pt4krvch4p2ve94ae8jy8uj2e4yq27x60a3yqsrs5jg4sq
+output-value: 10000
+sat: 1852041743873319
+content-length: 200742 bytes
+content-type: image/jpeg
+timestamp: 2023-01-22 10:19:48 UTC
+genesis-height: 773063
+genesis-fee: 50610
+genesis-transaction: 6b76932bb8f2478fe58d27b9f80c1c6d02ac0083ba34f9f46a2a171e9a385851
+location: 6b76932bb8f2478fe58d27b9f80c1c6d02ac0083ba34f9f46a2a171e9a385851:0:0
+output: 6b76932bb8f2478fe58d27b9f80c1c6d02ac0083ba34f9f46a2a171e9a385851:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 14934323
+id: c84fcf996a6483afe5771d2867e622c8b7c83c2c3851390f63fef3c0886d12e6i0
+address: bc1qlr3wnlu6q6y0989q9693panzycjypshauhzx94
+output-value: 546
+sat: 955586478682238
+content-length: 568 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-07-06 08:50:16 UTC
+genesis-height: 797413
+genesis-fee: 4832
+genesis-transaction: c84fcf996a6483afe5771d2867e622c8b7c83c2c3851390f63fef3c0886d12e6
+location: c84fcf996a6483afe5771d2867e622c8b7c83c2c3851390f63fef3c0886d12e6:0:0
+output: c84fcf996a6483afe5771d2867e622c8b7c83c2c3851390f63fef3c0886d12e6:0
+offset: 0

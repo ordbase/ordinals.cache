@@ -1,0 +1,14 @@
+title: Inscription 11242743
+id: 18939f25f67c1eb5f510912f2e41df0fa0b1bb5b0edea55e1d4c8435aefb76a1i0
+address: bc1q28rsnuysv3jxwu3mk56ljza5dnmc2n0f7j0aa8
+output-value: 546
+sat: 1938807936091341
+content-length: 73 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-09 08:58:29 UTC
+genesis-height: 793543
+genesis-fee: 2920
+genesis-transaction: 18939f25f67c1eb5f510912f2e41df0fa0b1bb5b0edea55e1d4c8435aefb76a1
+location: 18939f25f67c1eb5f510912f2e41df0fa0b1bb5b0edea55e1d4c8435aefb76a1:0:0
+output: 18939f25f67c1eb5f510912f2e41df0fa0b1bb5b0edea55e1d4c8435aefb76a1:0
+offset: 0

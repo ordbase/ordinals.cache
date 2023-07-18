@@ -1,0 +1,14 @@
+title: Inscription 10509924
+id: f016bc1c1d6b26a3f9e6f643833330f32e9a5e2891746796b3822abf32953623i0
+address: bc1pkqwhwfe4ja8gxf6vyrl3z0ynnk08xyqga3wdwra3rpgrjhh0hu3qnu4n8z
+output-value: 546
+sat: 688325221284156
+content-length: 62 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-02 12:31:37 UTC
+genesis-height: 792538
+genesis-fee: 6820
+genesis-transaction: f016bc1c1d6b26a3f9e6f643833330f32e9a5e2891746796b3822abf32953623
+location: f016bc1c1d6b26a3f9e6f643833330f32e9a5e2891746796b3822abf32953623:0:0
+output: f016bc1c1d6b26a3f9e6f643833330f32e9a5e2891746796b3822abf32953623:0
+offset: 0

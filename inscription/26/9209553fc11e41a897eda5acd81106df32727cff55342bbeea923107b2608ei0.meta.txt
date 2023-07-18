@@ -1,0 +1,14 @@
+title: Inscription 2032
+id: 269209553fc11e41a897eda5acd81106df32727cff55342bbeea923107b2608ei0
+address: bc1pr8wsjnn7fd42uewfhsgj6ddkkzec6xanspgzxhnspsdmeqljg8cq49keev
+output-value: 9667
+sat: 1491705930204523
+content-length: 54413 bytes
+content-type: image/jpeg
+timestamp: 2023-02-04 17:33:56 UTC
+genesis-height: 775025
+genesis-fee: 69080
+genesis-transaction: 269209553fc11e41a897eda5acd81106df32727cff55342bbeea923107b2608e
+location: 9b5050bd5c44500b59b0e7afddc3563fb50d14b02e4374aeec6dfbe4c47fd8a0:0:0
+output: 9b5050bd5c44500b59b0e7afddc3563fb50d14b02e4374aeec6dfbe4c47fd8a0:0
+offset: 0

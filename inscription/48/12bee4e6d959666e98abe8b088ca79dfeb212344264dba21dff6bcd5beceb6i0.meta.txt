@@ -1,0 +1,14 @@
+title: Inscription 57828
+id: 4812bee4e6d959666e98abe8b088ca79dfeb212344264dba21dff6bcd5beceb6i0
+address: bc1p9s6cutqj8mdfs3dmd7snwk6nm964lqw343vl07nkqk90fx2txmjq768zfa
+output-value: 10000
+sat: 737780858824694
+content-length: 341 bytes
+content-type: image/png
+timestamp: 2023-02-11 18:52:47 UTC
+genesis-height: 776073
+genesis-fee: 7700
+genesis-transaction: 4812bee4e6d959666e98abe8b088ca79dfeb212344264dba21dff6bcd5beceb6
+location: 4812bee4e6d959666e98abe8b088ca79dfeb212344264dba21dff6bcd5beceb6:0:0
+output: 4812bee4e6d959666e98abe8b088ca79dfeb212344264dba21dff6bcd5beceb6:0
+offset: 0

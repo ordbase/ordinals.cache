@@ -1,0 +1,14 @@
+title: Inscription 10227561
+id: ef4be564faa559d589fa98ec161a90ffe3f27d5a28cd2895dad9976919e2aaefi0
+address: bc1p7s8nhu4rqmszqe9wyhvnjhnfz8s7pay0pfg7sqaxp7y478yfgf9syzrrrz
+output-value: 546
+sat: 149253351167935
+content-length: 59 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 00:24:57 UTC
+genesis-height: 792177
+genesis-fee: 12090
+genesis-transaction: ef4be564faa559d589fa98ec161a90ffe3f27d5a28cd2895dad9976919e2aaef
+location: ef4be564faa559d589fa98ec161a90ffe3f27d5a28cd2895dad9976919e2aaef:0:0
+output: ef4be564faa559d589fa98ec161a90ffe3f27d5a28cd2895dad9976919e2aaef:0
+offset: 0

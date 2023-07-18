@@ -1,0 +1,14 @@
+title: Inscription 11216536
+id: 50d9870d6d381879f7b3fd5cf84ecb987ad7817e7e2fa320e7ba6f6900b333c2i0
+address: bc1pnd2mrf45vf4kc628wxyh8rtmhq4wxxah30nsafsh6peuv533qakqeulpz5
+output-value: 546
+sat: 1424601226700652
+content-length: 73 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-09 05:27:08 UTC
+genesis-height: 793507
+genesis-fee: 3160
+genesis-transaction: 50d9870d6d381879f7b3fd5cf84ecb987ad7817e7e2fa320e7ba6f6900b333c2
+location: 50d9870d6d381879f7b3fd5cf84ecb987ad7817e7e2fa320e7ba6f6900b333c2:0:0
+output: 50d9870d6d381879f7b3fd5cf84ecb987ad7817e7e2fa320e7ba6f6900b333c2:0
+offset: 0

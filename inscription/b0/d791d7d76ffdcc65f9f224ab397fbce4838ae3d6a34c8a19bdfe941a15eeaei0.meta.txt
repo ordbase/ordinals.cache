@@ -1,0 +1,14 @@
+title: Inscription 1310
+id: b0d791d7d76ffdcc65f9f224ab397fbce4838ae3d6a34c8a19bdfe941a15eeaei0
+address: bc1plcdhnpczne8359fvkz3n0dz9lplrxjw6r2d9n6uuq87jz9c5k8qq6c3slg
+output-value: 10000
+sat: 1693800020125870
+content-length: 29024 bytes
+content-type: image/jpeg
+timestamp: 2023-02-03 09:31:48 UTC
+genesis-height: 774851
+genesis-fee: 24749
+genesis-transaction: b0d791d7d76ffdcc65f9f224ab397fbce4838ae3d6a34c8a19bdfe941a15eeae
+location: 1deb55b0a6e6cefd4231792d5068629d9a5ed84c1c5f26d9bffa9c815815f0d5:2:0
+output: 1deb55b0a6e6cefd4231792d5068629d9a5ed84c1c5f26d9bffa9c815815f0d5:2
+offset: 0

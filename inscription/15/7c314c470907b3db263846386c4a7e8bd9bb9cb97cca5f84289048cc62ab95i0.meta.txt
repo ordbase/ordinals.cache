@@ -1,0 +1,14 @@
+title: Inscription 8729
+id: 157c314c470907b3db263846386c4a7e8bd9bb9cb97cca5f84289048cc62ab95i0
+address: bc1pwlc0u0jsuz2djxngyet463nn8ar3wynf6hujsl2dp9vylyjdyemsuljhzu
+output-value: 8890
+sat: 1670324938938236
+content-length: 313 bytes
+content-type: image/png
+timestamp: 2023-02-06 23:17:45 UTC
+genesis-height: 775362
+genesis-fee: 1065
+genesis-transaction: 157c314c470907b3db263846386c4a7e8bd9bb9cb97cca5f84289048cc62ab95
+location: 0f1b40aa903e271c2f5cffb7d2919d54445d62cb6565925d7c5d01ffbfe82b92:0:0
+output: 0f1b40aa903e271c2f5cffb7d2919d54445d62cb6565925d7c5d01ffbfe82b92:0
+offset: 0

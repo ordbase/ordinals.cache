@@ -1,0 +1,14 @@
+title: Inscription 8696
+id: 372174547f83a8f288a8bac916841829de05e8817f102eed3f9b854aa2926398i0
+address: bc1pa5uwdxhncm8k3nqpxnu5azf498j66ts2udng4k0vqlrqnvgvg8rs24d30r
+output-value: 7780
+sat: 1053041541357350
+content-length: 725 bytes
+content-type: image/png
+timestamp: 2023-02-06 23:17:45 UTC
+genesis-height: 775362
+genesis-fee: 1902
+genesis-transaction: 372174547f83a8f288a8bac916841829de05e8817f102eed3f9b854aa2926398
+location: dc45168f29e68a72be72ceedbff3eca281b2bede5f2d833acd3efd4586b3fd6b:0:0
+output: dc45168f29e68a72be72ceedbff3eca281b2bede5f2d833acd3efd4586b3fd6b:0
+offset: 0

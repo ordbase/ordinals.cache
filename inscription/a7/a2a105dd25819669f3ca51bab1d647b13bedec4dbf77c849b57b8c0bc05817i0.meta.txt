@@ -1,0 +1,14 @@
+title: Inscription 10368487
+id: a7a2a105dd25819669f3ca51bab1d647b13bedec4dbf77c849b57b8c0bc05817i0
+address: bc1pfpssmll6gas6qdrr3x26vaaumelhn07req7f9xgmw0wz9v6w9umqz3emqf
+output-value: 546
+sat: 649095542190107
+content-length: 68 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 03:48:26 UTC
+genesis-height: 792333
+genesis-fee: 12560
+genesis-transaction: a7a2a105dd25819669f3ca51bab1d647b13bedec4dbf77c849b57b8c0bc05817
+location: a7a2a105dd25819669f3ca51bab1d647b13bedec4dbf77c849b57b8c0bc05817:0:0
+output: a7a2a105dd25819669f3ca51bab1d647b13bedec4dbf77c849b57b8c0bc05817:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 10490
+id: 375c006ba1721dd842c68bb9e996066b9b41ea7a9440bd64035d1fe89a545031i0
+address: bc1p0h3wd520x6f6lecy405x47vxqqnxc33j57v4esuz4nhd5ne7eudqak4rdw
+output-value: 10000
+sat: 1053041541107588
+content-length: 607 bytes
+content-type: image/png
+timestamp: 2023-02-07 08:09:13 UTC
+genesis-height: 775409
+genesis-fee: 2870
+genesis-transaction: 375c006ba1721dd842c68bb9e996066b9b41ea7a9440bd64035d1fe89a545031
+location: 375c006ba1721dd842c68bb9e996066b9b41ea7a9440bd64035d1fe89a545031:0:0
+output: 375c006ba1721dd842c68bb9e996066b9b41ea7a9440bd64035d1fe89a545031:0
+offset: 0

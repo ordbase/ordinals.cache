@@ -1,0 +1,14 @@
+title: Inscription 594
+id: 143a18ad27bd3cfbd38134347458ae693dd86a99c7d803afc88291b9dc09ccb1i0
+address: bc1pc0lp7qh9lfqvyvd35hpgscpergd3k2uf7dt73qjhk0537zd3jhus0jvct0
+output-value: 6115
+sat: 1924963396340844
+content-length: 420 bytes
+content-type: image/png
+timestamp: 2023-02-01 16:32:16 UTC
+genesis-height: 774599
+genesis-fee: 4800
+genesis-transaction: 143a18ad27bd3cfbd38134347458ae693dd86a99c7d803afc88291b9dc09ccb1
+location: ab6eed569ee4580b11e2d1fe4eae2d8c0deb655715a58eddfc062e619acd279a:0:0
+output: ab6eed569ee4580b11e2d1fe4eae2d8c0deb655715a58eddfc062e619acd279a:0
+offset: 0

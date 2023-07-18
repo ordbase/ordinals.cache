@@ -1,0 +1,14 @@
+title: Inscription 10278098
+id: 887206167c160b7e766488be80124bdd762c919ab3b1a05554cb8291775eb95ci0
+address: bc1pvslfrupt79hjj3pjfrp5tdcv8yqm7f8v5nr6unchw4t9lrr5x3lqm99679
+output-value: 546
+sat: 1428951308363390
+content-length: 59 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 08:45:34 UTC
+genesis-height: 792224
+genesis-fee: 7750
+genesis-transaction: 887206167c160b7e766488be80124bdd762c919ab3b1a05554cb8291775eb95c
+location: 887206167c160b7e766488be80124bdd762c919ab3b1a05554cb8291775eb95c:0:0
+output: 887206167c160b7e766488be80124bdd762c919ab3b1a05554cb8291775eb95c:0
+offset: 0

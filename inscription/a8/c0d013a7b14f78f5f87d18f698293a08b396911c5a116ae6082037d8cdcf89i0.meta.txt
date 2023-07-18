@@ -1,0 +1,14 @@
+title: Inscription 443
+id: a8c0d013a7b14f78f5f87d18f698293a08b396911c5a116ae6082037d8cdcf89i0
+address: bc1pdpvx447ekzr5s335h96g4lrvecutt6z779938md36g675kjd4t2q06mp7h
+output-value: 7114
+sat: 1440861820806872
+content-length: 504 bytes
+content-type: image/png
+timestamp: 2023-01-31 23:40:19 UTC
+genesis-height: 774509
+genesis-fee: 5220
+genesis-transaction: a8c0d013a7b14f78f5f87d18f698293a08b396911c5a116ae6082037d8cdcf89
+location: 65bf876039198f40ccf112437285ba2591158674ca6db40721562d275a517b4f:0:0
+output: 65bf876039198f40ccf112437285ba2591158674ca6db40721562d275a517b4f:0
+offset: 0

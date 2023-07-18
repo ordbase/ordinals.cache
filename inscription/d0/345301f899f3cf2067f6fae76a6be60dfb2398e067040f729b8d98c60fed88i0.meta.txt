@@ -1,0 +1,14 @@
+title: Inscription 11820636
+id: d0345301f899f3cf2067f6fae76a6be60dfb2398e067040f729b8d98c60fed88i0
+address: bc1pecltaljm6zcr3x4rmydd80gjecvcss650z8c7a06x2ksram39zvq2kpwc9
+output-value: 546
+sat: 1002256849923492
+content-length: 63 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-14 04:39:36 UTC
+genesis-height: 794278
+genesis-fee: 3740
+genesis-transaction: d0345301f899f3cf2067f6fae76a6be60dfb2398e067040f729b8d98c60fed88
+location: d0345301f899f3cf2067f6fae76a6be60dfb2398e067040f729b8d98c60fed88:0:0
+output: d0345301f899f3cf2067f6fae76a6be60dfb2398e067040f729b8d98c60fed88:0
+offset: 0

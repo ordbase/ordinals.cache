@@ -1,0 +1,14 @@
+title: Inscription 58986
+id: d466199cf8f7a49616a7f6aa47565a2f2882b47c355e843193aa14c78511c6f0i0
+address: bc1puqdsecx5jyuvh3ea28f5hl4vqlqmqcxxt0w6ly5mh3wrtcnq9maqsqq4g0
+output-value: 10000
+sat: 1532884310791766
+content-length: 368 bytes
+content-type: image/png
+timestamp: 2023-02-11 22:19:40 UTC
+genesis-height: 776095
+genesis-fee: 9080
+genesis-transaction: d466199cf8f7a49616a7f6aa47565a2f2882b47c355e843193aa14c78511c6f0
+location: d466199cf8f7a49616a7f6aa47565a2f2882b47c355e843193aa14c78511c6f0:0:0
+output: d466199cf8f7a49616a7f6aa47565a2f2882b47c355e843193aa14c78511c6f0:0
+offset: 0

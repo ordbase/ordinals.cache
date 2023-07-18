@@ -1,0 +1,14 @@
+title: Inscription 56490
+id: e195f2c194ebcf88e350bb6dec9e89daf9860c88a7885a7beb3fe471f4d329f6i0
+address: bc1pqvzk70vemqxhrnmwac783tajlsjx2sfey2n8tc2m7fn0gyzz7xqsadt5q2
+output-value: 10000
+sat: 1532884310314454
+content-length: 330 bytes
+content-type: image/png
+timestamp: 2023-02-11 15:10:35 UTC
+genesis-height: 776047
+genesis-fee: 6510
+genesis-transaction: e195f2c194ebcf88e350bb6dec9e89daf9860c88a7885a7beb3fe471f4d329f6
+location: e195f2c194ebcf88e350bb6dec9e89daf9860c88a7885a7beb3fe471f4d329f6:0:0
+output: e195f2c194ebcf88e350bb6dec9e89daf9860c88a7885a7beb3fe471f4d329f6:0
+offset: 0

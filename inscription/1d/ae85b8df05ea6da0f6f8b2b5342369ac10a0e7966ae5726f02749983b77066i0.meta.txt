@@ -1,0 +1,14 @@
+title: Inscription 10280459
+id: 1dae85b8df05ea6da0f6f8b2b5342369ac10a0e7966ae5726f02749983b77066i0
+address: bc1pgym6cc0rtwqe62u2q8ndxu4rheejpsrzjs4xc78j84z3jxzypfeq02ff0g
+output-value: 546
+sat: 781479971538411
+content-length: 62 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 09:03:15 UTC
+genesis-height: 792227
+genesis-fee: 8928
+genesis-transaction: 1dae85b8df05ea6da0f6f8b2b5342369ac10a0e7966ae5726f02749983b77066
+location: 1dae85b8df05ea6da0f6f8b2b5342369ac10a0e7966ae5726f02749983b77066:0:0
+output: 1dae85b8df05ea6da0f6f8b2b5342369ac10a0e7966ae5726f02749983b77066:0
+offset: 0

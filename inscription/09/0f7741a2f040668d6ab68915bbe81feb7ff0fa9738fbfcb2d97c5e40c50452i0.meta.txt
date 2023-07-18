@@ -1,0 +1,14 @@
+title: Inscription 10280900
+id: 090f7741a2f040668d6ab68915bbe81feb7ff0fa9738fbfcb2d97c5e40c50452i0
+address: bc1p95fdjtwfwjzxrt9t3upq7585jhhhmcc3jg4czz3xaflr4xt4u7dslkhj74
+output-value: 546
+sat: 1871066463808537
+content-length: 79 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 09:03:15 UTC
+genesis-height: 792227
+genesis-fee: 6876
+genesis-transaction: 090f7741a2f040668d6ab68915bbe81feb7ff0fa9738fbfcb2d97c5e40c50452
+location: c9cf7a0a7e63f68307ec7d9f9c80edee8bfdd5c0e16772b54fe21733a8d89e58:0:0
+output: c9cf7a0a7e63f68307ec7d9f9c80edee8bfdd5c0e16772b54fe21733a8d89e58:0
+offset: 0

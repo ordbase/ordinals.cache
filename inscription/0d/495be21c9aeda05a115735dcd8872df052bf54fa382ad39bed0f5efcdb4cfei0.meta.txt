@@ -1,0 +1,14 @@
+title: Inscription 99
+id: 0d495be21c9aeda05a115735dcd8872df052bf54fa382ad39bed0f5efcdb4cfei0
+address: bc1p535wje8fr7lxq4xxxfcyjd9qlj3yvff07703eafedk5daymc3pts7znm8n
+output-value: 10000
+sat: 783628093183787
+content-length: 6727 bytes
+content-type: image/png
+timestamp: 2023-01-26 17:30:23 UTC
+genesis-height: 773733
+genesis-fee: 21912
+genesis-transaction: 0d495be21c9aeda05a115735dcd8872df052bf54fa382ad39bed0f5efcdb4cfe
+location: 0d495be21c9aeda05a115735dcd8872df052bf54fa382ad39bed0f5efcdb4cfe:0:0
+output: 0d495be21c9aeda05a115735dcd8872df052bf54fa382ad39bed0f5efcdb4cfe:0
+offset: 0

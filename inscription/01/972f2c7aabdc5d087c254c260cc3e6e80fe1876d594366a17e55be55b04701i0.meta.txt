@@ -1,0 +1,14 @@
+title: Inscription 441
+id: 01972f2c7aabdc5d087c254c260cc3e6e80fe1876d594366a17e55be55b04701i0
+address: bc1pdpvx447ekzr5s335h96g4lrvecutt6z779938md36g675kjd4t2q06mp7h
+output-value: 7114
+sat: 1527376859537327
+content-length: 486 bytes
+content-type: image/png
+timestamp: 2023-01-31 23:40:19 UTC
+genesis-height: 774509
+genesis-fee: 5120
+genesis-transaction: 01972f2c7aabdc5d087c254c260cc3e6e80fe1876d594366a17e55be55b04701
+location: 047fa2bad21535101d98b13d35fa08d1474653f026226829a3941f1ca90eb257:0:0
+output: 047fa2bad21535101d98b13d35fa08d1474653f026226829a3941f1ca90eb257:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 616
+id: 1e989022465898078733d5d4ef0a32db8f6a638860a2d86fab593f47897d047ci0
+address: bc1p4lne4gqa2r8j3happmpy0cq4shlgmqlf4x7ej74cqjpj96pvvq9qez4lnv
+output-value: 10000
+sat: 1888769432901099
+content-length: 431 bytes
+content-type: image/png
+timestamp: 2023-02-01 18:20:16 UTC
+genesis-height: 774611
+genesis-fee: 4860
+genesis-transaction: 1e989022465898078733d5d4ef0a32db8f6a638860a2d86fab593f47897d047c
+location: 1e989022465898078733d5d4ef0a32db8f6a638860a2d86fab593f47897d047c:0:0
+output: 1e989022465898078733d5d4ef0a32db8f6a638860a2d86fab593f47897d047c:0
+offset: 0

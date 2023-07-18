@@ -1,0 +1,14 @@
+title: Inscription 1870
+id: 8231f52204a166aee0db1831f450c3df792c76534f74c8103d064cf0d403953ai0
+address: bc1pe55nc3fdj34794tt3ve6rzp0qlk7dkwnt0cl726rsxwz4tr8r83sqs3jqw
+output-value: 10000
+sat: 1693800019773470
+content-length: 22800 bytes
+content-type: image/jpeg
+timestamp: 2023-02-04 10:51:11 UTC
+genesis-height: 774990
+genesis-fee: 17601
+genesis-transaction: 8231f52204a166aee0db1831f450c3df792c76534f74c8103d064cf0d403953a
+location: 75430d81c1abd48ed3aa2df16f2c172e9e42e9320f01fab6a98e0c98b8f0b386:2:0
+output: 75430d81c1abd48ed3aa2df16f2c172e9e42e9320f01fab6a98e0c98b8f0b386:2
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 9882
+id: 040cf1b0187ee153260f6cfbdf820deb19a316f488fcc960dd3443a886df998ci0
+address: bc1panf68u8w2u9wle47fj5304xvac2t4pn7wmyyy23u0459lyhawjnq0l9785
+output-value: 10000
+sat: 1053041540881580
+content-length: 768 bytes
+content-type: image/png
+timestamp: 2023-02-07 03:21:17 UTC
+genesis-height: 775385
+genesis-fee: 3270
+genesis-transaction: 040cf1b0187ee153260f6cfbdf820deb19a316f488fcc960dd3443a886df998c
+location: 040cf1b0187ee153260f6cfbdf820deb19a316f488fcc960dd3443a886df998c:0:0
+output: 040cf1b0187ee153260f6cfbdf820deb19a316f488fcc960dd3443a886df998c:0
+offset: 0

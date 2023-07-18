@@ -1,0 +1,14 @@
+title: Inscription 11224201
+id: cd4b953e2bfc610d76e159ef8d1405b769b50b1d75d7ff12ecb6149efd734b72i0
+address: bc1phthdkpejss2yt4sx86hpj0prsj4yzmpv3szughlvtxpta3jkq36st77ve2
+output-value: 546
+sat: 1289618208904796
+content-length: 72 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-09 07:06:06 UTC
+genesis-height: 793522
+genesis-fee: 3105
+genesis-transaction: cd4b953e2bfc610d76e159ef8d1405b769b50b1d75d7ff12ecb6149efd734b72
+location: cd4b953e2bfc610d76e159ef8d1405b769b50b1d75d7ff12ecb6149efd734b72:0:0
+output: cd4b953e2bfc610d76e159ef8d1405b769b50b1d75d7ff12ecb6149efd734b72:0
+offset: 0

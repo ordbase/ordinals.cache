@@ -1,0 +1,14 @@
+title: Inscription 11219037
+id: 44d99bf09f6a384cd6583222a644b90beb71f789f93b7c96ce8551966142600di0
+address: bc1pcd7asuzdu5d9z7vqusl84xuymfypnt9jektu56zery90v8eqqpvsykj0de
+output-value: 546
+sat: 328881475634351
+content-length: 68 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-09 06:14:09 UTC
+genesis-height: 793512
+genesis-fee: 3384
+genesis-transaction: 44d99bf09f6a384cd6583222a644b90beb71f789f93b7c96ce8551966142600d
+location: 44d99bf09f6a384cd6583222a644b90beb71f789f93b7c96ce8551966142600d:0:0
+output: 44d99bf09f6a384cd6583222a644b90beb71f789f93b7c96ce8551966142600d:0
+offset: 0

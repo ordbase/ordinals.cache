@@ -1,0 +1,14 @@
+title: Inscription 10285734
+id: fccc21d0feb346d562529c93c4ebf3259346ef3883f21aa034e5802609cc93d4i0
+address: bc1pnacgvx5k5txsypdvglya36rz5h9qf2aajlyrghtalwzhy6546x8q3nfpw0
+output-value: 546
+sat: 1487325973370407
+content-length: 62 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 10:04:32 UTC
+genesis-height: 792232
+genesis-fee: 20764
+genesis-transaction: fccc21d0feb346d562529c93c4ebf3259346ef3883f21aa034e5802609cc93d4
+location: fccc21d0feb346d562529c93c4ebf3259346ef3883f21aa034e5802609cc93d4:0:0
+output: fccc21d0feb346d562529c93c4ebf3259346ef3883f21aa034e5802609cc93d4:0
+offset: 0

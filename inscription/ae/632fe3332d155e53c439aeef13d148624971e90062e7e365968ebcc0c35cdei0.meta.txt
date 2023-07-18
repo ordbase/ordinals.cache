@@ -1,0 +1,14 @@
+title: Inscription 3063
+id: ae632fe3332d155e53c439aeef13d148624971e90062e7e365968ebcc0c35cdei0
+address: bc1phtgtg5tt384gmglnvl4lw40plp7h6ttktkce6at6v35a3mdg2z4qvpazqc
+output-value: 10000
+sat: 986151604723884
+content-length: 51704 bytes
+content-type: image/jpeg
+timestamp: 2023-02-05 03:13:16 UTC
+genesis-height: 775085
+genesis-fee: 13135
+genesis-transaction: ae632fe3332d155e53c439aeef13d148624971e90062e7e365968ebcc0c35cde
+location: ae632fe3332d155e53c439aeef13d148624971e90062e7e365968ebcc0c35cde:0:0
+output: ae632fe3332d155e53c439aeef13d148624971e90062e7e365968ebcc0c35cde:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 10315070
+id: bed93a16977340a128fc139bc8e79bd5d18ce87e9d8240bdf4a1a995f399fe25i0
+address: bc1peym6pw56r3y60ptp8fcuykjew69ac5h6893vje4ctgcjykm6e9cqdye8j9
+output-value: 546
+sat: 977764435824050
+content-length: 68 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 13:31:10 UTC
+genesis-height: 792259
+genesis-fee: 15700
+genesis-transaction: bed93a16977340a128fc139bc8e79bd5d18ce87e9d8240bdf4a1a995f399fe25
+location: bed93a16977340a128fc139bc8e79bd5d18ce87e9d8240bdf4a1a995f399fe25:0:0
+output: bed93a16977340a128fc139bc8e79bd5d18ce87e9d8240bdf4a1a995f399fe25:0
+offset: 0

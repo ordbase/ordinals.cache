@@ -1,0 +1,14 @@
+title: Inscription 15120194
+id: eddbd015a0db9e4f07b46b3f7984f1fb2b5f5643a13d9db998dfbd156e9770c0i0
+address: bc1p8chftzcxls68g628jr06y4dg09aeu98htyfaxy27389chhpe59fq4wdzz2
+output-value: 590
+sat: 244951274118768
+content-length: 32 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-07-07 08:48:08 UTC
+genesis-height: 797566
+genesis-fee: 727
+genesis-transaction: eddbd015a0db9e4f07b46b3f7984f1fb2b5f5643a13d9db998dfbd156e9770c0
+location: eddbd015a0db9e4f07b46b3f7984f1fb2b5f5643a13d9db998dfbd156e9770c0:0:0
+output: eddbd015a0db9e4f07b46b3f7984f1fb2b5f5643a13d9db998dfbd156e9770c0:0
+offset: 0

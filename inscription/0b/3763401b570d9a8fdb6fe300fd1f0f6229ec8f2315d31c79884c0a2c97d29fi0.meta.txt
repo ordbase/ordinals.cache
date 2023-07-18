@@ -1,0 +1,14 @@
+title: Inscription 9961730
+id: 0b3763401b570d9a8fdb6fe300fd1f0f6229ec8f2315d31c79884c0a2c97d29fi0
+address: bc1pfdewv88c0kv8qn9d07znplh9cx0qhnmnqpjfatf3td04psqewvrsda97ck
+output-value: 546
+sat: 1180565778014052
+content-length: 63 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-29 18:05:37 UTC
+genesis-height: 791981
+genesis-fee: 7800
+genesis-transaction: 0b3763401b570d9a8fdb6fe300fd1f0f6229ec8f2315d31c79884c0a2c97d29f
+location: 0b3763401b570d9a8fdb6fe300fd1f0f6229ec8f2315d31c79884c0a2c97d29f:0:0
+output: 0b3763401b570d9a8fdb6fe300fd1f0f6229ec8f2315d31c79884c0a2c97d29f:0
+offset: 0

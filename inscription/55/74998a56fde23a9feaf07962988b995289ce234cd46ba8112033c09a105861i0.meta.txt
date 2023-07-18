@@ -1,0 +1,14 @@
+title: Inscription 1309
+id: 5574998a56fde23a9feaf07962988b995289ce234cd46ba8112033c09a105861i0
+address: bc1pvczxugcst2v7jrgu7807vaj8m75w685umxr0cn82lpg8kvdv57wstrrr8l
+output-value: 2843
+sat: 1693800019239047
+content-length: 26369 bytes
+content-type: image/jpeg
+timestamp: 2023-02-03 09:20:59 UTC
+genesis-height: 774850
+genesis-fee: 22527
+genesis-transaction: 5574998a56fde23a9feaf07962988b995289ce234cd46ba8112033c09a105861
+location: 49967cc12c005d165ebb0e9305f63c57e1df7e4d168f81a4d04b18b92e22cc85:0:0
+output: 49967cc12c005d165ebb0e9305f63c57e1df7e4d168f81a4d04b18b92e22cc85:0
+offset: 0

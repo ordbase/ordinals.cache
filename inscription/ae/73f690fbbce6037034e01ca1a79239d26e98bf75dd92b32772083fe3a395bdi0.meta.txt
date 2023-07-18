@@ -1,0 +1,14 @@
+title: Inscription 10088395
+id: ae73f690fbbce6037034e01ca1a79239d26e98bf75dd92b32772083fe3a395bdi0
+address: bc1qx97dvwgzmvmy4aa335etc4adxehdac73h4vr56
+output-value: 546
+sat: 1254219367491373
+content-length: 86 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-30 06:09:24 UTC
+genesis-height: 792062
+genesis-fee: 6450
+genesis-transaction: ae73f690fbbce6037034e01ca1a79239d26e98bf75dd92b32772083fe3a395bd
+location: ae73f690fbbce6037034e01ca1a79239d26e98bf75dd92b32772083fe3a395bd:0:0
+output: ae73f690fbbce6037034e01ca1a79239d26e98bf75dd92b32772083fe3a395bd:0
+offset: 0

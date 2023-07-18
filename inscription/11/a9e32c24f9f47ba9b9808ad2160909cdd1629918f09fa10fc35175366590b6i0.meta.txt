@@ -1,0 +1,14 @@
+title: Inscription 10509833
+id: 11a9e32c24f9f47ba9b9808ad2160909cdd1629918f09fa10fc35175366590b6i0
+address: bc1pxsdwh7jfd9guklvlpf63zmx6vcdg2jgdq6pfu88p6cx8f4662e8qry5rm8
+output-value: 546
+sat: 1936835369075265
+content-length: 62 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-02 12:31:37 UTC
+genesis-height: 792538
+genesis-fee: 9610
+genesis-transaction: 11a9e32c24f9f47ba9b9808ad2160909cdd1629918f09fa10fc35175366590b6
+location: 11a9e32c24f9f47ba9b9808ad2160909cdd1629918f09fa10fc35175366590b6:0:0
+output: 11a9e32c24f9f47ba9b9808ad2160909cdd1629918f09fa10fc35175366590b6:0
+offset: 0

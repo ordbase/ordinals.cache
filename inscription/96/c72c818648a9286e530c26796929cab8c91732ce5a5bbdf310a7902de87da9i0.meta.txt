@@ -1,0 +1,14 @@
+title: Inscription 15126271
+id: 96c72c818648a9286e530c26796929cab8c91732ce5a5bbdf310a7902de87da9i0
+address: bc1py7ukzss5dklzgs6432qnsku0r5hyh50w0nn478ursjhp7spuqz9s5daqhn
+output-value: 546
+sat: 587674562846785
+content-length: 29 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-07-07 08:56:47 UTC
+genesis-height: 797568
+genesis-fee: 890
+genesis-transaction: 96c72c818648a9286e530c26796929cab8c91732ce5a5bbdf310a7902de87da9
+location: 96c72c818648a9286e530c26796929cab8c91732ce5a5bbdf310a7902de87da9:0:0
+output: 96c72c818648a9286e530c26796929cab8c91732ce5a5bbdf310a7902de87da9:0
+offset: 0

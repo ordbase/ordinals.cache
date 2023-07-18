@@ -1,0 +1,14 @@
+title: Inscription 57378
+id: d1be0add946b187e5b39a2bae9adfc025a28237df99b0e927357433747bba722i0
+address: bc1pty83jdcs5jnd9882230tzm36af47ym42zzewkskqgg2f9tr8xfkshu5akp
+output-value: 10000
+sat: 1532884310551854
+content-length: 358 bytes
+content-type: image/png
+timestamp: 2023-02-11 17:37:17 UTC
+genesis-height: 776062
+genesis-fee: 7840
+genesis-transaction: d1be0add946b187e5b39a2bae9adfc025a28237df99b0e927357433747bba722
+location: d1be0add946b187e5b39a2bae9adfc025a28237df99b0e927357433747bba722:0:0
+output: d1be0add946b187e5b39a2bae9adfc025a28237df99b0e927357433747bba722:0
+offset: 0

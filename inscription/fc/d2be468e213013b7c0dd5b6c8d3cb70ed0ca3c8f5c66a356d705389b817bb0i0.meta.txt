@@ -1,0 +1,14 @@
+title: Inscription 10509972
+id: fcd2be468e213013b7c0dd5b6c8d3cb70ed0ca3c8f5c66a356d705389b817bb0i0
+address: bc1qwhvgmqlgeq5k3rm43t9h93lleh3zmclsck0ha2
+output-value: 546
+sat: 633580436543932
+content-length: 59 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-02 12:31:37 UTC
+genesis-height: 792538
+genesis-fee: 5720
+genesis-transaction: fcd2be468e213013b7c0dd5b6c8d3cb70ed0ca3c8f5c66a356d705389b817bb0
+location: fcd2be468e213013b7c0dd5b6c8d3cb70ed0ca3c8f5c66a356d705389b817bb0:0:0
+output: fcd2be468e213013b7c0dd5b6c8d3cb70ed0ca3c8f5c66a356d705389b817bb0:0
+offset: 0

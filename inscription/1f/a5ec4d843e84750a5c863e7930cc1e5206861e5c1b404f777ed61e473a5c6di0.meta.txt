@@ -1,0 +1,14 @@
+title: Inscription 453
+id: 1fa5ec4d843e84750a5c863e7930cc1e5206861e5c1b404f777ed61e473a5c6di0
+address: bc1qh46r7390ypwh48jur43tqg0jfj06w6vtl6r9tq
+output-value: 8020
+sat: 1527376859582087
+content-length: 416 bytes
+content-type: image/png
+timestamp: 2023-02-01 02:01:50 UTC
+genesis-height: 774521
+genesis-fee: 4780
+genesis-transaction: 1fa5ec4d843e84750a5c863e7930cc1e5206861e5c1b404f777ed61e473a5c6d
+location: 626a4ff8126d8a3a0c19f9177614813e98ab515e73ff6d711222742817b6077f:0:0
+output: 626a4ff8126d8a3a0c19f9177614813e98ab515e73ff6d711222742817b6077f:0
+offset: 0

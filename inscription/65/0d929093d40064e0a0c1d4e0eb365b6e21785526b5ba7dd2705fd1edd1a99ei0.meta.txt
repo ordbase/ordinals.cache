@@ -1,0 +1,14 @@
+title: Inscription 11366413
+id: 650d929093d40064e0a0c1d4e0eb365b6e21785526b5ba7dd2705fd1edd1a99ei0
+address: bc1puu3vqdzkd7a4cc22fh9y0xez744zqm6upglxc9ptnktwpq03ywsq7ruvjh
+output-value: 546
+sat: 1402649044092081
+content-length: 64 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-10 22:18:10 UTC
+genesis-height: 793775
+genesis-fee: 2618
+genesis-transaction: 650d929093d40064e0a0c1d4e0eb365b6e21785526b5ba7dd2705fd1edd1a99e
+location: 650d929093d40064e0a0c1d4e0eb365b6e21785526b5ba7dd2705fd1edd1a99e:0:0
+output: 650d929093d40064e0a0c1d4e0eb365b6e21785526b5ba7dd2705fd1edd1a99e:0
+offset: 0

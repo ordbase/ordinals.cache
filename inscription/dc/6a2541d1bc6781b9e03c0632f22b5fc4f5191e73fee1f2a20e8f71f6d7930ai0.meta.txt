@@ -1,0 +1,14 @@
+title: Inscription 14935400
+id: dc6a2541d1bc6781b9e03c0632f22b5fc4f5191e73fee1f2a20e8f71f6d7930ai0
+address: bc1p4udehay9q89k6g6d2axqsxcdfxlc3w3k6cw9vj6a7ncjt885cx0qly5nux
+output-value: 546
+sat: 1934554223331369
+content-length: 487 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-07-06 10:34:14 UTC
+genesis-height: 797421
+genesis-fee: 5880
+genesis-transaction: dc6a2541d1bc6781b9e03c0632f22b5fc4f5191e73fee1f2a20e8f71f6d7930a
+location: dc6a2541d1bc6781b9e03c0632f22b5fc4f5191e73fee1f2a20e8f71f6d7930a:0:0
+output: dc6a2541d1bc6781b9e03c0632f22b5fc4f5191e73fee1f2a20e8f71f6d7930a:0
+offset: 0

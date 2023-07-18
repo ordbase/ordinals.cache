@@ -1,0 +1,14 @@
+title: Inscription 10344660
+id: daec206de399081633d235aa387f5ef30bc31a881e06ae1f4503024839e04c78i0
+address: bc1pd0ptfhlvy3ehtw8ntw8l2qd6gs25snwsal97qxd2d3pkwkrs9uuscy5h82
+output-value: 546
+sat: 219533205076516
+content-length: 64 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 20:16:58 UTC
+genesis-height: 792300
+genesis-fee: 12012
+genesis-transaction: daec206de399081633d235aa387f5ef30bc31a881e06ae1f4503024839e04c78
+location: daec206de399081633d235aa387f5ef30bc31a881e06ae1f4503024839e04c78:0:0
+output: daec206de399081633d235aa387f5ef30bc31a881e06ae1f4503024839e04c78:0
+offset: 0

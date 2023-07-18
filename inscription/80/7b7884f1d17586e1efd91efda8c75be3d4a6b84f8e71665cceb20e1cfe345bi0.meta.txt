@@ -1,0 +1,14 @@
+title: Inscription 10565488
+id: 807b7884f1d17586e1efd91efda8c75be3d4a6b84f8e71665cceb20e1cfe345bi0
+address: bc1phczgqu43lmh3e4peawv3v3ew0yzrgezeu0g7tfnzthllydq6lctstmch30
+output-value: 546
+sat: 1910443505872217
+content-length: 58 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-02 21:58:18 UTC
+genesis-height: 792604
+genesis-fee: 4440
+genesis-transaction: 807b7884f1d17586e1efd91efda8c75be3d4a6b84f8e71665cceb20e1cfe345b
+location: 807b7884f1d17586e1efd91efda8c75be3d4a6b84f8e71665cceb20e1cfe345b:0:0
+output: 807b7884f1d17586e1efd91efda8c75be3d4a6b84f8e71665cceb20e1cfe345b:0
+offset: 0

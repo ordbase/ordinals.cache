@@ -1,0 +1,14 @@
+title: Inscription 5940
+id: 8cf2de7651df5683cbf39e74a9ae92ae5f098c6ca27d41e7af9f40d9ba82409di0
+address: bc1ptzuh4946g3kcr6mg938zqdfvaw5lppcnfa97qynlmyt5tekpngfsm97lye
+output-value: 8133
+sat: 93444682558871
+content-length: 33874 bytes
+content-type: image/jpeg
+timestamp: 2023-02-06 05:30:09 UTC
+genesis-height: 775245
+genesis-fee: 21630
+genesis-transaction: 8cf2de7651df5683cbf39e74a9ae92ae5f098c6ca27d41e7af9f40d9ba82409d
+location: d34375c880d92b6b1d0e4fd1751eafab79622347482ed5a6dd466b93e80698a6:0:0
+output: d34375c880d92b6b1d0e4fd1751eafab79622347482ed5a6dd466b93e80698a6:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 10510594
+id: 48afe1634787b8be3c159af9a93367caa3a3020e06e5e31abb881e0e87caf62fi0
+address: bc1qwhvgmqlgeq5k3rm43t9h93lleh3zmclsck0ha2
+output-value: 546
+sat: 1932070913947734
+content-length: 56 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-02 12:46:26 UTC
+genesis-height: 792539
+genesis-fee: 8520
+genesis-transaction: 48afe1634787b8be3c159af9a93367caa3a3020e06e5e31abb881e0e87caf62f
+location: 48afe1634787b8be3c159af9a93367caa3a3020e06e5e31abb881e0e87caf62f:0:0
+output: 48afe1634787b8be3c159af9a93367caa3a3020e06e5e31abb881e0e87caf62f:0
+offset: 0

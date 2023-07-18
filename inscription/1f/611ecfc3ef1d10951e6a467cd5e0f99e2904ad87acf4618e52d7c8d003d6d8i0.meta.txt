@@ -1,0 +1,14 @@
+title: Inscription 6442
+id: 1f611ecfc3ef1d10951e6a467cd5e0f99e2904ad87acf4618e52d7c8d003d6d8i0
+address: bc1pvxgndd9pfpcznj5m420w3gc9mk3s4f8ty4ufql02h78y9rwqy2nqujy82j
+output-value: 9002
+sat: 1863590037428624
+content-length: 306 bytes
+content-type: image/png
+timestamp: 2023-02-06 10:56:59 UTC
+genesis-height: 775278
+genesis-fee: 1688
+genesis-transaction: 1f611ecfc3ef1d10951e6a467cd5e0f99e2904ad87acf4618e52d7c8d003d6d8
+location: d740cf9b1146e73884ca60d1774e08154b8aadb98e2cc888913033b24fc24d39:0:0
+output: d740cf9b1146e73884ca60d1774e08154b8aadb98e2cc888913033b24fc24d39:0
+offset: 0

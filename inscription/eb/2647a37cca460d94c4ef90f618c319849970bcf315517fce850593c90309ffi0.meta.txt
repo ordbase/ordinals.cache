@@ -1,0 +1,14 @@
+title: Inscription 10509911
+id: eb2647a37cca460d94c4ef90f618c319849970bcf315517fce850593c90309ffi0
+address: bc1pghqhuucylfpqzcx4m2ynrpgnz6g7mnn0an4h83rdjddmqq5xwe4sg8k20j
+output-value: 546
+sat: 1301985762525760
+content-length: 61 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-02 12:31:37 UTC
+genesis-height: 792538
+genesis-fee: 6975
+genesis-transaction: eb2647a37cca460d94c4ef90f618c319849970bcf315517fce850593c90309ff
+location: eb2647a37cca460d94c4ef90f618c319849970bcf315517fce850593c90309ff:0:0
+output: eb2647a37cca460d94c4ef90f618c319849970bcf315517fce850593c90309ff:0
+offset: 0

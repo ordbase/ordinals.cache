@@ -1,0 +1,14 @@
+title: Inscription 54166
+id: 09c993d0ae4751f552050bc446a41631a0fb0f8eedba75c5615576d702cd459fi0
+address: bc1p7hzdt92q047xtg68was3us42fdm78ds5r8sg8gc7qfzdprudex2q4x6cfx
+output-value: 10000
+sat: 1532884309813532
+content-length: 376 bytes
+content-type: image/png
+timestamp: 2023-02-11 08:35:29 UTC
+genesis-height: 776004
+genesis-fee: 4580
+genesis-transaction: 09c993d0ae4751f552050bc446a41631a0fb0f8eedba75c5615576d702cd459f
+location: 09c993d0ae4751f552050bc446a41631a0fb0f8eedba75c5615576d702cd459f:0:0
+output: 09c993d0ae4751f552050bc446a41631a0fb0f8eedba75c5615576d702cd459f:0
+offset: 0

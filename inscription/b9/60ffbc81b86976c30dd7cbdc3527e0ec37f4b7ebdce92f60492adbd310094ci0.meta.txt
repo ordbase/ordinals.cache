@@ -1,0 +1,14 @@
+title: Inscription 473
+id: b960ffbc81b86976c30dd7cbdc3527e0ec37f4b7ebdce92f60492adbd310094ci0
+address: bc1pc2d485whe5yy05lfgy84yv3c0avgt2y5sylrptts9s6pf9x9m0zqhx33tv
+output-value: 4007762
+sat: 333787650629391
+content-length: 402 bytes
+content-type: image/png
+timestamp: 2023-02-01 03:55:44 UTC
+genesis-height: 774531
+genesis-fee: 4700
+genesis-transaction: b960ffbc81b86976c30dd7cbdc3527e0ec37f4b7ebdce92f60492adbd310094c
+location: 35d69d6f67d6c8a463a323923b8c95aab9cf1733de9922fe0745ac8578dee2b9:0:4000000
+output: 35d69d6f67d6c8a463a323923b8c95aab9cf1733de9922fe0745ac8578dee2b9:0
+offset: 4000000

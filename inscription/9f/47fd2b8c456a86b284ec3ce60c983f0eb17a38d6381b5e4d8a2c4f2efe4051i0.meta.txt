@@ -1,0 +1,14 @@
+title: Inscription 494
+id: 9f47fd2b8c456a86b284ec3ce60c983f0eb17a38d6381b5e4d8a2c4f2efe4051i0
+address: bc1qtcpzm2fza5h9lvevnn6qx24acxwm50pf932m4n
+output-value: 8020
+sat: 1440861820856892
+content-length: 393 bytes
+content-type: image/png
+timestamp: 2023-02-01 05:16:44 UTC
+genesis-height: 774541
+genesis-fee: 4660
+genesis-transaction: 9f47fd2b8c456a86b284ec3ce60c983f0eb17a38d6381b5e4d8a2c4f2efe4051
+location: 6084c0cf45334ef819b97b65f8d743b2391e8f0adc3f9cf9cb2db43ae2eed037:0:0
+output: 6084c0cf45334ef819b97b65f8d743b2391e8f0adc3f9cf9cb2db43ae2eed037:0
+offset: 0

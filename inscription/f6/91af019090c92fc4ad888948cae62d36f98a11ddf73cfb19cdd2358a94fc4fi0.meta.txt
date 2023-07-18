@@ -1,0 +1,14 @@
+title: Inscription 11807445
+id: f691af019090c92fc4ad888948cae62d36f98a11ddf73cfb19cdd2358a94fc4fi0
+address: bc1puzradfhurd8j3v8y3h88ucadmg726k7pw82v0gf8qeanmlx8u2cqk62n0m
+output-value: 546
+sat: 1277171751998148
+content-length: 56 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-14 01:54:16 UTC
+genesis-height: 794266
+genesis-fee: 4998
+genesis-transaction: f691af019090c92fc4ad888948cae62d36f98a11ddf73cfb19cdd2358a94fc4f
+location: f691af019090c92fc4ad888948cae62d36f98a11ddf73cfb19cdd2358a94fc4f:0:0
+output: f691af019090c92fc4ad888948cae62d36f98a11ddf73cfb19cdd2358a94fc4f:0
+offset: 0

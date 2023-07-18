@@ -1,0 +1,14 @@
+title: Inscription 11224200
+id: 10fe4940bbceb882609f02d3534243d70cb141b93f43e35652ca4be8659aa90bi0
+address: bc1phthdkpejss2yt4sx86hpj0prsj4yzmpv3szughlvtxpta3jkq36st77ve2
+output-value: 546
+sat: 1289618208901145
+content-length: 72 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-09 07:06:06 UTC
+genesis-height: 793522
+genesis-fee: 3105
+genesis-transaction: 10fe4940bbceb882609f02d3534243d70cb141b93f43e35652ca4be8659aa90b
+location: 10fe4940bbceb882609f02d3534243d70cb141b93f43e35652ca4be8659aa90b:0:0
+output: 10fe4940bbceb882609f02d3534243d70cb141b93f43e35652ca4be8659aa90b:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 10509926
+id: 0013462bee640c5d9a99437a42e04a44d0f0c6306e0294c24f33196696f5c92ci0
+address: bc1pkqwhwfe4ja8gxf6vyrl3z0ynnk08xyqga3wdwra3rpgrjhh0hu3qnu4n8z
+output-value: 546
+sat: 688325221320986
+content-length: 62 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-02 12:31:37 UTC
+genesis-height: 792538
+genesis-fee: 6820
+genesis-transaction: 0013462bee640c5d9a99437a42e04a44d0f0c6306e0294c24f33196696f5c92c
+location: 0013462bee640c5d9a99437a42e04a44d0f0c6306e0294c24f33196696f5c92c:0:0
+output: 0013462bee640c5d9a99437a42e04a44d0f0c6306e0294c24f33196696f5c92c:0
+offset: 0

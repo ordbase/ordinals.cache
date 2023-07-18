@@ -1,0 +1,14 @@
+title: Inscription 24
+id: 9905c43cabe642666e43bd1c059d9093b96204330a2eeb33ac22b7142b1d57edi0
+address: bc1pqtqjg0zhw8e73dtru89jhwwt64a2ncd25wwez70dvval6r53x2rsf384nf
+output-value: 10000
+sat: 637721103178464
+content-length: 24547 bytes
+content-type: image/jpeg
+timestamp: 2023-01-22 03:11:14 UTC
+genesis-height: 773024
+genesis-fee: 6307
+genesis-transaction: 9905c43cabe642666e43bd1c059d9093b96204330a2eeb33ac22b7142b1d57ed
+location: 9905c43cabe642666e43bd1c059d9093b96204330a2eeb33ac22b7142b1d57ed:0:0
+output: 9905c43cabe642666e43bd1c059d9093b96204330a2eeb33ac22b7142b1d57ed:0
+offset: 0

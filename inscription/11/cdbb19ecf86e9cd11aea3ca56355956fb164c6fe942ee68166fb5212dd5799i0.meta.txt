@@ -1,0 +1,14 @@
+title: Inscription 9989801
+id: 11cdbb19ecf86e9cd11aea3ca56355956fb164c6fe942ee68166fb5212dd5799i0
+address: bc1pm64t0uwpyeddnpp4xlpx29506tvu9d87rq3fdejakxdsek9vv95sl0h0f9
+output-value: 546
+sat: 1760808317090771
+content-length: 59 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-29 21:01:56 UTC
+genesis-height: 792002
+genesis-fee: 14322
+genesis-transaction: 11cdbb19ecf86e9cd11aea3ca56355956fb164c6fe942ee68166fb5212dd5799
+location: 11cdbb19ecf86e9cd11aea3ca56355956fb164c6fe942ee68166fb5212dd5799:0:0
+output: 11cdbb19ecf86e9cd11aea3ca56355956fb164c6fe942ee68166fb5212dd5799:0
+offset: 0

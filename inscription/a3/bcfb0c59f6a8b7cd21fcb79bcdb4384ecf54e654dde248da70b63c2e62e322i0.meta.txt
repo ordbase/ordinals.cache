@@ -1,0 +1,14 @@
+title: Inscription 2964
+id: a3bcfb0c59f6a8b7cd21fcb79bcdb4384ecf54e654dde248da70b63c2e62e322i0
+address: bc1pc3utgvxfhpwsjad0rmj945hwxy9v7vvzcqnf2lrhf6h0j3e2288szgzsv8
+output-value: 9667
+sat: 869667570117959
+content-length: 53194 bytes
+content-type: image/jpeg
+timestamp: 2023-02-05 02:21:13 UTC
+genesis-height: 775080
+genesis-fee: 27020
+genesis-transaction: a3bcfb0c59f6a8b7cd21fcb79bcdb4384ecf54e654dde248da70b63c2e62e322
+location: 172f54949841953d269ad578b9d281f446fcd696e17937be658c8cb68860f03d:0:0
+output: 172f54949841953d269ad578b9d281f446fcd696e17937be658c8cb68860f03d:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 10174
+id: 14179ebcd9cd302d63d05e880e3081fae2dc83aa6664dc9a0a2e9db7f4050e9ai0
+address: bc1pa7q4u2h6yny0khp4ulv80dl7ztj0w6hqde8s92ftm2669lwg03hs43rck3
+output-value: 10000
+sat: 1053041541294646
+content-length: 638 bytes
+content-type: image/png
+timestamp: 2023-02-07 05:00:11 UTC
+genesis-height: 775391
+genesis-fee: 2950
+genesis-transaction: 14179ebcd9cd302d63d05e880e3081fae2dc83aa6664dc9a0a2e9db7f4050e9a
+location: 14179ebcd9cd302d63d05e880e3081fae2dc83aa6664dc9a0a2e9db7f4050e9a:0:0
+output: 14179ebcd9cd302d63d05e880e3081fae2dc83aa6664dc9a0a2e9db7f4050e9a:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 11245724
+id: e78664552a125fcec4a0df32db23c7e470aeb73e4a0d7d226317eb8a89f9db7fi0
+address: bc1p6lmv502vrl6z4nznk3pxhd6vtlqpvaz22sm83kxhmx972w9u7lps8hcg0r
+output-value: 546
+sat: 1924977377310955
+content-length: 67 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-09 09:31:06 UTC
+genesis-height: 793546
+genesis-fee: 4136
+genesis-transaction: e78664552a125fcec4a0df32db23c7e470aeb73e4a0d7d226317eb8a89f9db7f
+location: e78664552a125fcec4a0df32db23c7e470aeb73e4a0d7d226317eb8a89f9db7f:0:0
+output: e78664552a125fcec4a0df32db23c7e470aeb73e4a0d7d226317eb8a89f9db7f:0
+offset: 0

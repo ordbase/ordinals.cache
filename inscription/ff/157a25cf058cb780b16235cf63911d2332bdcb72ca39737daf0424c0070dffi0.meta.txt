@@ -1,0 +1,14 @@
+title: Inscription 11027180
+id: ff157a25cf058cb780b16235cf63911d2332bdcb72ca39737daf0424c0070dffi0
+address: bc1p75xeda85p08uw2jyg4l7vuw477rhdawlyga2f7ugq7ug99qc4e6qqgdkd6
+output-value: 546
+sat: 1901145613022365
+content-length: 64 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-06 15:39:40 UTC
+genesis-height: 793141
+genesis-fee: 3366
+genesis-transaction: ff157a25cf058cb780b16235cf63911d2332bdcb72ca39737daf0424c0070dff
+location: ff157a25cf058cb780b16235cf63911d2332bdcb72ca39737daf0424c0070dff:0:0
+output: ff157a25cf058cb780b16235cf63911d2332bdcb72ca39737daf0424c0070dff:0
+offset: 0

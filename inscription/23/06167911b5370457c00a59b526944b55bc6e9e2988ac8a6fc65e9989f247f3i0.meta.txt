@@ -1,0 +1,14 @@
+title: Inscription 2336
+id: 2306167911b5370457c00a59b526944b55bc6e9e2988ac8a6fc65e9989f247f3i0
+address: bc1pphly2hqguesjmkvgcwy7vzt4vq26xtzal9jzc7crg7zqgh0ylrhsf97v67
+output-value: 1379
+sat: 1927512984674674
+content-length: 52463 bytes
+content-type: image/jpeg
+timestamp: 2023-02-04 22:50:46 UTC
+genesis-height: 775055
+genesis-fee: 39978
+genesis-transaction: 2306167911b5370457c00a59b526944b55bc6e9e2988ac8a6fc65e9989f247f3
+location: 164d1df6663858674f189adce0fb71d3b75932ec221b2a4c02c3f93b02d02dd6:0:0
+output: 164d1df6663858674f189adce0fb71d3b75932ec221b2a4c02c3f93b02d02dd6:0
+offset: 0

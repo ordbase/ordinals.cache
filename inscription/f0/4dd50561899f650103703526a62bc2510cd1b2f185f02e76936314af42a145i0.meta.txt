@@ -1,0 +1,14 @@
+title: Inscription 16
+id: f04dd50561899f650103703526a62bc2510cd1b2f185f02e76936314af42a145i0
+address: bc1p7k0q5q8mkh7jcmwnyzdvd7m0py6dl2trmmmfvkzuf23akg77f5lsutnyja
+output-value: 10000
+sat: 1852041743766587
+content-length: 59634 bytes
+content-type: image/webp
+timestamp: 2023-01-20 05:14:19 UTC
+genesis-height: 772775
+genesis-fee: 15129
+genesis-transaction: f04dd50561899f650103703526a62bc2510cd1b2f185f02e76936314af42a145
+location: f04dd50561899f650103703526a62bc2510cd1b2f185f02e76936314af42a145:0:0
+output: f04dd50561899f650103703526a62bc2510cd1b2f185f02e76936314af42a145:0
+offset: 0

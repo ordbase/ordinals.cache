@@ -1,0 +1,14 @@
+title: Inscription 11086890
+id: 09278b9ef52240df635b140498e8be3ef28fbfb0f39af22df649ea3659fea450i0
+address: bc1pm9jy2waeua04snwj2spzp4yvxmzeakruyxxyzls9qvda5guznv8qq8u98m
+output-value: 546
+sat: 738209555042376
+content-length: 64 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-07 23:50:45 UTC
+genesis-height: 793313
+genesis-fee: 4992
+genesis-transaction: 09278b9ef52240df635b140498e8be3ef28fbfb0f39af22df649ea3659fea450
+location: 09278b9ef52240df635b140498e8be3ef28fbfb0f39af22df649ea3659fea450:0:0
+output: 09278b9ef52240df635b140498e8be3ef28fbfb0f39af22df649ea3659fea450:0
+offset: 0

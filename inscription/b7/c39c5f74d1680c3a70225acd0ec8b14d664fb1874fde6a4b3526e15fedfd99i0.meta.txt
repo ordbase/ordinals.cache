@@ -1,0 +1,14 @@
+title: Inscription 10370431
+id: b7c39c5f74d1680c3a70225acd0ec8b14d664fb1874fde6a4b3526e15fedfd99i0
+address: bc1pe792qgtej64fy2sxf8ue926gd62g6x82dtu6nsv3m6lsc5weughshewgym
+output-value: 546
+sat: 1937470650565094
+content-length: 67 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 04:58:29 UTC
+genesis-height: 792336
+genesis-fee: 6908
+genesis-transaction: b7c39c5f74d1680c3a70225acd0ec8b14d664fb1874fde6a4b3526e15fedfd99
+location: b7c39c5f74d1680c3a70225acd0ec8b14d664fb1874fde6a4b3526e15fedfd99:0:0
+output: b7c39c5f74d1680c3a70225acd0ec8b14d664fb1874fde6a4b3526e15fedfd99:0
+offset: 0

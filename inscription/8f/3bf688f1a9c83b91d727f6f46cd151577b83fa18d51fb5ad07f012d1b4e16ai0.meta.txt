@@ -1,0 +1,14 @@
+title: Inscription 1260
+id: 8f3bf688f1a9c83b91d727f6f46cd151577b83fa18d51fb5ad07f012d1b4e16ai0
+address: bc1p8shhgg2228ym57xj9h34zkllcayj7xm4saw020ua4q0zsljv3wps6m8e0c
+output-value: 9556
+sat: 1927912723286142
+content-length: 44187 bytes
+content-type: image/jpeg
+timestamp: 2023-02-03 06:53:57 UTC
+genesis-height: 774836
+genesis-fee: 22490
+genesis-transaction: 8f3bf688f1a9c83b91d727f6f46cd151577b83fa18d51fb5ad07f012d1b4e16a
+location: b79cb7dc45059ab4d8e8137aac1cb9be992578e1f65b94b202f042390e2617cc:0:0
+output: b79cb7dc45059ab4d8e8137aac1cb9be992578e1f65b94b202f042390e2617cc:0
+offset: 0

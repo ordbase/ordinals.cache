@@ -1,0 +1,14 @@
+title: Inscription 10084174
+id: 5738c779626b202e1235740501077a06eac5f8ce953a5298f0eef690573bc78bi0
+address: bc1pv25arm74sm650pydmmpgw35j3nlfuq9uqyummea5xhu7g9watqqqh0uxjv
+output-value: 10000
+sat: 233784940122058
+content-length: 56 bytes
+content-type: application/json
+timestamp: 2023-05-30 05:56:20 UTC
+genesis-height: 792060
+genesis-fee: 4200
+genesis-transaction: 5738c779626b202e1235740501077a06eac5f8ce953a5298f0eef690573bc78b
+location: 5738c779626b202e1235740501077a06eac5f8ce953a5298f0eef690573bc78b:0:0
+output: 5738c779626b202e1235740501077a06eac5f8ce953a5298f0eef690573bc78b:0
+offset: 0

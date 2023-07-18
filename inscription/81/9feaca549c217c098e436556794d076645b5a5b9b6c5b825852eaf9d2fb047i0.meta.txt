@@ -1,0 +1,14 @@
+title: Inscription 10085410
+id: 819feaca549c217c098e436556794d076645b5a5b9b6c5b825852eaf9d2fb047i0
+address: bc1qx97dvwgzmvmy4aa335etc4adxehdac73h4vr56
+output-value: 546
+sat: 1254219367243851
+content-length: 53 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-30 06:03:33 UTC
+genesis-height: 792061
+genesis-fee: 39560
+genesis-transaction: 819feaca549c217c098e436556794d076645b5a5b9b6c5b825852eaf9d2fb047
+location: 819feaca549c217c098e436556794d076645b5a5b9b6c5b825852eaf9d2fb047:0:0
+output: 819feaca549c217c098e436556794d076645b5a5b9b6c5b825852eaf9d2fb047:0
+offset: 0

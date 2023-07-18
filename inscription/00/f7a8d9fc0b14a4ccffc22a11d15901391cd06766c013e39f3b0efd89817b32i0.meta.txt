@@ -1,0 +1,14 @@
+title: Inscription 10233340
+id: 00f7a8d9fc0b14a4ccffc22a11d15901391cd06766c013e39f3b0efd89817b32i0
+address: bc1puu3vqdzkd7a4cc22fh9y0xez744zqm6upglxc9ptnktwpq03ywsq7ruvjh
+output-value: 546
+sat: 1871070707582349
+content-length: 59 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 01:51:47 UTC
+genesis-height: 792184
+genesis-fee: 6324
+genesis-transaction: 00f7a8d9fc0b14a4ccffc22a11d15901391cd06766c013e39f3b0efd89817b32
+location: 00f7a8d9fc0b14a4ccffc22a11d15901391cd06766c013e39f3b0efd89817b32:0:0
+output: 00f7a8d9fc0b14a4ccffc22a11d15901391cd06766c013e39f3b0efd89817b32:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 12813582
+id: 8674373b344746373d970f84abed3e420d66d1e70751c279ba8104f5a7999b9fi0
+address: bc1puu3vqdzkd7a4cc22fh9y0xez744zqm6upglxc9ptnktwpq03ywsq7ruvjh
+output-value: 546
+sat: 818992104880217
+content-length: 59 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-19 22:04:01 UTC
+genesis-height: 795101
+genesis-fee: 4836
+genesis-transaction: 8674373b344746373d970f84abed3e420d66d1e70751c279ba8104f5a7999b9f
+location: 8674373b344746373d970f84abed3e420d66d1e70751c279ba8104f5a7999b9f:0:0
+output: 8674373b344746373d970f84abed3e420d66d1e70751c279ba8104f5a7999b9f:0
+offset: 0

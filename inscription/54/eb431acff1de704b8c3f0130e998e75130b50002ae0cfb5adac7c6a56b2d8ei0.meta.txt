@@ -1,0 +1,14 @@
+title: Inscription 10222265
+id: 54eb431acff1de704b8c3f0130e998e75130b50002ae0cfb5adac7c6a56b2d8ei0
+address: bc1phmw052ftxhda3lm84xf0qgwjn3kmd3d6s95l4kgy9m7yy6h6nmdsknnsj3
+output-value: 546
+sat: 1314373428081897
+content-length: 56 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-30 23:34:51 UTC
+genesis-height: 792173
+genesis-fee: 5236
+genesis-transaction: 54eb431acff1de704b8c3f0130e998e75130b50002ae0cfb5adac7c6a56b2d8e
+location: 54eb431acff1de704b8c3f0130e998e75130b50002ae0cfb5adac7c6a56b2d8e:0:0
+output: 54eb431acff1de704b8c3f0130e998e75130b50002ae0cfb5adac7c6a56b2d8e:0
+offset: 0

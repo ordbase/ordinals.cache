@@ -1,0 +1,14 @@
+title: Inscription 9990039
+id: 254579ac546d4d3434281ac0e40b0c387dca10c08401dfaf9726adaef5326984i0
+address: bc1p6hjw02820ek9m9j0wgklvqrp6jpvyd0t22ys759mv8zd5smxgd9s7masws
+output-value: 546
+sat: 251654946970056
+content-length: 62 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-29 21:06:34 UTC
+genesis-height: 792003
+genesis-fee: 11625
+genesis-transaction: 254579ac546d4d3434281ac0e40b0c387dca10c08401dfaf9726adaef5326984
+location: 254579ac546d4d3434281ac0e40b0c387dca10c08401dfaf9726adaef5326984:0:0
+output: 254579ac546d4d3434281ac0e40b0c387dca10c08401dfaf9726adaef5326984:0
+offset: 0

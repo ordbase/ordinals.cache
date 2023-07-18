@@ -1,0 +1,14 @@
+title: Inscription 44096
+id: 8cb75946b98c20ccc04e6a34ce444eca8b7fc99826a24e680bd50bd3cb47a26di0
+address: bc1pgwzugfe05danqerkgduc5q40e8nth8mwnnvxrvnk4pcfnjwz35rq9g4gzr
+output-value: 8890
+sat: 1532884309713616
+content-length: 380 bytes
+content-type: image/png
+timestamp: 2023-02-10 00:12:58 UTC
+genesis-height: 775809
+genesis-fee: 1150
+genesis-transaction: 8cb75946b98c20ccc04e6a34ce444eca8b7fc99826a24e680bd50bd3cb47a26d
+location: 6adf4b8803c4a96b68cedefa3cd612b02515593823cd63f413a6e42c6190de41:0:0
+output: 6adf4b8803c4a96b68cedefa3cd612b02515593823cd63f413a6e42c6190de41:0
+offset: 0

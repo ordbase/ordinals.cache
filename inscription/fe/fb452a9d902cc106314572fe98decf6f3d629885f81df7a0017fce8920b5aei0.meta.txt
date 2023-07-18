@@ -1,0 +1,14 @@
+title: Inscription 10509937
+id: fefb452a9d902cc106314572fe98decf6f3d629885f81df7a0017fce8920b5aei0
+address: bc1pkqwhwfe4ja8gxf6vyrl3z0ynnk08xyqga3wdwra3rpgrjhh0hu3qnu4n8z
+output-value: 546
+sat: 860508838654164
+content-length: 62 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-02 12:31:37 UTC
+genesis-height: 792538
+genesis-fee: 6820
+genesis-transaction: fefb452a9d902cc106314572fe98decf6f3d629885f81df7a0017fce8920b5ae
+location: fefb452a9d902cc106314572fe98decf6f3d629885f81df7a0017fce8920b5ae:0:0
+output: fefb452a9d902cc106314572fe98decf6f3d629885f81df7a0017fce8920b5ae:0
+offset: 0

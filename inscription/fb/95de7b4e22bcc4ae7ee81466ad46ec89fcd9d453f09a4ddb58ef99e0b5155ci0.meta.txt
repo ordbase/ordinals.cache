@@ -1,0 +1,14 @@
+title: Inscription 10295659
+id: fb95de7b4e22bcc4ae7ee81466ad46ec89fcd9d453f09a4ddb58ef99e0b5155ci0
+address: bc1ptmtdmj8hgwtl94tad4vn8dsa28dtcfh4g9qc5vatv2nlj5uu4dzshez00k
+output-value: 546
+sat: 1035560759094887
+content-length: 65 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 11:11:53 UTC
+genesis-height: 792242
+genesis-fee: 4836
+genesis-transaction: fb95de7b4e22bcc4ae7ee81466ad46ec89fcd9d453f09a4ddb58ef99e0b5155c
+location: fb95de7b4e22bcc4ae7ee81466ad46ec89fcd9d453f09a4ddb58ef99e0b5155c:0:0
+output: fb95de7b4e22bcc4ae7ee81466ad46ec89fcd9d453f09a4ddb58ef99e0b5155c:0
+offset: 0

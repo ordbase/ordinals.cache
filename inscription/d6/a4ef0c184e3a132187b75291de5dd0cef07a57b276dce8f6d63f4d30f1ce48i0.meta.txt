@@ -1,0 +1,14 @@
+title: Inscription 61151
+id: d6a4ef0c184e3a132187b75291de5dd0cef07a57b276dce8f6d63f4d30f1ce48i0
+address: bc1p5e7y6v9z69c3yw7xj8pq6l77u0xsjwusm6fk4mprnrd8pcuz02sqa57hsv
+output-value: 10000
+sat: 309511306310472
+content-length: 378 bytes
+content-type: image/png
+timestamp: 2023-02-12 03:37:06 UTC
+genesis-height: 776126
+genesis-fee: 6870
+genesis-transaction: d6a4ef0c184e3a132187b75291de5dd0cef07a57b276dce8f6d63f4d30f1ce48
+location: d6a4ef0c184e3a132187b75291de5dd0cef07a57b276dce8f6d63f4d30f1ce48:0:0
+output: d6a4ef0c184e3a132187b75291de5dd0cef07a57b276dce8f6d63f4d30f1ce48:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 5943
+id: 16d34dccd9a9a18b8ad847bca60653cfd16a9f7c6615a92088088a67013bb8efi0
+address: bc1pd9r6ug839pp0djtm3y843tejcgtpq42upg7w0u366jz0ff5z0x0qplfp9v
+output-value: 8679
+sat: 93444683057119
+content-length: 36372 bytes
+content-type: image/jpeg
+timestamp: 2023-02-06 05:30:09 UTC
+genesis-height: 775245
+genesis-fee: 23200
+genesis-transaction: 16d34dccd9a9a18b8ad847bca60653cfd16a9f7c6615a92088088a67013bb8ef
+location: 193ecc23481ca7f0d24a04c58a06e9ff1c5477a7e0df34d4624932ee21d32999:0:0
+output: 193ecc23481ca7f0d24a04c58a06e9ff1c5477a7e0df34d4624932ee21d32999:0
+offset: 0

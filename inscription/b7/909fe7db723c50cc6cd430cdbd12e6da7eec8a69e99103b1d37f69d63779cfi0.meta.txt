@@ -1,0 +1,14 @@
+title: Inscription 10372148
+id: b7909fe7db723c50cc6cd430cdbd12e6da7eec8a69e99103b1d37f69d63779cfi0
+address: bc1pf7hphxv9d0f2uyqpc4xucugsc6ks6hs6s5mc3ykv3xuajdpwnuls8qnxxx
+output-value: 546
+sat: 1882772911223021
+content-length: 68 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 05:03:24 UTC
+genesis-height: 792338
+genesis-fee: 5652
+genesis-transaction: b7909fe7db723c50cc6cd430cdbd12e6da7eec8a69e99103b1d37f69d63779cf
+location: b7909fe7db723c50cc6cd430cdbd12e6da7eec8a69e99103b1d37f69d63779cf:0:0
+output: b7909fe7db723c50cc6cd430cdbd12e6da7eec8a69e99103b1d37f69d63779cf:0
+offset: 0

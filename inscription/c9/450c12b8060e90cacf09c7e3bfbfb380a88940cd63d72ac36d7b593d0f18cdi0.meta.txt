@@ -1,0 +1,14 @@
+title: Inscription 11330658
+id: c9450c12b8060e90cacf09c7e3bfbfb380a88940cd63d72ac36d7b593d0f18cdi0
+address: bc1pdaat3mldnlkq6kanhtt382739fr30wp22xwj4p8hz2kmfxwrqucsdnhlr9
+output-value: 546
+sat: 1385630278825847
+content-length: 65 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-10 13:42:31 UTC
+genesis-height: 793717
+genesis-fee: 9360
+genesis-transaction: c9450c12b8060e90cacf09c7e3bfbfb380a88940cd63d72ac36d7b593d0f18cd
+location: c9450c12b8060e90cacf09c7e3bfbfb380a88940cd63d72ac36d7b593d0f18cd:0:0
+output: c9450c12b8060e90cacf09c7e3bfbfb380a88940cd63d72ac36d7b593d0f18cd:0
+offset: 0

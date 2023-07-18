@@ -1,0 +1,14 @@
+title: Inscription 12946620
+id: db8ace518169ff00c0067ec6f99b9e633c73e8b809d30606361f04b52d355aaai0
+address: bc1p3q87yqgx7y74gt7ld28tc6nqhvl957uz2mcpzy86hmcsmdv8aatsg8jwaf
+output-value: 546
+sat: 1821449326258435
+content-length: 67 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-20 13:50:59 UTC
+genesis-height: 795192
+genesis-fee: 5076
+genesis-transaction: db8ace518169ff00c0067ec6f99b9e633c73e8b809d30606361f04b52d355aaa
+location: db8ace518169ff00c0067ec6f99b9e633c73e8b809d30606361f04b52d355aaa:0:0
+output: db8ace518169ff00c0067ec6f99b9e633c73e8b809d30606361f04b52d355aaa:0
+offset: 0

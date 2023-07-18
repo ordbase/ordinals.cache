@@ -1,0 +1,14 @@
+title: Inscription 50754
+id: 0af52d5a7f5c185c0629ad6eddc772c09157bc42b92fd772468eb58083e57fd7i0
+address: bc1pjhgqswt6vlcqtdrn37tm727ggftwax2mx0g7ntkrg6jzeqqs2y8s8ccfg5
+output-value: 10000
+sat: 1532884309801788
+content-length: 331 bytes
+content-type: image/png
+timestamp: 2023-02-11 00:50:44 UTC
+genesis-height: 775959
+genesis-fee: 1744
+genesis-transaction: 0af52d5a7f5c185c0629ad6eddc772c09157bc42b92fd772468eb58083e57fd7
+location: 0af52d5a7f5c185c0629ad6eddc772c09157bc42b92fd772468eb58083e57fd7:0:0
+output: 0af52d5a7f5c185c0629ad6eddc772c09157bc42b92fd772468eb58083e57fd7:0
+offset: 0

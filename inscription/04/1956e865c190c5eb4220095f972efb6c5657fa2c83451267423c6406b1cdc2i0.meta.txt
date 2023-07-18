@@ -1,0 +1,14 @@
+title: Inscription 12429607
+id: 041956e865c190c5eb4220095f972efb6c5657fa2c83451267423c6406b1cdc2i0
+address: bc1pyykcsq47mg584sqmxmeqv9wth6nhm7uzwrckvdkt8zczgskr8stss6f3ar
+output-value: 546
+sat: 384657178521720
+content-length: 92 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-17 22:26:03 UTC
+genesis-height: 794817
+genesis-fee: 4075
+genesis-transaction: 041956e865c190c5eb4220095f972efb6c5657fa2c83451267423c6406b1cdc2
+location: 041956e865c190c5eb4220095f972efb6c5657fa2c83451267423c6406b1cdc2:0:0
+output: 041956e865c190c5eb4220095f972efb6c5657fa2c83451267423c6406b1cdc2:0
+offset: 0

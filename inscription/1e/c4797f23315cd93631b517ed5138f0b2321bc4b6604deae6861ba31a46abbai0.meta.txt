@@ -1,0 +1,14 @@
+title: Inscription 8697
+id: 1ec4797f23315cd93631b517ed5138f0b2321bc4b6604deae6861ba31a46abbai0
+address: bc1pvqx2x6q3shqp0507a8y4hzfwlxzyqrtmt3ughys6lxtz70427q9qpw3qlx
+output-value: 10000
+sat: 1053041541057014
+content-length: 1356 bytes
+content-type: image/png
+timestamp: 2023-02-06 23:17:45 UTC
+genesis-height: 775362
+genesis-fee: 2850
+genesis-transaction: 1ec4797f23315cd93631b517ed5138f0b2321bc4b6604deae6861ba31a46abba
+location: 1ec4797f23315cd93631b517ed5138f0b2321bc4b6604deae6861ba31a46abba:0:0
+output: 1ec4797f23315cd93631b517ed5138f0b2321bc4b6604deae6861ba31a46abba:0
+offset: 0

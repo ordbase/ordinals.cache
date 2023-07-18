@@ -1,0 +1,14 @@
+title: Inscription 13592980
+id: 9176f768c82e7be819658da3b297a4d7f2d3b9d88fef4890bf0be0886ca8ccbei0
+address: bc1pjrnv4s49kgjq8prf3jh8n33wtku4y5rtq9a6992fz59pzwspwz9q25yt4s
+output-value: 546
+sat: 1103237867312385
+content-length: 31 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-25 23:25:05 UTC
+genesis-height: 795928
+genesis-fee: 2072
+genesis-transaction: 9176f768c82e7be819658da3b297a4d7f2d3b9d88fef4890bf0be0886ca8ccbe
+location: 9176f768c82e7be819658da3b297a4d7f2d3b9d88fef4890bf0be0886ca8ccbe:0:0
+output: 9176f768c82e7be819658da3b297a4d7f2d3b9d88fef4890bf0be0886ca8ccbe:0
+offset: 0

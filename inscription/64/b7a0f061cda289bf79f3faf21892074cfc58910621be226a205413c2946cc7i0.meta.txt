@@ -1,0 +1,14 @@
+title: Inscription 10291915
+id: 64b7a0f061cda289bf79f3faf21892074cfc58910621be226a205413c2946cc7i0
+address: bc1pm64t0uwpyeddnpp4xlpx29506tvu9d87rq3fdejakxdsek9vv95sl0h0f9
+output-value: 546
+sat: 1838612588252048
+content-length: 59 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 10:44:29 UTC
+genesis-height: 792239
+genesis-fee: 7854
+genesis-transaction: 64b7a0f061cda289bf79f3faf21892074cfc58910621be226a205413c2946cc7
+location: 64b7a0f061cda289bf79f3faf21892074cfc58910621be226a205413c2946cc7:0:0
+output: 64b7a0f061cda289bf79f3faf21892074cfc58910621be226a205413c2946cc7:0
+offset: 0

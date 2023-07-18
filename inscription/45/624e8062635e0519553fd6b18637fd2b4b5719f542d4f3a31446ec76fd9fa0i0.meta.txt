@@ -1,0 +1,14 @@
+title: Inscription 5893
+id: 45624e8062635e0519553fd6b18637fd2b4b5719f542d4f3a31446ec76fd9fa0i0
+address: bc1p0u3els4rzt9xz7rn742hkmkcsfewj0g2hrxhewmv0tga46jy4rgq83ggfu
+output-value: 8629
+sat: 93444682429476
+content-length: 27455 bytes
+content-type: image/jpeg
+timestamp: 2023-02-06 05:14:46 UTC
+genesis-height: 775244
+genesis-fee: 17595
+genesis-transaction: 45624e8062635e0519553fd6b18637fd2b4b5719f542d4f3a31446ec76fd9fa0
+location: 00d53d5feb40bcc1bf43b8e0a4b263a043576a430de8a871160c7dcf6986d263:0:0
+output: 00d53d5feb40bcc1bf43b8e0a4b263a043576a430de8a871160c7dcf6986d263:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 449
+id: 0591d09ea548cbe3ae29a5d2108114c9354895c3b6bf1e79bbb09f7903892bcei0
+address: bc1pj8fyj97k9e68k6lfgmtvyte8cvwqn48h3l2fx5hx27c4pspjfqjsqztdlq
+output-value: 4294
+sat: 1527376859552447
+content-length: 477 bytes
+content-type: image/png
+timestamp: 2023-02-01 01:36:30 UTC
+genesis-height: 774518
+genesis-fee: 5080
+genesis-transaction: 0591d09ea548cbe3ae29a5d2108114c9354895c3b6bf1e79bbb09f7903892bce
+location: f74024ca574505691de7d9e1652ba72c7e965e13eb7b11438c7a9a45df0a5659:0:0
+output: f74024ca574505691de7d9e1652ba72c7e965e13eb7b11438c7a9a45df0a5659:0
+offset: 0

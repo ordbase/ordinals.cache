@@ -1,0 +1,14 @@
+title: Inscription 8711
+id: c39dd3e7ded25fadc54bbee8a58239113f352f15e42472b29de7804bdbd3ae41i0
+address: bc1ph5nhyl63wkx7ep5dwqkr38mmksyd5lxcgem5uy8l9tcxw96fpursyjnaet
+output-value: 10000
+sat: 1670324938724109
+content-length: 366 bytes
+content-type: image/png
+timestamp: 2023-02-06 23:17:45 UTC
+genesis-height: 775362
+genesis-fee: 1130
+genesis-transaction: c39dd3e7ded25fadc54bbee8a58239113f352f15e42472b29de7804bdbd3ae41
+location: c39dd3e7ded25fadc54bbee8a58239113f352f15e42472b29de7804bdbd3ae41:0:0
+output: c39dd3e7ded25fadc54bbee8a58239113f352f15e42472b29de7804bdbd3ae41:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 78
+id: 6215ebce1f8fa9712e5c20df714d73a4cd7741be974fc54e17d4151208114a7fi0
+address: bc1pu0h67czjt32wf8x3tyt2w88wep3fvhvsgv303z9qz3c57aqsqdpq2hyqzq
+output-value: 8668
+sat: 783628092847644
+content-length: 61651 bytes
+content-type: image/png
+timestamp: 2023-01-23 17:59:58 UTC
+genesis-height: 773269
+genesis-fee: 31272
+genesis-transaction: 6215ebce1f8fa9712e5c20df714d73a4cd7741be974fc54e17d4151208114a7f
+location: da6c7c9c9f0f4749709d79d85f958f8b67bcfb2710269e0bbc44d0047c675b76:0:0
+output: da6c7c9c9f0f4749709d79d85f958f8b67bcfb2710269e0bbc44d0047c675b76:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 6394
+id: fa908f6908f76f2c58e72ad4a8b028a32dd0a1c1403329d0810a5f89ea147c45i0
+address: bc1pr9eclcvk62ltkyl89se43tuaxhmd2zueesp7mrzp4cr3s402tsfsnk2jyt
+output-value: 8890
+sat: 900744243328491
+content-length: 305 bytes
+content-type: image/png
+timestamp: 2023-02-06 09:47:44 UTC
+genesis-height: 775273
+genesis-fee: 1688
+genesis-transaction: fa908f6908f76f2c58e72ad4a8b028a32dd0a1c1403329d0810a5f89ea147c45
+location: 8cc75bfdebb3f3e8815f56dd10da8777207880c8c47e1a417527f87e64c6410e:0:0
+output: 8cc75bfdebb3f3e8815f56dd10da8777207880c8c47e1a417527f87e64c6410e:0
+offset: 0

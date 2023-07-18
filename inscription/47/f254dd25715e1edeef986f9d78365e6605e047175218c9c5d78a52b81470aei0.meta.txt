@@ -1,0 +1,14 @@
+title: Inscription 10312303
+id: 47f254dd25715e1edeef986f9d78365e6605e047175218c9c5d78a52b81470aei0
+address: bc1perjnyv525zlszp8v9g3jmmtf4zhw30ucd6ysap74escaedzzj07snatu9z
+output-value: 546
+sat: 1936422086732908
+content-length: 77 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 13:06:55 UTC
+genesis-height: 792256
+genesis-fee: 11448
+genesis-transaction: 47f254dd25715e1edeef986f9d78365e6605e047175218c9c5d78a52b81470ae
+location: 47f254dd25715e1edeef986f9d78365e6605e047175218c9c5d78a52b81470ae:0:0
+output: 47f254dd25715e1edeef986f9d78365e6605e047175218c9c5d78a52b81470ae:0
+offset: 0

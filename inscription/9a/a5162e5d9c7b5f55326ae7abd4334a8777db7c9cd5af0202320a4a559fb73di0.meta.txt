@@ -1,0 +1,14 @@
+title: Inscription 8710
+id: 9aa5162e5d9c7b5f55326ae7abd4334a8777db7c9cd5af0202320a4a559fb73di0
+address: bc1pkh7j27r92jhfzhlncf93fwvc3glddyka768rgfp002ad7vyqk4gst00phl
+output-value: 10000
+sat: 1670324938635259
+content-length: 380 bytes
+content-type: image/png
+timestamp: 2023-02-06 23:17:45 UTC
+genesis-height: 775362
+genesis-fee: 1150
+genesis-transaction: 9aa5162e5d9c7b5f55326ae7abd4334a8777db7c9cd5af0202320a4a559fb73d
+location: 9aa5162e5d9c7b5f55326ae7abd4334a8777db7c9cd5af0202320a4a559fb73d:0:0
+output: 9aa5162e5d9c7b5f55326ae7abd4334a8777db7c9cd5af0202320a4a559fb73d:0
+offset: 0

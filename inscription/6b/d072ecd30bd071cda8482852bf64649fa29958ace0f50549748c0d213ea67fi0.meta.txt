@@ -1,0 +1,14 @@
+title: Inscription 14936649
+id: 6bd072ecd30bd071cda8482852bf64649fa29958ace0f50549748c0d213ea67fi0
+address: bc1qsjld85ncqt20h22awss5c4yvqqpvpx3rf4df40
+output-value: 546
+sat: 790971308003876
+content-length: 558 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-07-06 11:45:31 UTC
+genesis-height: 797429
+genesis-fee: 3600
+genesis-transaction: 6bd072ecd30bd071cda8482852bf64649fa29958ace0f50549748c0d213ea67f
+location: 6bd072ecd30bd071cda8482852bf64649fa29958ace0f50549748c0d213ea67f:0:0
+output: 6bd072ecd30bd071cda8482852bf64649fa29958ace0f50549748c0d213ea67f:0
+offset: 0

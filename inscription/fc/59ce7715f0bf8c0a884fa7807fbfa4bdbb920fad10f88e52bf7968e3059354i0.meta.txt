@@ -1,0 +1,14 @@
+title: Inscription 5527
+id: fc59ce7715f0bf8c0a884fa7807fbfa4bdbb920fad10f88e52bf7968e3059354i0
+address: bc1puc6hvzzx6rgx3ekwfwmg5va47pp942z2lj3pzq6plnfew52qy0dqkjsxj7
+output-value: 9556
+sat: 1891399272353274
+content-length: 44592 bytes
+content-type: image/jpeg
+timestamp: 2023-02-06 03:58:45 UTC
+genesis-height: 775234
+genesis-fee: 22694
+genesis-transaction: fc59ce7715f0bf8c0a884fa7807fbfa4bdbb920fad10f88e52bf7968e3059354
+location: 150eff7fe69a37dd41693d1b406cccd1dbe380cfb3da90c35dfa17257e1d9ce0:0:0
+output: 150eff7fe69a37dd41693d1b406cccd1dbe380cfb3da90c35dfa17257e1d9ce0:0
+offset: 0

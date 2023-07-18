@@ -1,0 +1,14 @@
+title: Inscription 3376
+id: bcb42b7bdc2c9a338a0e3c9a09553c397feaad949043dcdf6e20a89ee3a9b3dfi0
+address: bc1p3ydcwxvn499ucew8fdw5pmjmaxpepy98guankw5dmrz540grugwsym7k76
+output-value: 8446
+sat: 1926434491199800
+content-length: 53164 bytes
+content-type: image/jpeg
+timestamp: 2023-02-05 03:32:38 UTC
+genesis-height: 775088
+genesis-fee: 13502
+genesis-transaction: bcb42b7bdc2c9a338a0e3c9a09553c397feaad949043dcdf6e20a89ee3a9b3df
+location: 7c8b23741a3c6682ff11515ff56f6497d0af62e2c7c33953735b08db4b886c46:0:0
+output: 7c8b23741a3c6682ff11515ff56f6497d0af62e2c7c33953735b08db4b886c46:0
+offset: 0

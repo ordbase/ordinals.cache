@@ -1,0 +1,14 @@
+title: Inscription 13077939
+id: 576ab68cf670a05199b159ca23079cacc3d5621b9e1653438a287614e7b72c56i0
+address: bc1pqlncqfmu4tx3tyqt7sqccyf0ycgfj6rqpurh2wls5zjpflx040uq94pyyx
+output-value: 546
+sat: 1681308671953915
+content-length: 518 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-21 21:14:10 UTC
+genesis-height: 795359
+genesis-fee: 15652
+genesis-transaction: 576ab68cf670a05199b159ca23079cacc3d5621b9e1653438a287614e7b72c56
+location: 576ab68cf670a05199b159ca23079cacc3d5621b9e1653438a287614e7b72c56:0:0
+output: 576ab68cf670a05199b159ca23079cacc3d5621b9e1653438a287614e7b72c56:0
+offset: 0

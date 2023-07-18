@@ -1,0 +1,14 @@
+title: Inscription 10368138
+id: c98856e2ca782645bbc9a4a0de593fab361f1a7a31a1868add3bcda3836aab49i0
+address: bc1qgwqy3xaha8n0twsg3vdu00av2mf4rc8cu5ljuh
+output-value: 546
+sat: 333322293454251
+content-length: 66 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 03:35:25 UTC
+genesis-height: 792332
+genesis-fee: 11550
+genesis-transaction: c98856e2ca782645bbc9a4a0de593fab361f1a7a31a1868add3bcda3836aab49
+location: c98856e2ca782645bbc9a4a0de593fab361f1a7a31a1868add3bcda3836aab49:0:0
+output: c98856e2ca782645bbc9a4a0de593fab361f1a7a31a1868add3bcda3836aab49:0
+offset: 0

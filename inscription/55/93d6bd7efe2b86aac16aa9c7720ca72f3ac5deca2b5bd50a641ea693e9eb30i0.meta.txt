@@ -1,0 +1,14 @@
+title: Inscription 10372092
+id: 5593d6bd7efe2b86aac16aa9c7720ca72f3ac5deca2b5bd50a641ea693e9eb30i0
+address: bc1pf7hphxv9d0f2uyqpc4xucugsc6ks6hs6s5mc3ykv3xuajdpwnuls8qnxxx
+output-value: 546
+sat: 1882772911216823
+content-length: 68 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 05:03:24 UTC
+genesis-height: 792338
+genesis-fee: 5652
+genesis-transaction: 5593d6bd7efe2b86aac16aa9c7720ca72f3ac5deca2b5bd50a641ea693e9eb30
+location: 5593d6bd7efe2b86aac16aa9c7720ca72f3ac5deca2b5bd50a641ea693e9eb30:0:0
+output: 5593d6bd7efe2b86aac16aa9c7720ca72f3ac5deca2b5bd50a641ea693e9eb30:0
+offset: 0

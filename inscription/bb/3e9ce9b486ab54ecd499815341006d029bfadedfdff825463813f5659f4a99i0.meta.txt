@@ -1,0 +1,14 @@
+title: Inscription 57330
+id: bb3e9ce9b486ab54ecd499815341006d029bfadedfdff825463813f5659f4a99i0
+address: bc1phy8csj5720pcvvl50rp8n5es0ys4x8p2jk72txfayvrayfdhne3qk7k93z
+output-value: 10000
+sat: 1532884310534364
+content-length: 316 bytes
+content-type: image/png
+timestamp: 2023-02-11 17:28:10 UTC
+genesis-height: 776061
+genesis-fee: 7490
+genesis-transaction: bb3e9ce9b486ab54ecd499815341006d029bfadedfdff825463813f5659f4a99
+location: bb3e9ce9b486ab54ecd499815341006d029bfadedfdff825463813f5659f4a99:0:0
+output: bb3e9ce9b486ab54ecd499815341006d029bfadedfdff825463813f5659f4a99:0
+offset: 0

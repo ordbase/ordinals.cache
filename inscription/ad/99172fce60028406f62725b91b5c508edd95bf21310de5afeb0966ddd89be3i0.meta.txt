@@ -1,0 +1,14 @@
+title: Inscription 73
+id: ad99172fce60028406f62725b91b5c508edd95bf21310de5afeb0966ddd89be3i0
+address: bc1p8ld0jt8cx30g48mp7u9ehud3qfgl57h37mp7sudv9y4dfuw2uz4s3y79p8
+output-value: 10000
+sat: 1368034374266536
+content-length: 201636 bytes
+content-type: audio/mpeg
+timestamp: 2023-01-23 08:09:17 UTC
+genesis-height: 773209
+genesis-fee: 50835
+genesis-transaction: ad99172fce60028406f62725b91b5c508edd95bf21310de5afeb0966ddd89be3
+location: ad99172fce60028406f62725b91b5c508edd95bf21310de5afeb0966ddd89be3:0:0
+output: ad99172fce60028406f62725b91b5c508edd95bf21310de5afeb0966ddd89be3:0
+offset: 0

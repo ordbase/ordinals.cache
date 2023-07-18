@@ -1,0 +1,14 @@
+title: Inscription 11341616
+id: a55d7c4a3aeef96a13e121dde930c5bf21175797419c55644a9fa06b6a002067i0
+address: bc1p75xeda85p08uw2jyg4l7vuw477rhdawlyga2f7ugq7ug99qc4e6qqgdkd6
+output-value: 546
+sat: 1938970368721547
+content-length: 65 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-10 17:46:39 UTC
+genesis-height: 793740
+genesis-fee: 2028
+genesis-transaction: a55d7c4a3aeef96a13e121dde930c5bf21175797419c55644a9fa06b6a002067
+location: a55d7c4a3aeef96a13e121dde930c5bf21175797419c55644a9fa06b6a002067:0:0
+output: a55d7c4a3aeef96a13e121dde930c5bf21175797419c55644a9fa06b6a002067:0
+offset: 0

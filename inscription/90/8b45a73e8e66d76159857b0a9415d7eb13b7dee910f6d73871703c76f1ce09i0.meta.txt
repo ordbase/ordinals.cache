@@ -1,0 +1,14 @@
+title: Inscription 9878
+id: 908b45a73e8e66d76159857b0a9415d7eb13b7dee910f6d73871703c76f1ce09i0
+address: bc1pk5szp5s4l9thutf303thauqqx39gydhrt7a2w4qhhrsqdpsp8enszyspdf
+output-value: 7780
+sat: 1053041541281256
+content-length: 813 bytes
+content-type: image/png
+timestamp: 2023-02-07 03:21:17 UTC
+genesis-height: 775385
+genesis-fee: 3390
+genesis-transaction: 908b45a73e8e66d76159857b0a9415d7eb13b7dee910f6d73871703c76f1ce09
+location: a60bb36c51443eec6368a1fb44ed5528959880c6766edbf28da42145fd572322:0:0
+output: a60bb36c51443eec6368a1fb44ed5528959880c6766edbf28da42145fd572322:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 11227498
+id: ba2b14eceba64f4c140d24748fb19f581f72eb98866ba34e2ff7cea33a71ac02i0
+address: bc1pxqeh4lhtxerhh0dzse9dscvqdymu3808xd3axjdh8wl046k55c6qnwxk72
+output-value: 546
+sat: 1900191677739049
+content-length: 77 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-09 07:46:20 UTC
+genesis-height: 793528
+genesis-fee: 3021
+genesis-transaction: ba2b14eceba64f4c140d24748fb19f581f72eb98866ba34e2ff7cea33a71ac02
+location: ba2b14eceba64f4c140d24748fb19f581f72eb98866ba34e2ff7cea33a71ac02:0:0
+output: ba2b14eceba64f4c140d24748fb19f581f72eb98866ba34e2ff7cea33a71ac02:0
+offset: 0

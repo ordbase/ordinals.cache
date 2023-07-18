@@ -1,0 +1,14 @@
+title: Inscription 10344764
+id: 57b9175f4cebf975163aee8204b3455274148881d735b454a8f814b897563acei0
+address: bc1py67xny0hh33esmvjvcw5grxjezru9qzxvdj0rngwvelhwfnqgqes7e6rxe
+output-value: 546
+sat: 1435804341768323
+content-length: 64 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 20:16:58 UTC
+genesis-height: 792300
+genesis-fee: 10920
+genesis-transaction: 57b9175f4cebf975163aee8204b3455274148881d735b454a8f814b897563ace
+location: 57b9175f4cebf975163aee8204b3455274148881d735b454a8f814b897563ace:0:0
+output: 57b9175f4cebf975163aee8204b3455274148881d735b454a8f814b897563ace:0
+offset: 0

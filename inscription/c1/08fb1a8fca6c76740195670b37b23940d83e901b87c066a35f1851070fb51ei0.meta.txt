@@ -1,0 +1,14 @@
+title: Inscription 12801666
+id: c108fb1a8fca6c76740195670b37b23940d83e901b87c066a35f1851070fb51ei0
+address: bc1ptnc2cnfpcsz4mz0haqywa023am78vyjhugxha63f8ua30c73nmfswvw22g
+output-value: 546
+sat: 1657138593767708
+content-length: 70 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-19 18:30:34 UTC
+genesis-height: 795083
+genesis-fee: 3140
+genesis-transaction: c108fb1a8fca6c76740195670b37b23940d83e901b87c066a35f1851070fb51e
+location: c108fb1a8fca6c76740195670b37b23940d83e901b87c066a35f1851070fb51e:0:0
+output: c108fb1a8fca6c76740195670b37b23940d83e901b87c066a35f1851070fb51e:0
+offset: 0

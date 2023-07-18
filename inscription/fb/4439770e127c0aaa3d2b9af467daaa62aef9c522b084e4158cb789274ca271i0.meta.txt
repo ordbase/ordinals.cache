@@ -1,0 +1,14 @@
+title: Inscription 10370323
+id: fb4439770e127c0aaa3d2b9af467daaa62aef9c522b084e4158cb789274ca271i0
+address: bc1prfq7pft425tzrdh64g0322dd6xf30j3wun7tqzy5clv49r07fjxsmd4smw
+output-value: 546
+sat: 792502044011449
+content-length: 67 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 04:58:29 UTC
+genesis-height: 792336
+genesis-fee: 7065
+genesis-transaction: fb4439770e127c0aaa3d2b9af467daaa62aef9c522b084e4158cb789274ca271
+location: fb4439770e127c0aaa3d2b9af467daaa62aef9c522b084e4158cb789274ca271:0:0
+output: fb4439770e127c0aaa3d2b9af467daaa62aef9c522b084e4158cb789274ca271:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 12801911
+id: 1145d88397f22b2f49637c82a0bf98f6e93ae53e679dfbf007d0d0c184459e1bi0
+address: bc1ph08g6w4kmh64clr5esg2t53eagkku5syyqz5gjqwy89gfkefngxqzlq803
+output-value: 546
+sat: 1657138593934882
+content-length: 70 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-19 18:32:24 UTC
+genesis-height: 795084
+genesis-fee: 3140
+genesis-transaction: 1145d88397f22b2f49637c82a0bf98f6e93ae53e679dfbf007d0d0c184459e1b
+location: 1145d88397f22b2f49637c82a0bf98f6e93ae53e679dfbf007d0d0c184459e1b:0:0
+output: 1145d88397f22b2f49637c82a0bf98f6e93ae53e679dfbf007d0d0c184459e1b:0
+offset: 0

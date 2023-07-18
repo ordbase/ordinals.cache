@@ -1,0 +1,14 @@
+title: Inscription 54344
+id: 96c942bef00b554fa987a84ce8619f79ba3d62ead59e15b67f51b5b2147caf03i0
+address: bc1pt9tpnersyytpv4j7u86avnj5wqphteuc95mhgf747clwnd6mq93qqje2yu
+output-value: 10000
+sat: 1532884309842432
+content-length: 347 bytes
+content-type: image/png
+timestamp: 2023-02-11 09:10:51 UTC
+genesis-height: 776008
+genesis-fee: 4440
+genesis-transaction: 96c942bef00b554fa987a84ce8619f79ba3d62ead59e15b67f51b5b2147caf03
+location: 96c942bef00b554fa987a84ce8619f79ba3d62ead59e15b67f51b5b2147caf03:0:0
+output: 96c942bef00b554fa987a84ce8619f79ba3d62ead59e15b67f51b5b2147caf03:0
+offset: 0

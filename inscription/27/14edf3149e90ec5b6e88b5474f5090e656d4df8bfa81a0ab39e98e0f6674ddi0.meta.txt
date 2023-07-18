@@ -1,0 +1,14 @@
+title: Inscription 10518307
+id: 2714edf3149e90ec5b6e88b5474f5090e656d4df8bfa81a0ab39e98e0f6674ddi0
+address: bc1pv8hj9nxvs46dk3yv43u0u4jhfalfvzmvjj3d7rejgl343exzugfs0ayque
+output-value: 546
+sat: 1749358275968732
+content-length: 62 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-02 13:33:02 UTC
+genesis-height: 792547
+genesis-fee: 3348
+genesis-transaction: 2714edf3149e90ec5b6e88b5474f5090e656d4df8bfa81a0ab39e98e0f6674dd
+location: 2714edf3149e90ec5b6e88b5474f5090e656d4df8bfa81a0ab39e98e0f6674dd:0:0
+output: 2714edf3149e90ec5b6e88b5474f5090e656d4df8bfa81a0ab39e98e0f6674dd:0
+offset: 0

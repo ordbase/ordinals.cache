@@ -1,0 +1,14 @@
+title: Inscription 11080062
+id: 410ef36f655ded78ea1ff892204d4f57f1e1bdfaa37a3d9ce9d68f9315e7e9ebi0
+address: bc1pm9jy2waeua04snwj2spzp4yvxmzeakruyxxyzls9qvda5guznv8qq8u98m
+output-value: 546
+sat: 1631833440050274
+content-length: 71 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-07 23:01:12 UTC
+genesis-height: 793305
+genesis-fee: 11600
+genesis-transaction: 410ef36f655ded78ea1ff892204d4f57f1e1bdfaa37a3d9ce9d68f9315e7e9eb
+location: 410ef36f655ded78ea1ff892204d4f57f1e1bdfaa37a3d9ce9d68f9315e7e9eb:0:0
+output: 410ef36f655ded78ea1ff892204d4f57f1e1bdfaa37a3d9ce9d68f9315e7e9eb:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 25
+id: 562cd1136399f7a6568f41081f85c88145b87e7e70a3a53748a46902e6b84d60i0
+address: bc1pj9g55702aj2n45ctzneyc62la0ag0gvhzqnp6wgc0ul0wj3cnhzshh9pk5
+output-value: 10000
+sat: 1884778689339477
+content-length: 2612 bytes
+content-type: image/png
+timestamp: 2023-01-22 06:32:05 UTC
+genesis-height: 773043
+genesis-fee: 1582
+genesis-transaction: 562cd1136399f7a6568f41081f85c88145b87e7e70a3a53748a46902e6b84d60
+location: 562cd1136399f7a6568f41081f85c88145b87e7e70a3a53748a46902e6b84d60:0:0
+output: 562cd1136399f7a6568f41081f85c88145b87e7e70a3a53748a46902e6b84d60:0
+offset: 0

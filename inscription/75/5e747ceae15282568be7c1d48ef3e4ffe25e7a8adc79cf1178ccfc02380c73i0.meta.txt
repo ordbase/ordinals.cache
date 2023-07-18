@@ -1,0 +1,14 @@
+title: Inscription 15004426
+id: 755e747ceae15282568be7c1d48ef3e4ffe25e7a8adc79cf1178ccfc02380c73i0
+address: bc1pz7xl7vnekj5v8t87chlru8v3yn4luatcv3kszmutkckne0jxpvxs4nc5uy
+output-value: 546
+sat: 933566746557403
+content-length: 4120 bytes
+content-type: image/png
+timestamp: 2023-07-07 00:10:25 UTC
+genesis-height: 797509
+genesis-fee: 5860
+genesis-transaction: 755e747ceae15282568be7c1d48ef3e4ffe25e7a8adc79cf1178ccfc02380c73
+location: 755e747ceae15282568be7c1d48ef3e4ffe25e7a8adc79cf1178ccfc02380c73:0:0
+output: 755e747ceae15282568be7c1d48ef3e4ffe25e7a8adc79cf1178ccfc02380c73:0
+offset: 0

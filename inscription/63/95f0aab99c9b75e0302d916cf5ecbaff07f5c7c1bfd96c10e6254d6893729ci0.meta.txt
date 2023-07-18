@@ -1,0 +1,14 @@
+title: Inscription 437
+id: 6395f0aab99c9b75e0302d916cf5ecbaff07f5c7c1bfd96c10e6254d6893729ci0
+address: bc1p3f2wamdactyh7yhw3wkaanqg8seggc7uv56esk6ju5enc4j0h6xs9gpdxg
+output-value: 6800
+sat: 1527376859522247
+content-length: 477 bytes
+content-type: image/png
+timestamp: 2023-01-31 23:04:21 UTC
+genesis-height: 774506
+genesis-fee: 5080
+genesis-transaction: 6395f0aab99c9b75e0302d916cf5ecbaff07f5c7c1bfd96c10e6254d6893729c
+location: 9c7c27f5c4e57b81bd61a7a38888602537d28bd52d0e5c8b42b72f9861015e8e:0:0
+output: 9c7c27f5c4e57b81bd61a7a38888602537d28bd52d0e5c8b42b72f9861015e8e:0
+offset: 0

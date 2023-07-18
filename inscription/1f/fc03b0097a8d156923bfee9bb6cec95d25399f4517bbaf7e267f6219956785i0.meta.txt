@@ -1,0 +1,14 @@
+title: Inscription 1298
+id: 1ffc03b0097a8d156923bfee9bb6cec95d25399f4517bbaf7e267f6219956785i0
+address: bc1p7ryq7ufuns5glythcvf8sx73qznlcj84ga3y8nzn5450th7u7uwqgctm4z
+output-value: 8167
+sat: 973276237618135
+content-length: 27992 bytes
+content-type: image/jpeg
+timestamp: 2023-02-03 08:42:35 UTC
+genesis-height: 774846
+genesis-fee: 23886
+genesis-transaction: 1ffc03b0097a8d156923bfee9bb6cec95d25399f4517bbaf7e267f6219956785
+location: 462422f86b88452e5b193b9e46620bfe24466f4ab16e0f8aa8052963735451bd:0:0
+output: 462422f86b88452e5b193b9e46620bfe24466f4ab16e0f8aa8052963735451bd:0
+offset: 0

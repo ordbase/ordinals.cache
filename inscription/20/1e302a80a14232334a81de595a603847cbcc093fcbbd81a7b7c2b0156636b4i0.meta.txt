@@ -1,0 +1,14 @@
+title: Inscription 61401
+id: 201e302a80a14232334a81de595a603847cbcc093fcbbd81a7b7c2b0156636b4i0
+address: bc1pj3rd9nff7xcmj5xnl8mj7dqnpcjm9fl5yqhfmdqpu79d2cgg0v3qe9lusa
+output-value: 10000
+sat: 309511306374092
+content-length: 369 bytes
+content-type: image/png
+timestamp: 2023-02-12 04:12:17 UTC
+genesis-height: 776130
+genesis-fee: 5675
+genesis-transaction: 201e302a80a14232334a81de595a603847cbcc093fcbbd81a7b7c2b0156636b4
+location: 201e302a80a14232334a81de595a603847cbcc093fcbbd81a7b7c2b0156636b4:0:0
+output: 201e302a80a14232334a81de595a603847cbcc093fcbbd81a7b7c2b0156636b4:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 10372127
+id: a72412466051c90643037556d23242b51965449d414f2d3db2f961d1eba7ec8ai0
+address: bc1p05cmavyfzx4a9h63n5vqwplkf6wtutumwlk8q4aukll5rgz724eq97t55x
+output-value: 546
+sat: 962992742259207
+content-length: 66 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 05:03:24 UTC
+genesis-height: 792338
+genesis-fee: 6732
+genesis-transaction: a72412466051c90643037556d23242b51965449d414f2d3db2f961d1eba7ec8a
+location: a72412466051c90643037556d23242b51965449d414f2d3db2f961d1eba7ec8a:0:0
+output: a72412466051c90643037556d23242b51965449d414f2d3db2f961d1eba7ec8a:0
+offset: 0

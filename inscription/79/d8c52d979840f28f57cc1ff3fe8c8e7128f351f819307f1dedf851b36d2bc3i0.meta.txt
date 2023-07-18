@@ -1,0 +1,14 @@
+title: Inscription 10386304
+id: 79d8c52d979840f28f57cc1ff3fe8c8e7128f351f819307f1dedf851b36d2bc3i0
+address: bc1qfuplslks3u6lh4gf08k6zl2ztj3pa3jlnl4t5t
+output-value: 546
+sat: 1609848391929439
+content-length: 67 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 10:12:03 UTC
+genesis-height: 792362
+genesis-fee: 4752
+genesis-transaction: 79d8c52d979840f28f57cc1ff3fe8c8e7128f351f819307f1dedf851b36d2bc3
+location: 79d8c52d979840f28f57cc1ff3fe8c8e7128f351f819307f1dedf851b36d2bc3:0:0
+output: 79d8c52d979840f28f57cc1ff3fe8c8e7128f351f819307f1dedf851b36d2bc3:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 11210291
+id: fc2dab818e25973becb85ea83accc17196e58ba1cd9b4fd0d31e9da4fa0d4211i0
+address: bc1py2j2zn40utaewxvhh8jlvvdmkfgd6wqhzdtvd664tlxsx7cc329syee4fw
+output-value: 546
+sat: 1182209032870180
+content-length: 67 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-09 04:10:00 UTC
+genesis-height: 793498
+genesis-fee: 4888
+genesis-transaction: fc2dab818e25973becb85ea83accc17196e58ba1cd9b4fd0d31e9da4fa0d4211
+location: fc2dab818e25973becb85ea83accc17196e58ba1cd9b4fd0d31e9da4fa0d4211:0:0
+output: fc2dab818e25973becb85ea83accc17196e58ba1cd9b4fd0d31e9da4fa0d4211:0
+offset: 0

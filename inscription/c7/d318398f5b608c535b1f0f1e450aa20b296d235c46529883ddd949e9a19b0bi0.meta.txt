@@ -1,0 +1,14 @@
+title: Inscription 10004138
+id: c7d318398f5b608c535b1f0f1e450aa20b296d235c46529883ddd949e9a19b0bi0
+address: bc1qjedwja94arultegw64etznltn3t0wh7vz355n4
+output-value: 546
+sat: 198901347682269
+content-length: 62 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-29 23:13:47 UTC
+genesis-height: 792014
+genesis-fee: 10725
+genesis-transaction: c7d318398f5b608c535b1f0f1e450aa20b296d235c46529883ddd949e9a19b0b
+location: c7d318398f5b608c535b1f0f1e450aa20b296d235c46529883ddd949e9a19b0b:0:0
+output: c7d318398f5b608c535b1f0f1e450aa20b296d235c46529883ddd949e9a19b0b:0
+offset: 0

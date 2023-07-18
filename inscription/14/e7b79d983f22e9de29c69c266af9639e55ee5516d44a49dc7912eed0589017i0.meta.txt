@@ -1,0 +1,14 @@
+title: Inscription 15682743
+id: 14e7b79d983f22e9de29c69c266af9639e55ee5516d44a49dc7912eed0589017i0
+address: bc1psgxtlkxxtuprfj0fj89zsq6g8qw3aduu7v3lk5kqqv4eq3k8yu5qr82243
+output-value: 546
+sat: 877548969121734
+content-length: 47 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-07-09 02:34:23 UTC
+genesis-height: 797879
+genesis-fee: 1281
+genesis-transaction: 14e7b79d983f22e9de29c69c266af9639e55ee5516d44a49dc7912eed0589017
+location: 14e7b79d983f22e9de29c69c266af9639e55ee5516d44a49dc7912eed0589017:0:0
+output: 14e7b79d983f22e9de29c69c266af9639e55ee5516d44a49dc7912eed0589017:0
+offset: 0

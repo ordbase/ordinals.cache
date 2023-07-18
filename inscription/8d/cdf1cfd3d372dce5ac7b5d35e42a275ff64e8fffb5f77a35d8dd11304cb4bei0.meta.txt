@@ -1,0 +1,14 @@
+title: Inscription 10368651
+id: 8dcdf1cfd3d372dce5ac7b5d35e42a275ff64e8fffb5f77a35d8dd11304cb4bei0
+address: bc1p0j7zpr9ytxmtemwp57aj2c92ce2nsyylq0wk2zez40cfqyrh6y8s98p5md
+output-value: 546
+sat: 1469790150646957
+content-length: 66 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 03:48:26 UTC
+genesis-height: 792333
+genesis-fee: 8789
+genesis-transaction: 8dcdf1cfd3d372dce5ac7b5d35e42a275ff64e8fffb5f77a35d8dd11304cb4be
+location: 8dcdf1cfd3d372dce5ac7b5d35e42a275ff64e8fffb5f77a35d8dd11304cb4be:0:0
+output: 8dcdf1cfd3d372dce5ac7b5d35e42a275ff64e8fffb5f77a35d8dd11304cb4be:0
+offset: 0

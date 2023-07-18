@@ -1,0 +1,14 @@
+title: Inscription 1297
+id: 45952f54a7177a42f72005c4ec047a49c699c606678d24a8a850cbb29a0171dci0
+address: bc1p6etx6e2j96dfuzxdycnumhmnpxym37u9j7k44elv6kz894wekf4qfux30v
+output-value: 9465
+sat: 973276237342635
+content-length: 43947 bytes
+content-type: image/jpeg
+timestamp: 2023-02-03 08:42:35 UTC
+genesis-height: 774846
+genesis-fee: 37246
+genesis-transaction: 45952f54a7177a42f72005c4ec047a49c699c606678d24a8a850cbb29a0171dc
+location: d396e0d90a0303ac664a06cc5148d1ee927b9f36d6a0f1d7ad3ed481a667b027:0:0
+output: d396e0d90a0303ac664a06cc5148d1ee927b9f36d6a0f1d7ad3ed481a667b027:0
+offset: 0

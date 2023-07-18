@@ -1,0 +1,14 @@
+title: Inscription 15134912
+id: 446bec1fcad0f3404ddb547970624cf04628b8ca2f3727110d9c1980965077b6i0
+address: bc1prltpke7zmsad44qwu7g3kdqg4fzyu345k4y5sjq3gfecmd0al4ls9j4fmy
+output-value: 546
+sat: 410024400224725
+content-length: 33 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-07-07 09:32:49 UTC
+genesis-height: 797571
+genesis-fee: 1074
+genesis-transaction: 446bec1fcad0f3404ddb547970624cf04628b8ca2f3727110d9c1980965077b6
+location: 446bec1fcad0f3404ddb547970624cf04628b8ca2f3727110d9c1980965077b6:0:0
+output: 446bec1fcad0f3404ddb547970624cf04628b8ca2f3727110d9c1980965077b6:0
+offset: 0

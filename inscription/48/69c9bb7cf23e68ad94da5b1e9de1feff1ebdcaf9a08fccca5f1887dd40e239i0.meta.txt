@@ -1,0 +1,14 @@
+title: Inscription 12359716
+id: 4869c9bb7cf23e68ad94da5b1e9de1feff1ebdcaf9a08fccca5f1887dd40e239i0
+address: bc1p8c633u900pdreu2v4sqwlzp2ya3nqe76rdctzd8y4ty5fsgtn7aqgv60hu
+output-value: 546
+sat: 895805146751324
+content-length: 208 bytes
+content-type: image/png
+timestamp: 2023-06-17 17:27:32 UTC
+genesis-height: 794784
+genesis-fee: 5880
+genesis-transaction: 4869c9bb7cf23e68ad94da5b1e9de1feff1ebdcaf9a08fccca5f1887dd40e239
+location: 4869c9bb7cf23e68ad94da5b1e9de1feff1ebdcaf9a08fccca5f1887dd40e239:0:0
+output: 4869c9bb7cf23e68ad94da5b1e9de1feff1ebdcaf9a08fccca5f1887dd40e239:0
+offset: 0

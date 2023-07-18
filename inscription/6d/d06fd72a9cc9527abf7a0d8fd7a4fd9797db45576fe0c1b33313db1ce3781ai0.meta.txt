@@ -1,0 +1,14 @@
+title: Inscription 15122850
+id: 6dd06fd72a9cc9527abf7a0d8fd7a4fd9797db45576fe0c1b33313db1ce3781ai0
+address: bc1p7mkcd9qqftvnqv4a3j2sjnxpqjf53lmrnuw9n8rp7ve385mr9wyqs8pjca
+output-value: 590
+sat: 1934775684388584
+content-length: 36 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-07-07 08:54:18 UTC
+genesis-height: 797567
+genesis-fee: 732
+genesis-transaction: 6dd06fd72a9cc9527abf7a0d8fd7a4fd9797db45576fe0c1b33313db1ce3781a
+location: 6dd06fd72a9cc9527abf7a0d8fd7a4fd9797db45576fe0c1b33313db1ce3781a:0:0
+output: 6dd06fd72a9cc9527abf7a0d8fd7a4fd9797db45576fe0c1b33313db1ce3781a:0
+offset: 0

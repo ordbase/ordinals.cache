@@ -1,0 +1,14 @@
+title: Inscription 11517429
+id: 999747516041e06cd2bf1998ab121b66f5ef4fd3dd75c14a0f172613e1d42a4ci0
+address: bc1pax8u27hjz6ue80zy9wn926cugc62kt5hvx4da2gfweppjxl7tews5qyzn0
+output-value: 546
+sat: 1923953379194745
+content-length: 73 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-11 15:50:48 UTC
+genesis-height: 793913
+genesis-fee: 1422
+genesis-transaction: 999747516041e06cd2bf1998ab121b66f5ef4fd3dd75c14a0f172613e1d42a4c
+location: 999747516041e06cd2bf1998ab121b66f5ef4fd3dd75c14a0f172613e1d42a4c:0:0
+output: 999747516041e06cd2bf1998ab121b66f5ef4fd3dd75c14a0f172613e1d42a4c:0
+offset: 0

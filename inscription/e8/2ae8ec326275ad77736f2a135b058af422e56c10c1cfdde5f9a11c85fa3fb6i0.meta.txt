@@ -1,0 +1,14 @@
+title: Inscription 58518
+id: e82ae8ec326275ad77736f2a135b058af422e56c10c1cfdde5f9a11c85fa3fb6i0
+address: bc1pnmmptprzkx7a4zkqr8a0qx4fzeah0q7h9chmarnzd2sdltf46ehstmf8f4
+output-value: 10000
+sat: 1393333299229151
+content-length: 383 bytes
+content-type: image/png
+timestamp: 2023-02-11 21:07:15 UTC
+genesis-height: 776088
+genesis-fee: 8085
+genesis-transaction: e82ae8ec326275ad77736f2a135b058af422e56c10c1cfdde5f9a11c85fa3fb6
+location: e82ae8ec326275ad77736f2a135b058af422e56c10c1cfdde5f9a11c85fa3fb6:0:0
+output: e82ae8ec326275ad77736f2a135b058af422e56c10c1cfdde5f9a11c85fa3fb6:0
+offset: 0

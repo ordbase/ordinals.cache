@@ -1,0 +1,14 @@
+title: Inscription 84
+id: e2b924bb95af7598bef13a3e5c3540c32564460e2db1312f895ca0a96edda81ci0
+address: bc1p8jj5s2u89l7fsclnpsvdua4vmxug6tfcay5eemeh640ajjxyv8gsqh3axn
+output-value: 10000
+sat: 765825158127349
+content-length: 82 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-01-25 01:32:30 UTC
+genesis-height: 773455
+genesis-fee: 158
+genesis-transaction: e2b924bb95af7598bef13a3e5c3540c32564460e2db1312f895ca0a96edda81c
+location: e2b924bb95af7598bef13a3e5c3540c32564460e2db1312f895ca0a96edda81c:0:0
+output: e2b924bb95af7598bef13a3e5c3540c32564460e2db1312f895ca0a96edda81c:0
+offset: 0

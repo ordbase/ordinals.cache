@@ -1,0 +1,14 @@
+title: Inscription 13079968
+id: ea158398b208bced849c842d60913b82de5109d7e788e4c9dcf5a377e0cbdfd0i0
+address: bc1ptmf2m6rw7d46chmy6el05ysxtvkpn3x76cx28myaunzel8yvflxq32wxlk
+output-value: 546
+sat: 1057883314593070
+content-length: 583 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-21 23:14:19 UTC
+genesis-height: 795367
+genesis-fee: 11130
+genesis-transaction: ea158398b208bced849c842d60913b82de5109d7e788e4c9dcf5a377e0cbdfd0
+location: ea158398b208bced849c842d60913b82de5109d7e788e4c9dcf5a377e0cbdfd0:0:0
+output: ea158398b208bced849c842d60913b82de5109d7e788e4c9dcf5a377e0cbdfd0:0
+offset: 0

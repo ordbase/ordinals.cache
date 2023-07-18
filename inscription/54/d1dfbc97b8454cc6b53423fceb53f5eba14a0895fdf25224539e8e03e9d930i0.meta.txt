@@ -1,0 +1,14 @@
+title: Inscription 6457
+id: 54d1dfbc97b8454cc6b53423fceb53f5eba14a0895fdf25224539e8e03e9d930i0
+address: bc1pay90d32sr3lhvtrqeknutc2zns0gyyyc75drl2tlukauy52k0smq2s4c9f
+output-value: 8890
+sat: 1741337420089220
+content-length: 376 bytes
+content-type: image/png
+timestamp: 2023-02-06 11:08:33 UTC
+genesis-height: 775279
+genesis-fee: 1145
+genesis-transaction: 54d1dfbc97b8454cc6b53423fceb53f5eba14a0895fdf25224539e8e03e9d930
+location: ab0fa4ce5653794ded6e9edde89c4836e903468ca9aefcdcfab80f4ad83ed544:0:0
+output: ab0fa4ce5653794ded6e9edde89c4836e903468ca9aefcdcfab80f4ad83ed544:0
+offset: 0

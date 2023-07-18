@@ -1,0 +1,14 @@
+title: Inscription 1008
+id: 6ba376c66c4e2c90075e3baf632e8d74b212c366948e77505416f17e8f6672cei0
+address: bc1pjrwmj0h5danlfu97tl9wanemu5e2l3u7ev9l5670tszgxuqwl8tqp9tgc3
+output-value: 10000
+sat: 973276237716608
+content-length: 20677 bytes
+content-type: image/jpeg
+timestamp: 2023-02-02 07:45:59 UTC
+genesis-height: 774698
+genesis-fee: 16002
+genesis-transaction: 6ba376c66c4e2c90075e3baf632e8d74b212c366948e77505416f17e8f6672ce
+location: d32f4b75f651cbde97dee8dc497538e25f8e61117cd86aa2cee144b5296e8084:0:0
+output: d32f4b75f651cbde97dee8dc497538e25f8e61117cd86aa2cee144b5296e8084:0
+offset: 0

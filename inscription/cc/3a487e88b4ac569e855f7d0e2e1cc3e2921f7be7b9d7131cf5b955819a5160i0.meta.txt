@@ -1,0 +1,14 @@
+title: Inscription 3000
+id: cc3a487e88b4ac569e855f7d0e2e1cc3e2921f7be7b9d7131cf5b955819a5160i0
+address: bc1pna485tc7k8mkmak6n5z0r8x5tx6f0y4s6vvw9wdqk7lc0yqaclus6wq078
+output-value: 8890
+sat: 986151604686758
+content-length: 53406 bytes
+content-type: image/jpeg
+timestamp: 2023-02-05 02:35:26 UTC
+genesis-height: 775081
+genesis-fee: 27126
+genesis-transaction: cc3a487e88b4ac569e855f7d0e2e1cc3e2921f7be7b9d7131cf5b955819a5160
+location: 33d786d6b674e2e60887dd5e4e10da04db1d08c85f15182b4b7b9956bc1e604d:0:0
+output: 33d786d6b674e2e60887dd5e4e10da04db1d08c85f15182b4b7b9956bc1e604d:0
+offset: 0

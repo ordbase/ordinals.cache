@@ -1,0 +1,14 @@
+title: Inscription 11517426
+id: 6b50cfadf45272653bfa31d3434946eb443c615e8e92ab4d6b4961578c5e3c0ci0
+address: bc1pax8u27hjz6ue80zy9wn926cugc62kt5hvx4da2gfweppjxl7tews5qyzn0
+output-value: 546
+sat: 1923953379188841
+content-length: 73 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-11 15:50:48 UTC
+genesis-height: 793913
+genesis-fee: 1422
+genesis-transaction: 6b50cfadf45272653bfa31d3434946eb443c615e8e92ab4d6b4961578c5e3c0c
+location: 6b50cfadf45272653bfa31d3434946eb443c615e8e92ab4d6b4961578c5e3c0c:0:0
+output: 6b50cfadf45272653bfa31d3434946eb443c615e8e92ab4d6b4961578c5e3c0c:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 1258
+id: 403d012c8ec4eb914a7b799c0632d16c11a9d6ae8acfa134179fd31b6188cd62i0
+address: bc1pdpvx447ekzr5s335h96g4lrvecutt6z779938md36g675kjd4t2q06mp7h
+output-value: 8890
+sat: 788085155637240
+content-length: 44011 bytes
+content-type: image/jpeg
+timestamp: 2023-02-03 06:53:57 UTC
+genesis-height: 774836
+genesis-fee: 22402
+genesis-transaction: 403d012c8ec4eb914a7b799c0632d16c11a9d6ae8acfa134179fd31b6188cd62
+location: 6c39f2f0738be8a0628ddd0a49ea84f6d92e02248b110a760f3008006f93a521:0:0
+output: 6c39f2f0738be8a0628ddd0a49ea84f6d92e02248b110a760f3008006f93a521:0
+offset: 0

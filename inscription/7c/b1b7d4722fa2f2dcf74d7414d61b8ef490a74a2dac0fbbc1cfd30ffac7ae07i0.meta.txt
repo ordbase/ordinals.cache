@@ -1,0 +1,14 @@
+title: Inscription 11072097
+id: 7cb1b7d4722fa2f2dcf74d7414d61b8ef490a74a2dac0fbbc1cfd30ffac7ae07i0
+address: bc1p75xeda85p08uw2jyg4l7vuw477rhdawlyga2f7ugq7ug99qc4e6qqgdkd6
+output-value: 546
+sat: 1901145613047365
+content-length: 63 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-07 16:08:53 UTC
+genesis-height: 793268
+genesis-fee: 15334
+genesis-transaction: 7cb1b7d4722fa2f2dcf74d7414d61b8ef490a74a2dac0fbbc1cfd30ffac7ae07
+location: 7cb1b7d4722fa2f2dcf74d7414d61b8ef490a74a2dac0fbbc1cfd30ffac7ae07:0:0
+output: 7cb1b7d4722fa2f2dcf74d7414d61b8ef490a74a2dac0fbbc1cfd30ffac7ae07:0
+offset: 0

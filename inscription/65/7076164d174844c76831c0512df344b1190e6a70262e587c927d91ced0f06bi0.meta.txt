@@ -1,0 +1,14 @@
+title: Inscription 10534634
+id: 657076164d174844c76831c0512df344b1190e6a70262e587c927d91ced0f06bi0
+address: bc1qwyez00luzuscnrvtyaywn0waetl0uplk09fdf8
+output-value: 546
+sat: 1853862877819414
+content-length: 74 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-02 15:15:07 UTC
+genesis-height: 792563
+genesis-fee: 3009
+genesis-transaction: 657076164d174844c76831c0512df344b1190e6a70262e587c927d91ced0f06b
+location: 657076164d174844c76831c0512df344b1190e6a70262e587c927d91ced0f06b:0:0
+output: 657076164d174844c76831c0512df344b1190e6a70262e587c927d91ced0f06b:0
+offset: 0

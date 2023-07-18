@@ -1,0 +1,14 @@
+title: Inscription 10345530
+id: 9d5aa924d0706adb9043241cb06a39659e537a6ed1dc34eb6b67bfa1111aaf9fi0
+address: bc1pfpt8qjrucdzkgr5ex7key0htphljg49uy2449wf8pdnus3dk6ccqg9tfpd
+output-value: 546
+sat: 1431738877543745
+content-length: 64 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 20:37:29 UTC
+genesis-height: 792301
+genesis-fee: 12480
+genesis-transaction: 9d5aa924d0706adb9043241cb06a39659e537a6ed1dc34eb6b67bfa1111aaf9f
+location: 9d5aa924d0706adb9043241cb06a39659e537a6ed1dc34eb6b67bfa1111aaf9f:0:0
+output: 9d5aa924d0706adb9043241cb06a39659e537a6ed1dc34eb6b67bfa1111aaf9f:0
+offset: 0

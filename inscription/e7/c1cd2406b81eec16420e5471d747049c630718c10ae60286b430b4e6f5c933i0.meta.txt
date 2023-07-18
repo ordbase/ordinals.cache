@@ -1,0 +1,14 @@
+title: Inscription 15111919
+id: e7c1cd2406b81eec16420e5471d747049c630718c10ae60286b430b4e6f5c933i0
+address: bc1pjhgm2czjataa294rq65qvz4wzzff58yxr3qepgfmrpspmmfc7awq7d4jje
+output-value: 546
+sat: 769815147755698
+content-length: 32 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-07-07 08:24:58 UTC
+genesis-height: 797563
+genesis-fee: 895
+genesis-transaction: e7c1cd2406b81eec16420e5471d747049c630718c10ae60286b430b4e6f5c933
+location: e7c1cd2406b81eec16420e5471d747049c630718c10ae60286b430b4e6f5c933:0:0
+output: e7c1cd2406b81eec16420e5471d747049c630718c10ae60286b430b4e6f5c933:0
+offset: 0

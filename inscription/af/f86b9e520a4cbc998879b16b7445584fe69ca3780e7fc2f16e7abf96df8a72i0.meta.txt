@@ -1,0 +1,14 @@
+title: Inscription 474
+id: aff86b9e520a4cbc998879b16b7445584fe69ca3780e7fc2f16e7abf96df8a72i0
+address: bc1p44l9vhc49e7y8y0dd33fc6frea5a9uxslf4jg3lrxapelqzn4w2qcygjl0
+output-value: 4007762
+sat: 1165465340996805
+content-length: 386 bytes
+content-type: image/png
+timestamp: 2023-02-01 03:55:44 UTC
+genesis-height: 774531
+genesis-fee: 4620
+genesis-transaction: aff86b9e520a4cbc998879b16b7445584fe69ca3780e7fc2f16e7abf96df8a72
+location: 73e4bb17211c28a783a6111ec42e5aa18bae425cb8a0123b375e76189e3bf401:0:0
+output: 73e4bb17211c28a783a6111ec42e5aa18bae425cb8a0123b375e76189e3bf401:0
+offset: 0

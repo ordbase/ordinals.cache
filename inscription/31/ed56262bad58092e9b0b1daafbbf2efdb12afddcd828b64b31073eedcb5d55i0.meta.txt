@@ -1,0 +1,14 @@
+title: Inscription 10369981
+id: 31ed56262bad58092e9b0b1daafbbf2efdb12afddcd828b64b31073eedcb5d55i0
+address: bc1pg2pl32wpfu0rpy5j46cjtcrzram3zcz0fdr438u8gyfe29hpduls3peylt
+output-value: 546
+sat: 712217233473248
+content-length: 66 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 04:54:04 UTC
+genesis-height: 792335
+genesis-fee: 9828
+genesis-transaction: 31ed56262bad58092e9b0b1daafbbf2efdb12afddcd828b64b31073eedcb5d55
+location: 31ed56262bad58092e9b0b1daafbbf2efdb12afddcd828b64b31073eedcb5d55:0:0
+output: 31ed56262bad58092e9b0b1daafbbf2efdb12afddcd828b64b31073eedcb5d55:0
+offset: 0

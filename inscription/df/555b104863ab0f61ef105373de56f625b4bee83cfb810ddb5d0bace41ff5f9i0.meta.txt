@@ -1,0 +1,14 @@
+title: Inscription 10370253
+id: df555b104863ab0f61ef105373de56f625b4bee83cfb810ddb5d0bace41ff5f9i0
+address: bc1pwyvnn5qjvq8rd9ewqnf2dg0700vvx625thdtsdhvnh2whx4cqu3q6y5sy9
+output-value: 546
+sat: 1376579407245667
+content-length: 68 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 04:58:29 UTC
+genesis-height: 792336
+genesis-fee: 16560
+genesis-transaction: df555b104863ab0f61ef105373de56f625b4bee83cfb810ddb5d0bace41ff5f9
+location: df555b104863ab0f61ef105373de56f625b4bee83cfb810ddb5d0bace41ff5f9:0:0
+output: df555b104863ab0f61ef105373de56f625b4bee83cfb810ddb5d0bace41ff5f9:0
+offset: 0

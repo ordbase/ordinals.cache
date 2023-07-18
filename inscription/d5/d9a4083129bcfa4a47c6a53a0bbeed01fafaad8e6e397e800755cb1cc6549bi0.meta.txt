@@ -1,0 +1,14 @@
+title: Inscription 10345039
+id: d5d9a4083129bcfa4a47c6a53a0bbeed01fafaad8e6e397e800755cb1cc6549bi0
+address: bc1pvta8equwv6m56xkx6f93a6re656ktxe2jemv3pl838q86hwn47wq5g5j0m
+output-value: 546
+sat: 1683090189626847
+content-length: 68 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 20:16:58 UTC
+genesis-height: 792300
+genesis-fee: 9577
+genesis-transaction: d5d9a4083129bcfa4a47c6a53a0bbeed01fafaad8e6e397e800755cb1cc6549b
+location: d5d9a4083129bcfa4a47c6a53a0bbeed01fafaad8e6e397e800755cb1cc6549b:0:0
+output: d5d9a4083129bcfa4a47c6a53a0bbeed01fafaad8e6e397e800755cb1cc6549b:0
+offset: 0

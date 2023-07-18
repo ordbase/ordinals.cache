@@ -1,0 +1,14 @@
+title: Inscription 8733
+id: 5506edab9712281d36793dec7b3cf73cebd0fb90f945b0690a0f0a2a892977b1i0
+address: bc1p9jrryedvh3fv6t8aa8ewjwkc4hpd59vr9jypm5phpvzjul5as3fsm3cucr
+output-value: 10000
+sat: 1670324938913236
+content-length: 332 bytes
+content-type: image/png
+timestamp: 2023-02-06 23:17:45 UTC
+genesis-height: 775362
+genesis-fee: 1090
+genesis-transaction: 5506edab9712281d36793dec7b3cf73cebd0fb90f945b0690a0f0a2a892977b1
+location: 5506edab9712281d36793dec7b3cf73cebd0fb90f945b0690a0f0a2a892977b1:0:0
+output: 5506edab9712281d36793dec7b3cf73cebd0fb90f945b0690a0f0a2a892977b1:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 44
+id: b375bcce16c91f3def7871933f1696dd3681199e0f23e90d980a87dbf57e6699i0
+address: bc1puraekhsqn7qrwfsrddfw9mmzga6fk2exhnsnq60j5uqsh738gxfsxeze44
+output-value: 10000
+sat: 1904399609019913
+content-length: 2577 bytes
+content-type: image/png
+timestamp: 2023-01-22 10:55:07 UTC
+genesis-height: 773068
+genesis-fee: 1564
+genesis-transaction: b375bcce16c91f3def7871933f1696dd3681199e0f23e90d980a87dbf57e6699
+location: b375bcce16c91f3def7871933f1696dd3681199e0f23e90d980a87dbf57e6699:0:0
+output: b375bcce16c91f3def7871933f1696dd3681199e0f23e90d980a87dbf57e6699:0
+offset: 0

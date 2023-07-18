@@ -1,0 +1,14 @@
+title: Inscription 1254
+id: c8fa042e40ad7b4ff294056319df928432f95e1dadafabd07ad10cf6c4d7c028i0
+address: bc1pkmvrvhd5f2z0nsz5gjjk56j0jeq5uku3c033qjqymn37jq2ld3qqxgzceh
+output-value: 8668
+sat: 694566717539633
+content-length: 33810 bytes
+content-type: image/jpeg
+timestamp: 2023-02-03 06:53:57 UTC
+genesis-height: 774836
+genesis-fee: 17272
+genesis-transaction: c8fa042e40ad7b4ff294056319df928432f95e1dadafabd07ad10cf6c4d7c028
+location: 529b1e6409a57d9dc73430b1d77037c6d310c88f111abf5967efd15b1a5641cf:0:0
+output: 529b1e6409a57d9dc73430b1d77037c6d310c88f111abf5967efd15b1a5641cf:0
+offset: 0

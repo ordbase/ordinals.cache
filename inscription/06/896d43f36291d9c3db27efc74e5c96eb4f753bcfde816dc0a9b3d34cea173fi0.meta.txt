@@ -1,0 +1,14 @@
+title: Inscription 10510632
+id: 06896d43f36291d9c3db27efc74e5c96eb4f753bcfde816dc0a9b3d34cea173fi0
+address: bc1pvzexulq3f2e30jqu2hvhercdq5stdnkmlplt40nsx0r4g74v7c0szzft58
+output-value: 546
+sat: 1888175841979039
+content-length: 62 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-02 12:46:26 UTC
+genesis-height: 792539
+genesis-fee: 7130
+genesis-transaction: 06896d43f36291d9c3db27efc74e5c96eb4f753bcfde816dc0a9b3d34cea173f
+location: 06896d43f36291d9c3db27efc74e5c96eb4f753bcfde816dc0a9b3d34cea173f:0:0
+output: 06896d43f36291d9c3db27efc74e5c96eb4f753bcfde816dc0a9b3d34cea173f:0
+offset: 0

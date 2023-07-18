@@ -1,0 +1,14 @@
+title: Inscription 9654
+id: 721344a7d2088d496a89d963405e581ba812cab5d8081628a51a6895730f620ei0
+address: bc1phg2qt6qyk0qxjkphpnn0s66mcmmecnvmvnm8twd0yv4mf30ptdvsl9u3vs
+output-value: 10000
+sat: 1053041540970476
+content-length: 823 bytes
+content-type: image/png
+timestamp: 2023-02-07 03:10:31 UTC
+genesis-height: 775382
+genesis-fee: 2046
+genesis-transaction: 721344a7d2088d496a89d963405e581ba812cab5d8081628a51a6895730f620e
+location: 721344a7d2088d496a89d963405e581ba812cab5d8081628a51a6895730f620e:0:0
+output: 721344a7d2088d496a89d963405e581ba812cab5d8081628a51a6895730f620e:0
+offset: 0

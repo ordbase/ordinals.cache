@@ -1,0 +1,14 @@
+title: Inscription 12723293
+id: 014ad6ed6297bc4ed624b2856e036c6bde115d51eb7200b14e3b3413ad53db08i0
+address: bc1p8c633u900pdreu2v4sqwlzp2ya3nqe76rdctzd8y4ty5fsgtn7aqgv60hu
+output-value: 546
+sat: 1412547983883594
+content-length: 136 bytes
+content-type: image/png
+timestamp: 2023-06-19 04:42:04 UTC
+genesis-height: 795002
+genesis-fee: 7056
+genesis-transaction: 014ad6ed6297bc4ed624b2856e036c6bde115d51eb7200b14e3b3413ad53db08
+location: 014ad6ed6297bc4ed624b2856e036c6bde115d51eb7200b14e3b3413ad53db08:0:0
+output: 014ad6ed6297bc4ed624b2856e036c6bde115d51eb7200b14e3b3413ad53db08:0
+offset: 0

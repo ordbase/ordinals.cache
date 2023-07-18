@@ -1,0 +1,14 @@
+title: Inscription 10079234
+id: 9852cd9d277dd3a6332822738b6d08da6ab2eca2601cd70f3d1ad82b1311503fi0
+address: bc1q0j4uclg5njv827jqvu5ry828aq54hdp8kd5xp7
+output-value: 546
+sat: 1162834785336075
+content-length: 55 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-30 05:46:13 UTC
+genesis-height: 792058
+genesis-fee: 5680
+genesis-transaction: 9852cd9d277dd3a6332822738b6d08da6ab2eca2601cd70f3d1ad82b1311503f
+location: 9852cd9d277dd3a6332822738b6d08da6ab2eca2601cd70f3d1ad82b1311503f:0:0
+output: 9852cd9d277dd3a6332822738b6d08da6ab2eca2601cd70f3d1ad82b1311503f:0
+offset: 0

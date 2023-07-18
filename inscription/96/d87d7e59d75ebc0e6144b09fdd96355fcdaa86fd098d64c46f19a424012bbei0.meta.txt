@@ -1,0 +1,14 @@
+title: Inscription 537
+id: 96d87d7e59d75ebc0e6144b09fdd96355fcdaa86fd098d64c46f19a424012bbei0
+address: bc1pkg5zzvk84rczetszl8ytt249nhaf9wqzl6ph3mne8hw2srwlvyqssy2ucu
+output-value: 10000
+sat: 1694228180961724
+content-length: 381 bytes
+content-type: image/png
+timestamp: 2023-02-01 10:17:24 UTC
+genesis-height: 774567
+genesis-fee: 230
+genesis-transaction: 96d87d7e59d75ebc0e6144b09fdd96355fcdaa86fd098d64c46f19a424012bbe
+location: 96d87d7e59d75ebc0e6144b09fdd96355fcdaa86fd098d64c46f19a424012bbe:0:0
+output: 96d87d7e59d75ebc0e6144b09fdd96355fcdaa86fd098d64c46f19a424012bbe:0
+offset: 0

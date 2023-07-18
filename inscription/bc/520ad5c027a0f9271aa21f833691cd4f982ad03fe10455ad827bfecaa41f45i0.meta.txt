@@ -1,0 +1,14 @@
+title: Inscription 11435497
+id: bc520ad5c027a0f9271aa21f833691cd4f982ad03fe10455ad827bfecaa41f45i0
+address: bc1prd38ncvxp5gq642dqt58xjvaseejlmp3u8vruy89ly8tr2zll2hqa4cyxu
+output-value: 546
+sat: 1850444419297511
+content-length: 88 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-11 06:47:03 UTC
+genesis-height: 793845
+genesis-fee: 3860
+genesis-transaction: bc520ad5c027a0f9271aa21f833691cd4f982ad03fe10455ad827bfecaa41f45
+location: bc520ad5c027a0f9271aa21f833691cd4f982ad03fe10455ad827bfecaa41f45:0:0
+output: bc520ad5c027a0f9271aa21f833691cd4f982ad03fe10455ad827bfecaa41f45:0
+offset: 0

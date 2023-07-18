@@ -1,0 +1,14 @@
+title: Inscription 5884
+id: b5de226e3ee4c4b2ec13fce4524c049a3bf22ac65e7ad549b8356d6a2bd055c2i0
+address: bc1pslcnleu2qrjdxz68pkxrnd6ej2wulqx3zuz6655rhy3wa6du6dpshpcye7
+output-value: 10050
+sat: 1693800019667809
+content-length: 40543 bytes
+content-type: image/jpeg
+timestamp: 2023-02-06 05:14:46 UTC
+genesis-height: 775244
+genesis-fee: 25823
+genesis-transaction: b5de226e3ee4c4b2ec13fce4524c049a3bf22ac65e7ad549b8356d6a2bd055c2
+location: b5de226e3ee4c4b2ec13fce4524c049a3bf22ac65e7ad549b8356d6a2bd055c2:0:0
+output: b5de226e3ee4c4b2ec13fce4524c049a3bf22ac65e7ad549b8356d6a2bd055c2:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 15119412
+id: 67ae883b8a26dc6ead20e53406ffe068b3131c4a1de037fe457093618aa4a363i0
+address: bc1p2wc80e56x29tlmsq0wcu0lhsn6jzfzvacne828whla4pccck7mrql6ecuh
+output-value: 546
+sat: 1707016690983335
+content-length: 36 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-07-07 08:48:08 UTC
+genesis-height: 797566
+genesis-fee: 1260
+genesis-transaction: 67ae883b8a26dc6ead20e53406ffe068b3131c4a1de037fe457093618aa4a363
+location: 67ae883b8a26dc6ead20e53406ffe068b3131c4a1de037fe457093618aa4a363:0:0
+output: 67ae883b8a26dc6ead20e53406ffe068b3131c4a1de037fe457093618aa4a363:0
+offset: 0

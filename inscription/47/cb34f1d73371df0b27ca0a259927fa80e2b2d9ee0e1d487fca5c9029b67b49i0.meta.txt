@@ -1,0 +1,14 @@
+title: Inscription 12723298
+id: 47cb34f1d73371df0b27ca0a259927fa80e2b2d9ee0e1d487fca5c9029b67b49i0
+address: bc1p8c633u900pdreu2v4sqwlzp2ya3nqe76rdctzd8y4ty5fsgtn7aqgv60hu
+output-value: 546
+sat: 1412547983905092
+content-length: 95 bytes
+content-type: image/png
+timestamp: 2023-06-19 04:42:04 UTC
+genesis-height: 795002
+genesis-fee: 1920
+genesis-transaction: 47cb34f1d73371df0b27ca0a259927fa80e2b2d9ee0e1d487fca5c9029b67b49
+location: 47cb34f1d73371df0b27ca0a259927fa80e2b2d9ee0e1d487fca5c9029b67b49:0:0
+output: 47cb34f1d73371df0b27ca0a259927fa80e2b2d9ee0e1d487fca5c9029b67b49:0
+offset: 0

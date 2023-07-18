@@ -1,0 +1,14 @@
+title: Inscription 6486
+id: 368988ccd87e561f45b3f63757ea0cbdfe1b94929d016220bab6840d3da5bcd7i0
+address: bc1pl4jjuxp7ts2fpa8aedem4heq4tv3kmquhp3kajfvkxjg67hla24qy9nfjh
+output-value: 10000
+sat: 1871611713575599
+content-length: 337 bytes
+content-type: image/png
+timestamp: 2023-02-06 11:08:33 UTC
+genesis-height: 775279
+genesis-fee: 1095
+genesis-transaction: 368988ccd87e561f45b3f63757ea0cbdfe1b94929d016220bab6840d3da5bcd7
+location: 368988ccd87e561f45b3f63757ea0cbdfe1b94929d016220bab6840d3da5bcd7:0:0
+output: 368988ccd87e561f45b3f63757ea0cbdfe1b94929d016220bab6840d3da5bcd7:0
+offset: 0

@@ -1,0 +1,14 @@
+title: Inscription 5938
+id: e4508e8415fb76cd4d75f9cedb6ef4bcfbfa295d28ad79954d957d828dd9f983i0
+address: bc1p68n80wxfj3d824zh8vpxqm7wv26t83fe7zvdwplk9wnkhlx6sxhsc9e838
+output-value: 7842
+sat: 1693800019099250
+content-length: 29525 bytes
+content-type: image/jpeg
+timestamp: 2023-02-06 05:30:09 UTC
+genesis-height: 775245
+genesis-fee: 18895
+genesis-transaction: e4508e8415fb76cd4d75f9cedb6ef4bcfbfa295d28ad79954d957d828dd9f983
+location: 5cb2527d000f46931fb1a0b5695444ece11fe8d8cdd71cb8b07abdcbad6d59ac:0:0
+output: 5cb2527d000f46931fb1a0b5695444ece11fe8d8cdd71cb8b07abdcbad6d59ac:0
+offset: 0

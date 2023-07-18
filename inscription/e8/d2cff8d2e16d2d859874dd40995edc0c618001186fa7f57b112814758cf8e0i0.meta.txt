@@ -1,0 +1,14 @@
+title: Inscription 9862
+id: e8d2cff8d2e16d2d859874dd40995edc0c618001186fa7f57b112814758cf8e0i0
+address: bc1p4wkvaxpvlhwqt02amska4rlvh5rjtu3rp7vdy4svhldgawv0th6sx7222j
+output-value: 10000
+sat: 1053041541081598
+content-length: 691 bytes
+content-type: image/png
+timestamp: 2023-02-07 03:20:37 UTC
+genesis-height: 775384
+genesis-fee: 3080
+genesis-transaction: e8d2cff8d2e16d2d859874dd40995edc0c618001186fa7f57b112814758cf8e0
+location: e8d2cff8d2e16d2d859874dd40995edc0c618001186fa7f57b112814758cf8e0:0:0
+output: e8d2cff8d2e16d2d859874dd40995edc0c618001186fa7f57b112814758cf8e0:0
+offset: 0

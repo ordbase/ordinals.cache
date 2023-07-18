@@ -1,0 +1,14 @@
+title: Inscription 8559
+id: 640aa3d1961ed9d930b864fc5a6a25671c017103421c1f5cdd10f80218dbc909i0
+address: bc1pjjcnnqs4zqqywgnjc7cjay6gvklswyuuwd69dfa3meyxtqw695sssunr92
+output-value: 10000
+sat: 1670324938624109
+content-length: 380 bytes
+content-type: image/png
+timestamp: 2023-02-06 22:43:25 UTC
+genesis-height: 775360
+genesis-fee: 1150
+genesis-transaction: 640aa3d1961ed9d930b864fc5a6a25671c017103421c1f5cdd10f80218dbc909
+location: 640aa3d1961ed9d930b864fc5a6a25671c017103421c1f5cdd10f80218dbc909:0:0
+output: 640aa3d1961ed9d930b864fc5a6a25671c017103421c1f5cdd10f80218dbc909:0
+offset: 0

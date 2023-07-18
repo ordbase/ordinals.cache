@@ -1,0 +1,14 @@
+title: Inscription 10274858
+id: db77409aac336e18e443f936c3030a9f7a473e71acd297d49359be01d8448cc2i0
+address: bc1p32thfxlsd8mw7m5ajz52s0n33l8adswfpjnqcruw3k0q384nz2ssyslrhj
+output-value: 546
+sat: 1937530922240288
+content-length: 55 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 08:27:58 UTC
+genesis-height: 792222
+genesis-fee: 6885
+genesis-transaction: db77409aac336e18e443f936c3030a9f7a473e71acd297d49359be01d8448cc2
+location: db77409aac336e18e443f936c3030a9f7a473e71acd297d49359be01d8448cc2:0:0
+output: db77409aac336e18e443f936c3030a9f7a473e71acd297d49359be01d8448cc2:0
+offset: 0

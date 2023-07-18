@@ -1,0 +1,14 @@
+title: Inscription 608
+id: ec7ad2d1f1a80fba49cd967235221c2978470de0e7dffe3634c564c51288fc16i0
+address: bc1puv3eg0rj5c6ny4q63k6spa0jy2panwt0hul2e94nwhm4nq5m3ktqnnc787
+output-value: 6115
+sat: 1888769432874139
+content-length: 445 bytes
+content-type: image/png
+timestamp: 2023-02-01 17:59:12 UTC
+genesis-height: 774607
+genesis-fee: 4920
+genesis-transaction: ec7ad2d1f1a80fba49cd967235221c2978470de0e7dffe3634c564c51288fc16
+location: 662c98ea2b7249ccaa0f2a101523a0ed96659038332bd3b31a6d7ba5a5472bf6:0:0
+output: 662c98ea2b7249ccaa0f2a101523a0ed96659038332bd3b31a6d7ba5a5472bf6:0
+offset: 0

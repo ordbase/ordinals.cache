@@ -1,0 +1,14 @@
+title: Inscription 10377290
+id: 49f0416ded2a3cbbefc743aa166df3e35077aacf821d4740119062dc8a62b39ci0
+address: bc1qy84tmf4ym2gw80v0qyryjnsqxl6uj0nf4af3rw
+output-value: 546
+sat: 1923060854474827
+content-length: 67 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-06-01 06:48:11 UTC
+genesis-height: 792345
+genesis-fee: 4752
+genesis-transaction: 49f0416ded2a3cbbefc743aa166df3e35077aacf821d4740119062dc8a62b39c
+location: 49f0416ded2a3cbbefc743aa166df3e35077aacf821d4740119062dc8a62b39c:0:0
+output: 49f0416ded2a3cbbefc743aa166df3e35077aacf821d4740119062dc8a62b39c:0
+offset: 0

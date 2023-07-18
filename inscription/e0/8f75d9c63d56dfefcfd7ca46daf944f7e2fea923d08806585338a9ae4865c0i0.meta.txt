@@ -1,0 +1,14 @@
+title: Inscription 10020386
+id: e08f75d9c63d56dfefcfd7ca46daf944f7e2fea923d08806585338a9ae4865c0i0
+address: bc1pxyuj3mgh0y43pfxy9eh83csu4lv4gmfju4wvc53s3r2vafxuwvxqa5r2py
+output-value: 546
+sat: 1882360202947561
+content-length: 62 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-30 00:06:07 UTC
+genesis-height: 792022
+genesis-fee: 6200
+genesis-transaction: e08f75d9c63d56dfefcfd7ca46daf944f7e2fea923d08806585338a9ae4865c0
+location: e08f75d9c63d56dfefcfd7ca46daf944f7e2fea923d08806585338a9ae4865c0:0:0
+output: e08f75d9c63d56dfefcfd7ca46daf944f7e2fea923d08806585338a9ae4865c0:0
+offset: 0

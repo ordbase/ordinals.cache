@@ -1,0 +1,14 @@
+title: Inscription 6475
+id: ef3fd6be36bcdc6ab10c34fc85897ae2b012435eed565b95c2839c6b622252b5i0
+address: bc1pna3vzk3ffx8ed3xy8ffla2c75smvr5pgmc456mwt368425cekzpqg63usa
+output-value: 10000
+sat: 1741337419983466
+content-length: 415 bytes
+content-type: image/png
+timestamp: 2023-02-06 11:08:33 UTC
+genesis-height: 775279
+genesis-fee: 1195
+genesis-transaction: ef3fd6be36bcdc6ab10c34fc85897ae2b012435eed565b95c2839c6b622252b5
+location: ef3fd6be36bcdc6ab10c34fc85897ae2b012435eed565b95c2839c6b622252b5:0:0
+output: ef3fd6be36bcdc6ab10c34fc85897ae2b012435eed565b95c2839c6b622252b5:0
+offset: 0

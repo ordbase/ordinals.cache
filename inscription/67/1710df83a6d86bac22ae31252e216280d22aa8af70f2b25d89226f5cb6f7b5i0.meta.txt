@@ -1,0 +1,14 @@
+title: Inscription 15004453
+id: 671710df83a6d86bac22ae31252e216280d22aa8af70f2b25d89226f5cb6f7b5i0
+address: bc1pz7xl7vnekj5v8t87chlru8v3yn4luatcv3kszmutkckne0jxpvxs4nc5uy
+output-value: 546
+sat: 1579868056480026
+content-length: 4096 bytes
+content-type: image/png
+timestamp: 2023-07-07 00:10:25 UTC
+genesis-height: 797509
+genesis-fee: 5830
+genesis-transaction: 671710df83a6d86bac22ae31252e216280d22aa8af70f2b25d89226f5cb6f7b5
+location: 671710df83a6d86bac22ae31252e216280d22aa8af70f2b25d89226f5cb6f7b5:0:0
+output: 671710df83a6d86bac22ae31252e216280d22aa8af70f2b25d89226f5cb6f7b5:0
+offset: 0

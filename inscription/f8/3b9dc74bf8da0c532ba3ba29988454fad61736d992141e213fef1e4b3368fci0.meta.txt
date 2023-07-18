@@ -1,0 +1,14 @@
+title: Inscription 10292770
+id: f83b9dc74bf8da0c532ba3ba29988454fad61736d992141e213fef1e4b3368fci0
+address: bc1p9le78n3q3l2k4469pelzx27n4hchkwen5kneps22u3juqe8shuysd2z4ll
+output-value: 546
+sat: 1838612588274668
+content-length: 65 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 10:55:08 UTC
+genesis-height: 792240
+genesis-fee: 7644
+genesis-transaction: f83b9dc74bf8da0c532ba3ba29988454fad61736d992141e213fef1e4b3368fc
+location: f83b9dc74bf8da0c532ba3ba29988454fad61736d992141e213fef1e4b3368fc:0:0
+output: f83b9dc74bf8da0c532ba3ba29988454fad61736d992141e213fef1e4b3368fc:0
+offset: 0

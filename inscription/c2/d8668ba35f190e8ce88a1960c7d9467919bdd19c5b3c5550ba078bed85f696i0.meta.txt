@@ -1,0 +1,14 @@
+title: Inscription 9996023
+id: c2d8668ba35f190e8ce88a1960c7d9467919bdd19c5b3c5550ba078bed85f696i0
+address: bc1ph57je0rr503u4agf294aa384vctqqp0dhvs93630f2wxgvlwx5ws8as8zt
+output-value: 546
+sat: 687447341102222
+content-length: 76 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-29 22:57:50 UTC
+genesis-height: 792011
+genesis-fee: 10640
+genesis-transaction: c2d8668ba35f190e8ce88a1960c7d9467919bdd19c5b3c5550ba078bed85f696
+location: c2d8668ba35f190e8ce88a1960c7d9467919bdd19c5b3c5550ba078bed85f696:0:0
+output: c2d8668ba35f190e8ce88a1960c7d9467919bdd19c5b3c5550ba078bed85f696:0
+offset: 0

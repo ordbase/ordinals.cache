@@ -1,0 +1,14 @@
+title: Inscription 9963030
+id: 40a68c579b80ef154acedcca618dce86327fc098d8364c5b9c7c6243747ca378i0
+address: bc1pfdewv88c0kv8qn9d07znplh9cx0qhnmnqpjfatf3td04psqewvrsda97ck
+output-value: 546
+sat: 1180565778247190
+content-length: 63 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-29 18:09:37 UTC
+genesis-height: 791982
+genesis-fee: 7800
+genesis-transaction: 40a68c579b80ef154acedcca618dce86327fc098d8364c5b9c7c6243747ca378
+location: 40a68c579b80ef154acedcca618dce86327fc098d8364c5b9c7c6243747ca378:0:0
+output: 40a68c579b80ef154acedcca618dce86327fc098d8364c5b9c7c6243747ca378:0
+offset: 0

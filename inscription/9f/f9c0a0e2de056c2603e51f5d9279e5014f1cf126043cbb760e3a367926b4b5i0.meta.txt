@@ -1,0 +1,14 @@
+title: Inscription 8525
+id: 9ff9c0a0e2de056c2603e51f5d9279e5014f1cf126043cbb760e3a367926b4b5i0
+address: bc1pyms9h3fgf5np9shvc5xkwhx9y7x0v8wykqusaagvxrez2rrtvpdqa92yer
+output-value: 10000
+sat: 1053041540845400
+content-length: 480 bytes
+content-type: image/png
+timestamp: 2023-02-06 22:41:25 UTC
+genesis-height: 775359
+genesis-fee: 1530
+genesis-transaction: 9ff9c0a0e2de056c2603e51f5d9279e5014f1cf126043cbb760e3a367926b4b5
+location: 9ff9c0a0e2de056c2603e51f5d9279e5014f1cf126043cbb760e3a367926b4b5:0:0
+output: 9ff9c0a0e2de056c2603e51f5d9279e5014f1cf126043cbb760e3a367926b4b5:0
+offset: 0

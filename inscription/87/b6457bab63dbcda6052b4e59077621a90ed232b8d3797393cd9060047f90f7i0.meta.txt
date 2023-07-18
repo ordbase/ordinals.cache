@@ -1,0 +1,14 @@
+title: Inscription 58235
+id: 87b6457bab63dbcda6052b4e59077621a90ed232b8d3797393cd9060047f90f7i0
+address: bc1pkr9nhgptgqfqtfqmmpughvk30ptg2x0xrvgeefnjfeq64cthyzns9rv7ps
+output-value: 10000
+sat: 1532884310773406
+content-length: 296 bytes
+content-type: image/png
+timestamp: 2023-02-11 20:51:09 UTC
+genesis-height: 776083
+genesis-fee: 8360
+genesis-transaction: 87b6457bab63dbcda6052b4e59077621a90ed232b8d3797393cd9060047f90f7
+location: 87b6457bab63dbcda6052b4e59077621a90ed232b8d3797393cd9060047f90f7:0:0
+output: 87b6457bab63dbcda6052b4e59077621a90ed232b8d3797393cd9060047f90f7:0
+offset: 0

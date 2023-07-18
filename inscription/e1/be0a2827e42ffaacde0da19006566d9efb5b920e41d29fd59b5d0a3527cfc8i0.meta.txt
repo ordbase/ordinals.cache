@@ -1,0 +1,14 @@
+title: Inscription 10339670
+id: e1be0a2827e42ffaacde0da19006566d9efb5b920e41d29fd59b5d0a3527cfc8i0
+address: bc1pe2w7dypzquqtn8qcgm05v7pjjgnne3z3n6t743myxr87073hzahqnug67x
+output-value: 546
+sat: 1905798461593971
+content-length: 225 bytes
+content-type: text/plain;charset=utf-8
+timestamp: 2023-05-31 19:16:52 UTC
+genesis-height: 792293
+genesis-fee: 18240
+genesis-transaction: e1be0a2827e42ffaacde0da19006566d9efb5b920e41d29fd59b5d0a3527cfc8
+location: e1be0a2827e42ffaacde0da19006566d9efb5b920e41d29fd59b5d0a3527cfc8:0:0
+output: e1be0a2827e42ffaacde0da19006566d9efb5b920e41d29fd59b5d0a3527cfc8:0
+offset: 0
