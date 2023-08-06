@@ -1,0 +1,8 @@
+## note: for sha256 or md5 hash calculations
+#          make sure to keep (plain) text as is 1:1
+#        do NOT auto convert cr(carriage return)+lf(linefeed) 
+#           to lf or such!!!
+#  for text files such as *.txt or *.json!!!!
+
+core.autocrlf = false
+
